@@ -1,0 +1,13 @@
+{
+    "custom": true, 
+    "effect_keep": false, 
+    "effect_max_life": 0.6500000242999999, 
+    "effect_path": "Fx_Effect/DM2/Fx_Common/Hit/Hit_DM2_jianci_a0001_copy", 
+    "is_beam_effect": false, 
+    "meshes": {
+        "__tuple__": true, 
+        "items": []
+    }, 
+    "model_id": 134270676, 
+    "name": "\u5175\u866b\u653b\u51fb\u53d7\u51fb\u7279\u6548"
+}

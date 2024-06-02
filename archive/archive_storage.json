@@ -1,0 +1,28 @@
+{
+    "洛林西瓜": {
+        "role_id": 1, 
+        "archive": {
+            "1": {
+                "data_type": 4, 
+                "data_value": "{\n[3]={\n[\"id\"]=3,\n[\"isCompleted\"]=false,\n[\"isLocked\"]=false,\n},\n[1]={\n[\"id\"]=1,\n[\"isCompleted\"]=true,\n[\"isLocked\"]=false,\n},\n[2]={\n[\"id\"]=2,\n[\"isCompleted\"]=true,\n[\"isLocked\"]=false,\n},\n[4]={\n[\"id\"]=4,\n[\"isCompleted\"]=false,\n[\"isLocked\"]=true,\n},\n}"
+            }, 
+            "2": {
+                "data_type": 4, 
+                "data_value": "{\n[1]={\n[\"id\"]=1,\n[\"skill\"]=1,\n[\"cost\"]=4,\n[\"isHave\"]=false,\n},\n[2]={\n[\"id\"]=2,\n[\"skill\"]=2,\n[\"cost\"]=4,\n[\"isHave\"]=true,\n},\n[3]={\n[\"id\"]=3,\n[\"skill\"]=3,\n[\"cost\"]=3,\n[\"isHave\"]=true,\n},\n[4]={\n[\"id\"]=4,\n[\"skill\"]=4,\n[\"cost\"]=2,\n[\"isHave\"]=true,\n},\n[5]={\n[\"id\"]=5,\n[\"skill\"]=5,\n[\"cost\"]=5,\n[\"isHave\"]=false,\n},\n[6]={\n[\"id\"]=6,\n[\"skill\"]=6,\n[\"cost\"]=2,\n[\"isHave\"]=true,\n},\n[7]={\n[\"id\"]=7,\n[\"skill\"]=7,\n[\"cost\"]=2,\n[\"isHave\"]=true,\n},\n[8]={\n[\"id\"]=8,\n[\"skill\"]=8,\n[\"cost\"]=2,\n[\"isHave\"]=true,\n},\n[9]={\n[\"id\"]=9,\n[\"skill\"]=9,\n[\"cost\"]=5,\n[\"isHave\"]=false,\n},\n[10]={\n[\"id\"]=10,\n[\"skill\"]=10,\n[\"cost\"]=3,\n[\"isHave\"]=true,\n},\n}"
+            }, 
+            "3": {
+                "data_type": 4, 
+                "data_value": "{\n[1002]={\n[\"id\"]=1002,\n[\"skill6\"]=2,\n[\"skill3\"]=6,\n[\"skill2\"]=4,\n[\"skill5\"]=8,\n[\"hero\"]=1002,\n[\"skill4\"]=7,\n[\"skill999\"]=100201,\n[\"skill0\"]=1000,\n[\"skill1\"]=3,\n},\n[1003]={\n[\"id\"]=1003,\n[\"skill6\"]=2,\n[\"skill3\"]=6,\n[\"skill2\"]=4,\n[\"skill5\"]=8,\n[\"hero\"]=1003,\n[\"skill4\"]=7,\n[\"skill999\"]=100301,\n[\"skill0\"]=1000,\n[\"skill1\"]=3,\n},\n[1001]={\n[\"id\"]=1001,\n[\"skill6\"]=2,\n[\"skill3\"]=6,\n[\"skill2\"]=4,\n[\"skill5\"]=8,\n[\"hero\"]=1001,\n[\"skill4\"]=7,\n[\"skill999\"]=100101,\n[\"skill0\"]=1000,\n[\"skill1\"]=3,\n},\n}"
+            }, 
+            "4": {
+                "data_type": 2, 
+                "data_value": 1001
+            }, 
+            "5": {
+                "data_type": 4, 
+                "data_value": "{\n[15]={\n[\"id\"]=15,\n[\"isShowed\"]=false,\n},\n[1]={\n[\"id\"]=1,\n[\"isShowed\"]=true,\n},\n[2]={\n[\"id\"]=2,\n[\"isShowed\"]=true,\n},\n[3]={\n[\"id\"]=3,\n[\"isShowed\"]=true,\n},\n[4]={\n[\"id\"]=4,\n[\"isShowed\"]=true,\n},\n[5]={\n[\"id\"]=5,\n[\"isShowed\"]=true,\n},\n[6]={\n[\"id\"]=6,\n[\"isShowed\"]=true,\n},\n[7]={\n[\"id\"]=7,\n[\"isShowed\"]=true,\n},\n[8]={\n[\"id\"]=8,\n[\"isShowed\"]=true,\n},\n[9]={\n[\"id\"]=9,\n[\"isShowed\"]=false,\n},\n[10]={\n[\"id\"]=10,\n[\"isShowed\"]=false,\n},\n[11]={\n[\"id\"]=11,\n[\"isShowed\"]=false,\n},\n[12]={\n[\"id\"]=12,\n[\"isShowed\"]=false,\n},\n[13]={\n[\"id\"]=13,\n[\"isShowed\"]=false,\n},\n[14]={\n[\"id\"]=14,\n[\"isShowed\"]=false,\n},\n[16]={\n[\"id\"]=16,\n[\"isShowed\"]=false,\n},\n}"
+            }
+        }, 
+        "platform_prop": {}
+    }
+}

@@ -1,0 +1,1291 @@
+{
+    "adapt_mode": 1, 
+    "anim_data": {}, 
+    "children": [
+        {
+            "children": [
+                {
+                    "cap_insets": {
+                        "__tuple__": true, 
+                        "items": [
+                            340.0, 
+                            204.0, 
+                            340.0, 
+                            204.0
+                        ]
+                    }, 
+                    "children": [], 
+                    "color": [
+                        255, 
+                        255, 
+                        255, 
+                        254
+                    ], 
+                    "event_list": [], 
+                    "image": 131194, 
+                    "name": "pic", 
+                    "pos": {
+                        "__tuple__": true, 
+                        "items": [
+                            960.0, 
+                            540.0
+                        ]
+                    }, 
+                    "prefab_sub_key": null, 
+                    "scene_ui_name": null, 
+                    "size": {
+                        "__tuple__": true, 
+                        "items": [
+                            1920.0, 
+                            1080.0
+                        ]
+                    }, 
+                    "type": 4, 
+                    "uid": "ad5ecdda-f455-4e14-a836-e4482c413f56"
+                }
+            ], 
+            "event_list": [], 
+            "name": "bg", 
+            "pos": {
+                "__tuple__": true, 
+                "items": [
+                    960.0, 
+                    540.0
+                ]
+            }, 
+            "prefab_sub_key": null, 
+            "scene_ui_name": null, 
+            "size": {
+                "__tuple__": true, 
+                "items": [
+                    1920.0, 
+                    1080.0
+                ]
+            }, 
+            "type": 7, 
+            "uid": "debaa989-0174-4e51-b65b-fc55c1478f37"
+        }, 
+        {
+            "children": [
+                {
+                    "children": [], 
+                    "event_list": [
+                        {
+                            "action_list": [
+                                {
+                                    "anim_duration": 1.0, 
+                                    "anim_id": null, 
+                                    "anim_type": 0, 
+                                    "comp": "c5c09f12-f3d7-4b57-a18e-ceff75a73d80", 
+                                    "ease_type": 0, 
+                                    "name": "Show_3", 
+                                    "open_timeline": true, 
+                                    "type": 2
+                                }, 
+                                {
+                                    "anim_duration": 1.0, 
+                                    "anim_id": null, 
+                                    "anim_type": 0, 
+                                    "comp": "df59da22-89bb-434b-8cf4-26378cc53e21", 
+                                    "ease_type": 0, 
+                                    "name": "Hide_3", 
+                                    "open_timeline": true, 
+                                    "type": 3
+                                }
+                            ], 
+                            "enabled": true, 
+                            "name": "back_to_main", 
+                            "sound_id": null, 
+                            "type": 30
+                        }
+                    ], 
+                    "hover_status_added": true, 
+                    "name": "back_to_main", 
+                    "normal_picture": 108469, 
+                    "pos": {
+                        "__tuple__": true, 
+                        "items": [
+                            100.0, 
+                            980.0
+                        ]
+                    }, 
+                    "pos_percent": {
+                        "__tuple__": true, 
+                        "items": [
+                            5.2083, 
+                            90.7407
+                        ]
+                    }, 
+                    "prefab_sub_key": null, 
+                    "scene_ui_name": null, 
+                    "size": {
+                        "__tuple__": true, 
+                        "items": [
+                            100.0, 
+                            100.0
+                        ]
+                    }, 
+                    "suspend_picture": 108470, 
+                    "type": 1, 
+                    "uid": "88cd94d6-8792-43ac-9f08-b4d3e757b91f"
+                }, 
+                {
+                    "children": [], 
+                    "event_list": [
+                        {
+                            "action_list": [
+                                {
+                                    "anim_duration": 1.0, 
+                                    "anim_id": null, 
+                                    "anim_type": 0, 
+                                    "comp": "cad3d121-0c01-4188-8809-d1e2dd52c761", 
+                                    "ease_type": 0, 
+                                    "name": "Show_4", 
+                                    "open_timeline": true, 
+                                    "type": 2
+                                }, 
+                                {
+                                    "anim_duration": 1.0, 
+                                    "anim_id": null, 
+                                    "anim_type": 0, 
+                                    "comp": "df59da22-89bb-434b-8cf4-26378cc53e21", 
+                                    "ease_type": 0, 
+                                    "name": "Hide_4", 
+                                    "open_timeline": true, 
+                                    "type": 3
+                                }
+                            ], 
+                            "enabled": true, 
+                            "name": "go_to_group", 
+                            "sound_id": null, 
+                            "type": 30
+                        }
+                    ], 
+                    "font": {
+                        "__tuple__": true, 
+                        "items": [
+                            "134228746", 
+                            60
+                        ]
+                    }, 
+                    "hover_status_added": true, 
+                    "name": "go_to_group", 
+                    "normal_font_color": [
+                        151, 
+                        77, 
+                        38, 
+                        255
+                    ], 
+                    "normal_picture": 108494, 
+                    "normal_text": {
+                        "__tuple__": true, 
+                        "items": [
+                            "\u961f\u4f0d\u914d\u7f6e", 
+                            false
+                        ]
+                    }, 
+                    "pos": {
+                        "__tuple__": true, 
+                        "items": [
+                            225.0, 
+                            75.0
+                        ]
+                    }, 
+                    "pos_percent": {
+                        "__tuple__": true, 
+                        "items": [
+                            11.7188, 
+                            6.9444
+                        ]
+                    }, 
+                    "prefab_sub_key": null, 
+                    "scene_ui_name": null, 
+                    "size": {
+                        "__tuple__": true, 
+                        "items": [
+                            450.0, 
+                            150.0
+                        ]
+                    }, 
+                    "suspend_font_color": [
+                        151, 
+                        77, 
+                        38, 
+                        255
+                    ], 
+                    "suspend_picture": 108493, 
+                    "suspend_text": {
+                        "__tuple__": true, 
+                        "items": [
+                            "\u961f\u4f0d\u914d\u7f6e", 
+                            false
+                        ]
+                    }, 
+                    "type": 1, 
+                    "uid": "a20e5f97-d669-493d-a217-920f67fd9785"
+                }, 
+                {
+                    "children": [], 
+                    "event_list": [
+                        {
+                            "action_list": [
+                                {
+                                    "anim_duration": 1.0, 
+                                    "anim_id": null, 
+                                    "anim_type": 0, 
+                                    "comp": "8205bc33-a198-461b-8050-29e863a6904f", 
+                                    "ease_type": 0, 
+                                    "name": "Show_18", 
+                                    "open_timeline": true, 
+                                    "type": 2
+                                }, 
+                                {
+                                    "anim_duration": 1.0, 
+                                    "anim_id": null, 
+                                    "anim_type": 0, 
+                                    "comp": "df59da22-89bb-434b-8cf4-26378cc53e21", 
+                                    "ease_type": 0, 
+                                    "name": "Hide_32", 
+                                    "open_timeline": true, 
+                                    "type": 3
+                                }
+                            ], 
+                            "enabled": true, 
+                            "name": "go_to_str", 
+                            "sound_id": null, 
+                            "type": 30
+                        }
+                    ], 
+                    "font": {
+                        "__tuple__": true, 
+                        "items": [
+                            "134228746", 
+                            60
+                        ]
+                    }, 
+                    "hover_status_added": true, 
+                    "name": "go_to_str", 
+                    "normal_font_color": [
+                        151, 
+                        77, 
+                        38, 
+                        255
+                    ], 
+                    "normal_picture": 108494, 
+                    "normal_text": {
+                        "__tuple__": true, 
+                        "items": [
+                            "\u5355\u4f4d\u517b\u6210", 
+                            false
+                        ]
+                    }, 
+                    "pos": {
+                        "__tuple__": true, 
+                        "items": [
+                            675.0, 
+                            75.0
+                        ]
+                    }, 
+                    "pos_percent": {
+                        "__tuple__": true, 
+                        "items": [
+                            35.1563, 
+                            6.9444
+                        ]
+                    }, 
+                    "prefab_sub_key": null, 
+                    "scene_ui_name": null, 
+                    "size": {
+                        "__tuple__": true, 
+                        "items": [
+                            450.0, 
+                            150.0
+                        ]
+                    }, 
+                    "suspend_font_color": [
+                        151, 
+                        77, 
+                        38, 
+                        255
+                    ], 
+                    "suspend_picture": 108493, 
+                    "suspend_text": {
+                        "__tuple__": true, 
+                        "items": [
+                            "\u5355\u4f4d\u517b\u6210", 
+                            false
+                        ]
+                    }, 
+                    "type": 1, 
+                    "uid": "64b5dda9-07b8-49f3-ae95-e85b15233b4c"
+                }, 
+                {
+                    "children": [], 
+                    "event_list": [
+                        {
+                            "action_list": [
+                                {
+                                    "anim_duration": 1.0, 
+                                    "anim_id": null, 
+                                    "anim_type": 0, 
+                                    "comp": "f723d0e6-caf7-495a-ab8b-606e78267473", 
+                                    "ease_type": 0, 
+                                    "name": "Show_19", 
+                                    "open_timeline": true, 
+                                    "type": 2
+                                }, 
+                                {
+                                    "anim_duration": 1.0, 
+                                    "anim_id": null, 
+                                    "anim_type": 0, 
+                                    "comp": "df59da22-89bb-434b-8cf4-26378cc53e21", 
+                                    "ease_type": 0, 
+                                    "name": "Hide_33", 
+                                    "open_timeline": true, 
+                                    "type": 3
+                                }
+                            ], 
+                            "enabled": true, 
+                            "name": "go_to_shop", 
+                            "sound_id": null, 
+                            "type": 30
+                        }
+                    ], 
+                    "font": {
+                        "__tuple__": true, 
+                        "items": [
+                            "134228746", 
+                            60
+                        ]
+                    }, 
+                    "hover_status_added": true, 
+                    "name": "go_to_shop", 
+                    "normal_font_color": [
+                        151, 
+                        77, 
+                        38, 
+                        255
+                    ], 
+                    "normal_picture": 108494, 
+                    "normal_text": {
+                        "__tuple__": true, 
+                        "items": [
+                            "\u5546\u5e97", 
+                            false
+                        ]
+                    }, 
+                    "pos": {
+                        "__tuple__": true, 
+                        "items": [
+                            1125.0, 
+                            75.0
+                        ]
+                    }, 
+                    "pos_percent": {
+                        "__tuple__": true, 
+                        "items": [
+                            58.5938, 
+                            6.9444
+                        ]
+                    }, 
+                    "prefab_sub_key": null, 
+                    "scene_ui_name": null, 
+                    "size": {
+                        "__tuple__": true, 
+                        "items": [
+                            450.0, 
+                            150.0
+                        ]
+                    }, 
+                    "suspend_font_color": [
+                        151, 
+                        77, 
+                        38, 
+                        255
+                    ], 
+                    "suspend_picture": 108493, 
+                    "suspend_text": {
+                        "__tuple__": true, 
+                        "items": [
+                            "\u5546\u5e97", 
+                            false
+                        ]
+                    }, 
+                    "type": 1, 
+                    "uid": "ca826be2-39ba-4e24-988a-f87c3675fbfa"
+                }
+            ], 
+            "event_list": [], 
+            "name": "ctrl", 
+            "pos": {
+                "__tuple__": true, 
+                "items": [
+                    960.0, 
+                    540.0
+                ]
+            }, 
+            "prefab_sub_key": null, 
+            "scene_ui_name": null, 
+            "size": {
+                "__tuple__": true, 
+                "items": [
+                    1920.0, 
+                    1080.0
+                ]
+            }, 
+            "type": 7, 
+            "uid": "12f38464-7e44-4464-91db-da4c689404b4"
+        }, 
+        {
+            "children": [
+                {
+                    "children": [
+                        {
+                            "children": [], 
+                            "event_list": [], 
+                            "hover_status_added": true, 
+                            "name": "unlocked", 
+                            "normal_picture": 131931, 
+                            "pos": {
+                                "__tuple__": true, 
+                                "items": [
+                                    100.0, 
+                                    100.0
+                                ]
+                            }, 
+                            "prefab_sub_key": null, 
+                            "scene_ui_name": null, 
+                            "size": {
+                                "__tuple__": true, 
+                                "items": [
+                                    200.0, 
+                                    200.0
+                                ]
+                            }, 
+                            "suspend_picture": 131932, 
+                            "type": 1, 
+                            "uid": "24afe0ed-ed56-4990-92ed-0b4256d7a91c"
+                        }, 
+                        {
+                            "cap_insets": {
+                                "__tuple__": true, 
+                                "items": [
+                                    89.0, 
+                                    92.0, 
+                                    89.0, 
+                                    92.0
+                                ]
+                            }, 
+                            "children": [], 
+                            "event_list": [], 
+                            "image": 131933, 
+                            "name": "locked", 
+                            "pos": {
+                                "__tuple__": true, 
+                                "items": [
+                                    100.0, 
+                                    100.0
+                                ]
+                            }, 
+                            "prefab_sub_key": null, 
+                            "scene_ui_name": null, 
+                            "size": {
+                                "__tuple__": true, 
+                                "items": [
+                                    200.0, 
+                                    200.0
+                                ]
+                            }, 
+                            "type": 4, 
+                            "uid": "05e03732-a16e-4329-a053-4d447943e5e4"
+                        }, 
+                        {
+                            "cap_insets": {
+                                "__tuple__": true, 
+                                "items": [
+                                    45.0, 
+                                    41.0, 
+                                    45.0, 
+                                    41.0
+                                ]
+                            }, 
+                            "children": [], 
+                            "event_list": [], 
+                            "image": 131766, 
+                            "name": "completed", 
+                            "pos": {
+                                "__tuple__": true, 
+                                "items": [
+                                    100.0, 
+                                    100.0
+                                ]
+                            }, 
+                            "prefab_sub_key": null, 
+                            "scene_ui_name": null, 
+                            "size": {
+                                "__tuple__": true, 
+                                "items": [
+                                    150.0, 
+                                    150.0
+                                ]
+                            }, 
+                            "type": 4, 
+                            "uid": "f341517c-e55f-4018-a449-f54f0338d363"
+                        }
+                    ], 
+                    "event_list": [
+                        {
+                            "action_list": [
+                                {
+                                    "anim_duration": 1.0, 
+                                    "anim_id": null, 
+                                    "anim_type": 0, 
+                                    "comp": "a5d8612b-a5f5-4da4-864d-a91c9f7ce3d0", 
+                                    "ease_type": 0, 
+                                    "name": "Show_7", 
+                                    "open_timeline": true, 
+                                    "type": 2
+                                }
+                            ], 
+                            "enabled": true, 
+                            "name": "stage1_0", 
+                            "sound_id": null, 
+                            "type": -1
+                        }
+                    ], 
+                    "name": "stage1", 
+                    "normal_color": {
+                        "__tuple__": true, 
+                        "items": [
+                            255, 
+                            255, 
+                            255, 
+                            0
+                        ]
+                    }, 
+                    "pos": {
+                        "__tuple__": true, 
+                        "items": [
+                            494.0, 
+                            942.0
+                        ]
+                    }, 
+                    "pos_percent": {
+                        "__tuple__": true, 
+                        "items": [
+                            25.7292, 
+                            87.2222
+                        ]
+                    }, 
+                    "prefab_sub_key": null, 
+                    "scene_ui_name": null, 
+                    "size": {
+                        "__tuple__": true, 
+                        "items": [
+                            200.0, 
+                            200.0
+                        ]
+                    }, 
+                    "type": 1, 
+                    "uid": "a5d8612b-a5f5-4da4-864d-a91c9f7ce3d0"
+                }, 
+                {
+                    "children": [
+                        {
+                            "children": [], 
+                            "event_list": [], 
+                            "hover_status_added": true, 
+                            "name": "unlocked", 
+                            "normal_picture": 131931, 
+                            "pos": {
+                                "__tuple__": true, 
+                                "items": [
+                                    100.0, 
+                                    100.0
+                                ]
+                            }, 
+                            "prefab_sub_key": null, 
+                            "scene_ui_name": null, 
+                            "size": {
+                                "__tuple__": true, 
+                                "items": [
+                                    200.0, 
+                                    200.0
+                                ]
+                            }, 
+                            "suspend_picture": 131932, 
+                            "type": 1, 
+                            "uid": "1548ad5f-07dd-4e28-a1d0-3b58aee266a9"
+                        }, 
+                        {
+                            "cap_insets": {
+                                "__tuple__": true, 
+                                "items": [
+                                    89.0, 
+                                    92.0, 
+                                    89.0, 
+                                    92.0
+                                ]
+                            }, 
+                            "children": [], 
+                            "event_list": [], 
+                            "image": 131933, 
+                            "name": "locked", 
+                            "pos": {
+                                "__tuple__": true, 
+                                "items": [
+                                    100.0, 
+                                    100.0
+                                ]
+                            }, 
+                            "prefab_sub_key": null, 
+                            "scene_ui_name": null, 
+                            "size": {
+                                "__tuple__": true, 
+                                "items": [
+                                    200.0, 
+                                    200.0
+                                ]
+                            }, 
+                            "type": 4, 
+                            "uid": "9bab20f8-8cc1-45f0-bcb0-4096616f4333"
+                        }, 
+                        {
+                            "cap_insets": {
+                                "__tuple__": true, 
+                                "items": [
+                                    45.0, 
+                                    41.0, 
+                                    45.0, 
+                                    41.0
+                                ]
+                            }, 
+                            "children": [], 
+                            "event_list": [], 
+                            "image": 131766, 
+                            "name": "completed", 
+                            "pos": {
+                                "__tuple__": true, 
+                                "items": [
+                                    100.0, 
+                                    100.0
+                                ]
+                            }, 
+                            "prefab_sub_key": null, 
+                            "scene_ui_name": null, 
+                            "size": {
+                                "__tuple__": true, 
+                                "items": [
+                                    150.0, 
+                                    150.0
+                                ]
+                            }, 
+                            "type": 4, 
+                            "uid": "188f2e4d-a75b-46b7-a19c-2967289c6114"
+                        }
+                    ], 
+                    "event_list": [], 
+                    "name": "stage2", 
+                    "normal_color": {
+                        "__tuple__": true, 
+                        "items": [
+                            255, 
+                            255, 
+                            255, 
+                            0
+                        ]
+                    }, 
+                    "pos": {
+                        "__tuple__": true, 
+                        "items": [
+                            910.0, 
+                            870.0
+                        ]
+                    }, 
+                    "pos_percent": {
+                        "__tuple__": true, 
+                        "items": [
+                            47.3958, 
+                            80.5556
+                        ]
+                    }, 
+                    "prefab_sub_key": null, 
+                    "scene_ui_name": null, 
+                    "size": {
+                        "__tuple__": true, 
+                        "items": [
+                            200.0, 
+                            200.0
+                        ]
+                    }, 
+                    "type": 1, 
+                    "uid": "a4bd8232-5d7f-41f3-9459-53bcd35a135f"
+                }, 
+                {
+                    "children": [
+                        {
+                            "children": [], 
+                            "event_list": [], 
+                            "hover_status_added": true, 
+                            "name": "unlocked", 
+                            "normal_picture": 131931, 
+                            "pos": {
+                                "__tuple__": true, 
+                                "items": [
+                                    100.0, 
+                                    100.0
+                                ]
+                            }, 
+                            "prefab_sub_key": null, 
+                            "scene_ui_name": null, 
+                            "size": {
+                                "__tuple__": true, 
+                                "items": [
+                                    200.0, 
+                                    200.0
+                                ]
+                            }, 
+                            "suspend_picture": 131932, 
+                            "type": 1, 
+                            "uid": "bbd9a981-daaa-42f8-b2e5-5bbc5f6c061f"
+                        }, 
+                        {
+                            "cap_insets": {
+                                "__tuple__": true, 
+                                "items": [
+                                    89.0, 
+                                    92.0, 
+                                    89.0, 
+                                    92.0
+                                ]
+                            }, 
+                            "children": [], 
+                            "event_list": [], 
+                            "image": 131933, 
+                            "name": "locked", 
+                            "pos": {
+                                "__tuple__": true, 
+                                "items": [
+                                    100.0, 
+                                    100.0
+                                ]
+                            }, 
+                            "prefab_sub_key": null, 
+                            "scene_ui_name": null, 
+                            "size": {
+                                "__tuple__": true, 
+                                "items": [
+                                    200.0, 
+                                    200.0
+                                ]
+                            }, 
+                            "type": 4, 
+                            "uid": "a971c8f5-542a-4725-92a9-a68cb2ad9add"
+                        }, 
+                        {
+                            "cap_insets": {
+                                "__tuple__": true, 
+                                "items": [
+                                    45.0, 
+                                    41.0, 
+                                    45.0, 
+                                    41.0
+                                ]
+                            }, 
+                            "children": [], 
+                            "event_list": [], 
+                            "image": 131766, 
+                            "name": "completed", 
+                            "pos": {
+                                "__tuple__": true, 
+                                "items": [
+                                    100.0, 
+                                    100.0
+                                ]
+                            }, 
+                            "prefab_sub_key": null, 
+                            "scene_ui_name": null, 
+                            "size": {
+                                "__tuple__": true, 
+                                "items": [
+                                    150.0, 
+                                    150.0
+                                ]
+                            }, 
+                            "type": 4, 
+                            "uid": "115bba03-8ded-40ca-be5c-e92131d3ab9b"
+                        }
+                    ], 
+                    "event_list": [], 
+                    "name": "stage3", 
+                    "normal_color": {
+                        "__tuple__": true, 
+                        "items": [
+                            255, 
+                            255, 
+                            255, 
+                            0
+                        ]
+                    }, 
+                    "pos": {
+                        "__tuple__": true, 
+                        "items": [
+                            1187.0, 
+                            630.0
+                        ]
+                    }, 
+                    "pos_percent": {
+                        "__tuple__": true, 
+                        "items": [
+                            61.8229, 
+                            58.3333
+                        ]
+                    }, 
+                    "prefab_sub_key": null, 
+                    "scene_ui_name": null, 
+                    "size": {
+                        "__tuple__": true, 
+                        "items": [
+                            200.0, 
+                            200.0
+                        ]
+                    }, 
+                    "type": 1, 
+                    "uid": "24d6493c-c23e-46c6-b2f3-384891fe64d9"
+                }, 
+                {
+                    "children": [
+                        {
+                            "children": [], 
+                            "event_list": [], 
+                            "hover_status_added": true, 
+                            "name": "unlocked", 
+                            "normal_picture": 131931, 
+                            "pos": {
+                                "__tuple__": true, 
+                                "items": [
+                                    100.0, 
+                                    100.0
+                                ]
+                            }, 
+                            "prefab_sub_key": null, 
+                            "scene_ui_name": null, 
+                            "size": {
+                                "__tuple__": true, 
+                                "items": [
+                                    200.0, 
+                                    200.0
+                                ]
+                            }, 
+                            "suspend_picture": 131932, 
+                            "type": 1, 
+                            "uid": "cd76e6e7-09f2-4f5d-8dbb-231b977fe0e7"
+                        }, 
+                        {
+                            "cap_insets": {
+                                "__tuple__": true, 
+                                "items": [
+                                    89.0, 
+                                    92.0, 
+                                    89.0, 
+                                    92.0
+                                ]
+                            }, 
+                            "children": [], 
+                            "event_list": [], 
+                            "image": 131933, 
+                            "name": "locked", 
+                            "pos": {
+                                "__tuple__": true, 
+                                "items": [
+                                    100.0, 
+                                    100.0
+                                ]
+                            }, 
+                            "prefab_sub_key": null, 
+                            "scene_ui_name": null, 
+                            "size": {
+                                "__tuple__": true, 
+                                "items": [
+                                    200.0, 
+                                    200.0
+                                ]
+                            }, 
+                            "type": 4, 
+                            "uid": "04b5e533-1275-4dd0-8d94-4e06fd92b1ac"
+                        }, 
+                        {
+                            "cap_insets": {
+                                "__tuple__": true, 
+                                "items": [
+                                    45.0, 
+                                    41.0, 
+                                    45.0, 
+                                    41.0
+                                ]
+                            }, 
+                            "children": [], 
+                            "event_list": [], 
+                            "image": 131766, 
+                            "name": "completed", 
+                            "pos": {
+                                "__tuple__": true, 
+                                "items": [
+                                    100.0, 
+                                    100.0
+                                ]
+                            }, 
+                            "prefab_sub_key": null, 
+                            "scene_ui_name": null, 
+                            "size": {
+                                "__tuple__": true, 
+                                "items": [
+                                    150.0, 
+                                    150.0
+                                ]
+                            }, 
+                            "type": 4, 
+                            "uid": "e2b70cc1-d193-41f3-9940-37455dd039cc"
+                        }
+                    ], 
+                    "event_list": [], 
+                    "name": "stage4", 
+                    "normal_color": {
+                        "__tuple__": true, 
+                        "items": [
+                            255, 
+                            255, 
+                            255, 
+                            0
+                        ]
+                    }, 
+                    "pos": {
+                        "__tuple__": true, 
+                        "items": [
+                            1479.0, 
+                            556.0
+                        ]
+                    }, 
+                    "pos_percent": {
+                        "__tuple__": true, 
+                        "items": [
+                            77.0313, 
+                            51.4815
+                        ]
+                    }, 
+                    "prefab_sub_key": null, 
+                    "scene_ui_name": null, 
+                    "size": {
+                        "__tuple__": true, 
+                        "items": [
+                            200.0, 
+                            200.0
+                        ]
+                    }, 
+                    "type": 1, 
+                    "uid": "565c6a43-17cb-482e-a35f-3785bad315bc"
+                }
+            ], 
+            "event_list": [], 
+            "name": "stage", 
+            "pos": {
+                "__tuple__": true, 
+                "items": [
+                    960.0, 
+                    540.0
+                ]
+            }, 
+            "prefab_sub_key": null, 
+            "scene_ui_name": null, 
+            "size": {
+                "__tuple__": true, 
+                "items": [
+                    1920.0, 
+                    1080.0
+                ]
+            }, 
+            "type": 7, 
+            "uid": "de5fd284-4691-46c2-b6b5-b75cc344bba1"
+        }, 
+        {
+            "children": [
+                {
+                    "children": [
+                        {
+                            "cap_insets": {
+                                "__tuple__": true, 
+                                "items": [
+                                    110.0, 
+                                    76.0, 
+                                    110.0, 
+                                    76.0
+                                ]
+                            }, 
+                            "children": [], 
+                            "event_list": [], 
+                            "image": 106338, 
+                            "name": "bg", 
+                            "pos": {
+                                "__tuple__": true, 
+                                "items": [
+                                    960.0, 
+                                    600.0
+                                ]
+                            }, 
+                            "pos_percent": {
+                                "__tuple__": true, 
+                                "items": [
+                                    50.0, 
+                                    55.5556
+                                ]
+                            }, 
+                            "prefab_sub_key": null, 
+                            "scene_ui_name": null, 
+                            "size": {
+                                "__tuple__": true, 
+                                "items": [
+                                    1000.0, 
+                                    600.0
+                                ]
+                            }, 
+                            "type": 4, 
+                            "uid": "d4c64553-1214-40e8-9d79-5c3f81cf3007"
+                        }, 
+                        {
+                            "alignment": {
+                                "__tuple__": true, 
+                                "items": [
+                                    1, 
+                                    0
+                                ]
+                            }, 
+                            "children": [], 
+                            "event_list": [], 
+                            "font": {
+                                "__tuple__": true, 
+                                "items": [
+                                    "134228746", 
+                                    50
+                                ]
+                            }, 
+                            "line_space": {
+                                "__tuple__": true, 
+                                "items": [
+                                    10.0, 
+                                    0.0
+                                ]
+                            }, 
+                            "name": "tip", 
+                            "pos": {
+                                "__tuple__": true, 
+                                "items": [
+                                    960.0, 
+                                    600.0
+                                ]
+                            }, 
+                            "pos_percent": {
+                                "__tuple__": true, 
+                                "items": [
+                                    50.0, 
+                                    55.5556
+                                ]
+                            }, 
+                            "prefab_sub_key": null, 
+                            "scene_ui_name": null, 
+                            "size": {
+                                "__tuple__": true, 
+                                "items": [
+                                    800.0, 
+                                    400.0
+                                ]
+                            }, 
+                            "text": {
+                                "__tuple__": true, 
+                                "items": [
+                                    "\u606d\u559c\uff01\uff01\uff01\u4f60\u5df2\u7ecf\u901a\u8fc7\u6559\u5b66\u5173\u5361\uff0c\u5e76\u4e14\u89e3\u9501\u65b0\u4f5c\u6218\u5355\u4f4d\u2014\u2014\u6295\u77f3\u8f66\u3002\u6295\u77f3\u8f66\u53ef\u4ee5\u5728\u9632\u5fa1\u5854\u7684\u5c04\u7a0b\u8303\u56f4\u5916\u653b\u51fb\uff0c\u5e76\u4e14\u5bf9\u9632\u5fa1\u5854\u9020\u6210\u9ad8\u989d\u4f24\u5bb3\uff0c\u8fdb\u5165\u961f\u4f0d\u914d\u7f6e\u754c\u9762\u4e2d\u5c06\u5b83\u7f16\u5165\u961f\u4f0d\u5427\u3002", 
+                                    false
+                                ]
+                            }, 
+                            "type": 3, 
+                            "uid": "23d5525c-5d1d-4cde-a021-149e2e9a00cc"
+                        }, 
+                        {
+                            "cap_insets": {
+                                "__tuple__": true, 
+                                "items": [
+                                    10.0, 
+                                    13.0, 
+                                    10.0, 
+                                    13.0
+                                ]
+                            }, 
+                            "children": [], 
+                            "event_list": [], 
+                            "image": 131797, 
+                            "name": "point", 
+                            "pos": {
+                                "__tuple__": true, 
+                                "items": [
+                                    220.0, 
+                                    200.0
+                                ]
+                            }, 
+                            "pos_percent": {
+                                "__tuple__": true, 
+                                "items": [
+                                    11.4583, 
+                                    18.5185
+                                ]
+                            }, 
+                            "prefab_sub_key": null, 
+                            "rotation": 180.0, 
+                            "scene_ui_name": null, 
+                            "size": {
+                                "__tuple__": true, 
+                                "items": [
+                                    100.0, 
+                                    100.0
+                                ]
+                            }, 
+                            "type": 4, 
+                            "uid": "12ff93bb-9227-4bc5-9c24-ff5d39ce4ac1"
+                        }, 
+                        {
+                            "children": [], 
+                            "event_list": [
+                                {
+                                    "action_list": [
+                                        {
+                                            "anim_duration": 1.0, 
+                                            "anim_id": null, 
+                                            "anim_type": 0, 
+                                            "comp": "19a2fa46-52b1-469f-9032-aaab48355e56", 
+                                            "ease_type": 0, 
+                                            "name": "Hide_26", 
+                                            "open_timeline": true, 
+                                            "type": 3
+                                        }, 
+                                        {
+                                            "anim_duration": 1.0, 
+                                            "anim_id": null, 
+                                            "anim_type": 0, 
+                                            "comp": "e9d70840-ba44-47d6-90ab-a8d163a09398", 
+                                            "ease_type": 0, 
+                                            "name": "Hide_29", 
+                                            "open_timeline": true, 
+                                            "type": 3
+                                        }
+                                    ], 
+                                    "enabled": true, 
+                                    "name": "tip_07_next_01", 
+                                    "sound_id": null, 
+                                    "type": 30
+                                }
+                            ], 
+                            "font": {
+                                "__tuple__": true, 
+                                "items": [
+                                    "134228746", 
+                                    32
+                                ]
+                            }, 
+                            "hover_status_added": true, 
+                            "name": "next", 
+                            "normal_picture": 100372, 
+                            "normal_text": {
+                                "__tuple__": true, 
+                                "items": [
+                                    "\u7ee7\u7eed", 
+                                    false
+                                ]
+                            }, 
+                            "pos": {
+                                "__tuple__": true, 
+                                "items": [
+                                    1355.0, 
+                                    335.0
+                                ]
+                            }, 
+                            "pos_percent": {
+                                "__tuple__": true, 
+                                "items": [
+                                    70.5729, 
+                                    31.0185
+                                ]
+                            }, 
+                            "prefab_sub_key": null, 
+                            "scene_ui_name": null, 
+                            "size": {
+                                "__tuple__": true, 
+                                "items": [
+                                    210.0, 
+                                    70.0
+                                ]
+                            }, 
+                            "suspend_picture": 100414, 
+                            "suspend_text": {
+                                "__tuple__": true, 
+                                "items": [
+                                    "\u7ee7\u7eed", 
+                                    false
+                                ]
+                            }, 
+                            "type": 1, 
+                            "uid": "ae17d2c0-4b78-4872-bfc4-bed31925a6ce"
+                        }
+                    ], 
+                    "event_list": [], 
+                    "name": "tip_07", 
+                    "pos": {
+                        "__tuple__": true, 
+                        "items": [
+                            960.0, 
+                            540.0
+                        ]
+                    }, 
+                    "prefab_sub_key": null, 
+                    "scene_ui_name": null, 
+                    "size": {
+                        "__tuple__": true, 
+                        "items": [
+                            1920.0, 
+                            1080.0
+                        ]
+                    }, 
+                    "type": 7, 
+                    "uid": "19a2fa46-52b1-469f-9032-aaab48355e56", 
+                    "visible": false
+                }
+            ], 
+            "event_list": [], 
+            "name": "tip", 
+            "pos": {
+                "__tuple__": true, 
+                "items": [
+                    960.0, 
+                    540.0
+                ]
+            }, 
+            "prefab_sub_key": null, 
+            "scene_ui_name": null, 
+            "size": {
+                "__tuple__": true, 
+                "items": [
+                    1920.0, 
+                    1080.0
+                ]
+            }, 
+            "swallow_touches": true, 
+            "type": 7, 
+            "uid": "e9d70840-ba44-47d6-90ab-a8d163a09398", 
+            "visible": false
+        }
+    ], 
+    "name": "stage", 
+    "opacity": 1.0, 
+    "type": 2, 
+    "ui_anims": [], 
+    "uid": "df59da22-89bb-434b-8cf4-26378cc53e21", 
+    "visible": false, 
+    "zorder": 400
+}

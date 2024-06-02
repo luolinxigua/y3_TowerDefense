@@ -1,0 +1,116 @@
+{
+    "b": [
+        {
+            "__tuple__": true, 
+            "items": [
+                "mp_max", 
+                {
+                    "default": 10.0, 
+                    "desc": "\u6700\u5927\u6280\u80fd\u8d44\u6e90", 
+                    "maximun": 70000000000000, 
+                    "minimun": 0.0
+                }
+            ]
+        }, 
+        {
+            "__tuple__": true, 
+            "items": [
+                "hp_rec", 
+                {
+                    "default": 0.0, 
+                    "desc": "\u751f\u547d\u6062\u590d", 
+                    "maximun": 70000000000000, 
+                    "minimun": -70000000000000
+                }
+            ]
+        }, 
+        {
+            "__tuple__": true, 
+            "items": [
+                "mp_rec", 
+                {
+                    "default": 0.0, 
+                    "desc": "\u6280\u80fd\u8d44\u6e90\u6062\u590d", 
+                    "maximun": 70000000000000, 
+                    "minimun": -70000000000000
+                }
+            ]
+        }, 
+        {
+            "__tuple__": true, 
+            "items": [
+                "attack_phy", 
+                {
+                    "default": 0.0, 
+                    "desc": "\u7269\u7406\u653b\u51fb\u529b", 
+                    "maximun": 70000000000000, 
+                    "minimun": 0.0
+                }
+            ]
+        }
+    ], 
+    "c": [
+        {
+            "__tuple__": true, 
+            "items": [
+                "GDQ0Twz1Ee+Vn7AlqlIy3I", 
+                {
+                    "default": 0.0, 
+                    "desc": "\u671d\u5411\u5224\u5b9a", 
+                    "desc_bit": 1, 
+                    "key": "GDQ0Twz1Ee+Vn7AlqlIy3I", 
+                    "maximun": 1.0, 
+                    "minimun": 0.0, 
+                    "type": "Fixed"
+                }
+            ]
+        }
+    ], 
+    "p": [
+        {
+            "__tuple__": true, 
+            "items": [
+                "strength", 
+                {
+                    "d": "\u529b\u91cf", 
+                    "k": "strength", 
+                    "m": []
+                }
+            ]
+        }, 
+        {
+            "__tuple__": true, 
+            "items": [
+                "agility", 
+                {
+                    "d": "\u654f\u6377", 
+                    "k": "agility", 
+                    "m": []
+                }
+            ]
+        }, 
+        {
+            "__tuple__": true, 
+            "items": [
+                "intelligence", 
+                {
+                    "d": "\u667a\u529b", 
+                    "k": "intelligence", 
+                    "m": []
+                }
+            ]
+        }, 
+        {
+            "__tuple__": true, 
+            "items": [
+                "main", 
+                {
+                    "d": "\u4e3b\u5c5e\u6027", 
+                    "k": "main", 
+                    "m": []
+                }
+            ]
+        }
+    ], 
+    "ps": 1
+}

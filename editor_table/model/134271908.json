@@ -1,0 +1,13 @@
+{
+    "custom": true, 
+    "effect_keep": false, 
+    "effect_max_life": 0.700000003, 
+    "effect_path": "Fx_Effect/DM1/Fx_Common/Hit/Hit_DM1_u4_fx_qiaoshougu_01_copy", 
+    "is_beam_effect": false, 
+    "meshes": {
+        "__tuple__": true, 
+        "items": []
+    }, 
+    "model_id": 134271908, 
+    "name": "\u8eab\u7ecf\u767e\u6218\u683c\u6321\u7279\u6548"
+}

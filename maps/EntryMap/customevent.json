@@ -1,0 +1,38 @@
+{
+    "conf": {
+        "1296795710": [], 
+        "1669820536": [], 
+        "1805134890": [], 
+        "2103320721": []
+    }, 
+    "group_info": [
+        {
+            "__tuple__": true, 
+            "items": [
+                1805134890, 
+                "create_hero"
+            ]
+        }, 
+        {
+            "__tuple__": true, 
+            "items": [
+                1296795710, 
+                "back_to_stage"
+            ]
+        }, 
+        {
+            "__tuple__": true, 
+            "items": [
+                1669820536, 
+                "countdown"
+            ]
+        }, 
+        {
+            "__tuple__": true, 
+            "items": [
+                2103320721, 
+                "skill_cost"
+            ]
+        }
+    ]
+}

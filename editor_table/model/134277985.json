@@ -1,0 +1,13 @@
+{
+    "custom": true, 
+    "effect_keep": false, 
+    "effect_max_life": 0.7449999917, 
+    "effect_path": "Fx_Effect/Overseas/Fx_Common/Hit/Hit_overseas_900028_attack_e0004_copy", 
+    "is_beam_effect": false, 
+    "meshes": {
+        "__tuple__": true, 
+        "items": []
+    }, 
+    "model_id": 134277985, 
+    "name": "\u68ee\u4e4b\u6124\u6012\u53d7\u51fb\u7279\u6548"
+}

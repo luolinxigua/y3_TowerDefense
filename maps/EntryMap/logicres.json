@@ -1,0 +1,2748 @@
+{
+    "1024": {}, 
+    "2048": {
+        "10000": {
+            "color": null, 
+            "height": {
+                "__tuple__": true, 
+                "items": [
+                    -26, 
+                    0
+                ]
+            }, 
+            "id": 10000, 
+            "name": "001\u955c\u5934\u9650\u5236\u533a\u57df", 
+            "placed_lock": false, 
+            "placed_visibility": true, 
+            "pos": {
+                "__tuple__": true, 
+                "items": [
+                    [
+                        -29, 
+                        858993459
+                    ], 
+                    [
+                        1, 
+                        4294965248
+                    ], 
+                    [
+                        -48, 
+                        0
+                    ]
+                ]
+            }, 
+            "sound": null, 
+            "type": 2048, 
+            "weather": 0, 
+            "width": {
+                "__tuple__": true, 
+                "items": [
+                    0, 
+                    0
+                ]
+            }
+        }, 
+        "10001": {
+            "color": {
+                "__tuple__": true, 
+                "items": [
+                    254, 
+                    254, 
+                    254, 
+                    0
+                ]
+            }, 
+            "height": {
+                "__tuple__": true, 
+                "items": [
+                    -9, 
+                    0
+                ]
+            }, 
+            "id": 10001, 
+            "name": "001\u521d\u59cb\u533a\u57df01", 
+            "placed_lock": false, 
+            "placed_visibility": true, 
+            "pos": {
+                "__tuple__": true, 
+                "items": [
+                    [
+                        -29, 
+                        0
+                    ], 
+                    [
+                        0, 
+                        35172352
+                    ], 
+                    [
+                        -39, 
+                        0
+                    ]
+                ]
+            }, 
+            "sound": null, 
+            "type": 2048, 
+            "weather": 0, 
+            "width": {
+                "__tuple__": true, 
+                "items": [
+                    5, 
+                    0
+                ]
+            }
+        }, 
+        "10002": {
+            "color": {
+                "__tuple__": true, 
+                "items": [
+                    254, 
+                    254, 
+                    254, 
+                    0
+                ]
+            }, 
+            "height": {
+                "__tuple__": true, 
+                "items": [
+                    -9, 
+                    0
+                ]
+            }, 
+            "id": 10002, 
+            "name": "001\u521d\u59cb\u533a\u57df02", 
+            "placed_lock": false, 
+            "placed_visibility": true, 
+            "pos": {
+                "__tuple__": true, 
+                "items": [
+                    [
+                        -34, 
+                        0
+                    ], 
+                    [
+                        0, 
+                        15360000
+                    ], 
+                    [
+                        -39, 
+                        0
+                    ]
+                ]
+            }, 
+            "sound": null, 
+            "type": 2048, 
+            "weather": 0, 
+            "width": {
+                "__tuple__": true, 
+                "items": [
+                    5, 
+                    0
+                ]
+            }
+        }, 
+        "10003": {
+            "color": {
+                "__tuple__": true, 
+                "items": [
+                    254, 
+                    254, 
+                    254, 
+                    0
+                ]
+            }, 
+            "height": {
+                "__tuple__": true, 
+                "items": [
+                    -7, 
+                    0
+                ]
+            }, 
+            "id": 10003, 
+            "name": "001\u8def\u6807\u533a\u57df01", 
+            "placed_lock": false, 
+            "placed_visibility": true, 
+            "pos": {
+                "__tuple__": true, 
+                "items": [
+                    [
+                        -22, 
+                        0
+                    ], 
+                    [
+                        1, 
+                        4265558016
+                    ], 
+                    [
+                        -57, 
+                        0
+                    ]
+                ]
+            }, 
+            "sound": null, 
+            "type": 2048, 
+            "weather": 0, 
+            "width": {
+                "__tuple__": true, 
+                "items": [
+                    10, 
+                    0
+                ]
+            }
+        }, 
+        "10004": {
+            "color": {
+                "__tuple__": true, 
+                "items": [
+                    254, 
+                    254, 
+                    254, 
+                    0
+                ]
+            }, 
+            "height": {
+                "__tuple__": true, 
+                "items": [
+                    -10, 
+                    0
+                ]
+            }, 
+            "id": 10004, 
+            "name": "001\u5854\u533a\u57df01", 
+            "placed_lock": false, 
+            "placed_visibility": true, 
+            "pos": {
+                "__tuple__": true, 
+                "items": [
+                    [
+                        -45, 
+                        0
+                    ], 
+                    [
+                        0, 
+                        1399758848
+                    ], 
+                    [
+                        -55, 
+                        0
+                    ]
+                ]
+            }, 
+            "sound": null, 
+            "type": 2048, 
+            "weather": 0, 
+            "width": {
+                "__tuple__": true, 
+                "items": [
+                    8, 
+                    2147483648
+                ]
+            }
+        }, 
+        "10010": {
+            "color": {
+                "__tuple__": true, 
+                "items": [
+                    254, 
+                    254, 
+                    254, 
+                    0
+                ]
+            }, 
+            "height": {
+                "__tuple__": true, 
+                "items": [
+                    -46, 
+                    0
+                ]
+            }, 
+            "id": 10010, 
+            "name": "001\u4e3b\u533a\u57df", 
+            "placed_lock": false, 
+            "placed_visibility": true, 
+            "pos": {
+                "__tuple__": true, 
+                "items": [
+                    [
+                        -46, 
+                        0
+                    ], 
+                    [
+                        0, 
+                        2926620672
+                    ], 
+                    [
+                        -39, 
+                        0
+                    ]
+                ]
+            }, 
+            "sound": null, 
+            "type": 2048, 
+            "weather": 0, 
+            "width": {
+                "__tuple__": true, 
+                "items": [
+                    34, 
+                    0
+                ]
+            }
+        }, 
+        "10011": {
+            "color": {
+                "__tuple__": true, 
+                "items": [
+                    254, 
+                    254, 
+                    254, 
+                    0
+                ]
+            }, 
+            "height": {
+                "__tuple__": true, 
+                "items": [
+                    -4, 
+                    0
+                ]
+            }, 
+            "id": 10011, 
+            "name": "001\u77ff\u7269\u751f\u6210\u533a\u57df01", 
+            "placed_lock": false, 
+            "placed_visibility": true, 
+            "pos": {
+                "__tuple__": true, 
+                "items": [
+                    [
+                        -16, 
+                        0
+                    ], 
+                    [
+                        0, 
+                        0
+                    ], 
+                    [
+                        -58, 
+                        0
+                    ]
+                ]
+            }, 
+            "sound": null, 
+            "type": 2048, 
+            "weather": 0, 
+            "width": {
+                "__tuple__": true, 
+                "items": [
+                    2, 
+                    0
+                ]
+            }
+        }, 
+        "10014": {
+            "color": {
+                "__tuple__": true, 
+                "items": [
+                    254, 
+                    254, 
+                    254, 
+                    0
+                ]
+            }, 
+            "height": {
+                "__tuple__": true, 
+                "items": [
+                    -41, 
+                    0
+                ]
+            }, 
+            "id": 10014, 
+            "name": "002\u4e3b\u533a\u57df", 
+            "placed_lock": false, 
+            "placed_visibility": true, 
+            "pos": {
+                "__tuple__": true, 
+                "items": [
+                    [
+                        11, 
+                        0
+                    ], 
+                    [
+                        2, 
+                        0
+                    ], 
+                    [
+                        -41, 
+                        0
+                    ]
+                ]
+            }, 
+            "sound": null, 
+            "type": 2048, 
+            "weather": 0, 
+            "width": {
+                "__tuple__": true, 
+                "items": [
+                    34, 
+                    0
+                ]
+            }
+        }, 
+        "10016": {
+            "color": {
+                "__tuple__": true, 
+                "items": [
+                    254, 
+                    254, 
+                    254, 
+                    0
+                ]
+            }, 
+            "height": {
+                "__tuple__": true, 
+                "items": [
+                    -22, 
+                    0
+                ]
+            }, 
+            "id": 10016, 
+            "name": "002\u955c\u5934\u9650\u5236\u533a\u57df", 
+            "placed_lock": false, 
+            "placed_visibility": true, 
+            "pos": {
+                "__tuple__": true, 
+                "items": [
+                    [
+                        28, 
+                        0
+                    ], 
+                    [
+                        0, 
+                        13029376
+                    ], 
+                    [
+                        -49, 
+                        0
+                    ]
+                ]
+            }, 
+            "sound": null, 
+            "type": 2048, 
+            "weather": 0, 
+            "width": {
+                "__tuple__": true, 
+                "items": [
+                    0, 
+                    0
+                ]
+            }
+        }, 
+        "10017": {
+            "color": {
+                "__tuple__": true, 
+                "items": [
+                    254, 
+                    254, 
+                    254, 
+                    0
+                ]
+            }, 
+            "height": {
+                "__tuple__": true, 
+                "items": [
+                    -5, 
+                    0
+                ]
+            }, 
+            "id": 10017, 
+            "name": "002\u521d\u59cb\u533a\u57df01", 
+            "placed_lock": false, 
+            "placed_visibility": true, 
+            "pos": {
+                "__tuple__": true, 
+                "items": [
+                    [
+                        28, 
+                        0
+                    ], 
+                    [
+                        0, 
+                        0
+                    ], 
+                    [
+                        -41, 
+                        0
+                    ]
+                ]
+            }, 
+            "sound": null, 
+            "type": 2048, 
+            "weather": 0, 
+            "width": {
+                "__tuple__": true, 
+                "items": [
+                    5, 
+                    0
+                ]
+            }
+        }, 
+        "10018": {
+            "color": {
+                "__tuple__": true, 
+                "items": [
+                    254, 
+                    254, 
+                    254, 
+                    0
+                ]
+            }, 
+            "height": {
+                "__tuple__": true, 
+                "items": [
+                    -5, 
+                    0
+                ]
+            }, 
+            "id": 10018, 
+            "name": "002\u521d\u59cb\u533a\u57df02", 
+            "placed_lock": false, 
+            "placed_visibility": true, 
+            "pos": {
+                "__tuple__": true, 
+                "items": [
+                    [
+                        23, 
+                        0
+                    ], 
+                    [
+                        0, 
+                        15753216
+                    ], 
+                    [
+                        -41, 
+                        0
+                    ]
+                ]
+            }, 
+            "sound": null, 
+            "type": 2048, 
+            "weather": 0, 
+            "width": {
+                "__tuple__": true, 
+                "items": [
+                    5, 
+                    0
+                ]
+            }
+        }, 
+        "10019": {
+            "color": {
+                "__tuple__": true, 
+                "items": [
+                    254, 
+                    254, 
+                    254, 
+                    0
+                ]
+            }, 
+            "height": {
+                "__tuple__": true, 
+                "items": [
+                    -4, 
+                    0
+                ]
+            }, 
+            "id": 10019, 
+            "name": "002\u521d\u59cb\u533a\u57df03", 
+            "placed_lock": false, 
+            "placed_visibility": true, 
+            "pos": {
+                "__tuple__": true, 
+                "items": [
+                    [
+                        23, 
+                        0
+                    ], 
+                    [
+                        1, 
+                        2764234752
+                    ], 
+                    [
+                        -46, 
+                        0
+                    ]
+                ]
+            }, 
+            "sound": null, 
+            "type": 2048, 
+            "weather": 0, 
+            "width": {
+                "__tuple__": true, 
+                "items": [
+                    10, 
+                    0
+                ]
+            }
+        }, 
+        "10020": {
+            "color": {
+                "__tuple__": true, 
+                "items": [
+                    254, 
+                    254, 
+                    254, 
+                    0
+                ]
+            }, 
+            "height": {
+                "__tuple__": true, 
+                "items": [
+                    -6, 
+                    0
+                ]
+            }, 
+            "id": 10020, 
+            "name": "002\u8def\u6807\u533a\u57df01", 
+            "placed_lock": false, 
+            "placed_visibility": true, 
+            "pos": {
+                "__tuple__": true, 
+                "items": [
+                    [
+                        23, 
+                        0
+                    ], 
+                    [
+                        0, 
+                        0
+                    ], 
+                    [
+                        -57, 
+                        0
+                    ]
+                ]
+            }, 
+            "sound": null, 
+            "type": 2048, 
+            "weather": 0, 
+            "width": {
+                "__tuple__": true, 
+                "items": [
+                    10, 
+                    0
+                ]
+            }
+        }, 
+        "10021": {
+            "color": {
+                "__tuple__": true, 
+                "items": [
+                    254, 
+                    254, 
+                    254, 
+                    0
+                ]
+            }, 
+            "height": {
+                "__tuple__": true, 
+                "items": [
+                    -10, 
+                    0
+                ]
+            }, 
+            "id": 10021, 
+            "name": "002\u5854\u533a\u57df02", 
+            "placed_lock": false, 
+            "placed_visibility": true, 
+            "pos": {
+                "__tuple__": true, 
+                "items": [
+                    [
+                        11, 
+                        0
+                    ], 
+                    [
+                        0, 
+                        304005120
+                    ], 
+                    [
+                        -57, 
+                        0
+                    ]
+                ]
+            }, 
+            "sound": null, 
+            "type": 2048, 
+            "weather": 0, 
+            "width": {
+                "__tuple__": true, 
+                "items": [
+                    10, 
+                    0
+                ]
+            }
+        }, 
+        "10022": {
+            "color": {
+                "__tuple__": true, 
+                "items": [
+                    254, 
+                    254, 
+                    254, 
+                    0
+                ]
+            }, 
+            "height": {
+                "__tuple__": true, 
+                "items": [
+                    -10, 
+                    0
+                ]
+            }, 
+            "id": 10022, 
+            "name": "002\u5854\u533a\u57df01", 
+            "placed_lock": false, 
+            "placed_visibility": true, 
+            "pos": {
+                "__tuple__": true, 
+                "items": [
+                    [
+                        35, 
+                        0
+                    ], 
+                    [
+                        0, 
+                        1459007488
+                    ], 
+                    [
+                        -57, 
+                        0
+                    ]
+                ]
+            }, 
+            "sound": null, 
+            "type": 2048, 
+            "weather": 0, 
+            "width": {
+                "__tuple__": true, 
+                "items": [
+                    10, 
+                    0
+                ]
+            }
+        }, 
+        "10028": {
+            "color": {
+                "__tuple__": true, 
+                "items": [
+                    254, 
+                    254, 
+                    254, 
+                    0
+                ]
+            }, 
+            "height": {
+                "__tuple__": true, 
+                "items": [
+                    -3, 
+                    0
+                ]
+            }, 
+            "id": 10028, 
+            "name": "002\u77ff\u7269\u751f\u6210\u533a\u57df01", 
+            "placed_lock": false, 
+            "placed_visibility": true, 
+            "pos": {
+                "__tuple__": true, 
+                "items": [
+                    [
+                        36, 
+                        0
+                    ], 
+                    [
+                        0, 
+                        49524736
+                    ], 
+                    [
+                        -52, 
+                        2147483648
+                    ]
+                ]
+            }, 
+            "sound": null, 
+            "type": 2048, 
+            "weather": 0, 
+            "width": {
+                "__tuple__": true, 
+                "items": [
+                    3, 
+                    0
+                ]
+            }
+        }, 
+        "10029": {
+            "color": {
+                "__tuple__": true, 
+                "items": [
+                    254, 
+                    254, 
+                    254, 
+                    0
+                ]
+            }, 
+            "height": {
+                "__tuple__": true, 
+                "items": [
+                    -3, 
+                    0
+                ]
+            }, 
+            "id": 10029, 
+            "name": "002\u77ff\u7269\u751f\u6210\u533a\u57df02", 
+            "placed_lock": false, 
+            "placed_visibility": true, 
+            "pos": {
+                "__tuple__": true, 
+                "items": [
+                    [
+                        17, 
+                        0
+                    ], 
+                    [
+                        0, 
+                        4096
+                    ], 
+                    [
+                        -52, 
+                        2147483648
+                    ]
+                ]
+            }, 
+            "sound": null, 
+            "type": 2048, 
+            "weather": 0, 
+            "width": {
+                "__tuple__": true, 
+                "items": [
+                    3, 
+                    0
+                ]
+            }
+        }
+    }, 
+    "4096": {}, 
+    "8192": {
+        "10005": {
+            "id": 10005, 
+            "name": "001\u521d\u59cb\u8def\u5f8401", 
+            "road_point_list": [
+                {
+                    "child_index": 1, 
+                    "id": 10005, 
+                    "name": "001\u521d\u59cb\u8def\u5f8401", 
+                    "placed_lock": false, 
+                    "placed_visibility": true, 
+                    "pos": {
+                        "__tuple__": true, 
+                        "items": [
+                            [
+                                -25, 
+                                0
+                            ], 
+                            [
+                                0, 
+                                0
+                            ], 
+                            [
+                                -43, 
+                                0
+                            ]
+                        ]
+                    }, 
+                    "type": 8192
+                }, 
+                {
+                    "child_index": 2, 
+                    "id": 10005, 
+                    "name": "001\u521d\u59cb\u8def\u5f8401", 
+                    "placed_lock": false, 
+                    "placed_visibility": true, 
+                    "pos": {
+                        "__tuple__": true, 
+                        "items": [
+                            [
+                                -17, 
+                                0
+                            ], 
+                            [
+                                0, 
+                                0
+                            ], 
+                            [
+                                -43, 
+                                0
+                            ]
+                        ]
+                    }, 
+                    "type": 8192
+                }, 
+                {
+                    "child_index": 3, 
+                    "id": 10005, 
+                    "name": "001\u521d\u59cb\u8def\u5f8401", 
+                    "placed_lock": false, 
+                    "placed_visibility": true, 
+                    "pos": {
+                        "__tuple__": true, 
+                        "items": [
+                            [
+                                -17, 
+                                0
+                            ], 
+                            [
+                                0, 
+                                0
+                            ], 
+                            [
+                                -60, 
+                                0
+                            ]
+                        ]
+                    }, 
+                    "type": 8192
+                }
+            ]
+        }, 
+        "10006": {
+            "id": 10006, 
+            "name": "001\u521d\u59cb\u8def\u5f8402", 
+            "road_point_list": [
+                {
+                    "child_index": 1, 
+                    "id": 10006, 
+                    "name": "001\u521d\u59cb\u8def\u5f8402", 
+                    "placed_lock": false, 
+                    "placed_visibility": true, 
+                    "pos": {
+                        "__tuple__": true, 
+                        "items": [
+                            [
+                                -33, 
+                                0
+                            ], 
+                            [
+                                0, 
+                                0
+                            ], 
+                            [
+                                -43, 
+                                0
+                            ]
+                        ]
+                    }, 
+                    "type": 8192
+                }, 
+                {
+                    "child_index": 2, 
+                    "id": 10006, 
+                    "name": "001\u521d\u59cb\u8def\u5f8402", 
+                    "placed_lock": false, 
+                    "placed_visibility": true, 
+                    "pos": {
+                        "__tuple__": true, 
+                        "items": [
+                            [
+                                -41, 
+                                0
+                            ], 
+                            [
+                                0, 
+                                0
+                            ], 
+                            [
+                                -43, 
+                                0
+                            ]
+                        ]
+                    }, 
+                    "type": 8192
+                }, 
+                {
+                    "child_index": 3, 
+                    "id": 10006, 
+                    "name": "001\u521d\u59cb\u8def\u5f8402", 
+                    "placed_lock": false, 
+                    "placed_visibility": true, 
+                    "pos": {
+                        "__tuple__": true, 
+                        "items": [
+                            [
+                                -41, 
+                                0
+                            ], 
+                            [
+                                0, 
+                                0
+                            ], 
+                            [
+                                -60, 
+                                0
+                            ]
+                        ]
+                    }, 
+                    "type": 8192
+                }
+            ]
+        }, 
+        "10007": {
+            "id": 10007, 
+            "name": "001\u8def\u6807\u8def\u5f8401", 
+            "road_point_list": [
+                {
+                    "child_index": 1, 
+                    "id": 10007, 
+                    "name": "001\u8def\u6807\u8def\u5f8401", 
+                    "placed_lock": false, 
+                    "placed_visibility": true, 
+                    "pos": {
+                        "__tuple__": true, 
+                        "items": [
+                            [
+                                -17, 
+                                0
+                            ], 
+                            [
+                                0, 
+                                0
+                            ], 
+                            [
+                                -60, 
+                                0
+                            ]
+                        ]
+                    }, 
+                    "type": 8192
+                }, 
+                {
+                    "child_index": 2, 
+                    "id": 10007, 
+                    "name": "001\u8def\u6807\u8def\u5f8401", 
+                    "placed_lock": false, 
+                    "placed_visibility": true, 
+                    "pos": {
+                        "__tuple__": true, 
+                        "items": [
+                            [
+                                -41, 
+                                0
+                            ], 
+                            [
+                                0, 
+                                0
+                            ], 
+                            [
+                                -60, 
+                                0
+                            ]
+                        ]
+                    }, 
+                    "type": 8192
+                }
+            ]
+        }, 
+        "10008": {
+            "id": 10008, 
+            "name": "001\u8def\u6807\u8def\u5f8402", 
+            "road_point_list": [
+                {
+                    "child_index": 1, 
+                    "id": 10008, 
+                    "name": "001\u8def\u6807\u8def\u5f8402", 
+                    "placed_lock": false, 
+                    "placed_visibility": true, 
+                    "pos": {
+                        "__tuple__": true, 
+                        "items": [
+                            [
+                                -17, 
+                                0
+                            ], 
+                            [
+                                0, 
+                                0
+                            ], 
+                            [
+                                -60, 
+                                0
+                            ]
+                        ]
+                    }, 
+                    "type": 8192
+                }, 
+                {
+                    "child_index": 2, 
+                    "id": 10008, 
+                    "name": "001\u8def\u6807\u8def\u5f8402", 
+                    "placed_lock": false, 
+                    "placed_visibility": true, 
+                    "pos": {
+                        "__tuple__": true, 
+                        "items": [
+                            [
+                                -17, 
+                                0
+                            ], 
+                            [
+                                0, 
+                                0
+                            ], 
+                            [
+                                -76, 
+                                0
+                            ]
+                        ]
+                    }, 
+                    "type": 8192
+                }
+            ]
+        }, 
+        "10009": {
+            "id": 10009, 
+            "name": "001\u5854\u8def\u5f8401", 
+            "road_point_list": [
+                {
+                    "child_index": 1, 
+                    "id": 10009, 
+                    "name": "001\u5854\u8def\u5f8401", 
+                    "placed_lock": false, 
+                    "placed_visibility": true, 
+                    "pos": {
+                        "__tuple__": true, 
+                        "items": [
+                            [
+                                -41, 
+                                0
+                            ], 
+                            [
+                                0, 
+                                0
+                            ], 
+                            [
+                                -64, 
+                                0
+                            ]
+                        ]
+                    }, 
+                    "type": 8192
+                }, 
+                {
+                    "child_index": 2, 
+                    "id": 10009, 
+                    "name": "001\u5854\u8def\u5f8401", 
+                    "placed_lock": false, 
+                    "placed_visibility": true, 
+                    "pos": {
+                        "__tuple__": true, 
+                        "items": [
+                            [
+                                -41, 
+                                0
+                            ], 
+                            [
+                                0, 
+                                0
+                            ], 
+                            [
+                                -78, 
+                                0
+                            ]
+                        ]
+                    }, 
+                    "type": 8192
+                }, 
+                {
+                    "child_index": 3, 
+                    "id": 10009, 
+                    "name": "001\u5854\u8def\u5f8401", 
+                    "placed_lock": false, 
+                    "placed_visibility": true, 
+                    "pos": {
+                        "__tuple__": true, 
+                        "items": [
+                            [
+                                -19, 
+                                0
+                            ], 
+                            [
+                                0, 
+                                0
+                            ], 
+                            [
+                                -78, 
+                                0
+                            ]
+                        ]
+                    }, 
+                    "type": 8192
+                }
+            ]
+        }, 
+        "10012": {
+            "id": 10012, 
+            "name": "001\u602a\u7269\u8fdb\u653b\u8def\u5f8401", 
+            "road_point_list": [
+                {
+                    "child_index": 1, 
+                    "id": 10012, 
+                    "name": "001\u602a\u7269\u8fdb\u653b\u8def\u5f8401", 
+                    "placed_lock": false, 
+                    "placed_visibility": true, 
+                    "pos": {
+                        "__tuple__": true, 
+                        "items": [
+                            [
+                                -16, 
+                                0
+                            ], 
+                            [
+                                0, 
+                                0
+                            ], 
+                            [
+                                -76, 
+                                0
+                            ]
+                        ]
+                    }, 
+                    "type": 8192
+                }, 
+                {
+                    "child_index": 2, 
+                    "id": 10012, 
+                    "name": "001\u602a\u7269\u8fdb\u653b\u8def\u5f8401", 
+                    "placed_lock": false, 
+                    "placed_visibility": true, 
+                    "pos": {
+                        "__tuple__": true, 
+                        "items": [
+                            [
+                                -16, 
+                                0
+                            ], 
+                            [
+                                0, 
+                                0
+                            ], 
+                            [
+                                -43, 
+                                0
+                            ]
+                        ]
+                    }, 
+                    "type": 8192
+                }, 
+                {
+                    "child_index": 3, 
+                    "id": 10012, 
+                    "name": "001\u602a\u7269\u8fdb\u653b\u8def\u5f8401", 
+                    "placed_lock": false, 
+                    "placed_visibility": true, 
+                    "pos": {
+                        "__tuple__": true, 
+                        "items": [
+                            [
+                                -25, 
+                                0
+                            ], 
+                            [
+                                0, 
+                                0
+                            ], 
+                            [
+                                -43, 
+                                0
+                            ]
+                        ]
+                    }, 
+                    "type": 8192
+                }
+            ]
+        }, 
+        "10013": {
+            "id": 10013, 
+            "name": "001\u602a\u7269\u8fdb\u653b\u8def\u5f8402", 
+            "road_point_list": [
+                {
+                    "child_index": 1, 
+                    "id": 10013, 
+                    "name": "001\u602a\u7269\u8fdb\u653b\u8def\u5f8402", 
+                    "placed_lock": false, 
+                    "placed_visibility": true, 
+                    "pos": {
+                        "__tuple__": true, 
+                        "items": [
+                            [
+                                -19, 
+                                0
+                            ], 
+                            [
+                                0, 
+                                0
+                            ], 
+                            [
+                                -77, 
+                                0
+                            ]
+                        ]
+                    }, 
+                    "type": 8192
+                }, 
+                {
+                    "child_index": 2, 
+                    "id": 10013, 
+                    "name": "001\u602a\u7269\u8fdb\u653b\u8def\u5f8402", 
+                    "placed_lock": false, 
+                    "placed_visibility": true, 
+                    "pos": {
+                        "__tuple__": true, 
+                        "items": [
+                            [
+                                -40, 
+                                0
+                            ], 
+                            [
+                                0, 
+                                0
+                            ], 
+                            [
+                                -77, 
+                                0
+                            ]
+                        ]
+                    }, 
+                    "type": 8192
+                }, 
+                {
+                    "child_index": 3, 
+                    "id": 10013, 
+                    "name": "001\u602a\u7269\u8fdb\u653b\u8def\u5f8402", 
+                    "placed_lock": false, 
+                    "placed_visibility": true, 
+                    "pos": {
+                        "__tuple__": true, 
+                        "items": [
+                            [
+                                -40, 
+                                0
+                            ], 
+                            [
+                                0, 
+                                0
+                            ], 
+                            [
+                                -57, 
+                                0
+                            ]
+                        ]
+                    }, 
+                    "type": 8192
+                }, 
+                {
+                    "child_index": 4, 
+                    "id": 10013, 
+                    "name": "001\u602a\u7269\u8fdb\u653b\u8def\u5f8402", 
+                    "placed_lock": false, 
+                    "placed_visibility": true, 
+                    "pos": {
+                        "__tuple__": true, 
+                        "items": [
+                            [
+                                -40, 
+                                0
+                            ], 
+                            [
+                                0, 
+                                0
+                            ], 
+                            [
+                                -43, 
+                                0
+                            ]
+                        ]
+                    }, 
+                    "type": 8192
+                }, 
+                {
+                    "child_index": 5, 
+                    "id": 10013, 
+                    "name": "001\u602a\u7269\u8fdb\u653b\u8def\u5f8402", 
+                    "placed_lock": false, 
+                    "placed_visibility": true, 
+                    "pos": {
+                        "__tuple__": true, 
+                        "items": [
+                            [
+                                -33, 
+                                15466496
+                            ], 
+                            [
+                                0, 
+                                0
+                            ], 
+                            [
+                                -44, 
+                                4290101248
+                            ]
+                        ]
+                    }, 
+                    "type": 8192
+                }
+            ]
+        }, 
+        "10023": {
+            "id": 10023, 
+            "name": "002\u521d\u59cb\u8def\u5f8401", 
+            "road_point_list": [
+                {
+                    "child_index": 1, 
+                    "id": 10023, 
+                    "name": "002\u521d\u59cb\u8def\u5f8401", 
+                    "placed_lock": false, 
+                    "placed_visibility": true, 
+                    "pos": {
+                        "__tuple__": true, 
+                        "items": [
+                            [
+                                32, 
+                                0
+                            ], 
+                            [
+                                0, 
+                                0
+                            ], 
+                            [
+                                -44, 
+                                0
+                            ]
+                        ]
+                    }, 
+                    "type": 8192
+                }, 
+                {
+                    "child_index": 2, 
+                    "id": 10023, 
+                    "name": "002\u521d\u59cb\u8def\u5f8401", 
+                    "placed_lock": false, 
+                    "placed_visibility": true, 
+                    "pos": {
+                        "__tuple__": true, 
+                        "items": [
+                            [
+                                38, 
+                                0
+                            ], 
+                            [
+                                0, 
+                                0
+                            ], 
+                            [
+                                -44, 
+                                0
+                            ]
+                        ]
+                    }, 
+                    "type": 8192
+                }, 
+                {
+                    "child_index": 3, 
+                    "id": 10023, 
+                    "name": "002\u521d\u59cb\u8def\u5f8401", 
+                    "placed_lock": false, 
+                    "placed_visibility": true, 
+                    "pos": {
+                        "__tuple__": true, 
+                        "items": [
+                            [
+                                41, 
+                                0
+                            ], 
+                            [
+                                0, 
+                                0
+                            ], 
+                            [
+                                -47, 
+                                0
+                            ]
+                        ]
+                    }, 
+                    "type": 8192
+                }, 
+                {
+                    "child_index": 4, 
+                    "id": 10023, 
+                    "name": "002\u521d\u59cb\u8def\u5f8401", 
+                    "placed_lock": false, 
+                    "placed_visibility": true, 
+                    "pos": {
+                        "__tuple__": true, 
+                        "items": [
+                            [
+                                41, 
+                                0
+                            ], 
+                            [
+                                0, 
+                                0
+                            ], 
+                            [
+                                -60, 
+                                0
+                            ]
+                        ]
+                    }, 
+                    "type": 8192
+                }, 
+                {
+                    "child_index": 5, 
+                    "id": 10023, 
+                    "name": "002\u521d\u59cb\u8def\u5f8401", 
+                    "placed_lock": false, 
+                    "placed_visibility": true, 
+                    "pos": {
+                        "__tuple__": true, 
+                        "items": [
+                            [
+                                41, 
+                                0
+                            ], 
+                            [
+                                0, 
+                                0
+                            ], 
+                            [
+                                -65, 
+                                0
+                            ]
+                        ]
+                    }, 
+                    "type": 8192
+                }, 
+                {
+                    "child_index": 6, 
+                    "id": 10023, 
+                    "name": "002\u521d\u59cb\u8def\u5f8401", 
+                    "placed_lock": false, 
+                    "placed_visibility": true, 
+                    "pos": {
+                        "__tuple__": true, 
+                        "items": [
+                            [
+                                41, 
+                                0
+                            ], 
+                            [
+                                0, 
+                                0
+                            ], 
+                            [
+                                -73, 
+                                0
+                            ]
+                        ]
+                    }, 
+                    "type": 8192
+                }, 
+                {
+                    "child_index": 7, 
+                    "id": 10023, 
+                    "name": "002\u521d\u59cb\u8def\u5f8401", 
+                    "placed_lock": false, 
+                    "placed_visibility": true, 
+                    "pos": {
+                        "__tuple__": true, 
+                        "items": [
+                            [
+                                38, 
+                                0
+                            ], 
+                            [
+                                0, 
+                                0
+                            ], 
+                            [
+                                -76, 
+                                0
+                            ]
+                        ]
+                    }, 
+                    "type": 8192
+                }, 
+                {
+                    "child_index": 8, 
+                    "id": 10023, 
+                    "name": "002\u521d\u59cb\u8def\u5f8401", 
+                    "placed_lock": false, 
+                    "placed_visibility": true, 
+                    "pos": {
+                        "__tuple__": true, 
+                        "items": [
+                            [
+                                30, 
+                                0
+                            ], 
+                            [
+                                0, 
+                                0
+                            ], 
+                            [
+                                -76, 
+                                0
+                            ]
+                        ]
+                    }, 
+                    "type": 8192
+                }
+            ]
+        }, 
+        "10024": {
+            "id": 10024, 
+            "name": "002\u521d\u59cb\u8def\u5f8402", 
+            "road_point_list": [
+                {
+                    "child_index": 1, 
+                    "id": 10024, 
+                    "name": "002\u521d\u59cb\u8def\u5f8402", 
+                    "placed_lock": false, 
+                    "placed_visibility": true, 
+                    "pos": {
+                        "__tuple__": true, 
+                        "items": [
+                            [
+                                24, 
+                                0
+                            ], 
+                            [
+                                0, 
+                                0
+                            ], 
+                            [
+                                -44, 
+                                0
+                            ]
+                        ]
+                    }, 
+                    "type": 8192
+                }, 
+                {
+                    "child_index": 2, 
+                    "id": 10024, 
+                    "name": "002\u521d\u59cb\u8def\u5f8402", 
+                    "placed_lock": false, 
+                    "placed_visibility": true, 
+                    "pos": {
+                        "__tuple__": true, 
+                        "items": [
+                            [
+                                18, 
+                                0
+                            ], 
+                            [
+                                0, 
+                                0
+                            ], 
+                            [
+                                -44, 
+                                0
+                            ]
+                        ]
+                    }, 
+                    "type": 8192
+                }, 
+                {
+                    "child_index": 3, 
+                    "id": 10024, 
+                    "name": "002\u521d\u59cb\u8def\u5f8402", 
+                    "placed_lock": false, 
+                    "placed_visibility": true, 
+                    "pos": {
+                        "__tuple__": true, 
+                        "items": [
+                            [
+                                15, 
+                                0
+                            ], 
+                            [
+                                0, 
+                                0
+                            ], 
+                            [
+                                -47, 
+                                0
+                            ]
+                        ]
+                    }, 
+                    "type": 8192
+                }, 
+                {
+                    "child_index": 4, 
+                    "id": 10024, 
+                    "name": "002\u521d\u59cb\u8def\u5f8402", 
+                    "placed_lock": false, 
+                    "placed_visibility": true, 
+                    "pos": {
+                        "__tuple__": true, 
+                        "items": [
+                            [
+                                15, 
+                                0
+                            ], 
+                            [
+                                0, 
+                                0
+                            ], 
+                            [
+                                -60, 
+                                0
+                            ]
+                        ]
+                    }, 
+                    "type": 8192
+                }, 
+                {
+                    "child_index": 5, 
+                    "id": 10024, 
+                    "name": "002\u521d\u59cb\u8def\u5f8402", 
+                    "placed_lock": false, 
+                    "placed_visibility": true, 
+                    "pos": {
+                        "__tuple__": true, 
+                        "items": [
+                            [
+                                15, 
+                                0
+                            ], 
+                            [
+                                0, 
+                                0
+                            ], 
+                            [
+                                -65, 
+                                0
+                            ]
+                        ]
+                    }, 
+                    "type": 8192
+                }, 
+                {
+                    "child_index": 6, 
+                    "id": 10024, 
+                    "name": "002\u521d\u59cb\u8def\u5f8402", 
+                    "placed_lock": false, 
+                    "placed_visibility": true, 
+                    "pos": {
+                        "__tuple__": true, 
+                        "items": [
+                            [
+                                15, 
+                                0
+                            ], 
+                            [
+                                0, 
+                                0
+                            ], 
+                            [
+                                -73, 
+                                0
+                            ]
+                        ]
+                    }, 
+                    "type": 8192
+                }, 
+                {
+                    "child_index": 7, 
+                    "id": 10024, 
+                    "name": "002\u521d\u59cb\u8def\u5f8402", 
+                    "placed_lock": false, 
+                    "placed_visibility": true, 
+                    "pos": {
+                        "__tuple__": true, 
+                        "items": [
+                            [
+                                18, 
+                                0
+                            ], 
+                            [
+                                0, 
+                                0
+                            ], 
+                            [
+                                -76, 
+                                0
+                            ]
+                        ]
+                    }, 
+                    "type": 8192
+                }, 
+                {
+                    "child_index": 8, 
+                    "id": 10024, 
+                    "name": "002\u521d\u59cb\u8def\u5f8402", 
+                    "placed_lock": false, 
+                    "placed_visibility": true, 
+                    "pos": {
+                        "__tuple__": true, 
+                        "items": [
+                            [
+                                26, 
+                                0
+                            ], 
+                            [
+                                0, 
+                                0
+                            ], 
+                            [
+                                -76, 
+                                0
+                            ]
+                        ]
+                    }, 
+                    "type": 8192
+                }
+            ]
+        }, 
+        "10025": {
+            "id": 10025, 
+            "name": "002\u521d\u59cb\u8def\u5f8403", 
+            "road_point_list": [
+                {
+                    "child_index": 1, 
+                    "id": 10025, 
+                    "name": "002\u521d\u59cb\u8def\u5f8403", 
+                    "placed_lock": false, 
+                    "placed_visibility": true, 
+                    "pos": {
+                        "__tuple__": true, 
+                        "items": [
+                            [
+                                28, 
+                                0
+                            ], 
+                            [
+                                0, 
+                                0
+                            ], 
+                            [
+                                -48, 
+                                0
+                            ]
+                        ]
+                    }, 
+                    "type": 8192
+                }, 
+                {
+                    "child_index": 2, 
+                    "id": 10025, 
+                    "name": "002\u521d\u59cb\u8def\u5f8403", 
+                    "placed_lock": false, 
+                    "placed_visibility": true, 
+                    "pos": {
+                        "__tuple__": true, 
+                        "items": [
+                            [
+                                28, 
+                                0
+                            ], 
+                            [
+                                0, 
+                                0
+                            ], 
+                            [
+                                -59, 
+                                0
+                            ]
+                        ]
+                    }, 
+                    "type": 8192
+                }
+            ]
+        }, 
+        "10026": {
+            "id": 10026, 
+            "name": "002\u8def\u6807\u8def\u5f8401", 
+            "road_point_list": [
+                {
+                    "child_index": 1, 
+                    "id": 10026, 
+                    "name": "002\u8def\u6807\u8def\u5f8401", 
+                    "placed_lock": false, 
+                    "placed_visibility": true, 
+                    "pos": {
+                        "__tuple__": true, 
+                        "items": [
+                            [
+                                26, 
+                                0
+                            ], 
+                            [
+                                0, 
+                                0
+                            ], 
+                            [
+                                -60, 
+                                0
+                            ]
+                        ]
+                    }, 
+                    "type": 8192
+                }, 
+                {
+                    "child_index": 2, 
+                    "id": 10026, 
+                    "name": "002\u8def\u6807\u8def\u5f8401", 
+                    "placed_lock": false, 
+                    "placed_visibility": true, 
+                    "pos": {
+                        "__tuple__": true, 
+                        "items": [
+                            [
+                                18, 
+                                0
+                            ], 
+                            [
+                                0, 
+                                0
+                            ], 
+                            [
+                                -62, 
+                                0
+                            ]
+                        ]
+                    }, 
+                    "type": 8192
+                }
+            ]
+        }, 
+        "10027": {
+            "id": 10027, 
+            "name": "002\u8def\u6807\u8def\u5f8402", 
+            "road_point_list": [
+                {
+                    "child_index": 1, 
+                    "id": 10027, 
+                    "name": "002\u8def\u6807\u8def\u5f8402", 
+                    "placed_lock": false, 
+                    "placed_visibility": true, 
+                    "pos": {
+                        "__tuple__": true, 
+                        "items": [
+                            [
+                                30, 
+                                0
+                            ], 
+                            [
+                                0, 
+                                0
+                            ], 
+                            [
+                                -60, 
+                                0
+                            ]
+                        ]
+                    }, 
+                    "type": 8192
+                }, 
+                {
+                    "child_index": 2, 
+                    "id": 10027, 
+                    "name": "002\u8def\u6807\u8def\u5f8402", 
+                    "placed_lock": false, 
+                    "placed_visibility": true, 
+                    "pos": {
+                        "__tuple__": true, 
+                        "items": [
+                            [
+                                38, 
+                                0
+                            ], 
+                            [
+                                0, 
+                                0
+                            ], 
+                            [
+                                -62, 
+                                0
+                            ]
+                        ]
+                    }, 
+                    "type": 8192
+                }
+            ]
+        }, 
+        "10031": {
+            "id": 10031, 
+            "name": "002\u602a\u7269\u8fdb\u653b\u8def\u5f8402", 
+            "road_point_list": [
+                {
+                    "child_index": 1, 
+                    "id": 10031, 
+                    "name": "002\u602a\u7269\u8fdb\u653b\u8def\u5f8402", 
+                    "placed_lock": false, 
+                    "placed_visibility": true, 
+                    "pos": {
+                        "__tuple__": true, 
+                        "items": [
+                            [
+                                26, 
+                                0
+                            ], 
+                            [
+                                0, 
+                                0
+                            ], 
+                            [
+                                -76, 
+                                0
+                            ]
+                        ]
+                    }, 
+                    "type": 8192
+                }, 
+                {
+                    "child_index": 2, 
+                    "id": 10031, 
+                    "name": "002\u602a\u7269\u8fdb\u653b\u8def\u5f8402", 
+                    "placed_lock": false, 
+                    "placed_visibility": true, 
+                    "pos": {
+                        "__tuple__": true, 
+                        "items": [
+                            [
+                                18, 
+                                0
+                            ], 
+                            [
+                                0, 
+                                0
+                            ], 
+                            [
+                                -76, 
+                                0
+                            ]
+                        ]
+                    }, 
+                    "type": 8192
+                }, 
+                {
+                    "child_index": 3, 
+                    "id": 10031, 
+                    "name": "002\u602a\u7269\u8fdb\u653b\u8def\u5f8402", 
+                    "placed_lock": false, 
+                    "placed_visibility": true, 
+                    "pos": {
+                        "__tuple__": true, 
+                        "items": [
+                            [
+                                15, 
+                                0
+                            ], 
+                            [
+                                0, 
+                                0
+                            ], 
+                            [
+                                -73, 
+                                0
+                            ]
+                        ]
+                    }, 
+                    "type": 8192
+                }, 
+                {
+                    "child_index": 4, 
+                    "id": 10031, 
+                    "name": "002\u602a\u7269\u8fdb\u653b\u8def\u5f8402", 
+                    "placed_lock": false, 
+                    "placed_visibility": true, 
+                    "pos": {
+                        "__tuple__": true, 
+                        "items": [
+                            [
+                                15, 
+                                0
+                            ], 
+                            [
+                                0, 
+                                0
+                            ], 
+                            [
+                                -60, 
+                                0
+                            ]
+                        ]
+                    }, 
+                    "type": 8192
+                }, 
+                {
+                    "child_index": 5, 
+                    "id": 10031, 
+                    "name": "002\u602a\u7269\u8fdb\u653b\u8def\u5f8402", 
+                    "placed_lock": false, 
+                    "placed_visibility": true, 
+                    "pos": {
+                        "__tuple__": true, 
+                        "items": [
+                            [
+                                15, 
+                                0
+                            ], 
+                            [
+                                0, 
+                                0
+                            ], 
+                            [
+                                -47, 
+                                0
+                            ]
+                        ]
+                    }, 
+                    "type": 8192
+                }, 
+                {
+                    "child_index": 6, 
+                    "id": 10031, 
+                    "name": "002\u602a\u7269\u8fdb\u653b\u8def\u5f8402", 
+                    "placed_lock": false, 
+                    "placed_visibility": true, 
+                    "pos": {
+                        "__tuple__": true, 
+                        "items": [
+                            [
+                                18, 
+                                0
+                            ], 
+                            [
+                                0, 
+                                0
+                            ], 
+                            [
+                                -44, 
+                                0
+                            ]
+                        ]
+                    }, 
+                    "type": 8192
+                }, 
+                {
+                    "child_index": 7, 
+                    "id": 10031, 
+                    "name": "002\u602a\u7269\u8fdb\u653b\u8def\u5f8402", 
+                    "placed_lock": false, 
+                    "placed_visibility": true, 
+                    "pos": {
+                        "__tuple__": true, 
+                        "items": [
+                            [
+                                24, 
+                                0
+                            ], 
+                            [
+                                0, 
+                                0
+                            ], 
+                            [
+                                -44, 
+                                0
+                            ]
+                        ]
+                    }, 
+                    "type": 8192
+                }
+            ]
+        }, 
+        "10032": {
+            "id": 10032, 
+            "name": "002\u602a\u7269\u8fdb\u653b\u8def\u5f8401", 
+            "road_point_list": [
+                {
+                    "child_index": 1, 
+                    "id": 10032, 
+                    "name": "002\u602a\u7269\u8fdb\u653b\u8def\u5f8401", 
+                    "placed_lock": false, 
+                    "placed_visibility": true, 
+                    "pos": {
+                        "__tuple__": true, 
+                        "items": [
+                            [
+                                30, 
+                                0
+                            ], 
+                            [
+                                0, 
+                                0
+                            ], 
+                            [
+                                -76, 
+                                0
+                            ]
+                        ]
+                    }, 
+                    "type": 8192
+                }, 
+                {
+                    "child_index": 2, 
+                    "id": 10032, 
+                    "name": "002\u602a\u7269\u8fdb\u653b\u8def\u5f8401", 
+                    "placed_lock": false, 
+                    "placed_visibility": true, 
+                    "pos": {
+                        "__tuple__": true, 
+                        "items": [
+                            [
+                                38, 
+                                0
+                            ], 
+                            [
+                                0, 
+                                0
+                            ], 
+                            [
+                                -76, 
+                                0
+                            ]
+                        ]
+                    }, 
+                    "type": 8192
+                }, 
+                {
+                    "child_index": 3, 
+                    "id": 10032, 
+                    "name": "002\u602a\u7269\u8fdb\u653b\u8def\u5f8401", 
+                    "placed_lock": false, 
+                    "placed_visibility": true, 
+                    "pos": {
+                        "__tuple__": true, 
+                        "items": [
+                            [
+                                41, 
+                                0
+                            ], 
+                            [
+                                0, 
+                                0
+                            ], 
+                            [
+                                -73, 
+                                0
+                            ]
+                        ]
+                    }, 
+                    "type": 8192
+                }, 
+                {
+                    "child_index": 4, 
+                    "id": 10032, 
+                    "name": "002\u602a\u7269\u8fdb\u653b\u8def\u5f8401", 
+                    "placed_lock": false, 
+                    "placed_visibility": true, 
+                    "pos": {
+                        "__tuple__": true, 
+                        "items": [
+                            [
+                                41, 
+                                0
+                            ], 
+                            [
+                                0, 
+                                0
+                            ], 
+                            [
+                                -60, 
+                                0
+                            ]
+                        ]
+                    }, 
+                    "type": 8192
+                }, 
+                {
+                    "child_index": 5, 
+                    "id": 10032, 
+                    "name": "002\u602a\u7269\u8fdb\u653b\u8def\u5f8401", 
+                    "placed_lock": false, 
+                    "placed_visibility": true, 
+                    "pos": {
+                        "__tuple__": true, 
+                        "items": [
+                            [
+                                41, 
+                                0
+                            ], 
+                            [
+                                0, 
+                                0
+                            ], 
+                            [
+                                -47, 
+                                0
+                            ]
+                        ]
+                    }, 
+                    "type": 8192
+                }, 
+                {
+                    "child_index": 6, 
+                    "id": 10032, 
+                    "name": "002\u602a\u7269\u8fdb\u653b\u8def\u5f8401", 
+                    "placed_lock": false, 
+                    "placed_visibility": true, 
+                    "pos": {
+                        "__tuple__": true, 
+                        "items": [
+                            [
+                                38, 
+                                0
+                            ], 
+                            [
+                                0, 
+                                0
+                            ], 
+                            [
+                                -44, 
+                                0
+                            ]
+                        ]
+                    }, 
+                    "type": 8192
+                }, 
+                {
+                    "child_index": 7, 
+                    "id": 10032, 
+                    "name": "002\u602a\u7269\u8fdb\u653b\u8def\u5f8401", 
+                    "placed_lock": false, 
+                    "placed_visibility": true, 
+                    "pos": {
+                        "__tuple__": true, 
+                        "items": [
+                            [
+                                32, 
+                                0
+                            ], 
+                            [
+                                0, 
+                                0
+                            ], 
+                            [
+                                -44, 
+                                0
+                            ]
+                        ]
+                    }, 
+                    "type": 8192
+                }
+            ]
+        }, 
+        "10033": {
+            "id": 10033, 
+            "name": "002\u602a\u7269\u8fdb\u653b\u8def\u5f8403", 
+            "road_point_list": [
+                {
+                    "child_index": 1, 
+                    "id": 10033, 
+                    "name": "002\u602a\u7269\u8fdb\u653b\u8def\u5f8403", 
+                    "placed_lock": false, 
+                    "placed_visibility": true, 
+                    "pos": {
+                        "__tuple__": true, 
+                        "items": [
+                            [
+                                27, 
+                                0
+                            ], 
+                            [
+                                0, 
+                                0
+                            ], 
+                            [
+                                -66, 
+                                0
+                            ]
+                        ]
+                    }, 
+                    "type": 8192
+                }, 
+                {
+                    "child_index": 2, 
+                    "id": 10033, 
+                    "name": "002\u602a\u7269\u8fdb\u653b\u8def\u5f8403", 
+                    "placed_lock": false, 
+                    "placed_visibility": true, 
+                    "pos": {
+                        "__tuple__": true, 
+                        "items": [
+                            [
+                                24, 
+                                0
+                            ], 
+                            [
+                                0, 
+                                0
+                            ], 
+                            [
+                                -62, 
+                                0
+                            ]
+                        ]
+                    }, 
+                    "type": 8192
+                }, 
+                {
+                    "child_index": 3, 
+                    "id": 10033, 
+                    "name": "002\u602a\u7269\u8fdb\u653b\u8def\u5f8403", 
+                    "placed_lock": false, 
+                    "placed_visibility": true, 
+                    "pos": {
+                        "__tuple__": true, 
+                        "items": [
+                            [
+                                26, 
+                                0
+                            ], 
+                            [
+                                0, 
+                                0
+                            ], 
+                            [
+                                -60, 
+                                0
+                            ]
+                        ]
+                    }, 
+                    "type": 8192
+                }, 
+                {
+                    "child_index": 4, 
+                    "id": 10033, 
+                    "name": "002\u602a\u7269\u8fdb\u653b\u8def\u5f8403", 
+                    "placed_lock": false, 
+                    "placed_visibility": true, 
+                    "pos": {
+                        "__tuple__": true, 
+                        "items": [
+                            [
+                                28, 
+                                0
+                            ], 
+                            [
+                                0, 
+                                0
+                            ], 
+                            [
+                                -48, 
+                                0
+                            ]
+                        ]
+                    }, 
+                    "type": 8192
+                }
+            ]
+        }, 
+        "10034": {
+            "id": 10034, 
+            "name": "002\u602a\u7269\u8fdb\u653b\u8def\u5f8404", 
+            "road_point_list": [
+                {
+                    "child_index": 1, 
+                    "id": 10034, 
+                    "name": "002\u602a\u7269\u8fdb\u653b\u8def\u5f8404", 
+                    "placed_lock": false, 
+                    "placed_visibility": true, 
+                    "pos": {
+                        "__tuple__": true, 
+                        "items": [
+                            [
+                                29, 
+                                2147483648
+                            ], 
+                            [
+                                0, 
+                                0
+                            ], 
+                            [
+                                -66, 
+                                0
+                            ]
+                        ]
+                    }, 
+                    "type": 8192
+                }, 
+                {
+                    "child_index": 2, 
+                    "id": 10034, 
+                    "name": "002\u602a\u7269\u8fdb\u653b\u8def\u5f8404", 
+                    "placed_lock": false, 
+                    "placed_visibility": true, 
+                    "pos": {
+                        "__tuple__": true, 
+                        "items": [
+                            [
+                                32, 
+                                0
+                            ], 
+                            [
+                                0, 
+                                0
+                            ], 
+                            [
+                                -62, 
+                                0
+                            ]
+                        ]
+                    }, 
+                    "type": 8192
+                }, 
+                {
+                    "child_index": 3, 
+                    "id": 10034, 
+                    "name": "002\u602a\u7269\u8fdb\u653b\u8def\u5f8404", 
+                    "placed_lock": false, 
+                    "placed_visibility": true, 
+                    "pos": {
+                        "__tuple__": true, 
+                        "items": [
+                            [
+                                30, 
+                                0
+                            ], 
+                            [
+                                0, 
+                                0
+                            ], 
+                            [
+                                -60, 
+                                0
+                            ]
+                        ]
+                    }, 
+                    "type": 8192
+                }, 
+                {
+                    "child_index": 4, 
+                    "id": 10034, 
+                    "name": "002\u602a\u7269\u8fdb\u653b\u8def\u5f8404", 
+                    "placed_lock": false, 
+                    "placed_visibility": true, 
+                    "pos": {
+                        "__tuple__": true, 
+                        "items": [
+                            [
+                                28, 
+                                0
+                            ], 
+                            [
+                                0, 
+                                0
+                            ], 
+                            [
+                                -48, 
+                                0
+                            ]
+                        ]
+                    }, 
+                    "type": 8192
+                }
+            ]
+        }, 
+        "10035": {
+            "id": 10035, 
+            "name": "002\u602a\u7269\u8fdb\u653b\u8def\u5f8406", 
+            "road_point_list": [
+                {
+                    "child_index": 1, 
+                    "id": 10035, 
+                    "name": "002\u602a\u7269\u8fdb\u653b\u8def\u5f8406", 
+                    "placed_lock": false, 
+                    "placed_visibility": true, 
+                    "pos": {
+                        "__tuple__": true, 
+                        "items": [
+                            [
+                                18, 
+                                0
+                            ], 
+                            [
+                                0, 
+                                0
+                            ], 
+                            [
+                                -62, 
+                                0
+                            ]
+                        ]
+                    }, 
+                    "type": 8192
+                }, 
+                {
+                    "child_index": 2, 
+                    "id": 10035, 
+                    "name": "002\u602a\u7269\u8fdb\u653b\u8def\u5f8406", 
+                    "placed_lock": false, 
+                    "placed_visibility": true, 
+                    "pos": {
+                        "__tuple__": true, 
+                        "items": [
+                            [
+                                26, 
+                                0
+                            ], 
+                            [
+                                0, 
+                                0
+                            ], 
+                            [
+                                -60, 
+                                0
+                            ]
+                        ]
+                    }, 
+                    "type": 8192
+                }, 
+                {
+                    "child_index": 3, 
+                    "id": 10035, 
+                    "name": "002\u602a\u7269\u8fdb\u653b\u8def\u5f8406", 
+                    "placed_lock": false, 
+                    "placed_visibility": true, 
+                    "pos": {
+                        "__tuple__": true, 
+                        "items": [
+                            [
+                                28, 
+                                0
+                            ], 
+                            [
+                                0, 
+                                0
+                            ], 
+                            [
+                                -48, 
+                                0
+                            ]
+                        ]
+                    }, 
+                    "type": 8192
+                }
+            ]
+        }, 
+        "10036": {
+            "id": 10036, 
+            "name": "002\u602a\u7269\u8fdb\u653b\u8def\u5f8405", 
+            "road_point_list": [
+                {
+                    "child_index": 1, 
+                    "id": 10036, 
+                    "name": "002\u602a\u7269\u8fdb\u653b\u8def\u5f8405", 
+                    "placed_lock": false, 
+                    "placed_visibility": true, 
+                    "pos": {
+                        "__tuple__": true, 
+                        "items": [
+                            [
+                                38, 
+                                0
+                            ], 
+                            [
+                                0, 
+                                0
+                            ], 
+                            [
+                                -62, 
+                                0
+                            ]
+                        ]
+                    }, 
+                    "type": 8192
+                }, 
+                {
+                    "child_index": 2, 
+                    "id": 10036, 
+                    "name": "002\u602a\u7269\u8fdb\u653b\u8def\u5f8405", 
+                    "placed_lock": false, 
+                    "placed_visibility": true, 
+                    "pos": {
+                        "__tuple__": true, 
+                        "items": [
+                            [
+                                30, 
+                                0
+                            ], 
+                            [
+                                0, 
+                                0
+                            ], 
+                            [
+                                -60, 
+                                0
+                            ]
+                        ]
+                    }, 
+                    "type": 8192
+                }, 
+                {
+                    "child_index": 3, 
+                    "id": 10036, 
+                    "name": "002\u602a\u7269\u8fdb\u653b\u8def\u5f8405", 
+                    "placed_lock": false, 
+                    "placed_visibility": true, 
+                    "pos": {
+                        "__tuple__": true, 
+                        "items": [
+                            [
+                                28, 
+                                0
+                            ], 
+                            [
+                                0, 
+                                0
+                            ], 
+                            [
+                                -48, 
+                                0
+                            ]
+                        ]
+                    }, 
+                    "type": 8192
+                }
+            ]
+        }
+    }, 
+    "32768": {
+        "9999": {
+            "camera_dist": 98.99994853371041, 
+            "far": 1000.0, 
+            "focus_max_dist": 400.0, 
+            "focus_min_dist": 10.0, 
+            "focus_x": 28.901805877685547, 
+            "focus_y": 0.0, 
+            "focus_z": -58.024784088134766, 
+            "fov": 35.0, 
+            "fov_disabled": true, 
+            "id": 9999, 
+            "is_origin_cam": true, 
+            "is_ortho": false, 
+            "name": "\u521d\u59cb\u955c\u5934", 
+            "ortho_scale": 5.0, 
+            "pitch": 0.9773842342386991, 
+            "placed_lock": false, 
+            "placed_visibility": true, 
+            "roll": 0.0, 
+            "set_camera_conf_realtime": true, 
+            "type": 32768, 
+            "yaw": 6.283185307179586
+        }
+    }, 
+    "65536": {}, 
+    "131072": {}, 
+    "262144": {}, 
+    "1048576": {}, 
+    "2097152": {}, 
+    "4194304": {}, 
+    "134217728": {}
+}

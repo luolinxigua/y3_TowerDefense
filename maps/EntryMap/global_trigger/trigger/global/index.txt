@@ -1,0 +1,11 @@
+{
+    "CHEAT.json": 0, 
+    "countdown.json": 7, 
+    "craete_hero.json": 1, 
+    "death_building.json": 4, 
+    "death_unit.json": 5, 
+    "lock_hero.json": 2, 
+    "rez_hero.json": 3, 
+    "stage_func.json": 8, 
+    "victory_defeat.json": 6
+}

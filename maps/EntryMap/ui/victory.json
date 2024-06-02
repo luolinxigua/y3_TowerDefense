@@ -1,0 +1,106 @@
+{
+    "adapt_mode": 1, 
+    "anim_data": {}, 
+    "children": [
+        {
+            "children": [], 
+            "event_list": [], 
+            "image": 106330, 
+            "name": "bg", 
+            "pos": {
+                "__tuple__": true, 
+                "items": [
+                    960.0, 
+                    600.0
+                ]
+            }, 
+            "pos_percent": {
+                "__tuple__": true, 
+                "items": [
+                    50.0, 
+                    55.5556
+                ]
+            }, 
+            "prefab_sub_key": null, 
+            "scene_ui_name": null, 
+            "size": {
+                "__tuple__": true, 
+                "items": [
+                    700.0, 
+                    400.0
+                ]
+            }, 
+            "type": 4, 
+            "uid": "8ba63543-870f-4a76-a9cb-0d958742247d"
+        }, 
+        {
+            "children": [], 
+            "event_list": [
+                {
+                    "action_list": [], 
+                    "enabled": true, 
+                    "name": "btn_victory", 
+                    "sound_id": null, 
+                    "type": 28
+                }
+            ], 
+            "font": {
+                "__tuple__": true, 
+                "items": [
+                    "134228746", 
+                    30
+                ]
+            }, 
+            "hover_status_added": true, 
+            "name": "btn_victory", 
+            "normal_picture": 100372, 
+            "normal_text": {
+                "__tuple__": true, 
+                "items": [
+                    "\u7ee7 \u7eed", 
+                    false
+                ]
+            }, 
+            "pos": {
+                "__tuple__": true, 
+                "items": [
+                    960.0, 
+                    400.0
+                ]
+            }, 
+            "pos_percent": {
+                "__tuple__": true, 
+                "items": [
+                    50.0, 
+                    37.037
+                ]
+            }, 
+            "prefab_sub_key": null, 
+            "scene_ui_name": null, 
+            "size": {
+                "__tuple__": true, 
+                "items": [
+                    200.0, 
+                    60.0
+                ]
+            }, 
+            "suspend_picture": 100414, 
+            "suspend_text": {
+                "__tuple__": true, 
+                "items": [
+                    "\u7ee7 \u7eed", 
+                    false
+                ]
+            }, 
+            "type": 1, 
+            "uid": "1c408e92-9e8c-409d-ae7e-df03514d2586"
+        }
+    ], 
+    "name": "victory", 
+    "opacity": 1.0, 
+    "type": 2, 
+    "ui_anims": [], 
+    "uid": "6400881b-1906-47ef-9cc7-74fe6b535a37", 
+    "visible": false, 
+    "zorder": 400
+}

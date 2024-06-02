@@ -1,0 +1,106 @@
+{
+    "adapt_mode": 1, 
+    "anim_data": {}, 
+    "children": [
+        {
+            "children": [], 
+            "event_list": [], 
+            "image": 106331, 
+            "name": "bg", 
+            "pos": {
+                "__tuple__": true, 
+                "items": [
+                    960.0, 
+                    600.0
+                ]
+            }, 
+            "pos_percent": {
+                "__tuple__": true, 
+                "items": [
+                    50.0, 
+                    55.5556
+                ]
+            }, 
+            "prefab_sub_key": null, 
+            "scene_ui_name": null, 
+            "size": {
+                "__tuple__": true, 
+                "items": [
+                    700.0, 
+                    400.0
+                ]
+            }, 
+            "type": 4, 
+            "uid": "80c415df-485b-4fa6-9199-2c4196551186"
+        }, 
+        {
+            "children": [], 
+            "event_list": [
+                {
+                    "action_list": [], 
+                    "enabled": true, 
+                    "name": "btn_defeat", 
+                    "sound_id": null, 
+                    "type": 28
+                }
+            ], 
+            "font": {
+                "__tuple__": true, 
+                "items": [
+                    "134228746", 
+                    30
+                ]
+            }, 
+            "hover_status_added": true, 
+            "name": "btn_defeat", 
+            "normal_picture": 100372, 
+            "normal_text": {
+                "__tuple__": true, 
+                "items": [
+                    "\u7ee7 \u7eed", 
+                    false
+                ]
+            }, 
+            "pos": {
+                "__tuple__": true, 
+                "items": [
+                    960.0, 
+                    400.0
+                ]
+            }, 
+            "pos_percent": {
+                "__tuple__": true, 
+                "items": [
+                    50.0, 
+                    37.037
+                ]
+            }, 
+            "prefab_sub_key": null, 
+            "scene_ui_name": null, 
+            "size": {
+                "__tuple__": true, 
+                "items": [
+                    200.0, 
+                    60.0
+                ]
+            }, 
+            "suspend_picture": 100414, 
+            "suspend_text": {
+                "__tuple__": true, 
+                "items": [
+                    "\u7ee7 \u7eed", 
+                    false
+                ]
+            }, 
+            "type": 1, 
+            "uid": "aae2d403-b2a5-45a3-b364-48320f7e9222"
+        }
+    ], 
+    "name": "defeat", 
+    "opacity": 1.0, 
+    "type": 2, 
+    "ui_anims": [], 
+    "uid": "ab0517e2-7b6f-4d77-bc1c-fdda5f1e77fc", 
+    "visible": false, 
+    "zorder": 400
+}

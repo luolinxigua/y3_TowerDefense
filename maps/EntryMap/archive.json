@@ -1,0 +1,50 @@
+{
+    "archive_drop_config": {}, 
+    "archive_slots": {
+        "1": {
+            "billboard_max_item_num": 0, 
+            "billboard_sort_type": 0, 
+            "encrypt": true, 
+            "key": 1, 
+            "name": "stage", 
+            "type": 4, 
+            "value": "StageInfo"
+        }, 
+        "2": {
+            "billboard_max_item_num": 0, 
+            "billboard_sort_type": 0, 
+            "encrypt": true, 
+            "key": 2, 
+            "name": "skill", 
+            "type": 4, 
+            "value": "SkillInfo"
+        }, 
+        "3": {
+            "billboard_max_item_num": 0, 
+            "billboard_sort_type": 0, 
+            "encrypt": true, 
+            "key": 3, 
+            "name": "group", 
+            "type": 4, 
+            "value": "GroupInfo"
+        }, 
+        "4": {
+            "billboard_max_item_num": 0, 
+            "billboard_sort_type": 0, 
+            "encrypt": false, 
+            "key": 4, 
+            "name": "default_hero", 
+            "type": 2, 
+            "value": 1001
+        }, 
+        "5": {
+            "billboard_max_item_num": 0, 
+            "billboard_sort_type": 0, 
+            "encrypt": true, 
+            "key": 5, 
+            "name": "tip", 
+            "type": 4, 
+            "value": "TipInfo"
+        }
+    }
+}

@@ -1,0 +1,1046 @@
+{
+    "local_variable": {
+        "36646942": {
+            "variable_dict": {
+                "INTEGER": {
+                    "cindex": 0, 
+                    "rindex": 0
+                }, 
+                "PLAYER": {}, 
+                "UNIT_ENTITY": {
+                    "unit": 0
+                }
+            }, 
+            "variable_length_dict": {
+                "cindex": 0, 
+                "rindex": 0, 
+                "unit": 0
+            }
+        }, 
+        "72462362": {
+            "variable_dict": {
+                "INTEGER": {
+                    "cindex": 0, 
+                    "rindex": 0
+                }
+            }, 
+            "variable_length_dict": {
+                "cindex": 0, 
+                "rindex": 0
+            }
+        }, 
+        "81289322": {
+            "variable_dict": {
+                "RECTANGLE": {
+                    "area": 0
+                }, 
+                "UNIT_ENTITY": {
+                    "target": 0
+                }
+            }, 
+            "variable_length_dict": {
+                "area": 0, 
+                "target": 0
+            }
+        }, 
+        "132288546": {
+            "variable_dict": {
+                "ABILITY": {
+                    "skill": null
+                }, 
+                "BOOLEAN": {
+                    "boolean": false, 
+                    "is_shop_tips": false
+                }, 
+                "ITEM_ENTITY": {
+                    "item": 0
+                }, 
+                "ITEM_NAME": {
+                    "item_type": 0
+                }, 
+                "MODIFIER_ENTITY": {
+                    "modifier": 0
+                }, 
+                "PLAYER": {
+                    "player": 0
+                }, 
+                "STRING": {}
+            }, 
+            "variable_length_dict": {
+                "boolean": 0, 
+                "is_shop_tips": 0, 
+                "item": 0, 
+                "item_type": 0, 
+                "modifier": 0, 
+                "player": 0, 
+                "skill": 0
+            }
+        }, 
+        "210653238": {
+            "variable_dict": {
+                "UNIT_ENTITY": {
+                    "last_main_unit": 0
+                }, 
+                "UNIT_GROUP": {
+                    "unit_group": []
+                }
+            }, 
+            "variable_length_dict": {
+                "last_main_unit": 0, 
+                "unit_group": 0
+            }
+        }, 
+        "333193219": {
+            "variable_dict": {
+                "BOOLEAN": {
+                    "is_bag_open": false
+                }
+            }, 
+            "variable_length_dict": {
+                "is_bag_open": 0
+            }
+        }, 
+        "366354479": {
+            "variable_dict": {
+                "PLAYER": {}, 
+                "UNIT_ENTITY": {
+                    "store unit": 0
+                }
+            }, 
+            "variable_length_dict": {
+                "store unit": 0
+            }
+        }, 
+        "430391369": {
+            "variable_dict": {
+                "INTEGER": {
+                    "i": 0
+                }, 
+                "TABLE": {
+                    "groupInfo": null
+                }, 
+                "UNIT_ENTITY": {
+                    "hero": 0
+                }
+            }, 
+            "variable_length_dict": {
+                "groupInfo": 0, 
+                "hero": 0, 
+                "i": 0
+            }
+        }, 
+        "503767069": {
+            "variable_dict": {
+                "ITEM_ENTITY": {}, 
+                "PLAYER": {}
+            }, 
+            "variable_length_dict": {}
+        }, 
+        "524156982": {
+            "variable_dict": {
+                "UNIT_ENTITY": {
+                    "last_main_unit": 0
+                }, 
+                "UNIT_GROUP": {
+                    "unit_group": []
+                }
+            }, 
+            "variable_length_dict": {
+                "last_main_unit": 0, 
+                "unit_group": 0
+            }
+        }, 
+        "534593552": {
+            "variable_dict": {
+                "INTEGER": {
+                    "index": 0
+                }, 
+                "PLAYER": {
+                    "player": 0
+                }, 
+                "UNIT_ENTITY": {
+                    "unit": 0
+                }
+            }, 
+            "variable_length_dict": {
+                "index": 0, 
+                "player": 0, 
+                "unit": 0
+            }
+        }, 
+        "534671435": {
+            "variable_dict": {
+                "POINT": {
+                    "pot": {
+                        "__tuple__": true, 
+                        "items": [
+                            0, 
+                            0, 
+                            0
+                        ]
+                    }
+                }, 
+                "UNIT_ENTITY": {
+                    "building": 0
+                }
+            }, 
+            "variable_length_dict": {
+                "building": 0, 
+                "pot": 0
+            }
+        }, 
+        "568463368": {
+            "variable_dict": {
+                "NEW_TIMER": {
+                    "t": -1
+                }, 
+                "PLAYER": {
+                    "player": 0
+                }, 
+                "UNIT_ENTITY": {
+                    "unit": 0
+                }
+            }, 
+            "variable_length_dict": {
+                "player": 0, 
+                "t": 0, 
+                "unit": 0
+            }
+        }, 
+        "671428624": {
+            "variable_dict": {
+                "DYNAMIC_TRIGGER_INSTANCE": {
+                    "t1": 0, 
+                    "t2": 0
+                }, 
+                "ITEM_ENTITY": {
+                    "item": 0
+                }, 
+                "PLAYER": {
+                    "player": 0
+                }, 
+                "UNIT_ENTITY": {
+                    "unit": 0
+                }
+            }, 
+            "variable_length_dict": {
+                "item": 0, 
+                "player": 0, 
+                "t1": 0, 
+                "t2": 0, 
+                "unit": 0
+            }
+        }, 
+        "718082063": {
+            "variable_dict": {
+                "INTEGER": {
+                    "index": 0, 
+                    "n": 0
+                }, 
+                "PLAYER": {
+                    "player": 0
+                }, 
+                "UNIT_ENTITY": {
+                    "unit": 0
+                }
+            }, 
+            "variable_length_dict": {
+                "index": 0, 
+                "n": 0, 
+                "player": 0, 
+                "unit": 0
+            }
+        }, 
+        "734306311": {
+            "variable_dict": {
+                "INTEGER": {
+                    "Ci": 0, 
+                    "Ri": 0, 
+                    "bag_slot": 0, 
+                    "now_column": 0, 
+                    "now_row": 0
+                }, 
+                "UI_PREFAB_INSTANCE": {
+                    "slot": ""
+                }
+            }, 
+            "variable_length_dict": {
+                "Ci": 0, 
+                "Ri": 0, 
+                "bag_slot": 0, 
+                "now_column": 0, 
+                "now_row": 0, 
+                "slot": 0
+            }
+        }, 
+        "786112514": {
+            "variable_dict": {
+                "DYNAMIC_TRIGGER_INSTANCE": {
+                    "trig": 0
+                }, 
+                "INTEGER": {
+                    "hero_list_len": 0, 
+                    "i": 0, 
+                    "n": 0, 
+                    "num": 0
+                }, 
+                "NEW_TIMER": {}, 
+                "STRING": {
+                    "hour": "", 
+                    "min": ""
+                }
+            }, 
+            "variable_length_dict": {
+                "hero_list_len": 0, 
+                "hour": 0, 
+                "i": 0, 
+                "min": 0, 
+                "n": 0, 
+                "num": 0, 
+                "trig": 0
+            }
+        }, 
+        "828813355": {
+            "variable_dict": {
+                "FLOAT": {
+                    "time": 0.0
+                }, 
+                "NEW_TIMER": {
+                    "t": -1
+                }, 
+                "PLAYER": {
+                    "player": 0
+                }, 
+                "STRING": {
+                    "info": ""
+                }
+            }, 
+            "variable_length_dict": {
+                "info": 0, 
+                "player": 0, 
+                "t": 0, 
+                "time": 0
+            }
+        }, 
+        "863993900": {
+            "variable_dict": {
+                "FLOAT": {
+                    "dis": 0.0
+                }
+            }, 
+            "variable_length_dict": {
+                "dis": 0
+            }
+        }, 
+        "990195764": {
+            "variable_dict": {
+                "INTEGER": {
+                    "n": 0
+                }
+            }, 
+            "variable_length_dict": {
+                "n": 0
+            }
+        }, 
+        "1039151122": {
+            "variable_dict": {
+                "FLOAT": {
+                    "pos": 0.0, 
+                    "tips_size": 0.0
+                }, 
+                "PLAYER": {
+                    "Player": 0
+                }
+            }, 
+            "variable_length_dict": {
+                "Player": 0, 
+                "pos": 10, 
+                "tips_size": 10
+            }
+        }, 
+        "1268478034": {
+            "variable_dict": {
+                "FLOAT": {
+                    "dmg": 0.0
+                }, 
+                "POINT": {
+                    "rez_pos": {
+                        "__tuple__": true, 
+                        "items": [
+                            0, 
+                            0, 
+                            0
+                        ]
+                    }
+                }
+            }, 
+            "variable_length_dict": {
+                "dmg": 0, 
+                "rez_pos": 0
+            }
+        }, 
+        "1270726670": {
+            "variable_dict": {
+                "NEW_TIMER": {
+                    "t": -1
+                }, 
+                "PLAYER": {
+                    "player": 0
+                }, 
+                "UNIT_ENTITY": {
+                    "unit": 0
+                }
+            }, 
+            "variable_length_dict": {
+                "player": 0, 
+                "t": 0, 
+                "unit": 0
+            }
+        }, 
+        "1302442017": {
+            "variable_dict": {
+                "PLAYER": {}, 
+                "UNIT_ENTITY": {
+                    "unit": 0
+                }
+            }, 
+            "variable_length_dict": {
+                "unit": 0
+            }
+        }, 
+        "1325858865": {
+            "variable_dict": {
+                "INTEGER": {
+                    "i": 0
+                }, 
+                "PLAYER": {
+                    "player": 0
+                }, 
+                "UNIT_ENTITY": {
+                    "store_unit": 0
+                }
+            }, 
+            "variable_length_dict": {
+                "i": 0, 
+                "player": 0, 
+                "store_unit": 0
+            }
+        }, 
+        "1330442311": {
+            "variable_dict": {
+                "INTEGER": {
+                    "i": 0
+                }, 
+                "TABLE": {
+                    "groupInfo": null, 
+                    "stageInfo": null
+                }, 
+                "UNIT_ENTITY": {
+                    "enemyBase": 0, 
+                    "enemyTower_1": 0, 
+                    "hero": 0, 
+                    "mob1": 0, 
+                    "mob2": 0, 
+                    "mob3": 0, 
+                    "mob4": 0, 
+                    "myBase": 0, 
+                    "target": 0
+                }
+            }, 
+            "variable_length_dict": {
+                "enemyBase": 0, 
+                "enemyTower_1": 0, 
+                "groupInfo": 0, 
+                "hero": 0, 
+                "i": 0, 
+                "mob1": 0, 
+                "mob2": 0, 
+                "mob3": 0, 
+                "mob4": 0, 
+                "myBase": 0, 
+                "stageInfo": 0, 
+                "target": 0
+            }
+        }, 
+        "1393229841": {
+            "variable_dict": {
+                "DESTRUCTIBLE_ENTITY": {
+                    "destructible": 0
+                }, 
+                "DYNAMIC_TRIGGER_INSTANCE": {
+                    "t1": 0, 
+                    "t2": 0
+                }, 
+                "ITEM_ENTITY": {
+                    "item": 0
+                }, 
+                "PLAYER": {
+                    "player": 0
+                }, 
+                "UNIT_ENTITY": {
+                    "unit": 0
+                }
+            }, 
+            "variable_length_dict": {
+                "destructible": 0, 
+                "item": 0, 
+                "player": 0, 
+                "t1": 0, 
+                "t2": 0, 
+                "unit": 0
+            }
+        }, 
+        "1421762656": {
+            "variable_dict": {
+                "INTEGER": {
+                    "random_mob": 0, 
+                    "random_route": 0
+                }, 
+                "TABLE": {
+                    "mob_list": null
+                }, 
+                "UNIT_ENTITY": {
+                    "enemyTower_1": 0, 
+                    "enemyTower_2": 0, 
+                    "mob1": 0, 
+                    "mob2": 0, 
+                    "mob3": 0, 
+                    "mob4": 0, 
+                    "target": 0
+                }, 
+                "UNIT_GROUP": {
+                    "mob": []
+                }
+            }, 
+            "variable_length_dict": {
+                "enemyTower_1": 0, 
+                "enemyTower_2": 0, 
+                "mob": 10, 
+                "mob1": 0, 
+                "mob2": 0, 
+                "mob3": 0, 
+                "mob4": 0, 
+                "mob_list": 0, 
+                "random_mob": 0, 
+                "random_route": 0, 
+                "target": 0
+            }
+        }, 
+        "1425182768": {
+            "variable_dict": {
+                "INTEGER": {
+                    "goods_index": 0, 
+                    "n": 0, 
+                    "new tab index": 0, 
+                    "slot": 0
+                }, 
+                "NEW_TIMER": {
+                    "t": -1
+                }, 
+                "PLAYER": {
+                    "player": 0
+                }, 
+                "UNIT_ENTITY": {
+                    "store unit": 0, 
+                    "unit": 0
+                }
+            }, 
+            "variable_length_dict": {
+                "goods_index": 0, 
+                "n": 0, 
+                "new tab index": 0, 
+                "player": 0, 
+                "slot": 0, 
+                "store unit": 0, 
+                "t": 0, 
+                "unit": 0
+            }
+        }, 
+        "1496309785": {
+            "variable_dict": {
+                "INTEGER": {
+                    "i": 0, 
+                    "index": 0, 
+                    "row": 0
+                }, 
+                "NEW_TIMER": {}, 
+                "PLAYER": {
+                    "player": 0
+                }
+            }, 
+            "variable_length_dict": {
+                "i": 0, 
+                "index": 0, 
+                "player": 0, 
+                "row": 0
+            }
+        }, 
+        "1559846928": {
+            "variable_dict": {
+                "INTEGER": {
+                    "Ci": 0, 
+                    "Ri": 0, 
+                    "i": 0, 
+                    "index": 0
+                }, 
+                "NEW_TIMER": {
+                    "t": -1
+                }, 
+                "PLAYER": {
+                    "player": 0
+                }, 
+                "UNIT_ENTITY": {
+                    "unit": 0
+                }, 
+                "UNIT_GROUP": {
+                    "unit group": []
+                }
+            }, 
+            "variable_length_dict": {
+                "Ci": 0, 
+                "Ri": 0, 
+                "i": 0, 
+                "index": 0, 
+                "player": 0, 
+                "t": 0, 
+                "unit": 0, 
+                "unit group": 0
+            }
+        }, 
+        "1577295940": {
+            "variable_dict": {
+                "ABILITY_NAME": {}, 
+                "INTEGER": {
+                    "i": 0
+                }, 
+                "STRING": {
+                    "click": ""
+                }, 
+                "TABLE": {
+                    "groupInfo": null
+                }, 
+                "UI_COMP": {}
+            }, 
+            "variable_length_dict": {
+                "click": 0, 
+                "groupInfo": 0, 
+                "i": 0
+            }
+        }, 
+        "1585119271": {
+            "variable_dict": {
+                "INTEGER": {
+                    "goods_index": 0, 
+                    "i": 0, 
+                    "n": 0, 
+                    "slot": 0
+                }, 
+                "NEW_TIMER": {
+                    "t": -1
+                }, 
+                "PLAYER": {
+                    "buyer player": 0, 
+                    "player": 0
+                }, 
+                "UNIT_ENTITY": {
+                    "store unit": 0, 
+                    "unit": 0
+                }
+            }, 
+            "variable_length_dict": {
+                "buyer player": 0, 
+                "goods_index": 0, 
+                "i": 0, 
+                "n": 0, 
+                "player": 0, 
+                "slot": 0, 
+                "store unit": 0, 
+                "t": 0, 
+                "unit": 0
+            }
+        }, 
+        "1660883006": {
+            "variable_dict": {
+                "BOOLEAN": {
+                    "isCompleted": false, 
+                    "isLocked": false
+                }, 
+                "INTEGER": {
+                    "i": 0, 
+                    "j": 0, 
+                    "x": 0, 
+                    "y": 0
+                }, 
+                "STRING": {
+                    "click": ""
+                }, 
+                "TABLE": {
+                    "groupInfo": null, 
+                    "stageInfo": null
+                }, 
+                "TABLE_SAVE": {}, 
+                "UNIT_ENTITY": {
+                    "hero": 0
+                }
+            }, 
+            "variable_length_dict": {
+                "click": 0, 
+                "groupInfo": 0, 
+                "hero": 0, 
+                "i": 0, 
+                "isCompleted": 0, 
+                "isLocked": 0, 
+                "j": 0, 
+                "stageInfo": 0, 
+                "x": 0, 
+                "y": 0
+            }
+        }, 
+        "1665630250": {
+            "variable_dict": {
+                "FLOAT": {
+                    "dis": 0.0
+                }
+            }, 
+            "variable_length_dict": {
+                "dis": 0
+            }
+        }, 
+        "1754353758": {
+            "variable_dict": {
+                "BOOLEAN": {
+                    "isCompleted": false, 
+                    "isLocked": false
+                }, 
+                "TABLE": {
+                    "stageInfo": null
+                }
+            }, 
+            "variable_length_dict": {
+                "isCompleted": 0, 
+                "isLocked": 0, 
+                "stageInfo": 0
+            }
+        }, 
+        "1775235134": {
+            "variable_dict": {
+                "INTEGER": {
+                    "i": 1000, 
+                    "j": 0
+                }, 
+                "STRING": {
+                    "click": "", 
+                    "skillNum": ""
+                }, 
+                "TABLE": {
+                    "groupInfo": null
+                }
+            }, 
+            "variable_length_dict": {
+                "click": 0, 
+                "groupInfo": 0, 
+                "i": 0, 
+                "j": 0, 
+                "skillNum": 0
+            }
+        }, 
+        "1872433179": {
+            "variable_dict": {
+                "ITEM_ENTITY": {}, 
+                "PLAYER": {}
+            }, 
+            "variable_length_dict": {}
+        }, 
+        "1938395200": {
+            "variable_dict": {
+                "ABILITY_NAME": {
+                    "skill": 0
+                }, 
+                "BOOLEAN": {
+                    "isEquipSkill": false, 
+                    "isHaveSkill": false
+                }, 
+                "INTEGER": {
+                    "i": 0, 
+                    "j": 0, 
+                    "n": 0, 
+                    "x": 0
+                }, 
+                "NEW_TIMER": {}, 
+                "STRING": {
+                    "click": "", 
+                    "in": "", 
+                    "out": ""
+                }, 
+                "TABLE": {
+                    "groupInfo": null, 
+                    "newList": null, 
+                    "skillInfo": null
+                }, 
+                "UI_COMP": {
+                    "desc": "", 
+                    "isLocked": "", 
+                    "isLockedDesc": "", 
+                    "name": ""
+                }
+            }, 
+            "variable_length_dict": {
+                "click": 0, 
+                "desc": 0, 
+                "groupInfo": 0, 
+                "i": 0, 
+                "in": 0, 
+                "isEquipSkill": 0, 
+                "isHaveSkill": 0, 
+                "isLocked": 0, 
+                "isLockedDesc": 0, 
+                "j": 0, 
+                "n": 0, 
+                "name": 0, 
+                "newList": 0, 
+                "out": 0, 
+                "skill": 0, 
+                "skillInfo": 0, 
+                "x": 0
+            }
+        }, 
+        "2010271789": {
+            "variable_dict": {
+                "FLOAT": {
+                    "dis": 0.0
+                }, 
+                "INTEGER": {
+                    "tab_index": 0
+                }, 
+                "PLAYER": {}, 
+                "UNIT_ENTITY": {
+                    "store unit": 0
+                }
+            }, 
+            "variable_length_dict": {
+                "dis": 0, 
+                "store unit": 0, 
+                "tab_index": 0
+            }
+        }, 
+        "2079805465": {
+            "variable_dict": {
+                "INTEGER": {
+                    "Ci": 0, 
+                    "Ri": 0, 
+                    "cindex": 0, 
+                    "i": 0, 
+                    "rindex": 0
+                }, 
+                "NEW_TIMER": {
+                    "t": -1
+                }, 
+                "PLAYER": {
+                    "player": 0
+                }, 
+                "UNIT_ENTITY": {
+                    "unit": 0
+                }
+            }, 
+            "variable_length_dict": {
+                "Ci": 0, 
+                "Ri": 0, 
+                "cindex": 0, 
+                "i": 0, 
+                "player": 0, 
+                "rindex": 0, 
+                "t": 0, 
+                "unit": 0
+            }
+        }, 
+        "2113310801": {
+            "variable_dict": {
+                "UNIT_ENTITY": {
+                    "enemyBase": 0, 
+                    "enemybase": 0, 
+                    "hero": 0, 
+                    "myBase": 0, 
+                    "mybase": 0
+                }
+            }, 
+            "variable_length_dict": {
+                "enemyBase": 0, 
+                "enemybase": 0, 
+                "hero": 0, 
+                "myBase": 0, 
+                "mybase": 0
+            }
+        }
+    }, 
+    "variable_dict": {
+        "INTEGER": {
+            "COUNTDOWN": 240, 
+            "DEFAULT_HERO": 1001, 
+            "GLOBAL_BAG_MAX_NUM": 0
+        }, 
+        "NEW_TIMER": {
+            "COUNTDOWN_TIMER": -1, 
+            "MINERAL_TIMER": -1, 
+            "MOB_TIMER_01": -1, 
+            "MOB_TIMER_02": -1, 
+            "MOB_TIMER_03": -1, 
+            "TEMP_TIMER_01": -1, 
+            "TEMP_TIMER_02": -1, 
+            "TEMP_TIMER_03": -1, 
+            "TEMP_TIMER_04": -1
+        }, 
+        "TABLE": {
+            "UI_Manager": null
+        }, 
+        "UNIT_ENTITY": {
+            "ENEMY_BASE": 0, 
+            "HERO": 0, 
+            "MY_BASE": 0
+        }, 
+        "UNIT_NAME": {}
+    }, 
+    "variable_group_info": [
+        {
+            "__tuple__": true, 
+            "items": [
+                "UI_Manager", 
+                "UI_Manager"
+            ]
+        }, 
+        {
+            "__tuple__": true, 
+            "items": [
+                "GLOBAL_BAG_MAX_NUM", 
+                "GLOBAL_BAG_MAX_NUM"
+            ]
+        }, 
+        {
+            "__tuple__": true, 
+            "items": [
+                "DEFAULT_HERO", 
+                "DEFAULT_HERO"
+            ]
+        }, 
+        {
+            "__tuple__": true, 
+            "items": [
+                "COUNTDOWN", 
+                "COUNTDOWN"
+            ]
+        }, 
+        {
+            "group": [
+                {
+                    "__tuple__": true, 
+                    "items": [
+                        "COUNTDOWN_TIMER", 
+                        "COUNTDOWN_TIMER"
+                    ]
+                }, 
+                {
+                    "__tuple__": true, 
+                    "items": [
+                        "MINERAL_TIMER", 
+                        "MINERAL_TIMER"
+                    ]
+                }, 
+                {
+                    "__tuple__": true, 
+                    "items": [
+                        "MOB_TIMER_01", 
+                        "MOB_TIMER_01"
+                    ]
+                }, 
+                {
+                    "__tuple__": true, 
+                    "items": [
+                        "MOB_TIMER_02", 
+                        "MOB_TIMER_02"
+                    ]
+                }, 
+                {
+                    "__tuple__": true, 
+                    "items": [
+                        "MOB_TIMER_03", 
+                        "MOB_TIMER_03"
+                    ]
+                }, 
+                {
+                    "__tuple__": true, 
+                    "items": [
+                        "TEMP_TIMER_01", 
+                        "TEMP_TIMER_01"
+                    ]
+                }, 
+                {
+                    "__tuple__": true, 
+                    "items": [
+                        "TEMP_TIMER_02", 
+                        "TEMP_TIMER_02"
+                    ]
+                }, 
+                {
+                    "__tuple__": true, 
+                    "items": [
+                        "TEMP_TIMER_03", 
+                        "TEMP_TIMER_03"
+                    ]
+                }, 
+                {
+                    "__tuple__": true, 
+                    "items": [
+                        "TEMP_TIMER_04", 
+                        "TEMP_TIMER_04"
+                    ]
+                }
+            ], 
+            "key": "xLJyIRgaEe+DwAD-74H+Yo", 
+            "name": "TIMER"
+        }, 
+        {
+            "group": [
+                {
+                    "__tuple__": true, 
+                    "items": [
+                        "HERO", 
+                        "HERO"
+                    ]
+                }, 
+                {
+                    "__tuple__": true, 
+                    "items": [
+                        "MY_BASE", 
+                        "MY_BASE"
+                    ]
+                }, 
+                {
+                    "__tuple__": true, 
+                    "items": [
+                        "ENEMY_BASE", 
+                        "ENEMY_BASE"
+                    ]
+                }
+            ], 
+            "key": "6rv+oRgaEe+44QD-74H+Yl", 
+            "name": "CHARACTER"
+        }
+    ], 
+    "variable_length_dict": {
+        "COUNTDOWN": 0, 
+        "COUNTDOWN_TIMER": 0, 
+        "DEFAULT_HERO": 0, 
+        "ENEMY_BASE": 0, 
+        "GLOBAL_BAG_MAX_NUM": 0, 
+        "HERO": 0, 
+        "MINERAL_TIMER": 0, 
+        "MOB_TIMER_01": 0, 
+        "MOB_TIMER_02": 0, 
+        "MOB_TIMER_03": 0, 
+        "MY_BASE": 0, 
+        "TEMP_TIMER_01": 0, 
+        "TEMP_TIMER_02": 0, 
+        "TEMP_TIMER_03": 0, 
+        "TEMP_TIMER_04": 0, 
+        "UI_Manager": 0
+    }
+}

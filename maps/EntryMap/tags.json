@@ -1,0 +1,43 @@
+{
+    "ability_all": [
+        "AOE", 
+        "\u5927\u62db", 
+        "\u7279\u6b8a\u666e\u653b", 
+        "\u7279\u6b8a\u6280\u80fd"
+    ], 
+    "editor_item": [
+        "\u7269\u653b", 
+        "\u7269\u5438", 
+        "\u653b\u51fb"
+    ], 
+    "editor_unit": [
+        "\u8def\u6807", 
+        "\u77ff\u7269", 
+        "\u7269\u54c1", 
+        "\u751f\u7269", 
+        "BOSS", 
+        "\u82f1\u96c4", 
+        "\u5efa\u7b51", 
+        "\u653b\u57ce", 
+        "\u7a7a\u4e2d\u5355\u4f4d", 
+        "\u5730\u9762\u5355\u4f4d", 
+        "\u866b\u65cf", 
+        "\u4eba\u7c7b", 
+        "\u6cbb\u7597", 
+        "\u8f93\u51fa", 
+        "\u5766\u514b", 
+        "\u9b54\u6cd5\u4f24\u5bb3", 
+        "\u7269\u7406\u4f24\u5bb3", 
+        "\u771f\u5b9e\u4f24\u5bb3", 
+        "\u98de\u884c", 
+        "\u8fd1\u6218", 
+        "\u8fdc\u7a0b", 
+        "AOE", 
+        "\u5355\u4f53", 
+        "\u5730\u9762"
+    ], 
+    "modifier_all": [
+        "\u63a7\u5236", 
+        "\u786c\u63a7"
+    ]
+}

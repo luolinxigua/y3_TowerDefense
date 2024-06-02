@@ -1,0 +1,13 @@
+{
+    "custom": true, 
+    "effect_keep": false, 
+    "effect_max_life": 1.0, 
+    "effect_path": "Fx_Effect/Realism/Fx_Common/Hit/Hit_ice_011_copy", 
+    "is_beam_effect": false, 
+    "meshes": {
+        "__tuple__": true, 
+        "items": []
+    }, 
+    "model_id": 134235295, 
+    "name": "\u51b0\u971c\u653b\u51fb\u53d7\u51fb\u7279\u6548"
+}

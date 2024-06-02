@@ -1,0 +1,11 @@
+{
+    "FUNC.json": 1, 
+    "INI.json": 0, 
+    "UI.folder": 2, 
+    "global.folder": 3, 
+    "global_ui.folder": 4, 
+    "stage_1.folder": 5, 
+    "stage_2.folder": 6, 
+    "stage_3.folder": 7, 
+    "stage_4.folder": 8
+}
