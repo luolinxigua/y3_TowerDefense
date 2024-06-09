@@ -207,6 +207,84 @@
                 "unit": 0
             }
         }, 
+        "631222404": {
+            "variable_dict": {
+                "ABILITY_NAME": {
+                    "skill": 0, 
+                    "skill_shop": 0, 
+                    "skill_unit": 0, 
+                    "unitSkill": 0, 
+                    "unit_archive": 0, 
+                    "unit_choose": 0
+                }, 
+                "INTEGER": {
+                    "i": 0, 
+                    "index": 0, 
+                    "j": 0, 
+                    "k": 0, 
+                    "length_shopSkill": 0, 
+                    "length_unitInfo": 0, 
+                    "m": 0, 
+                    "n": 0, 
+                    "random": 0, 
+                    "skillList": 0, 
+                    "temp": 0, 
+                    "y": 0
+                }, 
+                "STRING": {
+                    "click": "", 
+                    "isLockedy": "", 
+                    "j_str": "", 
+                    "skill_desc": "", 
+                    "skill_name": "", 
+                    "skillj": "", 
+                    "skilly": "", 
+                    "unit_name": ""
+                }, 
+                "TABLE": {
+                    "randomShopSkill": null, 
+                    "shopSkill": null, 
+                    "unitInfo": null
+                }, 
+                "TEXTURE": {
+                    "avator": 0, 
+                    "skillAvator": 0
+                }
+            }, 
+            "variable_length_dict": {
+                "avator": 0, 
+                "click": 0, 
+                "i": 0, 
+                "index": 0, 
+                "isLockedy": 0, 
+                "j": 0, 
+                "j_str": 0, 
+                "k": 0, 
+                "length_shopSkill": 0, 
+                "length_unitInfo": 0, 
+                "m": 0, 
+                "n": 0, 
+                "random": 0, 
+                "randomShopSkill": 0, 
+                "shopSkill": 0, 
+                "skill": 0, 
+                "skillAvator": 0, 
+                "skillList": 10, 
+                "skill_desc": 0, 
+                "skill_name": 0, 
+                "skill_shop": 0, 
+                "skill_unit": 0, 
+                "skillj": 0, 
+                "skilly": 0, 
+                "temp": 0, 
+                "unitInfo": 0, 
+                "unitSkill": 0, 
+                "unit_archive": 0, 
+                "unit_choose": 0, 
+                "unit_name": 0, 
+                "y": 0
+            }
+        }, 
         "671428624": {
             "variable_dict": {
                 "DYNAMIC_TRIGGER_INSTANCE": {
@@ -332,6 +410,28 @@
                 "dis": 0
             }
         }, 
+        "889610370": {
+            "variable_dict": {
+                "INTEGER": {
+                    "diamond": 0, 
+                    "gold": 0
+                }, 
+                "STRING": {
+                    "diamond_str": "", 
+                    "gold_str": ""
+                }, 
+                "TABLE": {
+                    "rsrcInfo": null
+                }
+            }, 
+            "variable_length_dict": {
+                "diamond": 0, 
+                "diamond_str": 0, 
+                "gold": 0, 
+                "gold_str": 0, 
+                "rsrcInfo": 0
+            }
+        }, 
         "990195764": {
             "variable_dict": {
                 "INTEGER": {
@@ -356,6 +456,110 @@
                 "Player": 0, 
                 "pos": 10, 
                 "tips_size": 10
+            }
+        }, 
+        "1118982265": {
+            "variable_dict": {
+                "ABILITY_NAME": {
+                    "skill": 0
+                }, 
+                "BOOLEAN": {
+                    "isHaveSkill": false
+                }, 
+                "INTEGER": {
+                    "baseLevel": 0, 
+                    "expUpgrade": 0, 
+                    "expValue": 0, 
+                    "i": 0, 
+                    "j": 0, 
+                    "n": 0, 
+                    "quailtyUpgrade": 0, 
+                    "quality": 0, 
+                    "qualityValue": 0, 
+                    "realLevel": 0, 
+                    "unitid": 0
+                }, 
+                "STRING": {
+                    "click": "", 
+                    "in": "", 
+                    "isLockedj": "", 
+                    "out": "", 
+                    "skillj": "", 
+                    "temp_str_realLevel": "", 
+                    "temp_str_unitid": ""
+                }, 
+                "TABLE": {
+                    "groupInfo": null, 
+                    "newList": null, 
+                    "skillInfo": null
+                }, 
+                "UI_COMP": {
+                    "desc": "", 
+                    "name": ""
+                }
+            }, 
+            "variable_length_dict": {
+                "baseLevel": 0, 
+                "click": 0, 
+                "desc": 0, 
+                "expUpgrade": 0, 
+                "expValue": 0, 
+                "groupInfo": 0, 
+                "i": 0, 
+                "in": 0, 
+                "isHaveSkill": 0, 
+                "isLockedj": 0, 
+                "j": 0, 
+                "n": 0, 
+                "name": 0, 
+                "newList": 0, 
+                "out": 0, 
+                "quailtyUpgrade": 0, 
+                "quality": 0, 
+                "qualityValue": 0, 
+                "realLevel": 0, 
+                "skill": 0, 
+                "skillInfo": 0, 
+                "skillj": 0, 
+                "temp_str_realLevel": 0, 
+                "temp_str_unitid": 0, 
+                "unitid": 0
+            }
+        }, 
+        "1264095367": {
+            "variable_dict": {
+                "ABILITY_NAME": {
+                    "skill": 0
+                }, 
+                "INTEGER": {
+                    "count": 0, 
+                    "current_gold": 0, 
+                    "i": 0, 
+                    "j": 0, 
+                    "length": 0, 
+                    "origin_gold": 0
+                }, 
+                "STRING": {
+                    "j_str": "", 
+                    "skillj": ""
+                }, 
+                "TABLE": {
+                    "rsrcInfo": null, 
+                    "unitInfo": null
+                }
+            }, 
+            "variable_length_dict": {
+                "count": 0, 
+                "current_gold": 0, 
+                "i": 0, 
+                "j": 0, 
+                "j_str": 0, 
+                "length": 0, 
+                "origin_gold": 0, 
+                "rsrcInfo": 0, 
+                "skill": 0, 
+                "skillj": 0, 
+                "unitInfo": 0
             }
         }, 
         "1268478034": {
@@ -659,6 +863,31 @@
                 "unit": 0
             }
         }, 
+        "1604702336": {
+            "variable_dict": {
+                "INTEGER": {
+                    "count": 0, 
+                    "current_gold": 0, 
+                    "i": 0, 
+                    "length": 0, 
+                    "origin_gold": 0
+                }, 
+                "NEW_TIMER": {}, 
+                "TABLE": {
+                    "rsrcInfo": null, 
+                    "unitInfo": null
+                }
+            }, 
+            "variable_length_dict": {
+                "count": 0, 
+                "current_gold": 0, 
+                "i": 0, 
+                "length": 0, 
+                "origin_gold": 0, 
+                "rsrcInfo": 0, 
+                "unitInfo": 0
+            }
+        }, 
         "1660883006": {
             "variable_dict": {
                 "BOOLEAN": {
@@ -823,6 +1052,16 @@
                 "tab_index": 0
             }
         }, 
+        "2042871939": {
+            "variable_dict": {
+                "INTEGER": {
+                    "i": 0
+                }
+            }, 
+            "variable_length_dict": {
+                "i": 0
+            }
+        }, 
         "2079805465": {
             "variable_dict": {
                 "INTEGER": {
@@ -870,9 +1109,75 @@
                 "myBase": 0, 
                 "mybase": 0
             }
+        }, 
+        "2146480253": {
+            "variable_dict": {
+                "ABILITY_NAME": {
+                    "unitSkill": 0, 
+                    "unit_archive": 0, 
+                    "unit_choose": 0
+                }, 
+                "INTEGER": {
+                    "count": 0, 
+                    "i": 0, 
+                    "index": 0, 
+                    "j": 0, 
+                    "length": 0, 
+                    "m": 0, 
+                    "n": 0, 
+                    "quality": 0, 
+                    "random": 0, 
+                    "temp": 0, 
+                    "unitList": 0, 
+                    "upgrade": 0
+                }, 
+                "MODEL": {
+                    "model": 0
+                }, 
+                "NEW_TIMER": {}, 
+                "STRING": {
+                    "click": "", 
+                    "count_str": "", 
+                    "name_str": "", 
+                    "upgrade_str": ""
+                }, 
+                "TABLE": {
+                    "randomShopUnit": null, 
+                    "unitInfo": null
+                }
+            }, 
+            "variable_length_dict": {
+                "click": 0, 
+                "count": 0, 
+                "count_str": 0, 
+                "i": 0, 
+                "index": 0, 
+                "j": 0, 
+                "length": 0, 
+                "m": 0, 
+                "model": 0, 
+                "n": 0, 
+                "name_str": 0, 
+                "quality": 0, 
+                "random": 0, 
+                "randomShopUnit": 0, 
+                "temp": 0, 
+                "unitInfo": 0, 
+                "unitList": 10, 
+                "unitSkill": 0, 
+                "unit_archive": 0, 
+                "unit_choose": 0, 
+                "upgrade": 0, 
+                "upgrade_str": 0
+            }
         }
     }, 
     "variable_dict": {
+        "ABILITY_NAME": {
+            "SHOP_SKILL": 0, 
+            "SHOP_SKILL_UNIT": 0, 
+            "SHOP_UNIT": 0
+        }, 
         "INTEGER": {
             "COUNTDOWN": 240, 
             "DEFAULT_HERO": 1001, 
@@ -1023,6 +1328,33 @@
             ], 
             "key": "6rv+oRgaEe+44QD-74H+Yl", 
             "name": "CHARACTER"
+        }, 
+        {
+            "group": [
+                {
+                    "__tuple__": true, 
+                    "items": [
+                        "SHOP_UNIT", 
+                        "SHOP_UNIT"
+                    ]
+                }, 
+                {
+                    "__tuple__": true, 
+                    "items": [
+                        "SHOP_SKILL_UNIT", 
+                        "SHOP_SKILL_UNIT"
+                    ]
+                }, 
+                {
+                    "__tuple__": true, 
+                    "items": [
+                        "SHOP_SKILL", 
+                        "SHOP_SKILL"
+                    ]
+                }
+            ], 
+            "key": "bV5fTyW+Ee+EeLAlqlIy3L", 
+            "name": "SHOP"
         }
     ], 
     "variable_length_dict": {
@@ -1037,6 +1369,9 @@
         "MOB_TIMER_02": 0, 
         "MOB_TIMER_03": 0, 
         "MY_BASE": 0, 
+        "SHOP_SKILL": 0, 
+        "SHOP_SKILL_UNIT": 0, 
+        "SHOP_UNIT": 0, 
         "TEMP_TIMER_01": 0, 
         "TEMP_TIMER_02": 0, 
         "TEMP_TIMER_03": 0, 

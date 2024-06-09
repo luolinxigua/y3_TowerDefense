@@ -15,6 +15,28 @@
         "1034285057": {
             "action": [
                 {
+                    "action_type": "PRINT_MESSAGE_ACTION_TO_DIALOG", 
+                    "args_list": [
+                        {
+                            "arg_type": 100175, 
+                            "args_list": [
+                                3
+                            ], 
+                            "sub_type": 1
+                        }, 
+                        {
+                            "arg_type": 100003, 
+                            "args_list": [
+                                "7890"
+                            ], 
+                            "sub_type": 1
+                        }
+                    ], 
+                    "bp": false, 
+                    "element_id": 1034285057000261, 
+                    "enable": true
+                }, 
+                {
                     "action_type": "CREATE_PROJECTILE_NEW", 
                     "args_list": [
                         {
@@ -28,17 +50,17 @@
                             "arg_type": 100004, 
                             "args_list": [
                                 {
-                                    "arg_type": 100014, 
+                                    "arg_type": 100006, 
                                     "args_list": [], 
-                                    "sub_type": "CUR_ABILITY"
+                                    "sub_type": "GET_UNIT_FROM_EVENT"
                                 }
                             ], 
-                            "sub_type": "ABILITY_RELEASE_POSITION"
+                            "sub_type": "UNIT_ENTITY_POINT"
                         }, 
                         {
                             "arg_type": 100006, 
                             "args_list": [], 
-                            "sub_type": "ABILITY_OWNER"
+                            "sub_type": "GET_UNIT_FROM_EVENT"
                         }
                     ], 
                     "bp": false, 
@@ -121,12 +143,12 @@
                                                     "arg_type": 100004, 
                                                     "args_list": [
                                                         {
-                                                            "arg_type": 100014, 
+                                                            "arg_type": 100006, 
                                                             "args_list": [], 
-                                                            "sub_type": "CUR_ABILITY"
+                                                            "sub_type": "ABILITY_OWNER"
                                                         }
                                                     ], 
-                                                    "sub_type": "ABILITY_RELEASE_POSITION"
+                                                    "sub_type": "UNIT_ENTITY_POINT"
                                                 }, 
                                                 {
                                                     "arg_type": 100211, 
@@ -273,12 +295,12 @@
                                                                         {
                                                                             "arg_type": 100006, 
                                                                             "args_list": [], 
-                                                                            "sub_type": "ABILITY_OWNER"
+                                                                            "sub_type": "NONE_UNIT"
                                                                         }, 
                                                                         {
                                                                             "arg_type": 100014, 
                                                                             "args_list": [], 
-                                                                            "sub_type": "CUR_ABILITY"
+                                                                            "sub_type": "NONE_ABILITY"
                                                                         }, 
                                                                         {
                                                                             "arg_type": 100006, 

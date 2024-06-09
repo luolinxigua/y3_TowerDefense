@@ -45,6 +45,24 @@
             "name": "tip", 
             "type": 4, 
             "value": "TipInfo"
+        }, 
+        "6": {
+            "billboard_max_item_num": 0, 
+            "billboard_sort_type": 0, 
+            "encrypt": false, 
+            "key": 6, 
+            "name": "unit", 
+            "type": 4, 
+            "value": "UnitInfo"
+        }, 
+        "7": {
+            "billboard_max_item_num": 0, 
+            "billboard_sort_type": 0, 
+            "encrypt": false, 
+            "key": 7, 
+            "name": "resource", 
+            "type": 4, 
+            "value": "ResourceInfo"
         }
     }
 }

@@ -1,0 +1,19 @@
+{
+    "action": [], 
+    "call_enabled": true, 
+    "condition": [], 
+    "enabled": true, 
+    "event": [], 
+    "func_category": "t_function", 
+    "func_comment": "", 
+    "func_des": "更新商店材料", 
+    "func_id": "5feda48024cd11efbf12b025aa5232dc", 
+    "func_name": "ShopMaterial", 
+    "group_id": "NerfQCSqEe+N6rAlqlIy3D", 
+    "is_func": true, 
+    "is_official_func": false, 
+    "p_trigger_id": null, 
+    "trigger_id": 1151443077, 
+    "trigger_name": "ShopMaterial", 
+    "valid": true
+}

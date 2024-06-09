@@ -4,6 +4,8 @@
     "SelectHero.json": 2, 
     "SelectSkill.json": 3, 
     "SelectStage.json": 1, 
+    "Shop.folder": 8, 
     "TraverseTowerArea.json": 6, 
+    "Upgrade.folder": 7, 
     "ui_2.folder": 0
 }

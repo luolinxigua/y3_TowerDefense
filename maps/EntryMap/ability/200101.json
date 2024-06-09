@@ -129,170 +129,68 @@
                             "arg_type": 100022, 
                             "args_list": [
                                 {
-                                    "action_type": "IF_THEN_ELSE", 
+                                    "action_type": "SET_CUR_DAMAGE", 
                                     "args_list": [
                                         {
-                                            "arg_type": 100021, 
+                                            "arg_type": 100000, 
                                             "args_list": [
                                                 {
+                                                    "arg_type": 100000, 
+                                                    "args_list": [], 
+                                                    "sub_type": "HURT_DAMAGE"
+                                                }, 
+                                                {
+                                                    "arg_type": 100017, 
+                                                    "args_list": [
+                                                        "*"
+                                                    ], 
+                                                    "sub_type": 1
+                                                }, 
+                                                {
+                                                    "arg_type": 100000, 
                                                     "args_list": [
                                                         {
-                                                            "arg_type": 100182, 
+                                                            "arg_type": 100000, 
+                                                            "args_list": [
+                                                                1.0
+                                                            ], 
+                                                            "sub_type": 1
+                                                        }, 
+                                                        {
+                                                            "arg_type": 100017, 
+                                                            "args_list": [
+                                                                "-"
+                                                            ], 
+                                                            "sub_type": 1
+                                                        }, 
+                                                        {
+                                                            "arg_type": 100000, 
                                                             "args_list": [
                                                                 {
                                                                     "arg_type": 100014, 
                                                                     "args_list": [], 
-                                                                    "sub_type": "DAMAGE_ABILITY"
-                                                                }
-                                                            ], 
-                                                            "sub_type": "TYPE_OF_ABILITY"
-                                                        }, 
-                                                        {
-                                                            "arg_type": 100035, 
-                                                            "args_list": [
-                                                                "=="
-                                                            ], 
-                                                            "sub_type": 1
-                                                        }, 
-                                                        {
-                                                            "arg_type": 100182, 
-                                                            "args_list": [
-                                                                1
-                                                            ], 
-                                                            "sub_type": 1
-                                                        }
-                                                    ], 
-                                                    "condition_type": "ABILITY_TYPE_COMPARE", 
-                                                    "element_id": 25104386000116, 
-                                                    "enable": true
-                                                }, 
-                                                {
-                                                    "args_list": [
-                                                        {
-                                                            "arg_type": 100064, 
-                                                            "args_list": [], 
-                                                            "sub_type": "GET_DAMAGE_TYPE"
-                                                        }, 
-                                                        {
-                                                            "arg_type": 100035, 
-                                                            "args_list": [
-                                                                "!="
-                                                            ], 
-                                                            "sub_type": 1
-                                                        }, 
-                                                        {
-                                                            "arg_type": 100064, 
-                                                            "args_list": [
-                                                                2
-                                                            ], 
-                                                            "sub_type": 1
-                                                        }
-                                                    ], 
-                                                    "condition_type": "DAMAGE_TYPE_COMPARE", 
-                                                    "element_id": 25104386000239, 
-                                                    "enable": true
-                                                }
-                                            ], 
-                                            "sub_type": 1
-                                        }, 
-                                        {
-                                            "arg_type": 100022, 
-                                            "args_list": [
-                                                {
-                                                    "action_type": "SET_CUR_DAMAGE", 
-                                                    "args_list": [
-                                                        {
-                                                            "arg_type": 100000, 
-                                                            "args_list": [
-                                                                0.0
-                                                            ], 
-                                                            "sub_type": 1
-                                                        }
-                                                    ], 
-                                                    "bp": false, 
-                                                    "element_id": 25104386000127, 
-                                                    "enable": true
-                                                }
-                                            ], 
-                                            "sub_type": 1
-                                        }, 
-                                        {
-                                            "arg_type": 100022, 
-                                            "args_list": [
-                                                {
-                                                    "action_type": "SET_CUR_DAMAGE", 
-                                                    "args_list": [
-                                                        {
-                                                            "arg_type": 100000, 
-                                                            "args_list": [
-                                                                {
-                                                                    "arg_type": 100000, 
-                                                                    "args_list": [], 
-                                                                    "sub_type": "HURT_DAMAGE"
+                                                                    "sub_type": "CUR_ABILITY"
                                                                 }, 
                                                                 {
-                                                                    "arg_type": 100017, 
+                                                                    "arg_type": 100003, 
                                                                     "args_list": [
-                                                                        "*"
+                                                                        "\u683c\u6321\u51cf\u4f24"
                                                                     ], 
                                                                     "sub_type": 1
-                                                                }, 
-                                                                {
-                                                                    "arg_type": 100000, 
-                                                                    "args_list": [
-                                                                        {
-                                                                            "arg_type": 100000, 
-                                                                            "args_list": [
-                                                                                1.0
-                                                                            ], 
-                                                                            "sub_type": 1
-                                                                        }, 
-                                                                        {
-                                                                            "arg_type": 100017, 
-                                                                            "args_list": [
-                                                                                "-"
-                                                                            ], 
-                                                                            "sub_type": 1
-                                                                        }, 
-                                                                        {
-                                                                            "arg_type": 100000, 
-                                                                            "args_list": [
-                                                                                {
-                                                                                    "arg_type": 100014, 
-                                                                                    "args_list": [], 
-                                                                                    "sub_type": "CUR_ABILITY"
-                                                                                }, 
-                                                                                {
-                                                                                    "arg_type": 100003, 
-                                                                                    "args_list": [
-                                                                                        "\u683c\u6321\u51cf\u4f24"
-                                                                                    ], 
-                                                                                    "sub_type": 1
-                                                                                }
-                                                                            ], 
-                                                                            "sub_type": "GET_FLOAT_KV"
-                                                                        }
-                                                                    ], 
-                                                                    "sub_type": "ARITHMETIC_OPERATION"
                                                                 }
                                                             ], 
-                                                            "sub_type": "ARITHMETIC_OPERATION"
+                                                            "sub_type": "GET_FLOAT_KV"
                                                         }
                                                     ], 
-                                                    "bp": false, 
-                                                    "element_id": 1300660230000006, 
-                                                    "enable": true
+                                                    "sub_type": "ARITHMETIC_OPERATION"
                                                 }
                                             ], 
-                                            "sub_type": 1
+                                            "sub_type": "ARITHMETIC_OPERATION"
                                         }
                                     ], 
                                     "bp": false, 
-                                    "element_id": 25104386000107, 
-                                    "enable": true, 
-                                    "fake_op": [
-                                        2
-                                    ]
+                                    "element_id": 1300660230000006, 
+                                    "enable": true
                                 }, 
                                 {
                                     "action_type": "PLAY_ANIMATION", 
@@ -421,15 +319,9 @@
                 {
                     "args_list": [
                         {
-                            "arg_type": 100010, 
-                            "args_list": [
-                                {
-                                    "arg_type": 100006, 
-                                    "args_list": [], 
-                                    "sub_type": "DAMAGE_SOURCE_UNIT"
-                                }
-                            ], 
-                            "sub_type": "GET_UNIT_TYPE"
+                            "arg_type": 100064, 
+                            "args_list": [], 
+                            "sub_type": "GET_DAMAGE_TYPE"
                         }, 
                         {
                             "arg_type": 100035, 
@@ -439,15 +331,15 @@
                             "sub_type": 1
                         }, 
                         {
-                            "arg_type": 100010, 
+                            "arg_type": 100064, 
                             "args_list": [
                                 2
                             ], 
                             "sub_type": 1
                         }
                     ], 
-                    "condition_type": "UNIT_TYPE_COMPARE", 
-                    "element_id": 25104386000011, 
+                    "condition_type": "DAMAGE_TYPE_COMPARE", 
+                    "element_id": 25104386000239, 
                     "enable": true
                 }
             ], 
@@ -477,7 +369,7 @@
             "is_conf": true, 
             "p_trigger_id": 427057153, 
             "trigger_id": 25104386, 
-            "trigger_name": "\u8fd1\u6218\u6b65\u5175\u683c\u6321\u653b\u51fb", 
+            "trigger_name": "\u76fe\u724c\u683c\u6321", 
             "valid": true
         }, 
         "427057153": {
@@ -521,7 +413,7 @@
             "__tuple__": true, 
             "items": [
                 25104386, 
-                "\u8fd1\u6218\u6b65\u5175\u683c\u6321\u653b\u51fb"
+                "\u76fe\u724c\u683c\u6321"
             ]
         }
     ], 

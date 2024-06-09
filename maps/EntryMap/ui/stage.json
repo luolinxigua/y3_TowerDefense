@@ -251,7 +251,7 @@
                                 }
                             ], 
                             "enabled": true, 
-                            "name": "go_to_str", 
+                            "name": "go_to_upgrade", 
                             "sound_id": null, 
                             "type": 30
                         }
@@ -264,7 +264,7 @@
                         ]
                     }, 
                     "hover_status_added": true, 
-                    "name": "go_to_str", 
+                    "name": "go_to_upgrade", 
                     "normal_font_color": [
                         151, 
                         77, 

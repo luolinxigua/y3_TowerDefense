@@ -1,0 +1,8 @@
+{
+    "ShopMaterial.json": 5, 
+    "ShopMoney.json": 1, 
+    "ShopPanel.json": 0, 
+    "ShopSkill.json": 4, 
+    "ShopUnit.json": 2, 
+    "UnitQuality.json": 3
+}

@@ -1,0 +1,44 @@
+{
+    "action": [
+        {
+            "action_type": "CALL_TRIGGER_FUNC", 
+            "args_list": [
+                {
+                    "arg_type": 100177, 
+                    "args_list": [], 
+                    "op_arg": [], 
+                    "op_arg_enable": [], 
+                    "sub_type": "0965ee4f219a11ef9c64b025aa5232dc"
+                }
+            ], 
+            "bp": false, 
+            "call_rt_arg_idxes": [], 
+            "element_id": 636104837000008, 
+            "enable": true
+        }
+    ], 
+    "call_enabled": true, 
+    "condition": [], 
+    "enabled": true, 
+    "event": [
+        {
+            "args_list": [
+                {
+                    "arg_type": 100067, 
+                    "args_list": [
+                        "go_to_upgrade"
+                    ], 
+                    "sub_type": 1
+                }
+            ], 
+            "element_id": 636104837000003, 
+            "enable": true, 
+            "event_type": "TRIGGER_COMPONENT_EVENT"
+        }
+    ], 
+    "group_id": "5xd4gCTPEe+5DbAlqlIy3I", 
+    "p_trigger_id": null, 
+    "trigger_id": 636104837, 
+    "trigger_name": "新建触发器", 
+    "valid": true
+}
