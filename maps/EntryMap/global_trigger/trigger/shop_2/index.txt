@@ -1,4 +1,5 @@
 {
+    "shop_material_confirm.json": 2, 
     "shop_skill_confirm.json": 1, 
     "shop_unit_confirm.json": 0
 }

@@ -1,3 +1,7 @@
 {
-    "新建触发器.json": 0
+    "go_to_upgrade.json": 0, 
+    "upgrade_add_exp_100.json": 1, 
+    "upgrade_add_exp_1000.json": 2, 
+    "upgrade_add_exp_10000.json": 3, 
+    "upgrade_advance.json": 4
 }

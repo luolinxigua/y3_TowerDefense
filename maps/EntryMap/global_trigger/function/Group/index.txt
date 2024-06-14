@@ -1,0 +1,5 @@
+{
+    "DeleteSkill.json": 2, 
+    "SelectHero.json": 0, 
+    "SelectSkill.json": 1
+}
