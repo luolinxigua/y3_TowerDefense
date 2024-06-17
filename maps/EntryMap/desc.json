@@ -1,5 +1,8 @@
 {
     "desc": "", 
+    "encrypt_sections": [
+        "table_data"
+    ], 
     "group_name": "", 
     "name": "main", 
     "publish_name": "", 
