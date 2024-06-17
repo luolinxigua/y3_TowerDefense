@@ -1,0 +1,4 @@
+{
+    "BindBar.json": 0, 
+    "TraverseTowerArea.json": 1
+}

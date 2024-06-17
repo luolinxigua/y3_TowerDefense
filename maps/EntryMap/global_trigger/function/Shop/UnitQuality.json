@@ -60,9 +60,16 @@
                                 {
                                     "arg_type": 100070, 
                                     "args_list": [
-                                        "36e7d613-e1eb-499a-b448-f5ee2f5c1ca8"
+                                        {
+                                            "__tuple__": true, 
+                                            "items": [
+                                                "UI_COMP", 
+                                                "layout", 
+                                                "local"
+                                            ]
+                                        }
                                     ], 
-                                    "sub_type": 1
+                                    "sub_type": "VARIABLE"
                                 }, 
                                 {
                                     "arg_type": 100003, 
@@ -89,9 +96,16 @@
                                 {
                                     "arg_type": 100070, 
                                     "args_list": [
-                                        "36e7d613-e1eb-499a-b448-f5ee2f5c1ca8"
+                                        {
+                                            "__tuple__": true, 
+                                            "items": [
+                                                "UI_COMP", 
+                                                "layout", 
+                                                "local"
+                                            ]
+                                        }
                                     ], 
-                                    "sub_type": 1
+                                    "sub_type": "VARIABLE"
                                 }, 
                                 {
                                     "arg_type": 100003, 
@@ -186,9 +200,16 @@
                                 {
                                     "arg_type": 100070, 
                                     "args_list": [
-                                        "36e7d613-e1eb-499a-b448-f5ee2f5c1ca8"
+                                        {
+                                            "__tuple__": true, 
+                                            "items": [
+                                                "UI_COMP", 
+                                                "layout", 
+                                                "local"
+                                            ]
+                                        }
                                     ], 
-                                    "sub_type": 1
+                                    "sub_type": "VARIABLE"
                                 }, 
                                 {
                                     "arg_type": 100003, 
@@ -215,9 +236,16 @@
                                 {
                                     "arg_type": 100070, 
                                     "args_list": [
-                                        "36e7d613-e1eb-499a-b448-f5ee2f5c1ca8"
+                                        {
+                                            "__tuple__": true, 
+                                            "items": [
+                                                "UI_COMP", 
+                                                "layout", 
+                                                "local"
+                                            ]
+                                        }
                                     ], 
-                                    "sub_type": 1
+                                    "sub_type": "VARIABLE"
                                 }, 
                                 {
                                     "arg_type": 100003, 
@@ -312,9 +340,16 @@
                                 {
                                     "arg_type": 100070, 
                                     "args_list": [
-                                        "36e7d613-e1eb-499a-b448-f5ee2f5c1ca8"
+                                        {
+                                            "__tuple__": true, 
+                                            "items": [
+                                                "UI_COMP", 
+                                                "layout", 
+                                                "local"
+                                            ]
+                                        }
                                     ], 
-                                    "sub_type": 1
+                                    "sub_type": "VARIABLE"
                                 }, 
                                 {
                                     "arg_type": 100003, 
@@ -341,9 +376,16 @@
                                 {
                                     "arg_type": 100070, 
                                     "args_list": [
-                                        "36e7d613-e1eb-499a-b448-f5ee2f5c1ca8"
+                                        {
+                                            "__tuple__": true, 
+                                            "items": [
+                                                "UI_COMP", 
+                                                "layout", 
+                                                "local"
+                                            ]
+                                        }
                                     ], 
-                                    "sub_type": 1
+                                    "sub_type": "VARIABLE"
                                 }, 
                                 {
                                     "arg_type": 100003, 
@@ -438,9 +480,16 @@
                                 {
                                     "arg_type": 100070, 
                                     "args_list": [
-                                        "36e7d613-e1eb-499a-b448-f5ee2f5c1ca8"
+                                        {
+                                            "__tuple__": true, 
+                                            "items": [
+                                                "UI_COMP", 
+                                                "layout", 
+                                                "local"
+                                            ]
+                                        }
                                     ], 
-                                    "sub_type": 1
+                                    "sub_type": "VARIABLE"
                                 }, 
                                 {
                                     "arg_type": 100003, 
@@ -467,9 +516,16 @@
                                 {
                                     "arg_type": 100070, 
                                     "args_list": [
-                                        "36e7d613-e1eb-499a-b448-f5ee2f5c1ca8"
+                                        {
+                                            "__tuple__": true, 
+                                            "items": [
+                                                "UI_COMP", 
+                                                "layout", 
+                                                "local"
+                                            ]
+                                        }
                                     ], 
-                                    "sub_type": 1
+                                    "sub_type": "VARIABLE"
                                 }, 
                                 {
                                     "arg_type": 100003, 
@@ -564,9 +620,16 @@
                                 {
                                     "arg_type": 100070, 
                                     "args_list": [
-                                        "36e7d613-e1eb-499a-b448-f5ee2f5c1ca8"
+                                        {
+                                            "__tuple__": true, 
+                                            "items": [
+                                                "UI_COMP", 
+                                                "layout", 
+                                                "local"
+                                            ]
+                                        }
                                     ], 
-                                    "sub_type": 1
+                                    "sub_type": "VARIABLE"
                                 }, 
                                 {
                                     "arg_type": 100003, 
@@ -593,9 +656,16 @@
                                 {
                                     "arg_type": 100070, 
                                     "args_list": [
-                                        "36e7d613-e1eb-499a-b448-f5ee2f5c1ca8"
+                                        {
+                                            "__tuple__": true, 
+                                            "items": [
+                                                "UI_COMP", 
+                                                "layout", 
+                                                "local"
+                                            ]
+                                        }
                                     ], 
-                                    "sub_type": 1
+                                    "sub_type": "VARIABLE"
                                 }, 
                                 {
                                     "arg_type": 100003, 
@@ -690,9 +760,16 @@
                                 {
                                     "arg_type": 100070, 
                                     "args_list": [
-                                        "36e7d613-e1eb-499a-b448-f5ee2f5c1ca8"
+                                        {
+                                            "__tuple__": true, 
+                                            "items": [
+                                                "UI_COMP", 
+                                                "layout", 
+                                                "local"
+                                            ]
+                                        }
                                     ], 
-                                    "sub_type": 1
+                                    "sub_type": "VARIABLE"
                                 }, 
                                 {
                                     "arg_type": 100003, 
@@ -719,9 +796,16 @@
                                 {
                                     "arg_type": 100070, 
                                     "args_list": [
-                                        "36e7d613-e1eb-499a-b448-f5ee2f5c1ca8"
+                                        {
+                                            "__tuple__": true, 
+                                            "items": [
+                                                "UI_COMP", 
+                                                "layout", 
+                                                "local"
+                                            ]
+                                        }
                                     ], 
-                                    "sub_type": 1
+                                    "sub_type": "VARIABLE"
                                 }, 
                                 {
                                     "arg_type": 100003, 
@@ -763,7 +847,7 @@
     "event": [], 
     "func_category": "t_function", 
     "func_comment": "", 
-    "func_des": "单位品质{i}", 
+    "func_des": "单位品质{i}{layout}", 
     "func_id": "1c806af024c511efa005b025aa5232dc", 
     "func_name": "UnitQuality", 
     "func_param_list": [
@@ -771,6 +855,13 @@
             "__tuple__": true, 
             "items": [
                 "i", 
+                true
+            ]
+        }, 
+        {
+            "__tuple__": true, 
+            "items": [
+                "layout", 
                 true
             ]
         }

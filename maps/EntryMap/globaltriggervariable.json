@@ -76,6 +76,48 @@
                 "skill": 0
             }
         }, 
+        "183955598": {
+            "variable_dict": {
+                "INTEGER": {
+                    "add_exp": 0, 
+                    "baseLevel": 0, 
+                    "current_exp": 0, 
+                    "have_exp": 0, 
+                    "i": 0, 
+                    "j": 0, 
+                    "need_exp": 0, 
+                    "origin_exp": 0, 
+                    "quality": 0, 
+                    "realLevel": 0, 
+                    "rsrcInfo_length": 0, 
+                    "unitInfo_length": 0, 
+                    "upgrade_exp": 0, 
+                    "uplevel_exp": 0
+                }, 
+                "TABLE": {
+                    "rsrcInfo": null, 
+                    "unitInfo": null
+                }
+            }, 
+            "variable_length_dict": {
+                "add_exp": 0, 
+                "baseLevel": 0, 
+                "current_exp": 0, 
+                "have_exp": 0, 
+                "i": 0, 
+                "j": 0, 
+                "need_exp": 0, 
+                "origin_exp": 0, 
+                "quality": 0, 
+                "realLevel": 0, 
+                "rsrcInfo": 0, 
+                "rsrcInfo_length": 0, 
+                "unitInfo": 0, 
+                "unitInfo_length": 0, 
+                "upgrade_exp": 0, 
+                "uplevel_exp": 0
+            }
+        }, 
         "210653238": {
             "variable_dict": {
                 "UNIT_ENTITY": {
@@ -98,6 +140,48 @@
             }, 
             "variable_length_dict": {
                 "is_bag_open": 0
+            }
+        }, 
+        "334950543": {
+            "variable_dict": {
+                "INTEGER": {
+                    "add_exp": 0, 
+                    "baseLevel": 0, 
+                    "current_exp": 0, 
+                    "have_exp": 0, 
+                    "i": 0, 
+                    "j": 0, 
+                    "need_exp": 0, 
+                    "origin_exp": 0, 
+                    "quality": 0, 
+                    "realLevel": 0, 
+                    "rsrcInfo_length": 0, 
+                    "unitInfo_length": 0, 
+                    "upgrade_exp": 0, 
+                    "uplevel_exp": 0
+                }, 
+                "TABLE": {
+                    "rsrcInfo": null, 
+                    "unitInfo": null
+                }
+            }, 
+            "variable_length_dict": {
+                "add_exp": 0, 
+                "baseLevel": 0, 
+                "current_exp": 0, 
+                "have_exp": 0, 
+                "i": 0, 
+                "j": 0, 
+                "need_exp": 0, 
+                "origin_exp": 0, 
+                "quality": 0, 
+                "realLevel": 0, 
+                "rsrcInfo": 0, 
+                "rsrcInfo_length": 0, 
+                "unitInfo": 0, 
+                "unitInfo_length": 0, 
+                "upgrade_exp": 0, 
+                "uplevel_exp": 0
             }
         }, 
         "366354479": {
@@ -309,6 +393,22 @@
                 "unit": 0
             }
         }, 
+        "707997835": {
+            "variable_dict": {
+                "INTEGER": {
+                    "n": 0
+                }, 
+                "TABLE": {
+                    "origin_form": null, 
+                    "skillInfo": null
+                }
+            }, 
+            "variable_length_dict": {
+                "n": 0, 
+                "origin_form": 0, 
+                "skillInfo": 0
+            }
+        }, 
         "718082063": {
             "variable_dict": {
                 "INTEGER": {
@@ -349,6 +449,46 @@
                 "now_column": 0, 
                 "now_row": 0, 
                 "slot": 0
+            }
+        }, 
+        "758689929": {
+            "variable_dict": {
+                "INTEGER": {
+                    "current_gold": 0, 
+                    "current_num": 0, 
+                    "i": 0, 
+                    "index": 0, 
+                    "index_diamond": 0, 
+                    "index_gold": 0, 
+                    "j": 0, 
+                    "length_rsrcInfo": 0, 
+                    "origin_gold": 0, 
+                    "origin_num": 0
+                }, 
+                "ITEM_NAME": {
+                    "material": 0, 
+                    "type": 0
+                }, 
+                "NEW_TIMER": {}, 
+                "TABLE": {
+                    "rsrcInfo": null
+                }, 
+                "UNIT_NAME": {}
+            }, 
+            "variable_length_dict": {
+                "current_gold": 0, 
+                "current_num": 0, 
+                "i": 0, 
+                "index": 0, 
+                "index_diamond": 0, 
+                "index_gold": 0, 
+                "j": 0, 
+                "length_rsrcInfo": 0, 
+                "material": 0, 
+                "origin_gold": 0, 
+                "origin_num": 0, 
+                "rsrcInfo": 0, 
+                "type": 0
             }
         }, 
         "786112514": {
@@ -414,7 +554,9 @@
             "variable_dict": {
                 "INTEGER": {
                     "diamond": 0, 
-                    "gold": 0
+                    "gold": 0, 
+                    "i": 0, 
+                    "rsrcInfo_length": 0
                 }, 
                 "STRING": {
                     "diamond_str": "", 
@@ -429,7 +571,9 @@
                 "diamond_str": 0, 
                 "gold": 0, 
                 "gold_str": 0, 
-                "rsrcInfo": 0
+                "i": 0, 
+                "rsrcInfo": 0, 
+                "rsrcInfo_length": 0
             }
         }, 
         "990195764": {
@@ -477,30 +621,51 @@
                     "quality": 0, 
                     "qualityValue": 0, 
                     "realLevel": 0, 
-                    "unitid": 0
+                    "temp_unitid": 0, 
+                    "unitid": 0, 
+                    "\u653b\u51fb\u8ddd\u79bb": 0, 
+                    "\u653b\u51fb\u901f\u5ea6": 0, 
+                    "\u7269\u7406\u653b\u51fb": 0, 
+                    "\u7269\u7406\u9632\u5fa1": 0, 
+                    "\u751f\u547d\u503c": 0, 
+                    "\u79fb\u52a8\u901f\u5ea6": 0, 
+                    "\u9b54\u6cd5\u653b\u51fb": 0, 
+                    "\u9b54\u6cd5\u9632\u5fa1": 0
+                }, 
+                "MODEL": {
+                    "unitModel": 0
                 }, 
                 "STRING": {
                     "click": "", 
+                    "cost_str": "", 
                     "in": "", 
                     "isLockedj": "", 
                     "out": "", 
                     "skillj": "", 
                     "temp_str_realLevel": "", 
-                    "temp_str_unitid": ""
+                    "temp_str_unitid": "", 
+                    "unitSkillDesc": ""
                 }, 
                 "TABLE": {
                     "groupInfo": null, 
-                    "newList": null, 
-                    "skillInfo": null
+                    "skillInfo": null, 
+                    "unitInfo": null
+                }, 
+                "TEXTURE": {
+                    "unitAvator": 0
                 }, 
                 "UI_COMP": {
                     "desc": "", 
                     "name": ""
+                }, 
+                "UNIT_NAME": {
+                    "unit": 0
                 }
             }, 
             "variable_length_dict": {
                 "baseLevel": 0, 
                 "click": 0, 
+                "cost_str": 0, 
                 "desc": 0, 
                 "expUpgrade": 0, 
                 "expValue": 0, 
@@ -512,7 +677,6 @@
                 "j": 0, 
                 "n": 0, 
                 "name": 0, 
-                "newList": 0, 
                 "out": 0, 
                 "quailtyUpgrade": 0, 
                 "quality": 0, 
@@ -523,7 +687,63 @@
                 "skillj": 0, 
                 "temp_str_realLevel": 0, 
                 "temp_str_unitid": 0, 
-                "unitid": 0
+                "temp_unitid": 0, 
+                "unit": 0, 
+                "unitAvator": 0, 
+                "unitInfo": 0, 
+                "unitModel": 0, 
+                "unitSkillDesc": 0, 
+                "unitid": 0, 
+                "\u653b\u51fb\u8ddd\u79bb": 0, 
+                "\u653b\u51fb\u901f\u5ea6": 0, 
+                "\u7269\u7406\u653b\u51fb": 0, 
+                "\u7269\u7406\u9632\u5fa1": 0, 
+                "\u751f\u547d\u503c": 0, 
+                "\u79fb\u52a8\u901f\u5ea6": 0, 
+                "\u9b54\u6cd5\u653b\u51fb": 0, 
+                "\u9b54\u6cd5\u9632\u5fa1": 0
+            }
+        }, 
+        "1151443077": {
+            "variable_dict": {
+                "INTEGER": {
+                    "i": 0, 
+                    "length_rsrcInfo": 0, 
+                    "length_shopMat": 0, 
+                    "price": 0
+                }, 
+                "ITEM_NAME": {}, 
+                "NEW_TIMER": {}, 
+                "STRING": {
+                    "click": "", 
+                    "matDesc": "", 
+                    "matName": "", 
+                    "num_str": "", 
+                    "price_str": ""
+                }, 
+                "TABLE": {
+                    "rsrcInfo": null, 
+                    "shopMat": null
+                }, 
+                "TEXTURE": {
+                    "matAvator": 0, 
+                    "priceIcon": 0
+                }
+            }, 
+            "variable_length_dict": {
+                "click": 0, 
+                "i": 0, 
+                "length_rsrcInfo": 0, 
+                "length_shopMat": 0, 
+                "matAvator": 0, 
+                "matDesc": 0, 
+                "matName": 0, 
+                "num_str": 0, 
+                "price": 0, 
+                "priceIcon": 0, 
+                "price_str": 0, 
+                "rsrcInfo": 0, 
+                "shopMat": 0
             }
         }, 
         "1264095367": {
@@ -535,9 +755,14 @@
                     "count": 0, 
                     "current_gold": 0, 
                     "i": 0, 
+                    "index": 0, 
                     "j": 0, 
-                    "length": 0, 
+                    "length_rsrcInfo": 0, 
+                    "length_unitInfo": 0, 
                     "origin_gold": 0
+                }, 
+                "ITEM_NAME": {
+                    "type": 0
                 }, 
                 "STRING": {
                     "j_str": "", 
@@ -552,13 +777,16 @@
                 "count": 0, 
                 "current_gold": 0, 
                 "i": 0, 
+                "index": 0, 
                 "j": 0, 
                 "j_str": 0, 
-                "length": 0, 
+                "length_rsrcInfo": 0, 
+                "length_unitInfo": 0, 
                 "origin_gold": 0, 
                 "rsrcInfo": 0, 
                 "skill": 0, 
                 "skillj": 0, 
+                "type": 0, 
                 "unitInfo": 0
             }
         }, 
@@ -664,6 +892,28 @@
                 "myBase": 0, 
                 "stageInfo": 0, 
                 "target": 0
+            }
+        }, 
+        "1352249482": {
+            "variable_dict": {
+                "INTEGER": {
+                    "i": 0, 
+                    "rsrcInfo_length": 0, 
+                    "value": 0
+                }, 
+                "ITEM_NAME": {
+                    "type": 0
+                }, 
+                "TABLE": {
+                    "rsrcInfo": null
+                }
+            }, 
+            "variable_length_dict": {
+                "i": 0, 
+                "rsrcInfo": 0, 
+                "rsrcInfo_length": 0, 
+                "type": 0, 
+                "value": 0
             }
         }, 
         "1393229841": {
@@ -869,8 +1119,14 @@
                     "count": 0, 
                     "current_gold": 0, 
                     "i": 0, 
-                    "length": 0, 
+                    "index": 0, 
+                    "j": 0, 
+                    "length_rsrcInfo": 0, 
+                    "length_unitInfo": 0, 
                     "origin_gold": 0
+                }, 
+                "ITEM_NAME": {
+                    "type": 0
                 }, 
                 "NEW_TIMER": {}, 
                 "TABLE": {
@@ -882,10 +1138,52 @@
                 "count": 0, 
                 "current_gold": 0, 
                 "i": 0, 
-                "length": 0, 
+                "index": 0, 
+                "j": 0, 
+                "length_rsrcInfo": 0, 
+                "length_unitInfo": 0, 
                 "origin_gold": 0, 
                 "rsrcInfo": 0, 
+                "type": 0, 
                 "unitInfo": 0
+            }
+        }, 
+        "1615876240": {
+            "variable_dict": {
+                "INTEGER": {
+                    "level": 0, 
+                    "unitid": 0, 
+                    "\u653b\u51fb\u8ddd\u79bb": 0, 
+                    "\u653b\u51fb\u901f\u5ea6": 0, 
+                    "\u7269\u7406\u653b\u51fb": 0, 
+                    "\u7269\u7406\u9632\u5fa1": 0, 
+                    "\u751f\u547d\u503c": 0, 
+                    "\u79fb\u52a8\u901f\u5ea6": 0, 
+                    "\u9b54\u6cd5\u653b\u51fb": 0, 
+                    "\u9b54\u6cd5\u9632\u5fa1": 0
+                }, 
+                "STRING": {
+                    "level_str": "", 
+                    "unit_str": ""
+                }, 
+                "UNIT_NAME": {
+                    "unit": 0
+                }
+            }, 
+            "variable_length_dict": {
+                "level": 0, 
+                "level_str": 0, 
+                "unit": 0, 
+                "unit_str": 0, 
+                "unitid": 0, 
+                "\u653b\u51fb\u8ddd\u79bb": 0, 
+                "\u653b\u51fb\u901f\u5ea6": 0, 
+                "\u7269\u7406\u653b\u51fb": 0, 
+                "\u7269\u7406\u9632\u5fa1": 0, 
+                "\u751f\u547d\u503c": 0, 
+                "\u79fb\u52a8\u901f\u5ea6": 0, 
+                "\u9b54\u6cd5\u653b\u51fb": 0, 
+                "\u9b54\u6cd5\u9632\u5fa1": 0
             }
         }, 
         "1660883006": {
@@ -1052,14 +1350,106 @@
                 "tab_index": 0
             }
         }, 
+        "2012668045": {
+            "variable_dict": {
+                "INTEGER": {
+                    "add_exp": 0, 
+                    "baseLevel": 0, 
+                    "current_exp": 0, 
+                    "have_exp": 0, 
+                    "i": 0, 
+                    "j": 0, 
+                    "need_exp": 0, 
+                    "origin_exp": 0, 
+                    "quality": 0, 
+                    "realLevel": 0, 
+                    "rsrcInfo_length": 0, 
+                    "unitInfo_length": 0, 
+                    "upgrade_exp": 0, 
+                    "uplevel_exp": 0
+                }, 
+                "TABLE": {
+                    "rsrcInfo": null, 
+                    "unitInfo": null
+                }
+            }, 
+            "variable_length_dict": {
+                "add_exp": 0, 
+                "baseLevel": 0, 
+                "current_exp": 0, 
+                "have_exp": 0, 
+                "i": 0, 
+                "j": 0, 
+                "need_exp": 0, 
+                "origin_exp": 0, 
+                "quality": 0, 
+                "realLevel": 0, 
+                "rsrcInfo": 0, 
+                "rsrcInfo_length": 0, 
+                "unitInfo": 0, 
+                "unitInfo_length": 0, 
+                "upgrade_exp": 0, 
+                "uplevel_exp": 0
+            }
+        }, 
         "2042871939": {
             "variable_dict": {
                 "INTEGER": {
                     "i": 0
+                }, 
+                "UI_COMP": {
+                    "layout": ""
                 }
             }, 
             "variable_length_dict": {
-                "i": 0
+                "i": 0, 
+                "layout": 0
+            }
+        }, 
+        "2078765201": {
+            "variable_dict": {
+                "INTEGER": {
+                    "baseLevel": 0, 
+                    "count": 0, 
+                    "current_quality": 0, 
+                    "current_stoneCount": 0, 
+                    "current_unitCount": 0, 
+                    "i": 0, 
+                    "j": 0, 
+                    "realLevel": 0, 
+                    "rsrcInfo_length": 0, 
+                    "stoneCount": 0, 
+                    "unitCount": 0, 
+                    "unitInfo_length": 0, 
+                    "unitQuality": 0, 
+                    "upgradeCount": 0
+                }, 
+                "ITEM_NAME": {
+                    "upgradeStone": 0
+                }, 
+                "TABLE": {
+                    "rsrcInfo": null, 
+                    "unitInfo": null
+                }
+            }, 
+            "variable_length_dict": {
+                "baseLevel": 0, 
+                "count": 0, 
+                "current_quality": 0, 
+                "current_stoneCount": 0, 
+                "current_unitCount": 0, 
+                "i": 0, 
+                "j": 0, 
+                "realLevel": 0, 
+                "rsrcInfo": 0, 
+                "rsrcInfo_length": 0, 
+                "stoneCount": 0, 
+                "unitCount": 0, 
+                "unitInfo": 0, 
+                "unitInfo_length": 0, 
+                "unitQuality": 0, 
+                "upgradeCount": 0, 
+                "upgradeStone": 0
             }
         }, 
         "2079805465": {
@@ -1176,12 +1566,19 @@
         "ABILITY_NAME": {
             "SHOP_SKILL": 0, 
             "SHOP_SKILL_UNIT": 0, 
-            "SHOP_UNIT": 0
+            "SHOP_UNIT": 0, 
+            "UPGRADE_UNIT": 0
         }, 
         "INTEGER": {
             "COUNTDOWN": 240, 
             "DEFAULT_HERO": 1001, 
-            "GLOBAL_BAG_MAX_NUM": 0
+            "GLOBAL_BAG_MAX_NUM": 0, 
+            "SHOP_NUM": 0, 
+            "SHOP_PRICE": 0
+        }, 
+        "ITEM_NAME": {
+            "SHOP_MATERIAL": 0, 
+            "SHOP_TYPE": 0
         }, 
         "NEW_TIMER": {
             "COUNTDOWN_TIMER": -1, 
@@ -1194,6 +1591,7 @@
             "TEMP_TIMER_03": -1, 
             "TEMP_TIMER_04": -1
         }, 
+        "STRING": {}, 
         "TABLE": {
             "UI_Manager": null
         }, 
@@ -1334,8 +1732,49 @@
                 {
                     "__tuple__": true, 
                     "items": [
+                        "UPGRADE_UNIT", 
+                        "UPGRADE_UNIT"
+                    ]
+                }
+            ], 
+            "key": "7hg50SmxEe+OXQD-74H+Yg", 
+            "name": "UPGRADE"
+        }, 
+        {
+            "group": [
+                {
+                    "__tuple__": true, 
+                    "items": [
+                        "SHOP_TYPE", 
+                        "SHOP_TYPE"
+                    ]
+                }, 
+                {
+                    "__tuple__": true, 
+                    "items": [
+                        "SHOP_PRICE", 
+                        "SHOP_PRICE"
+                    ]
+                }, 
+                {
+                    "__tuple__": true, 
+                    "items": [
+                        "SHOP_NUM", 
+                        "SHOP_NUM"
+                    ]
+                }, 
+                {
+                    "__tuple__": true, 
+                    "items": [
                         "SHOP_UNIT", 
                         "SHOP_UNIT"
+                    ]
+                }, 
+                {
+                    "__tuple__": true, 
+                    "items": [
+                        "SHOP_SKILL", 
+                        "SHOP_SKILL"
                     ]
                 }, 
                 {
@@ -1348,8 +1787,8 @@
                 {
                     "__tuple__": true, 
                     "items": [
-                        "SHOP_SKILL", 
-                        "SHOP_SKILL"
+                        "SHOP_MATERIAL", 
+                        "SHOP_MATERIAL"
                     ]
                 }
             ], 
@@ -1369,13 +1808,18 @@
         "MOB_TIMER_02": 0, 
         "MOB_TIMER_03": 0, 
         "MY_BASE": 0, 
+        "SHOP_MATERIAL": 0, 
+        "SHOP_NUM": 0, 
+        "SHOP_PRICE": 0, 
         "SHOP_SKILL": 0, 
         "SHOP_SKILL_UNIT": 0, 
+        "SHOP_TYPE": 0, 
         "SHOP_UNIT": 0, 
         "TEMP_TIMER_01": 0, 
         "TEMP_TIMER_02": 0, 
         "TEMP_TIMER_03": 0, 
         "TEMP_TIMER_04": 0, 
-        "UI_Manager": 0
+        "UI_Manager": 0, 
+        "UPGRADE_UNIT": 0
     }
 }

@@ -57,6 +57,21 @@
                     "upper_bound": 1073774591.0
                 }
             ]
+        }, 
+        {
+            "__tuple__": true, 
+            "items": [
+                "4BYg8ClvEe+05gD-74H+Yt", 
+                {
+                    "default": 0.0, 
+                    "icon_id": 101010, 
+                    "is_coin": false, 
+                    "key": "4BYg8ClvEe+05gD-74H+Yt", 
+                    "lower_bound": 0.0, 
+                    "name": "tech_point", 
+                    "upper_bound": 70000000000000
+                }
+            ]
         }
     ], 
     "roles": [

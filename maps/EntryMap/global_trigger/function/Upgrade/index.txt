@@ -1,3 +1,7 @@
 {
-    "SelectUnit.json": 0
+    "UnitAttribute.json": 4, 
+    "UnitSort.json": 3, 
+    "UpgradeMaterial.json": 1, 
+    "UpgradePanel.json": 0, 
+    "UpgradeSelect.json": 2
 }

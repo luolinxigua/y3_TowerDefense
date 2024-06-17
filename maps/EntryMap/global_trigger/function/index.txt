@@ -1,11 +1,8 @@
 {
-    "BindBar.json": 5, 
-    "DeleteSkill.json": 4, 
-    "SelectHero.json": 2, 
-    "SelectSkill.json": 3, 
-    "SelectStage.json": 1, 
-    "Shop.folder": 8, 
-    "TraverseTowerArea.json": 6, 
-    "Upgrade.folder": 7, 
+    "Group.folder": 2, 
+    "Others.folder": 5, 
+    "Shop.folder": 4, 
+    "Stage.folder": 1, 
+    "Upgrade.folder": 3, 
     "ui_2.folder": 0
 }

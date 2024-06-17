@@ -39,6 +39,6 @@
     "group_id": "5xd4gCTPEe+5DbAlqlIy3I", 
     "p_trigger_id": null, 
     "trigger_id": 636104837, 
-    "trigger_name": "新建触发器", 
+    "trigger_name": "go_to_upgrade", 
     "valid": true
 }
