@@ -1,15 +1,190 @@
 {
-    "local_variable": {}, 
+    "local_variable": {
+        "399515649": {
+            "variable_dict": {
+                "FLOAT": {
+                    "\u9b54\u6cd5\u4f24\u5bb3": 0.0
+                }
+            }, 
+            "variable_length_dict": {
+                "\u9b54\u6cd5\u4f24\u5bb3": 0
+            }
+        }
+    }, 
     "trigger_dict": {
         "399515649": {
             "action": [
+                {
+                    "action_type": "SET_VARIABLE", 
+                    "args_list": [
+                        {
+                            "arg_type": 100030, 
+                            "args_list": [
+                                {
+                                    "__tuple__": true, 
+                                    "items": [
+                                        "FLOAT", 
+                                        "\u9b54\u6cd5\u4f24\u5bb3", 
+                                        "local"
+                                    ]
+                                }
+                            ], 
+                            "sub_type": 1
+                        }, 
+                        {
+                            "arg_type": 100000, 
+                            "args_list": [
+                                {
+                                    "arg_type": 100000, 
+                                    "args_list": [
+                                        {
+                                            "arg_type": 100014, 
+                                            "args_list": [
+                                                {
+                                                    "arg_type": 100076, 
+                                                    "args_list": [], 
+                                                    "sub_type": "CUR_MODIFIER"
+                                                }
+                                            ], 
+                                            "sub_type": "RELATED_ABILITY_MODIFIER"
+                                        }, 
+                                        {
+                                            "arg_type": 100003, 
+                                            "args_list": [
+                                                "\u4f24\u5bb3\u7cfb\u6570"
+                                            ], 
+                                            "sub_type": 1
+                                        }
+                                    ], 
+                                    "sub_type": "GET_FLOAT_KV"
+                                }, 
+                                {
+                                    "arg_type": 100017, 
+                                    "args_list": [
+                                        "*"
+                                    ], 
+                                    "sub_type": 1
+                                }, 
+                                {
+                                    "arg_type": 100000, 
+                                    "args_list": [
+                                        {
+                                            "arg_type": 100006, 
+                                            "args_list": [], 
+                                            "sub_type": "MODIFIER_RELEASER"
+                                        }, 
+                                        {
+                                            "arg_type": 100301, 
+                                            "args_list": [
+                                                "ATTR_RESULT"
+                                            ], 
+                                            "sub_type": 1
+                                        }, 
+                                        {
+                                            "arg_type": 100042, 
+                                            "args_list": [
+                                                "attack_mag"
+                                            ], 
+                                            "sub_type": 1
+                                        }
+                                    ], 
+                                    "sub_type": "GET_UNIT_ATTR"
+                                }
+                            ], 
+                            "sub_type": "ARITHMETIC_OPERATION"
+                        }
+                    ], 
+                    "bp": false, 
+                    "element_id": 399515649000047, 
+                    "enable": true
+                }, 
+                {
+                    "action_type": "PRINT_MESSAGE_ACTION_TO_DIALOG", 
+                    "args_list": [
+                        {
+                            "arg_type": 100175, 
+                            "args_list": [
+                                3
+                            ], 
+                            "sub_type": 1
+                        }, 
+                        {
+                            "arg_type": 100003, 
+                            "args_list": [
+                                {
+                                    "arg_type": 100000, 
+                                    "args_list": [
+                                        {
+                                            "__tuple__": true, 
+                                            "items": [
+                                                "FLOAT", 
+                                                "\u9b54\u6cd5\u4f24\u5bb3", 
+                                                "local"
+                                            ]
+                                        }
+                                    ], 
+                                    "sub_type": 2
+                                }
+                            ], 
+                            "sub_type": "ANY_VAR_TO_STR"
+                        }
+                    ], 
+                    "bp": false, 
+                    "element_id": 399515649000089, 
+                    "enable": false
+                }, 
+                {
+                    "action_type": "PRINT_MESSAGE_ACTION_TO_DIALOG", 
+                    "args_list": [
+                        {
+                            "arg_type": 100175, 
+                            "args_list": [
+                                3
+                            ], 
+                            "sub_type": 1
+                        }, 
+                        {
+                            "arg_type": 100003, 
+                            "args_list": [
+                                {
+                                    "arg_type": 100002, 
+                                    "args_list": [
+                                        {
+                                            "arg_type": 100014, 
+                                            "args_list": [
+                                                {
+                                                    "arg_type": 100076, 
+                                                    "args_list": [], 
+                                                    "sub_type": "CUR_MODIFIER"
+                                                }
+                                            ], 
+                                            "sub_type": "RELATED_ABILITY_MODIFIER"
+                                        }, 
+                                        {
+                                            "arg_type": 100003, 
+                                            "args_list": [
+                                                "\u4f24\u5bb3\u6b21\u6570"
+                                            ], 
+                                            "sub_type": 1
+                                        }
+                                    ], 
+                                    "sub_type": "GET_INTEGER_KV"
+                                }
+                            ], 
+                            "sub_type": "ANY_VAR_TO_STR"
+                        }
+                    ], 
+                    "bp": false, 
+                    "element_id": 399515649000096, 
+                    "enable": false
+                }, 
                 {
                     "action_type": "RUN_COUNT_TIMER_NO_SAVE", 
                     "args_list": [
                         {
                             "arg_type": 100000, 
                             "args_list": [
-                                1.0
+                                0.5
                             ], 
                             "sub_type": 1
                         }, 
@@ -30,7 +205,7 @@
                                 {
                                     "arg_type": 100003, 
                                     "args_list": [
-                                        "\u6301\u7eed\u4f24\u5bb3\u6b21\u6570"
+                                        "\u4f24\u5bb3\u6b21\u6570"
                                     ], 
                                     "sub_type": 1
                                 }
@@ -76,25 +251,15 @@
                                             "arg_type": 100000, 
                                             "args_list": [
                                                 {
-                                                    "arg_type": 100014, 
-                                                    "args_list": [
-                                                        {
-                                                            "arg_type": 100076, 
-                                                            "args_list": [], 
-                                                            "sub_type": "CUR_MODIFIER"
-                                                        }
-                                                    ], 
-                                                    "sub_type": "RELATED_ABILITY_MODIFIER"
-                                                }, 
-                                                {
-                                                    "arg_type": 100003, 
-                                                    "args_list": [
-                                                        "\u6301\u7eed\u4f24\u5bb3"
-                                                    ], 
-                                                    "sub_type": 1
+                                                    "__tuple__": true, 
+                                                    "items": [
+                                                        "FLOAT", 
+                                                        "\u9b54\u6cd5\u4f24\u5bb3", 
+                                                        "local"
+                                                    ]
                                                 }
                                             ], 
-                                            "sub_type": "GET_FLOAT_KV"
+                                            "sub_type": 2
                                         }, 
                                         {
                                             "arg_type": 100001, 
@@ -105,7 +270,7 @@
                                         }
                                     ], 
                                     "bp": false, 
-                                    "element_id": 399515649000037, 
+                                    "element_id": 399515649000043, 
                                     "enable": true, 
                                     "op_arg": [
                                         {
@@ -145,6 +310,19 @@
                                         false, 
                                         false
                                     ]
+                                }, 
+                                {
+                                    "action_type": "DELETE_TIMER", 
+                                    "args_list": [
+                                        {
+                                            "arg_type": 100181, 
+                                            "args_list": [], 
+                                            "sub_type": "CURRENT_EXPIRED_TIMER"
+                                        }
+                                    ], 
+                                    "bp": false, 
+                                    "element_id": 399515649000080, 
+                                    "enable": false
                                 }
                             ], 
                             "sub_type": 1

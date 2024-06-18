@@ -3,13 +3,17 @@
         "591396865": {
             "variable_dict": {
                 "FLOAT": {
-                    "\u771f\u5b9e\u4f24\u5bb3": 0.0
+                    "\u771f\u5b9e\u4f24\u5bb3": 0.0, 
+                    "\u771f\u5b9e\u4f24\u5bb3\u4f24\u5bb3\u4e0a\u9650": 0.0, 
+                    "\u771f\u5b9e\u4f24\u5bb3\u57fa\u7840\u4f24\u5bb3": 0.0
                 }, 
                 "PROJECTILE_ENTITY": {}, 
                 "UNIT_ENTITY": {}
             }, 
             "variable_length_dict": {
-                "\u771f\u5b9e\u4f24\u5bb3": 0
+                "\u771f\u5b9e\u4f24\u5bb3": 0, 
+                "\u771f\u5b9e\u4f24\u5bb3\u4f24\u5bb3\u4e0a\u9650": 0, 
+                "\u771f\u5b9e\u4f24\u5bb3\u57fa\u7840\u4f24\u5bb3": 0
             }
         }
     }, 
@@ -17,12 +21,27 @@
         "591396865": {
             "action": [
                 {
-                    "action_type": "IF_THEN_ELSE", 
+                    "action_type": "SET_VARIABLE", 
                     "args_list": [
                         {
-                            "arg_type": 100021, 
+                            "arg_type": 100030, 
                             "args_list": [
                                 {
+                                    "__tuple__": true, 
+                                    "items": [
+                                        "FLOAT", 
+                                        "\u771f\u5b9e\u4f24\u5bb3\u57fa\u7840\u4f24\u5bb3", 
+                                        "local"
+                                    ]
+                                }
+                            ], 
+                            "sub_type": 1
+                        }, 
+                        {
+                            "arg_type": 100000, 
+                            "args_list": [
+                                {
+                                    "arg_type": 100000, 
                                     "args_list": [
                                         {
                                             "arg_type": 100006, 
@@ -30,258 +49,200 @@
                                             "sub_type": "MODIFIER_OWNER"
                                         }, 
                                         {
+                                            "arg_type": 100301, 
+                                            "args_list": [
+                                                "ATTR_RESULT"
+                                            ], 
+                                            "sub_type": 1
+                                        }, 
+                                        {
+                                            "arg_type": 100042, 
+                                            "args_list": [
+                                                "hp_max"
+                                            ], 
+                                            "sub_type": 1
+                                        }
+                                    ], 
+                                    "sub_type": "GET_UNIT_ATTR"
+                                }, 
+                                {
+                                    "arg_type": 100017, 
+                                    "args_list": [
+                                        "*"
+                                    ], 
+                                    "sub_type": 1
+                                }, 
+                                {
+                                    "arg_type": 100000, 
+                                    "args_list": [
+                                        {
+                                            "arg_type": 100014, 
+                                            "args_list": [
+                                                {
+                                                    "arg_type": 100076, 
+                                                    "args_list": [], 
+                                                    "sub_type": "CUR_MODIFIER"
+                                                }
+                                            ], 
+                                            "sub_type": "RELATED_ABILITY"
+                                        }, 
+                                        {
                                             "arg_type": 100003, 
                                             "args_list": [
-                                                "BOSS"
+                                                "\u771f\u5b9e\u4f24\u5bb3"
                                             ], 
                                             "sub_type": 1
                                         }
                                     ], 
-                                    "condition_type": "UNIT_HAS_TAG", 
-                                    "element_id": 591396865000425, 
-                                    "enable": true
+                                    "sub_type": "GET_FLOAT_KV"
                                 }
                             ], 
-                            "sub_type": 1
-                        }, 
-                        {
-                            "arg_type": 100022, 
-                            "args_list": [
-                                {
-                                    "action_type": "SET_VARIABLE", 
-                                    "args_list": [
-                                        {
-                                            "arg_type": 100030, 
-                                            "args_list": [
-                                                {
-                                                    "__tuple__": true, 
-                                                    "items": [
-                                                        "FLOAT", 
-                                                        "\u771f\u5b9e\u4f24\u5bb3", 
-                                                        "local"
-                                                    ]
-                                                }
-                                            ], 
-                                            "sub_type": 1
-                                        }, 
-                                        {
-                                            "arg_type": 100000, 
-                                            "args_list": [
-                                                {
-                                                    "arg_type": 100000, 
-                                                    "args_list": [
-                                                        {
-                                                            "arg_type": 100000, 
-                                                            "args_list": [
-                                                                {
-                                                                    "arg_type": 100006, 
-                                                                    "args_list": [], 
-                                                                    "sub_type": "MODIFIER_OWNER"
-                                                                }, 
-                                                                {
-                                                                    "arg_type": 100301, 
-                                                                    "args_list": [
-                                                                        "ATTR_RESULT"
-                                                                    ], 
-                                                                    "sub_type": 1
-                                                                }, 
-                                                                {
-                                                                    "arg_type": 100042, 
-                                                                    "args_list": [
-                                                                        "hp_max"
-                                                                    ], 
-                                                                    "sub_type": 1
-                                                                }
-                                                            ], 
-                                                            "sub_type": "GET_UNIT_ATTR"
-                                                        }, 
-                                                        {
-                                                            "arg_type": 100017, 
-                                                            "args_list": [
-                                                                "*"
-                                                            ], 
-                                                            "sub_type": 1
-                                                        }, 
-                                                        {
-                                                            "arg_type": 100000, 
-                                                            "args_list": [
-                                                                {
-                                                                    "arg_type": 100014, 
-                                                                    "args_list": [
-                                                                        {
-                                                                            "arg_type": 100076, 
-                                                                            "args_list": [], 
-                                                                            "sub_type": "CUR_MODIFIER"
-                                                                        }
-                                                                    ], 
-                                                                    "sub_type": "RELATED_ABILITY"
-                                                                }, 
-                                                                {
-                                                                    "arg_type": 100003, 
-                                                                    "args_list": [
-                                                                        "\u771f\u5b9e\u4f24\u5bb3\u767e\u5206\u6bd4"
-                                                                    ], 
-                                                                    "sub_type": 1
-                                                                }
-                                                            ], 
-                                                            "sub_type": "GET_FLOAT_KV"
-                                                        }
-                                                    ], 
-                                                    "sub_type": "ARITHMETIC_OPERATION"
-                                                }, 
-                                                {
-                                                    "arg_type": 100000, 
-                                                    "args_list": [
-                                                        {
-                                                            "arg_type": 100000, 
-                                                            "args_list": [
-                                                                2.0
-                                                            ], 
-                                                            "sub_type": 1
-                                                        }, 
-                                                        {
-                                                            "arg_type": 100017, 
-                                                            "args_list": [
-                                                                "*"
-                                                            ], 
-                                                            "sub_type": 1
-                                                        }, 
-                                                        {
-                                                            "arg_type": 100000, 
-                                                            "args_list": [
-                                                                {
-                                                                    "arg_type": 100006, 
-                                                                    "args_list": [], 
-                                                                    "sub_type": "MODIFIER_RELEASER"
-                                                                }, 
-                                                                {
-                                                                    "arg_type": 100301, 
-                                                                    "args_list": [
-                                                                        "ATTR_RESULT"
-                                                                    ], 
-                                                                    "sub_type": 1
-                                                                }, 
-                                                                {
-                                                                    "arg_type": 100042, 
-                                                                    "args_list": [
-                                                                        "attack_phy"
-                                                                    ], 
-                                                                    "sub_type": 1
-                                                                }
-                                                            ], 
-                                                            "sub_type": "GET_UNIT_ATTR"
-                                                        }
-                                                    ], 
-                                                    "sub_type": "ARITHMETIC_OPERATION"
-                                                }
-                                            ], 
-                                            "sub_type": "MIN_FLOAT"
-                                        }
-                                    ], 
-                                    "bp": false, 
-                                    "element_id": 591396865000436, 
-                                    "enable": true
-                                }
-                            ], 
-                            "sub_type": 1
-                        }, 
-                        {
-                            "arg_type": 100022, 
-                            "args_list": [
-                                {
-                                    "action_type": "SET_VARIABLE", 
-                                    "args_list": [
-                                        {
-                                            "arg_type": 100030, 
-                                            "args_list": [
-                                                {
-                                                    "__tuple__": true, 
-                                                    "items": [
-                                                        "FLOAT", 
-                                                        "\u771f\u5b9e\u4f24\u5bb3", 
-                                                        "local"
-                                                    ]
-                                                }
-                                            ], 
-                                            "sub_type": 1
-                                        }, 
-                                        {
-                                            "arg_type": 100000, 
-                                            "args_list": [
-                                                {
-                                                    "arg_type": 100000, 
-                                                    "args_list": [
-                                                        {
-                                                            "arg_type": 100006, 
-                                                            "args_list": [], 
-                                                            "sub_type": "MODIFIER_OWNER"
-                                                        }, 
-                                                        {
-                                                            "arg_type": 100301, 
-                                                            "args_list": [
-                                                                "ATTR_RESULT"
-                                                            ], 
-                                                            "sub_type": 1
-                                                        }, 
-                                                        {
-                                                            "arg_type": 100042, 
-                                                            "args_list": [
-                                                                "hp_max"
-                                                            ], 
-                                                            "sub_type": 1
-                                                        }
-                                                    ], 
-                                                    "sub_type": "GET_UNIT_ATTR"
-                                                }, 
-                                                {
-                                                    "arg_type": 100017, 
-                                                    "args_list": [
-                                                        "*"
-                                                    ], 
-                                                    "sub_type": 1
-                                                }, 
-                                                {
-                                                    "arg_type": 100000, 
-                                                    "args_list": [
-                                                        {
-                                                            "arg_type": 100014, 
-                                                            "args_list": [
-                                                                {
-                                                                    "arg_type": 100076, 
-                                                                    "args_list": [], 
-                                                                    "sub_type": "CUR_MODIFIER"
-                                                                }
-                                                            ], 
-                                                            "sub_type": "RELATED_ABILITY"
-                                                        }, 
-                                                        {
-                                                            "arg_type": 100003, 
-                                                            "args_list": [
-                                                                "\u771f\u5b9e\u4f24\u5bb3\u767e\u5206\u6bd4"
-                                                            ], 
-                                                            "sub_type": 1
-                                                        }
-                                                    ], 
-                                                    "sub_type": "GET_FLOAT_KV"
-                                                }
-                                            ], 
-                                            "sub_type": "ARITHMETIC_OPERATION"
-                                        }
-                                    ], 
-                                    "bp": false, 
-                                    "element_id": 591396865000346, 
-                                    "enable": true
-                                }
-                            ], 
-                            "sub_type": 1
+                            "sub_type": "ARITHMETIC_OPERATION"
                         }
                     ], 
                     "bp": false, 
-                    "element_id": 591396865000414, 
-                    "enable": true, 
-                    "fake_op": [
-                        2
-                    ]
+                    "element_id": 591396865000438, 
+                    "enable": true
+                }, 
+                {
+                    "action_type": "SET_VARIABLE", 
+                    "args_list": [
+                        {
+                            "arg_type": 100030, 
+                            "args_list": [
+                                {
+                                    "__tuple__": true, 
+                                    "items": [
+                                        "FLOAT", 
+                                        "\u771f\u5b9e\u4f24\u5bb3\u4f24\u5bb3\u4e0a\u9650", 
+                                        "local"
+                                    ]
+                                }
+                            ], 
+                            "sub_type": 1
+                        }, 
+                        {
+                            "arg_type": 100000, 
+                            "args_list": [
+                                {
+                                    "arg_type": 100000, 
+                                    "args_list": [
+                                        {
+                                            "arg_type": 100006, 
+                                            "args_list": [], 
+                                            "sub_type": "MODIFIER_RELEASER"
+                                        }, 
+                                        {
+                                            "arg_type": 100301, 
+                                            "args_list": [
+                                                "ATTR_RESULT"
+                                            ], 
+                                            "sub_type": 1
+                                        }, 
+                                        {
+                                            "arg_type": 100042, 
+                                            "args_list": [
+                                                "attack_phy"
+                                            ], 
+                                            "sub_type": 1
+                                        }
+                                    ], 
+                                    "sub_type": "GET_UNIT_ATTR"
+                                }, 
+                                {
+                                    "arg_type": 100017, 
+                                    "args_list": [
+                                        "*"
+                                    ], 
+                                    "sub_type": 1
+                                }, 
+                                {
+                                    "arg_type": 100000, 
+                                    "args_list": [
+                                        {
+                                            "arg_type": 100014, 
+                                            "args_list": [
+                                                {
+                                                    "arg_type": 100076, 
+                                                    "args_list": [], 
+                                                    "sub_type": "CUR_MODIFIER"
+                                                }
+                                            ], 
+                                            "sub_type": "RELATED_ABILITY"
+                                        }, 
+                                        {
+                                            "arg_type": 100003, 
+                                            "args_list": [
+                                                "\u4f24\u5bb3\u4e0a\u9650"
+                                            ], 
+                                            "sub_type": 1
+                                        }
+                                    ], 
+                                    "sub_type": "GET_FLOAT_KV"
+                                }
+                            ], 
+                            "sub_type": "ARITHMETIC_OPERATION"
+                        }
+                    ], 
+                    "bp": false, 
+                    "element_id": 591396865000447, 
+                    "enable": true
+                }, 
+                {
+                    "action_type": "SET_VARIABLE", 
+                    "args_list": [
+                        {
+                            "arg_type": 100030, 
+                            "args_list": [
+                                {
+                                    "__tuple__": true, 
+                                    "items": [
+                                        "FLOAT", 
+                                        "\u771f\u5b9e\u4f24\u5bb3", 
+                                        "local"
+                                    ]
+                                }
+                            ], 
+                            "sub_type": 1
+                        }, 
+                        {
+                            "arg_type": 100000, 
+                            "args_list": [
+                                {
+                                    "arg_type": 100000, 
+                                    "args_list": [
+                                        {
+                                            "__tuple__": true, 
+                                            "items": [
+                                                "FLOAT", 
+                                                "\u771f\u5b9e\u4f24\u5bb3\u57fa\u7840\u4f24\u5bb3", 
+                                                "local"
+                                            ]
+                                        }
+                                    ], 
+                                    "sub_type": 2
+                                }, 
+                                {
+                                    "arg_type": 100000, 
+                                    "args_list": [
+                                        {
+                                            "__tuple__": true, 
+                                            "items": [
+                                                "FLOAT", 
+                                                "\u771f\u5b9e\u4f24\u5bb3\u4f24\u5bb3\u4e0a\u9650", 
+                                                "local"
+                                            ]
+                                        }
+                                    ], 
+                                    "sub_type": 2
+                                }
+                            ], 
+                            "sub_type": "MIN_FLOAT"
+                        }
+                    ], 
+                    "bp": false, 
+                    "element_id": 591396865000436, 
+                    "enable": true
                 }, 
                 {
                     "action_type": "IF_THEN_ELSE", 
@@ -375,9 +336,7 @@
                     "bp": false, 
                     "element_id": 591396865000090, 
                     "enable": true, 
-                    "fake_op": [
-                        2
-                    ]
+                    "fake_op": []
                 }, 
                 {
                     "action_type": "IF_THEN_ELSE", 
@@ -471,9 +430,7 @@
                     "bp": false, 
                     "element_id": 591396865000114, 
                     "enable": true, 
-                    "fake_op": [
-                        2
-                    ]
+                    "fake_op": []
                 }, 
                 {
                     "action_type": "IF_THEN_ELSE", 
@@ -772,9 +729,7 @@
                     "bp": false, 
                     "element_id": 591396865000160, 
                     "enable": true, 
-                    "fake_op": [
-                        2
-                    ]
+                    "fake_op": []
                 }
             ], 
             "call_enabled": true, 

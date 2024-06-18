@@ -136,7 +136,7 @@
             "use_base_tint_color": false
         }
     ], 
-    "icon": 110112, 
+    "icon": 100000, 
     "key": 20020201, 
     "kv": {}, 
     "max_duration": 60, 

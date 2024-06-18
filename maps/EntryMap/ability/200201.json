@@ -123,7 +123,7 @@
             "is_conf": true, 
             "p_trigger_id": 243572737, 
             "trigger_id": 361140226, 
-            "trigger_name": "\u5b50\u89e6\u53d1\u5668", 
+            "trigger_name": "\u771f\u5b9e\u4f24\u5bb3", 
             "valid": true
         }
     }, 
@@ -146,7 +146,7 @@
             "__tuple__": true, 
             "items": [
                 361140226, 
-                "\u5b50\u89e6\u53d1\u5668"
+                "\u771f\u5b9e\u4f24\u5bb3"
             ]
         }
     ], 

@@ -14,11 +14,11 @@
     "attack_interval_grow": 0, 
     "attack_mag": 0.0, 
     "attack_mag_grow": 0.0, 
-    "attack_phy": 40.0, 
+    "attack_phy": 90.0, 
     "attack_phy_grow": 0.0, 
     "attack_range": 1, 
     "attack_range_grow": 0, 
-    "attack_speed": 60.0, 
+    "attack_speed": 80.0, 
     "attack_speed_grow": 0.0, 
     "attack_type": 10000, 
     "bar_show_name": 0, 
@@ -131,7 +131,7 @@
     }, 
     "hit_rate": 100.0, 
     "hit_rate_grow": 0.0, 
-    "hp_max": 70.0, 
+    "hp_max": 100.0, 
     "hp_max_grow": 0.0, 
     "hp_rec": 0.0, 
     "hp_rec_grow": 0.0, 
@@ -179,6 +179,14 @@
         [
             200201, 
             1
+        ], 
+        [
+            134254238, 
+            1
+        ], 
+        [
+            134272504, 
+            1
         ]
     ], 
     "pene_mag": 0.0, 
@@ -202,7 +210,7 @@
         "__tuple__": true, 
         "items": []
     }, 
-    "preview_billboard_health_value": 80.0, 
+    "preview_billboard_health_value": 100.0, 
     "refresh_interval": 1.0, 
     "rescue_finish_return": 0, 
     "rescue_seeker_distance": 3, 
@@ -318,7 +326,9 @@
         "__tuple__": true, 
         "items": [
             "\u5730\u9762\u5355\u4f4d", 
-            "\u751f\u7269"
+            "\u751f\u7269", 
+            "\u4eba\u65cf", 
+            "\u8fdc\u7a0b"
         ]
     }, 
     "type": 1, 

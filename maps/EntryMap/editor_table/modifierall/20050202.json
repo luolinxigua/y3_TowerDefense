@@ -22,7 +22,7 @@
     "inf_unit_tag": [
         "\u866b\u65cf"
     ], 
-    "influence_rng": 400.0, 
+    "influence_rng": 500.0, 
     "is_influence_self": true, 
     "key": 20050202, 
     "kv": {}, 
@@ -45,14 +45,14 @@
     "material_color_intensity": 0, 
     "modifier_cover_type": 1, 
     "modifier_effect": 2, 
-    "modifier_icon": 905147, 
+    "modifier_icon": 100012, 
     "modifier_type": 2, 
     "name": -2095610216, 
     "same_origin_cover": true, 
     "shield_change_of_cover": 2, 
     "shield_type": 1, 
     "shield_value": 0.0, 
-    "show_on_ui": false, 
+    "show_on_ui": true, 
     "sound_event_list": {
         "__tuple__": true, 
         "items": []

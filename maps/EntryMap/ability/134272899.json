@@ -66,7 +66,7 @@
                                         {
                                             "arg_type": 100003, 
                                             "args_list": [
-                                                "\u683c\u6321\u6982\u7387"
+                                                "\u7729\u6655\u6982\u7387"
                                             ], 
                                             "sub_type": 1
                                         }
@@ -93,7 +93,7 @@
                                         {
                                             "arg_type": 100000, 
                                             "args_list": [
-                                                100.0
+                                                1.0
                                             ], 
                                             "sub_type": 1
                                         }
@@ -137,31 +137,6 @@
                                     ], 
                                     "condition_type": "BOOL_NOT", 
                                     "element_id": 1199366146000124, 
-                                    "enable": true
-                                }, 
-                                {
-                                    "args_list": [
-                                        {
-                                            "arg_type": 100001, 
-                                            "args_list": [
-                                                {
-                                                    "arg_type": 100006, 
-                                                    "args_list": [], 
-                                                    "sub_type": "DAMAGE_TARGET_UNIT"
-                                                }, 
-                                                {
-                                                    "arg_type": 100003, 
-                                                    "args_list": [
-                                                        "\u82f1\u96c4"
-                                                    ], 
-                                                    "sub_type": 1
-                                                }
-                                            ], 
-                                            "sub_type": "UNIT_HAS_TAG"
-                                        }
-                                    ], 
-                                    "condition_type": "BOOL_NOT", 
-                                    "element_id": 1199366146000129, 
                                     "enable": true
                                 }, 
                                 {
@@ -238,9 +213,20 @@
                                         {
                                             "arg_type": 100000, 
                                             "args_list": [
-                                                5.0
+                                                {
+                                                    "arg_type": 100014, 
+                                                    "args_list": [], 
+                                                    "sub_type": "CUR_ABILITY"
+                                                }, 
+                                                {
+                                                    "arg_type": 100003, 
+                                                    "args_list": [
+                                                        "\u7729\u6655\u65f6\u95f4"
+                                                    ], 
+                                                    "sub_type": 1
+                                                }
                                             ], 
-                                            "sub_type": 1
+                                            "sub_type": "GET_FLOAT_KV"
                                         }, 
                                         null, 
                                         null, 
@@ -254,6 +240,28 @@
                                         false, 
                                         false
                                     ]
+                                }, 
+                                {
+                                    "action_type": "PRINT_MESSAGE_ACTION_TO_DIALOG", 
+                                    "args_list": [
+                                        {
+                                            "arg_type": 100175, 
+                                            "args_list": [
+                                                3
+                                            ], 
+                                            "sub_type": 1
+                                        }, 
+                                        {
+                                            "arg_type": 100003, 
+                                            "args_list": [
+                                                "\u89e6\u53d1\u7729\u6655"
+                                            ], 
+                                            "sub_type": 1
+                                        }
+                                    ], 
+                                    "bp": false, 
+                                    "element_id": 1199366146000144, 
+                                    "enable": false
                                 }
                             ], 
                             "sub_type": 1
@@ -267,9 +275,7 @@
                     "bp": false, 
                     "element_id": 25104386000059, 
                     "enable": true, 
-                    "fake_op": [
-                        2
-                    ]
+                    "fake_op": []
                 }
             ], 
             "call_enabled": true, 

@@ -14,11 +14,11 @@
     "attack_interval_grow": 0, 
     "attack_mag": 0.0, 
     "attack_mag_grow": 0.0, 
-    "attack_phy": 30.0, 
+    "attack_phy": 60.0, 
     "attack_phy_grow": 0.0, 
     "attack_range": 1, 
     "attack_range_grow": 0, 
-    "attack_speed": 60.0, 
+    "attack_speed": 50.0, 
     "attack_speed_grow": 0.0, 
     "attack_type": 10000, 
     "bar_show_name": 0, 
@@ -82,7 +82,7 @@
     "dead_exp": 100, 
     "dead_money": 300, 
     "default_behaviour_type": "caution", 
-    "defense_mag": 0.0, 
+    "defense_mag": 2.0, 
     "defense_mag_grow": 0.0, 
     "defense_phy": 2.0, 
     "defense_phy_grow": 0.0, 
@@ -128,7 +128,7 @@
     }, 
     "hit_rate": 100.0, 
     "hit_rate_grow": 0.0, 
-    "hp_max": 200.0, 
+    "hp_max": 600.0, 
     "hp_max_grow": 0.0, 
     "hp_rec": 0.0, 
     "hp_rec_grow": 0.0, 
@@ -170,7 +170,7 @@
     "name": 1136001930, 
     "need_preview_billboard": true, 
     "ori_bits": 16384, 
-    "ori_speed": 2.0, 
+    "ori_speed": 1.5, 
     "ori_speed_grow": 0.0, 
     "passive_ability_list": [
         [
@@ -207,7 +207,7 @@
         "__tuple__": true, 
         "items": []
     }, 
-    "preview_billboard_health_value": 200.0, 
+    "preview_billboard_health_value": 600.0, 
     "refresh_interval": 1.0, 
     "rescue_finish_return": 0, 
     "rescue_seeker_distance": 3, 
@@ -323,7 +323,10 @@
         "__tuple__": true, 
         "items": [
             "\u5730\u9762\u5355\u4f4d", 
-            "\u751f\u7269"
+            "\u751f\u7269", 
+            "\u4eba\u65cf", 
+            "\u8fd1\u6218", 
+            "\u5766\u514b"
         ]
     }, 
     "type": 1, 

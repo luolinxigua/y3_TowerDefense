@@ -69,12 +69,12 @@
         ]
     }, 
     "material_color_intensity": 0, 
-    "modifier_cover_type": 1, 
+    "modifier_cover_type": 3, 
     "modifier_effect": 3, 
-    "modifier_icon": 110337, 
+    "modifier_icon": 100008, 
     "modifier_type": 1, 
     "name": 287950279, 
-    "same_origin_cover": true, 
+    "same_origin_cover": false, 
     "shield_change_of_cover": 2, 
     "shield_type": 1, 
     "shield_value": 0.0, 
@@ -89,6 +89,6 @@
         "items": []
     }, 
     "target_allow": 1, 
-    "time_change_of_cover": 1, 
+    "time_change_of_cover": 2, 
     "uid": "102"
 }

@@ -69,7 +69,7 @@
                                         {
                                             "arg_type": 100000, 
                                             "args_list": [
-                                                100.0
+                                                1.0
                                             ], 
                                             "sub_type": 1
                                         }
@@ -309,9 +309,7 @@
                     "bp": false, 
                     "element_id": 25104386000059, 
                     "enable": true, 
-                    "fake_op": [
-                        2
-                    ]
+                    "fake_op": []
                 }
             ], 
             "call_enabled": true, 

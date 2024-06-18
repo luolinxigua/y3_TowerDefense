@@ -41,7 +41,7 @@
             "0"
         ]
     }, 
-    "ability_icon": 101038, 
+    "ability_icon": 100508, 
     "ability_max_level": 1, 
     "ability_max_stack_count": {
         "__tuple__": true, 
@@ -169,23 +169,23 @@
     "is_meele": false, 
     "key": 200602, 
     "kv": {
-        "\u7f81\u7eca\u51cf\u4f24": {
+        "\u51cf\u4f24\u52a0\u6210": {
             "annotation": "", 
             "desc": "", 
             "etype": 2, 
-            "key": "\u7f81\u7eca\u51cf\u4f24", 
+            "key": "\u51cf\u4f24\u52a0\u6210", 
             "prop_cls": "PFloat", 
             "remark": "", 
             "show_in_attr": true, 
             "sort": 1, 
             "type": 1, 
-            "value": 0.05
+            "value": 0.1
         }, 
-        "\u7f81\u7eca\u8303\u56f4": {
+        "\u6280\u80fd\u8303\u56f4": {
             "annotation": "", 
             "desc": "", 
             "etype": 2, 
-            "key": "\u7f81\u7eca\u8303\u56f4", 
+            "key": "\u6280\u80fd\u8303\u56f4", 
             "prop_cls": "PFloat", 
             "remark": "", 
             "show_in_attr": true, 

@@ -20,7 +20,7 @@
     "ability_cost": {
         "__tuple__": true, 
         "items": [
-            "4.0"
+            "0.0"
         ]
     }, 
     "ability_damage": {
@@ -41,7 +41,7 @@
             "0"
         ]
     }, 
-    "ability_icon": 110337, 
+    "ability_icon": 100508, 
     "ability_max_level": 1, 
     "ability_max_stack_count": {
         "__tuple__": true, 
@@ -169,17 +169,29 @@
     "is_meele": false, 
     "key": 1, 
     "kv": {
-        "\u5355\u6bb5\u9b54\u6cd5\u4f24\u5bb3": {
+        "\u4f24\u5bb3\u6b21\u6570": {
+            "annotation": "", 
+            "desc": "", 
+            "etype": 1, 
+            "key": "\u4f24\u5bb3\u6b21\u6570", 
+            "prop_cls": "PInt", 
+            "remark": "", 
+            "show_in_attr": true, 
+            "sort": 1, 
+            "type": 2, 
+            "value": 5
+        }, 
+        "\u4f24\u5bb3\u7cfb\u6570": {
             "annotation": "", 
             "desc": "", 
             "etype": 2, 
-            "key": "\u5355\u6bb5\u9b54\u6cd5\u4f24\u5bb3", 
+            "key": "\u4f24\u5bb3\u7cfb\u6570", 
             "prop_cls": "PFloat", 
             "remark": "", 
             "show_in_attr": true, 
             "sort": 0, 
             "type": 1, 
-            "value": 20.0
+            "value": 0.2
         }, 
         "\u6280\u80fd\u8303\u56f4": {
             "annotation": "", 
@@ -192,18 +204,6 @@
             "sort": 2, 
             "type": 1, 
             "value": 300.0
-        }, 
-        "\u9020\u6210\u4f24\u5bb3\u6b21\u6570": {
-            "annotation": "", 
-            "desc": "", 
-            "etype": 1, 
-            "key": "\u9020\u6210\u4f24\u5bb3\u6b21\u6570", 
-            "prop_cls": "PInt", 
-            "remark": "", 
-            "show_in_attr": true, 
-            "sort": 1, 
-            "type": 2, 
-            "value": 5
         }
     }, 
     "magicbook_list": {

@@ -2,16 +2,56 @@
     "local_variable": {
         "1515511809": {
             "variable_dict": {
-                "NEW_TIMER": {
-                    "\u866b\u65cf\u4e0d\u673d\u6062\u590d": -1
-                }
+                "FLOAT": {
+                    "\u6062\u590d\u6570\u503c": 0.0
+                }, 
+                "NEW_TIMER": {}
             }, 
             "variable_length_dict": {
-                "\u866b\u65cf\u4e0d\u673d\u6062\u590d": 0
+                "\u6062\u590d\u6570\u503c": 0
             }
         }
     }, 
     "trigger_dict": {
+        "971595778": {
+            "action": [
+                {
+                    "action_type": "DELETE_TIMER", 
+                    "args_list": [
+                        {
+                            "arg_type": 100181, 
+                            "args_list": [
+                                [
+                                    "NEW_TIMER", 
+                                    "\u866b\u65cf\u4e0d\u673d\u8ba1\u65f6\u5668", 
+                                    "actor"
+                                ]
+                            ], 
+                            "sub_type": "VARIABLE"
+                        }
+                    ], 
+                    "bp": false, 
+                    "element_id": 971595778000005, 
+                    "enable": true
+                }
+            ], 
+            "call_enabled": true, 
+            "condition": [], 
+            "enabled": true, 
+            "event": [
+                {
+                    "args_list": [], 
+                    "element_id": 971595778000002, 
+                    "enable": true, 
+                    "event_type": "LOSS_MODIFIER"
+                }
+            ], 
+            "group_id": 20050201, 
+            "p_trigger_id": null, 
+            "trigger_id": 971595778, 
+            "trigger_name": "\u65b0\u5efa\u89e6\u53d1\u5668_2", 
+            "valid": true
+        }, 
         "1515511809": {
             "action": [
                 {
@@ -20,13 +60,97 @@
                         {
                             "arg_type": 100030, 
                             "args_list": [
+                                {
+                                    "__tuple__": true, 
+                                    "items": [
+                                        "FLOAT", 
+                                        "\u6062\u590d\u6570\u503c", 
+                                        "local"
+                                    ]
+                                }
+                            ], 
+                            "sub_type": 1
+                        }, 
+                        {
+                            "arg_type": 100000, 
+                            "args_list": [
+                                {
+                                    "arg_type": 100000, 
+                                    "args_list": [
+                                        {
+                                            "arg_type": 100014, 
+                                            "args_list": [
+                                                {
+                                                    "arg_type": 100076, 
+                                                    "args_list": [], 
+                                                    "sub_type": "CUR_MODIFIER"
+                                                }
+                                            ], 
+                                            "sub_type": "RELATED_ABILITY_MODIFIER"
+                                        }, 
+                                        {
+                                            "arg_type": 100003, 
+                                            "args_list": [
+                                                "\u6062\u590d\u7cfb\u6570"
+                                            ], 
+                                            "sub_type": 1
+                                        }
+                                    ], 
+                                    "sub_type": "GET_FLOAT_KV"
+                                }, 
+                                {
+                                    "arg_type": 100017, 
+                                    "args_list": [
+                                        "*"
+                                    ], 
+                                    "sub_type": 1
+                                }, 
+                                {
+                                    "arg_type": 100000, 
+                                    "args_list": [
+                                        {
+                                            "arg_type": 100006, 
+                                            "args_list": [], 
+                                            "sub_type": "MODIFIER_OWNER"
+                                        }, 
+                                        {
+                                            "arg_type": 100301, 
+                                            "args_list": [
+                                                "ATTR_RESULT"
+                                            ], 
+                                            "sub_type": 1
+                                        }, 
+                                        {
+                                            "arg_type": 100042, 
+                                            "args_list": [
+                                                "hp_max"
+                                            ], 
+                                            "sub_type": 1
+                                        }
+                                    ], 
+                                    "sub_type": "GET_UNIT_ATTR"
+                                }
+                            ], 
+                            "sub_type": "ARITHMETIC_OPERATION"
+                        }
+                    ], 
+                    "bp": false, 
+                    "element_id": 1515511809810058, 
+                    "enable": true
+                }, 
+                {
+                    "action_type": "RUN_LOOP_TIMER", 
+                    "args_list": [
+                        {
+                            "arg_type": 100181, 
+                            "args_list": [
                                 [
-                                    "FLOAT", 
-                                    "HPS", 
+                                    "NEW_TIMER", 
+                                    "\u866b\u65cf\u4e0d\u673d\u8ba1\u65f6\u5668", 
                                     "actor"
                                 ]
                             ], 
-                            "sub_type": 1
+                            "sub_type": "VARIABLE"
                         }, 
                         {
                             "arg_type": 100000, 
@@ -36,14 +160,8 @@
                                     "args_list": [
                                         {
                                             "arg_type": 100076, 
-                                            "args_list": [
-                                                {
-                                                    "arg_type": 100076, 
-                                                    "args_list": [], 
-                                                    "sub_type": "CUR_MODIFIER"
-                                                }
-                                            ], 
-                                            "sub_type": "GET_HALO_MODIFIER"
+                                            "args_list": [], 
+                                            "sub_type": "CUR_MODIFIER"
                                         }
                                     ], 
                                     "sub_type": "RELATED_ABILITY_MODIFIER"
@@ -51,41 +169,12 @@
                                 {
                                     "arg_type": 100003, 
                                     "args_list": [
-                                        "HPS"
+                                        "\u6062\u590d\u95f4\u9694"
                                     ], 
                                     "sub_type": 1
                                 }
                             ], 
                             "sub_type": "GET_FLOAT_KV"
-                        }
-                    ], 
-                    "bp": false, 
-                    "element_id": 10541260810015, 
-                    "enable": true
-                }, 
-                {
-                    "action_type": "RUN_LOOP_TIMER", 
-                    "args_list": [
-                        {
-                            "arg_type": 100181, 
-                            "args_list": [
-                                {
-                                    "__tuple__": true, 
-                                    "items": [
-                                        "NEW_TIMER", 
-                                        "\u866b\u65cf\u4e0d\u673d\u6062\u590d", 
-                                        "local"
-                                    ]
-                                }
-                            ], 
-                            "sub_type": "VARIABLE"
-                        }, 
-                        {
-                            "arg_type": 100000, 
-                            "args_list": [
-                                1.0
-                            ], 
-                            "sub_type": 1
                         }, 
                         {
                             "arg_type": 100001, 
@@ -150,7 +239,7 @@
                                                         }
                                                     ], 
                                                     "condition_type": "FLOAT_COMPARE", 
-                                                    "element_id": 1515511809810022, 
+                                                    "element_id": 1515511809810106, 
                                                     "enable": true
                                                 }
                                             ], 
@@ -174,8 +263,8 @@
                                                                     "__tuple__": true, 
                                                                     "items": [
                                                                         "FLOAT", 
-                                                                        "HPS", 
-                                                                        "actor"
+                                                                        "\u6062\u590d\u6570\u503c", 
+                                                                        "local"
                                                                     ]
                                                                 }
                                                             ], 
@@ -190,7 +279,7 @@
                                                         }
                                                     ], 
                                                     "bp": false, 
-                                                    "element_id": 1515511809810023, 
+                                                    "element_id": 1515511809810107, 
                                                     "enable": true, 
                                                     "op_arg": [
                                                         null, 
@@ -215,11 +304,9 @@
                                         }
                                     ], 
                                     "bp": false, 
-                                    "element_id": 1515511809810024, 
+                                    "element_id": 1515511809810108, 
                                     "enable": true, 
-                                    "fake_op": [
-                                        2
-                                    ]
+                                    "fake_op": []
                                 }
                             ], 
                             "sub_type": 1
@@ -265,6 +352,13 @@
                         1515511809, 
                         "\u65b0\u5efa\u89e6\u53d1\u5668"
                     ]
+                }, 
+                {
+                    "__tuple__": true, 
+                    "items": [
+                        971595778, 
+                        "\u65b0\u5efa\u89e6\u53d1\u5668_2"
+                    ]
                 }
             ], 
             "key": 20050201, 
@@ -273,20 +367,21 @@
     ], 
     "trigger_version": "1.2", 
     "variable_dict": {
-        "FLOAT": {
-            "HPS": 0.0
+        "FLOAT": {}, 
+        "NEW_TIMER": {
+            "\u866b\u65cf\u4e0d\u673d\u8ba1\u65f6\u5668": -1
         }
     }, 
     "variable_group_info": [
         {
             "__tuple__": true, 
             "items": [
-                "HPS", 
-                "HPS"
+                "\u866b\u65cf\u4e0d\u673d\u8ba1\u65f6\u5668", 
+                "\u866b\u65cf\u4e0d\u673d\u8ba1\u65f6\u5668"
             ]
         }
     ], 
     "variable_length_dict": {
-        "HPS": 0
+        "\u866b\u65cf\u4e0d\u673d\u8ba1\u65f6\u5668": 0
     }
 }

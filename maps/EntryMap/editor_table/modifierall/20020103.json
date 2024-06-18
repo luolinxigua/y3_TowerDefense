@@ -6,6 +6,7 @@
         "items": []
     }, 
     "cycle_time": 0, 
+    "desc": -1819230983, 
     "description": -1819230983, 
     "disappear_when_dead": true, 
     "get_effect_list": {
@@ -52,7 +53,7 @@
     "key": 20020103, 
     "kv": {}, 
     "layer_change_of_cover": 3, 
-    "layer_max": 10, 
+    "layer_max": 1, 
     "lose_effect_list": {
         "__tuple__": true, 
         "items": []
@@ -68,7 +69,7 @@
         ]
     }, 
     "material_color_intensity": 0, 
-    "modifier_cover_type": 3, 
+    "modifier_cover_type": 1, 
     "modifier_effect": 3, 
     "modifier_icon": 100008, 
     "modifier_type": 1, 
@@ -77,7 +78,7 @@
     "shield_change_of_cover": 2, 
     "shield_type": 1, 
     "shield_value": 0.0, 
-    "show_on_ui": false, 
+    "show_on_ui": true, 
     "sound_event_list": {
         "__tuple__": true, 
         "items": []

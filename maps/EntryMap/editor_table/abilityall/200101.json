@@ -41,7 +41,7 @@
             "0"
         ]
     }, 
-    "ability_icon": 106675, 
+    "ability_icon": 100508, 
     "ability_max_level": 1, 
     "ability_max_stack_count": {
         "__tuple__": true, 
@@ -111,7 +111,7 @@
     "cold_down_time": {
         "__tuple__": true, 
         "items": [
-            "5"
+            "0.0"
         ]
     }, 
     "collection_animation": "", 
@@ -191,7 +191,7 @@
             "show_in_attr": true, 
             "sort": 0, 
             "type": 1, 
-            "value": 10.0
+            "value": 0.2
         }
     }, 
     "magicbook_list": {

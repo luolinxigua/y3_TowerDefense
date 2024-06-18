@@ -6,6 +6,7 @@
         "items": []
     }, 
     "cycle_time": 0, 
+    "desc": 2109019897, 
     "description": 2109019897, 
     "disappear_when_dead": true, 
     "get_effect_list": [
@@ -75,7 +76,7 @@
     }, 
     "material_color_intensity": 0, 
     "modifier_cover_type": 1, 
-    "modifier_effect": 2, 
+    "modifier_effect": 3, 
     "modifier_icon": 100008, 
     "modifier_type": 1, 
     "name": 1145018611, 

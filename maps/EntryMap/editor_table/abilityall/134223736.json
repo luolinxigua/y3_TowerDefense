@@ -7,12 +7,12 @@
             "50"
         ]
     }, 
-    "ability_bw_point": 0.5, 
-    "ability_cast_point": 0.2, 
+    "ability_bw_point": 0.0, 
+    "ability_cast_point": 0.0, 
     "ability_cast_range": {
         "__tuple__": true, 
         "items": [
-            "10.0"
+            "50.0"
         ]
     }, 
     "ability_cast_type": 2, 
@@ -111,7 +111,7 @@
     "cold_down_time": {
         "__tuple__": true, 
         "items": [
-            "5"
+            "0.0"
         ]
     }, 
     "collection_animation": "", 
@@ -167,7 +167,20 @@
     "is_immediate": false, 
     "is_meele": false, 
     "key": 134223736, 
-    "kv": {}, 
+    "kv": {
+        "model": {
+            "annotation": "", 
+            "desc": "", 
+            "etype": 22, 
+            "key": "model", 
+            "prop_cls": "PInt", 
+            "remark": "", 
+            "show_in_attr": true, 
+            "sort": 0, 
+            "type": 13, 
+            "value": 202951
+        }
+    }, 
     "magicbook_list": {
         "__tuple__": true, 
         "items": []
@@ -194,16 +207,9 @@
     "release_immediately_out_of_range": false, 
     "required_level": {
         "formula": "", 
-        "required_levels": {
-            "__tuple__": true, 
-            "items": [
-                1, 
-                2, 
-                3, 
-                4, 
-                5
-            ]
-        }
+        "required_levels": [
+            1
+        ]
     }, 
     "sector_angle": {
         "__tuple__": true, 

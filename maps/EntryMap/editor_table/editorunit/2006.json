@@ -14,11 +14,11 @@
     "attack_interval_grow": 0, 
     "attack_mag": 0.0, 
     "attack_mag_grow": 0.0, 
-    "attack_phy": 20.0, 
+    "attack_phy": 60.0, 
     "attack_phy_grow": 0.0, 
     "attack_range": 1, 
     "attack_range_grow": 0, 
-    "attack_speed": 100.0, 
+    "attack_speed": 60.0, 
     "attack_speed_grow": 0.0, 
     "attack_type": 10000, 
     "bar_show_name": 0, 
@@ -82,9 +82,9 @@
     "dead_exp": 100, 
     "dead_money": 300, 
     "default_behaviour_type": "caution", 
-    "defense_mag": 2.0, 
+    "defense_mag": 0.0, 
     "defense_mag_grow": 0.0, 
-    "defense_phy": 2.0, 
+    "defense_phy": 0.0, 
     "defense_phy_grow": 0.0, 
     "desc": -443478081, 
     "description": -443478081, 
@@ -131,7 +131,7 @@
     }, 
     "hit_rate": 100.0, 
     "hit_rate_grow": 0.0, 
-    "hp_max": 160.0, 
+    "hp_max": 400.0, 
     "hp_max_grow": 0.0, 
     "hp_rec": 0.0, 
     "hp_rec_grow": 0.0, 
@@ -173,11 +173,19 @@
     "name": 187103159, 
     "need_preview_billboard": true, 
     "ori_bits": 16384, 
-    "ori_speed": 2.0, 
+    "ori_speed": 1.5, 
     "ori_speed_grow": 0.0, 
     "passive_ability_list": [
         [
             200602, 
+            1
+        ], 
+        [
+            134219980, 
+            1
+        ], 
+        [
+            134235457, 
             1
         ]
     ], 
@@ -215,6 +223,7 @@
     }, 
     "resilience": 0.0, 
     "resilience_grow": 0.0, 
+    "reward_4BYg8ClvEe+05gD-74H+Yt": 0.0, 
     "reward_AZK0sBKaEe+oerAlqlIy3H": 0.0, 
     "reward_exp": 0, 
     "reward_official_res_1": 0.0, 
@@ -318,7 +327,8 @@
         "items": [
             "\u5730\u9762\u5355\u4f4d", 
             "\u751f\u7269", 
-            "\u866b\u65cf"
+            "\u866b\u65cf", 
+            "\u8fd1\u6218"
         ]
     }, 
     "type": 1, 

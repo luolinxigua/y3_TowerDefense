@@ -14,11 +14,11 @@
     "attack_interval_grow": 0, 
     "attack_mag": 0.0, 
     "attack_mag_grow": 0.0, 
-    "attack_phy": 15.0, 
+    "attack_phy": 50.0, 
     "attack_phy_grow": 0.0, 
     "attack_range": 1, 
     "attack_range_grow": 0, 
-    "attack_speed": 80.0, 
+    "attack_speed": 50.0, 
     "attack_speed_grow": 0.0, 
     "attack_type": 10000, 
     "bar_show_name": 0, 
@@ -131,7 +131,7 @@
     }, 
     "hit_rate": 100.0, 
     "hit_rate_grow": 0.0, 
-    "hp_max": 300.0, 
+    "hp_max": 1500.0, 
     "hp_max_grow": 0.0, 
     "hp_rec": 0.0, 
     "hp_rec_grow": 0.0, 
@@ -173,11 +173,19 @@
     "name": -753125966, 
     "need_preview_billboard": true, 
     "ori_bits": 16384, 
-    "ori_speed": 1.5, 
+    "ori_speed": 1.0, 
     "ori_speed_grow": 0.0, 
     "passive_ability_list": [
         [
             200502, 
+            1
+        ], 
+        [
+            134245881, 
+            1
+        ], 
+        [
+            134235731, 
             1
         ]
     ], 
@@ -202,7 +210,7 @@
         "__tuple__": true, 
         "items": []
     }, 
-    "preview_billboard_health_value": 300.0, 
+    "preview_billboard_health_value": 1500.0, 
     "refresh_interval": 1.0, 
     "rescue_finish_return": 0, 
     "rescue_seeker_distance": 3, 
@@ -215,6 +223,7 @@
     }, 
     "resilience": 0.0, 
     "resilience_grow": 0.0, 
+    "reward_4BYg8ClvEe+05gD-74H+Yt": 0.0, 
     "reward_AZK0sBKaEe+oerAlqlIy3H": 0.0, 
     "reward_exp": 0, 
     "reward_official_res_1": 0.0, 
@@ -318,7 +327,9 @@
         "items": [
             "\u5730\u9762\u5355\u4f4d", 
             "\u751f\u7269", 
-            "\u866b\u65cf"
+            "\u866b\u65cf", 
+            "\u8fd1\u6218", 
+            "\u5766\u514b"
         ]
     }, 
     "type": 1, 
