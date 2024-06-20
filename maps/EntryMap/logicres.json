@@ -13,7 +13,7 @@
             "id": 10000, 
             "name": "001\u955c\u5934\u9650\u5236\u533a\u57df", 
             "placed_lock": false, 
-            "placed_visibility": true, 
+            "placed_visibility": false, 
             "pos": {
                 "__tuple__": true, 
                 "items": [
@@ -62,7 +62,7 @@
             "id": 10001, 
             "name": "001\u521d\u59cb\u533a\u57df01", 
             "placed_lock": false, 
-            "placed_visibility": true, 
+            "placed_visibility": false, 
             "pos": {
                 "__tuple__": true, 
                 "items": [
@@ -111,7 +111,7 @@
             "id": 10002, 
             "name": "001\u521d\u59cb\u533a\u57df02", 
             "placed_lock": false, 
-            "placed_visibility": true, 
+            "placed_visibility": false, 
             "pos": {
                 "__tuple__": true, 
                 "items": [
@@ -160,7 +160,7 @@
             "id": 10003, 
             "name": "001\u8def\u6807\u533a\u57df01", 
             "placed_lock": false, 
-            "placed_visibility": true, 
+            "placed_visibility": false, 
             "pos": {
                 "__tuple__": true, 
                 "items": [
@@ -209,7 +209,7 @@
             "id": 10004, 
             "name": "001\u5854\u533a\u57df01", 
             "placed_lock": false, 
-            "placed_visibility": true, 
+            "placed_visibility": false, 
             "pos": {
                 "__tuple__": true, 
                 "items": [
@@ -258,7 +258,7 @@
             "id": 10010, 
             "name": "001\u4e3b\u533a\u57df", 
             "placed_lock": false, 
-            "placed_visibility": true, 
+            "placed_visibility": false, 
             "pos": {
                 "__tuple__": true, 
                 "items": [
@@ -307,7 +307,7 @@
             "id": 10011, 
             "name": "001\u77ff\u7269\u751f\u6210\u533a\u57df01", 
             "placed_lock": false, 
-            "placed_visibility": true, 
+            "placed_visibility": false, 
             "pos": {
                 "__tuple__": true, 
                 "items": [
@@ -838,7 +838,7 @@
                     "id": 10005, 
                     "name": "001\u521d\u59cb\u8def\u5f8401", 
                     "placed_lock": false, 
-                    "placed_visibility": true, 
+                    "placed_visibility": false, 
                     "pos": {
                         "__tuple__": true, 
                         "items": [
@@ -863,7 +863,7 @@
                     "id": 10005, 
                     "name": "001\u521d\u59cb\u8def\u5f8401", 
                     "placed_lock": false, 
-                    "placed_visibility": true, 
+                    "placed_visibility": false, 
                     "pos": {
                         "__tuple__": true, 
                         "items": [
@@ -888,7 +888,7 @@
                     "id": 10005, 
                     "name": "001\u521d\u59cb\u8def\u5f8401", 
                     "placed_lock": false, 
-                    "placed_visibility": true, 
+                    "placed_visibility": false, 
                     "pos": {
                         "__tuple__": true, 
                         "items": [
@@ -919,7 +919,7 @@
                     "id": 10006, 
                     "name": "001\u521d\u59cb\u8def\u5f8402", 
                     "placed_lock": false, 
-                    "placed_visibility": true, 
+                    "placed_visibility": false, 
                     "pos": {
                         "__tuple__": true, 
                         "items": [
@@ -944,7 +944,7 @@
                     "id": 10006, 
                     "name": "001\u521d\u59cb\u8def\u5f8402", 
                     "placed_lock": false, 
-                    "placed_visibility": true, 
+                    "placed_visibility": false, 
                     "pos": {
                         "__tuple__": true, 
                         "items": [
@@ -969,7 +969,7 @@
                     "id": 10006, 
                     "name": "001\u521d\u59cb\u8def\u5f8402", 
                     "placed_lock": false, 
-                    "placed_visibility": true, 
+                    "placed_visibility": false, 
                     "pos": {
                         "__tuple__": true, 
                         "items": [
@@ -1000,7 +1000,7 @@
                     "id": 10007, 
                     "name": "001\u8def\u6807\u8def\u5f8401", 
                     "placed_lock": false, 
-                    "placed_visibility": true, 
+                    "placed_visibility": false, 
                     "pos": {
                         "__tuple__": true, 
                         "items": [
@@ -1025,7 +1025,7 @@
                     "id": 10007, 
                     "name": "001\u8def\u6807\u8def\u5f8401", 
                     "placed_lock": false, 
-                    "placed_visibility": true, 
+                    "placed_visibility": false, 
                     "pos": {
                         "__tuple__": true, 
                         "items": [
@@ -1056,7 +1056,7 @@
                     "id": 10008, 
                     "name": "001\u8def\u6807\u8def\u5f8402", 
                     "placed_lock": false, 
-                    "placed_visibility": true, 
+                    "placed_visibility": false, 
                     "pos": {
                         "__tuple__": true, 
                         "items": [
@@ -1081,7 +1081,7 @@
                     "id": 10008, 
                     "name": "001\u8def\u6807\u8def\u5f8402", 
                     "placed_lock": false, 
-                    "placed_visibility": true, 
+                    "placed_visibility": false, 
                     "pos": {
                         "__tuple__": true, 
                         "items": [
@@ -1112,7 +1112,7 @@
                     "id": 10009, 
                     "name": "001\u5854\u8def\u5f8401", 
                     "placed_lock": false, 
-                    "placed_visibility": true, 
+                    "placed_visibility": false, 
                     "pos": {
                         "__tuple__": true, 
                         "items": [
@@ -1137,7 +1137,7 @@
                     "id": 10009, 
                     "name": "001\u5854\u8def\u5f8401", 
                     "placed_lock": false, 
-                    "placed_visibility": true, 
+                    "placed_visibility": false, 
                     "pos": {
                         "__tuple__": true, 
                         "items": [
@@ -1162,7 +1162,7 @@
                     "id": 10009, 
                     "name": "001\u5854\u8def\u5f8401", 
                     "placed_lock": false, 
-                    "placed_visibility": true, 
+                    "placed_visibility": false, 
                     "pos": {
                         "__tuple__": true, 
                         "items": [
@@ -1193,7 +1193,7 @@
                     "id": 10012, 
                     "name": "001\u602a\u7269\u8fdb\u653b\u8def\u5f8401", 
                     "placed_lock": false, 
-                    "placed_visibility": true, 
+                    "placed_visibility": false, 
                     "pos": {
                         "__tuple__": true, 
                         "items": [
@@ -1218,7 +1218,7 @@
                     "id": 10012, 
                     "name": "001\u602a\u7269\u8fdb\u653b\u8def\u5f8401", 
                     "placed_lock": false, 
-                    "placed_visibility": true, 
+                    "placed_visibility": false, 
                     "pos": {
                         "__tuple__": true, 
                         "items": [
@@ -1243,7 +1243,7 @@
                     "id": 10012, 
                     "name": "001\u602a\u7269\u8fdb\u653b\u8def\u5f8401", 
                     "placed_lock": false, 
-                    "placed_visibility": true, 
+                    "placed_visibility": false, 
                     "pos": {
                         "__tuple__": true, 
                         "items": [
@@ -1274,7 +1274,7 @@
                     "id": 10013, 
                     "name": "001\u602a\u7269\u8fdb\u653b\u8def\u5f8402", 
                     "placed_lock": false, 
-                    "placed_visibility": true, 
+                    "placed_visibility": false, 
                     "pos": {
                         "__tuple__": true, 
                         "items": [
@@ -1299,7 +1299,7 @@
                     "id": 10013, 
                     "name": "001\u602a\u7269\u8fdb\u653b\u8def\u5f8402", 
                     "placed_lock": false, 
-                    "placed_visibility": true, 
+                    "placed_visibility": false, 
                     "pos": {
                         "__tuple__": true, 
                         "items": [
@@ -1324,7 +1324,7 @@
                     "id": 10013, 
                     "name": "001\u602a\u7269\u8fdb\u653b\u8def\u5f8402", 
                     "placed_lock": false, 
-                    "placed_visibility": true, 
+                    "placed_visibility": false, 
                     "pos": {
                         "__tuple__": true, 
                         "items": [
@@ -1349,7 +1349,7 @@
                     "id": 10013, 
                     "name": "001\u602a\u7269\u8fdb\u653b\u8def\u5f8402", 
                     "placed_lock": false, 
-                    "placed_visibility": true, 
+                    "placed_visibility": false, 
                     "pos": {
                         "__tuple__": true, 
                         "items": [
@@ -1374,7 +1374,7 @@
                     "id": 10013, 
                     "name": "001\u602a\u7269\u8fdb\u653b\u8def\u5f8402", 
                     "placed_lock": false, 
-                    "placed_visibility": true, 
+                    "placed_visibility": false, 
                     "pos": {
                         "__tuple__": true, 
                         "items": [
@@ -2715,13 +2715,13 @@
     }, 
     "32768": {
         "9999": {
-            "camera_dist": 26.999999745814034, 
+            "camera_dist": 35.0, 
             "far": 1000.0, 
             "focus_max_dist": 400.0, 
             "focus_min_dist": 10.0, 
-            "focus_x": 32.5740966796875, 
+            "focus_x": 32.57, 
             "focus_y": 0.0, 
-            "focus_z": -14.714923858642578, 
+            "focus_z": -14.71, 
             "fov": 35.0, 
             "fov_disabled": true, 
             "id": 9999, 
@@ -2729,13 +2729,13 @@
             "is_ortho": false, 
             "name": "\u521d\u59cb\u955c\u5934", 
             "ortho_scale": 5.0, 
-            "pitch": 0.9773843732604132, 
+            "pitch": 0.9773843865841627, 
             "placed_lock": false, 
             "placed_visibility": true, 
             "roll": 0.0, 
-            "set_camera_conf_realtime": true, 
+            "set_camera_conf_realtime": false, 
             "type": 32768, 
-            "yaw": 6.283185307179586
+            "yaw": 0.0
         }
     }, 
     "65536": {}, 
