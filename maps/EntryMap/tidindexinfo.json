@@ -161,6 +161,12 @@
         "item_key": 5, 
         "prop_key": "name"
     }, 
+    "-1592816804": {
+        "editor_type": "editor_unit", 
+        "index_type": "object_editor", 
+        "item_key": 134229214, 
+        "prop_key": "desc"
+    }, 
     "-1589410316": {
         "editor_type": "ability_all", 
         "index_type": "object_editor", 
@@ -556,6 +562,12 @@
         "index_type": "object_editor", 
         "item_key": 3, 
         "prop_key": "desc"
+    }, 
+    "-443776298": {
+        "editor_type": "editor_unit", 
+        "index_type": "object_editor", 
+        "item_key": 134229214, 
+        "prop_key": "name"
     }, 
     "-443478081": {
         "editor_type": "editor_unit", 
