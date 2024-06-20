@@ -257,9 +257,20 @@
                                                                 {
                                                                     "arg_type": 100000, 
                                                                     "args_list": [
-                                                                        4.0
+                                                                        {
+                                                                            "arg_type": 100014, 
+                                                                            "args_list": [], 
+                                                                            "sub_type": "CUR_ABILITY"
+                                                                        }, 
+                                                                        {
+                                                                            "arg_type": 100003, 
+                                                                            "args_list": [
+                                                                                "\u5efa\u7b51\u7cfb\u6570"
+                                                                            ], 
+                                                                            "sub_type": 1
+                                                                        }
                                                                     ], 
-                                                                    "sub_type": 1
+                                                                    "sub_type": "GET_FLOAT_KV"
                                                                 }, 
                                                                 {
                                                                     "arg_type": 100017, 

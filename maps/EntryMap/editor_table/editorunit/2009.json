@@ -12,7 +12,7 @@
     "armor_type": 20000, 
     "attack_interval": 1.0, 
     "attack_interval_grow": 0, 
-    "attack_mag": 35.0, 
+    "attack_mag": 70.0, 
     "attack_mag_grow": 0.0, 
     "attack_phy": 0.0, 
     "attack_phy_grow": 0.0, 
@@ -172,10 +172,20 @@
     "ori_bits": 16384, 
     "ori_speed": 1.5, 
     "ori_speed_grow": 0.0, 
-    "passive_ability_list": {
-        "__tuple__": true, 
-        "items": []
-    }, 
+    "passive_ability_list": [
+        [
+            134237802, 
+            1
+        ], 
+        [
+            134236725, 
+            1
+        ], 
+        [
+            134221692, 
+            1
+        ]
+    ], 
     "pene_mag": 0.0, 
     "pene_mag_grow": 0.0, 
     "pene_mag_ratio": 0.0, 
@@ -313,7 +323,10 @@
         "__tuple__": true, 
         "items": [
             "\u7a7a\u4e2d\u5355\u4f4d", 
-            "\u751f\u7269"
+            "\u751f\u7269", 
+            "\u5996\u517d", 
+            "\u98de\u884c", 
+            "\u5143\u7d20"
         ]
     }, 
     "type": 1, 

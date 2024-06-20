@@ -8,35 +8,32 @@
     "cycle_time": 0, 
     "description": 26259567, 
     "disappear_when_dead": true, 
-    "get_effect_list": {
-        "__tuple__": true, 
-        "items": [
+    "get_effect_list": [
+        [
+            103616, 
             [
-                103616, 
-                [
-                    0.0, 
-                    1.0, 
-                    1.0
-                ], 
-                [
-                    0.0, 
-                    0.0, 
-                    0.0
-                ], 
-                [
-                    1.0, 
-                    1.0, 
-                    0.4
-                ], 
+                0.0, 
                 1.0, 
-                "y_left_hand", 
-                false, 
-                false, 
-                0, 
-                false
-            ]
+                1.0
+            ], 
+            [
+                0.0, 
+                0.0, 
+                0.0
+            ], 
+            [
+                1.0, 
+                1.0, 
+                0.4
+            ], 
+            1.0, 
+            "y_left_hand", 
+            false, 
+            false, 
+            0, 
+            false
         ]
-    }, 
+    ], 
     "halo_effect": 0, 
     "ign_inf_unit_tag": {
         "__tuple__": true, 
@@ -52,7 +49,7 @@
     "key": 20090101, 
     "kv": {}, 
     "layer_change_of_cover": 3, 
-    "layer_max": 10, 
+    "layer_max": 1, 
     "lose_effect_list": {
         "__tuple__": true, 
         "items": []
@@ -69,16 +66,16 @@
     }, 
     "material_color_intensity": 0, 
     "model": 104791, 
-    "modifier_cover_type": 3, 
+    "modifier_cover_type": 1, 
     "modifier_effect": 2, 
-    "modifier_icon": 905098, 
+    "modifier_icon": 100008, 
     "modifier_type": 1, 
     "name": 1918411049, 
     "same_origin_cover": true, 
     "shield_change_of_cover": 2, 
     "shield_type": 1, 
     "shield_value": 0.0, 
-    "show_on_ui": false, 
+    "show_on_ui": true, 
     "sound_event_list": {
         "__tuple__": true, 
         "items": []

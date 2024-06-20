@@ -72,9 +72,20 @@
                                         {
                                             "arg_type": 100000, 
                                             "args_list": [
-                                                500.0
+                                                {
+                                                    "arg_type": 100014, 
+                                                    "args_list": [], 
+                                                    "sub_type": "CUR_ABILITY"
+                                                }, 
+                                                {
+                                                    "arg_type": 100003, 
+                                                    "args_list": [
+                                                        "\u653b\u51fb\u8ddd\u79bb"
+                                                    ], 
+                                                    "sub_type": 1
+                                                }
                                             ], 
-                                            "sub_type": 1
+                                            "sub_type": "GET_FLOAT_KV"
                                         }, 
                                         {
                                             "arg_type": 100000, 
@@ -161,7 +172,7 @@
                                                         }
                                                     ], 
                                                     "condition_type": "IS_ENEMY", 
-                                                    "element_id": 319287298000327, 
+                                                    "element_id": 319287298000367, 
                                                     "enable": true
                                                 }
                                             ], 
@@ -201,7 +212,7 @@
                                                                         {
                                                                             "arg_type": 100003, 
                                                                             "args_list": [
-                                                                                "\u6b21\u6570"
+                                                                                "\u4f24\u5bb3\u6b21\u6570"
                                                                             ], 
                                                                             "sub_type": 1
                                                                         }
@@ -222,7 +233,7 @@
                                                                 {
                                                                     "arg_type": 100003, 
                                                                     "args_list": [
-                                                                        "\u6b21\u6570"
+                                                                        "\u4f24\u5bb3\u6b21\u6570"
                                                                     ], 
                                                                     "sub_type": 1
                                                                 }
@@ -278,7 +289,7 @@
                                                                                         {
                                                                                             "arg_type": 100003, 
                                                                                             "args_list": [
-                                                                                                "\u7cfb\u6570"
+                                                                                                "\u4f24\u5bb3\u7cfb\u6570"
                                                                                             ], 
                                                                                             "sub_type": 1
                                                                                         }
@@ -329,7 +340,7 @@
                                                                         }
                                                                     ], 
                                                                     "bp": false, 
-                                                                    "element_id": 319287298000328, 
+                                                                    "element_id": 319287298000381, 
                                                                     "enable": true, 
                                                                     "op_arg": [
                                                                         {
@@ -375,7 +386,7 @@
                                                         }
                                                     ], 
                                                     "bp": false, 
-                                                    "element_id": 319287298000329, 
+                                                    "element_id": 319287298000369, 
                                                     "enable": true, 
                                                     "local_var": {
                                                         "__tuple__": true, 
@@ -395,11 +406,9 @@
                                         }
                                     ], 
                                     "bp": false, 
-                                    "element_id": 319287298000330, 
+                                    "element_id": 319287298000370, 
                                     "enable": true, 
-                                    "fake_op": [
-                                        2
-                                    ]
+                                    "fake_op": []
                                 }
                             ], 
                             "sub_type": 1

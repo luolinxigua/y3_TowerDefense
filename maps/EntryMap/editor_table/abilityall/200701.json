@@ -41,7 +41,7 @@
             "0"
         ]
     }, 
-    "ability_icon": 905136, 
+    "ability_icon": 100508, 
     "ability_max_level": 1, 
     "ability_max_stack_count": {
         "__tuple__": true, 
@@ -169,43 +169,17 @@
     "is_meele": false, 
     "key": 200701, 
     "kv": {
-        "\u4e2d\u6bd2DOT": {
+        "\u4f24\u5bb3\u7cfb\u6570": {
             "annotation": "", 
             "desc": "", 
             "etype": 2, 
-            "key": "\u4e2d\u6bd2DOT", 
-            "prop_cls": "PInt", 
+            "key": "\u4f24\u5bb3\u7cfb\u6570", 
+            "prop_cls": "PFloat", 
             "remark": "", 
             "show_in_attr": true, 
             "sort": 0, 
-            "type": 24, 
-            "value": {
-                "__tuple__": true, 
-                "items": [
-                    "lambda unit: Fix32(0.05) * Fix32(unit.ability_source.api_get_float_attr('attack_mag'))", 
-                    [
-                        [
-                            "ability_source", 
-                            "ATTR_RESULT", 
-                            "attack_mag"
-                        ]
-                    ], 
-                    "lambda unit: Fix32(0.05) * Fix32(unit.ability_source.api_get_float_attr('attack_mag'))", 
-                    {
-                        "unit.ability_source.ATTR_RESULT.attack_mag": {
-                            "is_cm": false
-                        }
-                    }, 
-                    [
-                        [
-                            "unit", 
-                            "ability_source", 
-                            "ATTR_RESULT", 
-                            "attack_mag"
-                        ]
-                    ]
-                ]
-            }
+            "type": 1, 
+            "value": 0.025
         }
     }, 
     "magicbook_list": {

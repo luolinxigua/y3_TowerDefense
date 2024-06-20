@@ -152,9 +152,13 @@
                                         {
                                             "arg_type": 100025, 
                                             "args_list": [
-                                                1
+                                                {
+                                                    "arg_type": 100006, 
+                                                    "args_list": [], 
+                                                    "sub_type": "ABILITY_OWNER"
+                                                }
                                             ], 
-                                            "sub_type": 1
+                                            "sub_type": "OWNER_PLAYER"
                                         }, 
                                         null, 
                                         null, 
