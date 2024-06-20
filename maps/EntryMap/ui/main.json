@@ -329,6 +329,6 @@
     "type": 2, 
     "ui_anims": [], 
     "uid": "c5c09f12-f3d7-4b57-a18e-ceff75a73d80", 
-    "visible": false, 
+    "visible": true, 
     "zorder": 400
 }
