@@ -132,6 +132,79 @@
                 "unit_group": 0
             }
         }, 
+        "252182674": {
+            "variable_dict": {
+                "INTEGER": {
+                    "baseLevel": 0, 
+                    "count": 0, 
+                    "i": 0, 
+                    "index": 0, 
+                    "j": 0, 
+                    "k": 0, 
+                    "key": 0, 
+                    "length_unitAttribute": 0, 
+                    "length_unitInfo": 0, 
+                    "m": 0, 
+                    "qualityLevel": 0, 
+                    "realLevel": 0, 
+                    "unitid": 0, 
+                    "\u7269\u7406\u653b\u51fb": 0, 
+                    "\u7269\u7406\u9632\u5fa1": 0, 
+                    "\u751f\u547d\u503c": 0, 
+                    "\u9b54\u6cd5\u653b\u51fb": 0, 
+                    "\u9b54\u6cd5\u9632\u5fa1": 0
+                }, 
+                "POINT": {
+                    "dot": {
+                        "__tuple__": true, 
+                        "items": [
+                            0, 
+                            0, 
+                            0
+                        ]
+                    }
+                }, 
+                "STRING": {
+                    "isLockedj": "", 
+                    "skillj": ""
+                }, 
+                "TABLE": {
+                    "unitInfo": null
+                }, 
+                "UNIT_ENTITY": {
+                    "entityUnit": 0
+                }, 
+                "UNIT_NAME": {
+                    "unit": 0
+                }
+            }, 
+            "variable_length_dict": {
+                "baseLevel": 0, 
+                "count": 0, 
+                "dot": 0, 
+                "entityUnit": 0, 
+                "i": 0, 
+                "index": 0, 
+                "isLockedj": 0, 
+                "j": 0, 
+                "k": 0, 
+                "key": 0, 
+                "length_unitAttribute": 0, 
+                "length_unitInfo": 0, 
+                "m": 0, 
+                "qualityLevel": 0, 
+                "realLevel": 0, 
+                "skillj": 0, 
+                "unit": 0, 
+                "unitInfo": 0, 
+                "unitid": 0, 
+                "\u7269\u7406\u653b\u51fb": 0, 
+                "\u7269\u7406\u9632\u5fa1": 0, 
+                "\u751f\u547d\u503c": 0, 
+                "\u9b54\u6cd5\u653b\u51fb": 0, 
+                "\u9b54\u6cd5\u9632\u5fa1": 0
+            }
+        }, 
         "333193219": {
             "variable_dict": {
                 "BOOLEAN": {
@@ -1255,6 +1328,9 @@
                     "i": 1000, 
                     "j": 0
                 }, 
+                "MODEL": {
+                    "model": 0
+                }, 
                 "STRING": {
                     "click": "", 
                     "skillNum": ""
@@ -1268,7 +1344,31 @@
                 "groupInfo": 0, 
                 "i": 0, 
                 "j": 0, 
+                "model": 0, 
                 "skillNum": 0
+            }
+        }, 
+        "1816961171": {
+            "variable_dict": {
+                "POINT": {
+                    "dot": {
+                        "__tuple__": true, 
+                        "items": [
+                            0, 
+                            0, 
+                            0
+                        ]
+                    }
+                }, 
+                "UNIT_ENTITY": {
+                    "target": 0, 
+                    "unit": 0
+                }
+            }, 
+            "variable_length_dict": {
+                "dot": 0, 
+                "target": 0, 
+                "unit": 0
             }
         }, 
         "1872433179": {

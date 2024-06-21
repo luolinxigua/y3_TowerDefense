@@ -1794,7 +1794,7 @@
     ], 
     "call_enabled": true, 
     "condition": [], 
-    "enabled": true, 
+    "enabled": false, 
     "event": [
         {
             "args_list": [], 
@@ -4044,7 +4044,7 @@
                     ], 
                     "bp": false, 
                     "element_id": 1023295507000031, 
-                    "enable": false
+                    "enable": true
                 }, 
                 {
                     "action_type": "SET_ENTITY_KV", 
@@ -5430,7 +5430,7 @@
             "p_trigger_id": 786112514, 
             "trigger_id": 1023295507, 
             "trigger_name": "on_hero_create", 
-            "valid": true
+            "valid": false
         }, 
         "2081886231": {
             "action": [
@@ -6243,5 +6243,5 @@
     }, 
     "trigger_id": 786112514, 
     "trigger_name": "初始化更新事件", 
-    "valid": true
+    "valid": false
 }

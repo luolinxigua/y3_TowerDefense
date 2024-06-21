@@ -2,20 +2,6 @@
  {
   "__tuple__": true, 
   "items": [
-   "e8e37659-6413-49ca-ae31-a8218e353792", 
-   "ExpList"
-  ]
- }, 
- {
-  "__tuple__": true, 
-  "items": [
-   "a8175fa6-8df9-411e-8e12-27f6a80b115e", 
-   "QualityList"
-  ]
- }, 
- {
-  "__tuple__": true, 
-  "items": [
    "13ee177c-8dd4-4f71-9307-9d0674931f86", 
    "UnitAttribute"
   ]
@@ -39,6 +25,20 @@
   "items": [
    "5f9f8e3b-a4ca-4c81-9e16-26624c00c3a3", 
    "ShopMaterial"
+  ]
+ }, 
+ {
+  "__tuple__": true, 
+  "items": [
+   "e8e37659-6413-49ca-ae31-a8218e353792", 
+   "ExpList"
+  ]
+ }, 
+ {
+  "__tuple__": true, 
+  "items": [
+   "a8175fa6-8df9-411e-8e12-27f6a80b115e", 
+   "QualityList"
   ]
  }
 ]

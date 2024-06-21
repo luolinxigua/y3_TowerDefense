@@ -175,20 +175,7 @@
     "ori_bits": 16384, 
     "ori_speed": 2.0, 
     "ori_speed_grow": 0.0, 
-    "passive_ability_list": [
-        [
-            134256485, 
-            1
-        ], 
-        [
-            134240345, 
-            1
-        ], 
-        [
-            134229192, 
-            1
-        ]
-    ], 
+    "passive_ability_list": [], 
     "pene_mag": 0.0, 
     "pene_mag_grow": 0.0, 
     "pene_mag_ratio": 0.0, 

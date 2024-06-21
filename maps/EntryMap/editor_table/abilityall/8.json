@@ -20,7 +20,7 @@
     "ability_cost": {
         "__tuple__": true, 
         "items": [
-            "2.0"
+            "1.0"
         ]
     }, 
     "ability_damage": {
@@ -41,7 +41,7 @@
             "0"
         ]
     }, 
-    "ability_icon": 905305, 
+    "ability_icon": 100508, 
     "ability_max_level": 1, 
     "ability_max_stack_count": {
         "__tuple__": true, 

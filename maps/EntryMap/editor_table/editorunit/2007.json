@@ -84,7 +84,7 @@
     "default_behaviour_type": "caution", 
     "defense_mag": 0.0, 
     "defense_mag_grow": 0.0, 
-    "defense_phy": 0.0, 
+    "defense_phy": 2.0, 
     "defense_phy_grow": 0.0, 
     "desc": -1834911160, 
     "description": -1834911160, 
@@ -175,20 +175,7 @@
     "ori_bits": 16384, 
     "ori_speed": 2.0, 
     "ori_speed_grow": 0.0, 
-    "passive_ability_list": [
-        [
-            134280064, 
-            1
-        ], 
-        [
-            134279394, 
-            1
-        ], 
-        [
-            134234464, 
-            1
-        ]
-    ], 
+    "passive_ability_list": [], 
     "pene_mag": 0.0, 
     "pene_mag_grow": 0.0, 
     "pene_mag_ratio": 0.0, 

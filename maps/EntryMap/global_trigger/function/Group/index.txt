@@ -1,5 +1,6 @@
 {
-    "DeleteSkill.json": 2, 
-    "SelectHero.json": 0, 
-    "SelectSkill.json": 1
+    "DeleteSkill.json": 3, 
+    "GroupPanel.json": 0, 
+    "SelectHero.json": 1, 
+    "SelectSkill.json": 2
 }

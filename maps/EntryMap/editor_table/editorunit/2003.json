@@ -171,7 +171,7 @@
     "move_type": 40, 
     "mp_color": "Blue", 
     "mp_key": "MP", 
-    "mp_max": 1.0, 
+    "mp_max": 0.0, 
     "mp_max_grow": 0.0, 
     "mp_rec": 0.0, 
     "mp_rec_grow": 0.0, 
@@ -180,20 +180,7 @@
     "ori_bits": 1060314, 
     "ori_speed": 0.0, 
     "ori_speed_grow": 0.0, 
-    "passive_ability_list": [
-        [
-            134262604, 
-            1
-        ], 
-        [
-            134246307, 
-            1
-        ], 
-        [
-            134250714, 
-            1
-        ]
-    ], 
+    "passive_ability_list": [], 
     "pene_mag": 0.0, 
     "pene_mag_grow": 0.0, 
     "pene_mag_ratio": 0.0, 

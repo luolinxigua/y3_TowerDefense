@@ -736,12 +736,13 @@
                             "uid": "3eaa45eb-ad1d-4858-b122-c6ad58ffa301"
                         }, 
                         {
+                            "camera_mode": 1, 
                             "camera_pos": {
                                 "__tuple__": true, 
                                 "items": [
-                                    -5.2125, 
-                                    4.2044, 
-                                    5.2407
+                                    -7.4409, 
+                                    5.5922, 
+                                    7.4691
                                 ]
                             }, 
                             "camera_viewport": 15.0, 
@@ -750,9 +751,9 @@
                             "focus_pos": {
                                 "__tuple__": true, 
                                 "items": [
-                                    -4.5654, 
-                                    3.8013, 
-                                    4.5936
+                                    -6.7937, 
+                                    5.1892, 
+                                    6.8219
                                 ]
                             }, 
                             "name": "model", 
@@ -1051,12 +1052,13 @@
                             "uid": "5fe8e11e-c445-485f-be28-7532ab3c2b0b"
                         }, 
                         {
+                            "camera_mode": 1, 
                             "camera_pos": {
                                 "__tuple__": true, 
                                 "items": [
-                                    -5.2125, 
-                                    4.2044, 
-                                    5.2407
+                                    -7.4409, 
+                                    5.5922, 
+                                    7.4691
                                 ]
                             }, 
                             "camera_viewport": 15.0, 
@@ -1065,9 +1067,9 @@
                             "focus_pos": {
                                 "__tuple__": true, 
                                 "items": [
-                                    -4.5654, 
-                                    3.8013, 
-                                    4.5936
+                                    -6.7937, 
+                                    5.1892, 
+                                    6.8219
                                 ]
                             }, 
                             "idle_anim": "idle2", 
@@ -1374,12 +1376,13 @@
                             "uid": "ddd7980a-f419-4a3f-b47b-fe8975573b1b"
                         }, 
                         {
+                            "camera_mode": 1, 
                             "camera_pos": {
                                 "__tuple__": true, 
                                 "items": [
-                                    -5.2125, 
-                                    4.2044, 
-                                    5.2407
+                                    -7.4409, 
+                                    5.5922, 
+                                    7.4691
                                 ]
                             }, 
                             "camera_viewport": 15.0, 
@@ -1388,9 +1391,9 @@
                             "focus_pos": {
                                 "__tuple__": true, 
                                 "items": [
-                                    -4.5654, 
-                                    3.8013, 
-                                    4.5936
+                                    -6.7937, 
+                                    5.1892, 
+                                    6.8219
                                 ]
                             }, 
                             "name": "model", 
@@ -1689,12 +1692,13 @@
                             "uid": "a2db3f82-de18-4e2d-b9f3-9aea8ae4fcc3"
                         }, 
                         {
+                            "camera_mode": 1, 
                             "camera_pos": {
                                 "__tuple__": true, 
                                 "items": [
-                                    -5.2125, 
-                                    4.2044, 
-                                    5.2407
+                                    -7.4409, 
+                                    5.5922, 
+                                    7.4691
                                 ]
                             }, 
                             "camera_viewport": 15.0, 
@@ -1703,9 +1707,9 @@
                             "focus_pos": {
                                 "__tuple__": true, 
                                 "items": [
-                                    -4.5654, 
-                                    3.8013, 
-                                    4.5936
+                                    -6.7937, 
+                                    5.1892, 
+                                    6.8219
                                 ]
                             }, 
                             "name": "model", 

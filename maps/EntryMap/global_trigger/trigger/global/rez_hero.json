@@ -364,9 +364,7 @@
                                             "bp": false, 
                                             "element_id": 1268478034000058, 
                                             "enable": true, 
-                                            "fake_op": [
-                                                2
-                                            ]
+                                            "fake_op": []
                                         }
                                     ], 
                                     "sub_type": 1
@@ -388,9 +386,7 @@
             "bp": false, 
             "element_id": 1268478034000243, 
             "enable": true, 
-            "fake_op": [
-                2
-            ]
+            "fake_op": []
         }, 
         {
             "action_type": "SET_UI_COMP_LOADINGBAR_CURRENT_VALUE", 

@@ -1,4 +1,6 @@
 {
     "BindBar.json": 0, 
+    "NeedBuildingToPutUnit.json": 3, 
+    "PutUnit.json": 2, 
     "TraverseTowerArea.json": 1
 }

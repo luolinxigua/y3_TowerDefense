@@ -82,9 +82,9 @@
     "dead_exp": 100, 
     "dead_money": 300, 
     "default_behaviour_type": "caution", 
-    "defense_mag": 0.0, 
+    "defense_mag": 4.0, 
     "defense_mag_grow": 0.0, 
-    "defense_phy": 6.0, 
+    "defense_phy": 4.0, 
     "defense_phy_grow": 0.0, 
     "desc": 21584907, 
     "description": 21584907, 
@@ -175,20 +175,7 @@
     "ori_bits": 16384, 
     "ori_speed": 1.0, 
     "ori_speed_grow": 0.0, 
-    "passive_ability_list": [
-        [
-            134232563, 
-            1
-        ], 
-        [
-            134224607, 
-            1
-        ], 
-        [
-            134220870, 
-            1
-        ]
-    ], 
+    "passive_ability_list": [], 
     "pene_mag": 0.0, 
     "pene_mag_grow": 0.0, 
     "pene_mag_ratio": 0.0, 
