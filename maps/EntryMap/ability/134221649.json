@@ -302,7 +302,7 @@
                     "event_type": "SPECIAL_UNIT_EVENT"
                 }
             ], 
-            "group_id": 0, 
+            "group_id": 134221649, 
             "is_conf": true, 
             "p_trigger_id": 691240961, 
             "trigger_id": 2000363522, 
