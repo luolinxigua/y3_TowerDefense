@@ -231,6 +231,12 @@
             ], 
             "key": 999999, 
             "name": "999999"
+        }, 
+        {
+            "_trigger_group_": true, 
+            "group": [], 
+            "key": 999999, 
+            "name": "999999"
         }
     ], 
     "trigger_version": "1.2", 

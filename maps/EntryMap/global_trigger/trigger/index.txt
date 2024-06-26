@@ -1,9 +1,12 @@
 {
     "INI.json": 0, 
     "UI.folder": 1, 
+    "endless_stage.folder": 9, 
     "global.folder": 2, 
     "global_ui.folder": 3, 
-    "shop_2.folder": 6, 
-    "stage_2.folder": 4, 
-    "upgrade_2.folder": 5
+    "main_stage.folder": 8, 
+    "shop_2.folder": 5, 
+    "stage_generate.folder": 7, 
+    "stage_logic.folder": 6, 
+    "upgrade_2.folder": 4
 }

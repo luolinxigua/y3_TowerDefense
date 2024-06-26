@@ -1,0 +1,10 @@
+{
+    "stage_01.json": 0, 
+    "stage_02.json": 1, 
+    "stage_03.json": 2, 
+    "stage_04.json": 3, 
+    "stage_05.json": 4, 
+    "stage_06.json": 5, 
+    "stage_07.json": 6, 
+    "stage_08.json": 7
+}

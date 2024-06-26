@@ -16,7 +16,7 @@
     "attack_mag_grow": 0.0, 
     "attack_phy": 0.0, 
     "attack_phy_grow": 0.0, 
-    "attack_range": 10.0, 
+    "attack_range": 1.0, 
     "attack_range_grow": 0, 
     "attack_speed": 60.0, 
     "attack_speed_grow": 0.0, 
@@ -34,7 +34,7 @@
             0.5
         ]
     }, 
-    "billboard_height_offset": 0, 
+    "billboard_height_offset": 2.0, 
     "billboard_name_font": "DFPYuanW7-GB", 
     "billboard_scale_x": 1.0, 
     "billboard_scale_y": 1.0, 
@@ -148,7 +148,20 @@
     "keep_dead_body_time": 0.0, 
     "keep_target": true, 
     "key": 2009, 
-    "kv": {}, 
+    "kv": {
+        "tech_point": {
+            "annotation": "", 
+            "desc": "", 
+            "etype": 1, 
+            "key": "tech_point", 
+            "prop_cls": "PInt", 
+            "remark": "", 
+            "show_in_attr": true, 
+            "sort": 0, 
+            "type": 2, 
+            "value": 4
+        }
+    }, 
     "level": 1, 
     "main_attr": "strength", 
     "max_balance_angle": 75, 

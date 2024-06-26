@@ -8,7 +8,140 @@
     2147483647, 
     "code_explorer_custom_root_folder_name"
    ]
+  }, 
+  {
+   "__tuple__": true, 
+   "items": [
+    "/2147483647", 
+    0, 
+    "kuWFsDJREe+RW7AlqlIy3C", 
+    "\u82f1\u96c4"
+   ]
+  }, 
+  {
+   "__tuple__": true, 
+   "items": [
+    "/2147483647", 
+    1, 
+    "lhI0jzJREe+bnrAlqlIy3F", 
+    "\u5355\u4f4d"
+   ]
+  }, 
+  {
+   "__tuple__": true, 
+   "items": [
+    "/2147483647", 
+    2, 
+    "l+8x7jJREe+vE7AlqlIy3N", 
+    "\u5efa\u7b51"
+   ]
   }
  ], 
- "d": {}
+ "d": {
+  "134263589": {
+   "__tuple__": true, 
+   "items": [
+    "kuWFsDJREe+RW7AlqlIy3C", 
+    0
+   ]
+  }, 
+  "134261589": {
+   "__tuple__": true, 
+   "items": [
+    "kuWFsDJREe+RW7AlqlIy3C", 
+    1
+   ]
+  }, 
+  "134265749": {
+   "__tuple__": true, 
+   "items": [
+    "kuWFsDJREe+RW7AlqlIy3C", 
+    2
+   ]
+  }, 
+  "134221818": {
+   "__tuple__": true, 
+   "items": [
+    "kuWFsDJREe+RW7AlqlIy3C", 
+    3
+   ]
+  }, 
+  "134274244": {
+   "__tuple__": true, 
+   "items": [
+    "kuWFsDJREe+RW7AlqlIy3C", 
+    4
+   ]
+  }, 
+  "134224434": {
+   "__tuple__": true, 
+   "items": [
+    "lhI0jzJREe+bnrAlqlIy3F", 
+    0
+   ]
+  }, 
+  "134234909": {
+   "__tuple__": true, 
+   "items": [
+    "lhI0jzJREe+bnrAlqlIy3F", 
+    1
+   ]
+  }, 
+  "134280236": {
+   "__tuple__": true, 
+   "items": [
+    "lhI0jzJREe+bnrAlqlIy3F", 
+    2
+   ]
+  }, 
+  "134218879": {
+   "__tuple__": true, 
+   "items": [
+    "lhI0jzJREe+bnrAlqlIy3F", 
+    3
+   ]
+  }, 
+  "134248360": {
+   "__tuple__": true, 
+   "items": [
+    "lhI0jzJREe+bnrAlqlIy3F", 
+    4
+   ]
+  }, 
+  "134241994": {
+   "__tuple__": true, 
+   "items": [
+    "l+8x7jJREe+vE7AlqlIy3N", 
+    0
+   ]
+  }, 
+  "134260438": {
+   "__tuple__": true, 
+   "items": [
+    "l+8x7jJREe+vE7AlqlIy3N", 
+    1
+   ]
+  }, 
+  "134231874": {
+   "__tuple__": true, 
+   "items": [
+    "l+8x7jJREe+vE7AlqlIy3N", 
+    2
+   ]
+  }, 
+  "134258839": {
+   "__tuple__": true, 
+   "items": [
+    "l+8x7jJREe+vE7AlqlIy3N", 
+    3
+   ]
+  }, 
+  "134221390": {
+   "__tuple__": true, 
+   "items": [
+    "l+8x7jJREe+vE7AlqlIy3N", 
+    4
+   ]
+  }
+ }
 }

@@ -196,6 +196,13 @@
                                         1
                                     ], 
                                     "sub_type": 1
+                                }, 
+                                {
+                                    "arg_type": 100025, 
+                                    "args_list": [
+                                        1
+                                    ], 
+                                    "sub_type": 1
                                 }
                             ], 
                             "op_arg": [], 

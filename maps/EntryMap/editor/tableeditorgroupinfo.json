@@ -40,5 +40,19 @@
    "a8175fa6-8df9-411e-8e12-27f6a80b115e", 
    "QualityList"
   ]
+ }, 
+ {
+  "__tuple__": true, 
+  "items": [
+   "5f116669-f2ec-4cd3-81ff-424660ebac5d", 
+   "PlayerTech"
+  ]
+ }, 
+ {
+  "__tuple__": true, 
+  "items": [
+   "eede2ce7-3d04-46b0-aaa3-5a4b49b58f72", 
+   "MobTech"
+  ]
  }
 ]

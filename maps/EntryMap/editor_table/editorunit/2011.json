@@ -49,7 +49,7 @@
         "__tuple__": true, 
         "items": []
     }, 
-    "can_flee": true, 
+    "can_flee": false, 
     "cancel_alarm_range": 10.0, 
     "cc_jump_height": 0, 
     "cc_move_acc": 0, 
@@ -151,7 +151,20 @@
     "keep_dead_body_time": 0.0, 
     "keep_target": true, 
     "key": 2011, 
-    "kv": {}, 
+    "kv": {
+        "tech_point": {
+            "annotation": "", 
+            "desc": "", 
+            "etype": 1, 
+            "key": "tech_point", 
+            "prop_cls": "PInt", 
+            "remark": "", 
+            "show_in_attr": true, 
+            "sort": 0, 
+            "type": 2, 
+            "value": 1
+        }
+    }, 
     "level": 1, 
     "main_attr": "strength", 
     "max_balance_angle": 75, 

@@ -148,7 +148,20 @@
     "keep_dead_body_time": 0.0, 
     "keep_target": true, 
     "key": 2001, 
-    "kv": {}, 
+    "kv": {
+        "tech_point": {
+            "annotation": "", 
+            "desc": "", 
+            "etype": 1, 
+            "key": "tech_point", 
+            "prop_cls": "PInt", 
+            "remark": "", 
+            "show_in_attr": true, 
+            "sort": 0, 
+            "type": 2, 
+            "value": 3
+        }
+    }, 
     "level": 1, 
     "main_attr": "strength", 
     "max_balance_angle": 75, 

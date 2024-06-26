@@ -1,6 +1,8 @@
 {
     "BindBar.json": 0, 
-    "NeedBuildingToPutUnit.json": 3, 
-    "PutUnit.json": 2, 
-    "TraverseTowerArea.json": 1
+    "EnemyTower.json": 2, 
+    "LimitTower.json": 1, 
+    "PutMineral.json": 5, 
+    "PutMob.json": 4, 
+    "PutUnit.json": 3
 }

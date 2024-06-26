@@ -1,0 +1,10 @@
+{
+    "stage_1.folder": 0, 
+    "stage_2.folder": 1, 
+    "stage_3.folder": 2, 
+    "stage_4.folder": 3, 
+    "stage_5.folder": 4, 
+    "stage_6.folder": 5, 
+    "stage_7.folder": 6, 
+    "stage_8.folder": 7
+}

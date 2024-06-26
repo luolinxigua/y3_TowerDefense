@@ -420,7 +420,7 @@
     "event": [], 
     "func_category": "t_function", 
     "func_comment": "", 
-    "func_des": "函数描述{mybase}{enemybase}{hero}我方主基地、敌方主基地、英雄", 
+    "func_des": "我方主基地{mybase}、敌方主基地{enemybase}、英雄{hero}", 
     "func_id": "e0d325b014f211ef839400ffef81fe62", 
     "func_name": "BindBar", 
     "func_param_list": [

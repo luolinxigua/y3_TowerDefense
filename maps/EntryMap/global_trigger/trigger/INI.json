@@ -24,6 +24,34 @@
                         {
                             "__tuple__": true, 
                             "items": [
+                                "TABLE", 
+                                "PLAYER_TECH"
+                            ]
+                        }
+                    ], 
+                    "sub_type": 1
+                }, 
+                {
+                    "arg_type": 100011, 
+                    "args_list": [
+                        "5f116669-f2ec-4cd3-81ff-424660ebac5d"
+                    ], 
+                    "sub_type": 1
+                }
+            ], 
+            "bp": false, 
+            "element_id": 1875570739000131, 
+            "enable": true
+        }, 
+        {
+            "action_type": "SET_VARIABLE", 
+            "args_list": [
+                {
+                    "arg_type": 100030, 
+                    "args_list": [
+                        {
+                            "__tuple__": true, 
+                            "items": [
                                 "INTEGER", 
                                 "DEFAULT_HERO"
                             ]
