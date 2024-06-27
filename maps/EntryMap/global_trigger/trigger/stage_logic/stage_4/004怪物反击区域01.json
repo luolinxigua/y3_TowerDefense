@@ -50,7 +50,19 @@
             ], 
             "bp": false, 
             "element_id": 58622024000056, 
-            "enable": true
+            "enable": true, 
+            "op_arg": [
+                {
+                    "arg_type": 100001, 
+                    "args_list": [
+                        true
+                    ], 
+                    "sub_type": 1
+                }
+            ], 
+            "op_arg_enable": [
+                false
+            ]
         }
     ], 
     "call_enabled": true, 
@@ -147,5 +159,10 @@
     "p_trigger_id": null, 
     "trigger_id": 1559011493, 
     "trigger_name": "004怪物反击区域01", 
-    "valid": true
+    "valid": true, 
+    "var_data": [
+        {}, 
+        {}, 
+        []
+    ]
 }

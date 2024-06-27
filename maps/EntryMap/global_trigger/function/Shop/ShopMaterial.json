@@ -1356,10 +1356,72 @@
             "p_trigger_id": 1151443077, 
             "trigger_id": 1017831560, 
             "trigger_name": "on_click_shopmat", 
-            "valid": true
+            "valid": true, 
+            "var_data": [
+                {}, 
+                {}, 
+                []
+            ]
         }
     }, 
     "trigger_id": 1151443077, 
     "trigger_name": "ShopMaterial", 
-    "valid": true
+    "valid": true, 
+    "var_data": [
+        {
+            "INTEGER": {
+                "i": 0, 
+                "length_rsrcInfo": 0, 
+                "length_shopMat": 0, 
+                "price": 0
+            }, 
+            "ITEM_NAME": {}, 
+            "NEW_TIMER": {}, 
+            "STRING": {
+                "click": "", 
+                "matDesc": "", 
+                "matName": "", 
+                "num_str": "", 
+                "price_str": ""
+            }, 
+            "TABLE": {
+                "rsrcInfo": null, 
+                "shopMat": null
+            }, 
+            "TEXTURE": {
+                "matAvator": 0, 
+                "priceIcon": 0
+            }
+        }, 
+        {
+            "click": 0, 
+            "i": 0, 
+            "length_rsrcInfo": 0, 
+            "length_shopMat": 0, 
+            "matAvator": 0, 
+            "matDesc": 0, 
+            "matName": 0, 
+            "num_str": 0, 
+            "price": 0, 
+            "priceIcon": 0, 
+            "price_str": 0, 
+            "rsrcInfo": 0, 
+            "shopMat": 0
+        }, 
+        [
+            "click", 
+            "i", 
+            "length_rsrcInfo", 
+            "length_shopMat", 
+            "matAvator", 
+            "matDesc", 
+            "matName", 
+            "num_str", 
+            "price", 
+            "priceIcon", 
+            "price_str", 
+            "rsrcInfo", 
+            "shopMat"
+        ]
+    ]
 }

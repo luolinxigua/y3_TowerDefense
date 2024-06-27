@@ -52,5 +52,10 @@
     "p_trigger_id": null, 
     "trigger_id": 499339345, 
     "trigger_name": "lock_hero", 
-    "valid": true
+    "valid": true, 
+    "var_data": [
+        {}, 
+        {}, 
+        []
+    ]
 }

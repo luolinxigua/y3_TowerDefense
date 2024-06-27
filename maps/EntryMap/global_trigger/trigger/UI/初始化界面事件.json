@@ -1382,7 +1382,29 @@
             "p_trigger_id": 1496309785, 
             "trigger_id": 36646942, 
             "trigger_name": "change main unit by hotkey", 
-            "valid": true
+            "valid": true, 
+            "var_data": [
+                {
+                    "INTEGER": {
+                        "cindex": 0, 
+                        "rindex": 0
+                    }, 
+                    "PLAYER": {}, 
+                    "UNIT_ENTITY": {
+                        "unit": 0
+                    }
+                }, 
+                {
+                    "cindex": 0, 
+                    "rindex": 0, 
+                    "unit": 0
+                }, 
+                [
+                    "cindex", 
+                    "rindex", 
+                    "unit"
+                ]
+            ]
         }, 
         "72462362": {
             "action": [
@@ -2068,7 +2090,23 @@
             "p_trigger_id": 1496309785, 
             "trigger_id": 72462362, 
             "trigger_name": "change main unit", 
-            "valid": true
+            "valid": true, 
+            "var_data": [
+                {
+                    "INTEGER": {
+                        "cindex": 0, 
+                        "rindex": 0
+                    }
+                }, 
+                {
+                    "cindex": 0, 
+                    "rindex": 0
+                }, 
+                [
+                    "cindex", 
+                    "rindex"
+                ]
+            ]
         }, 
         "291192863": {
             "action": [
@@ -2172,7 +2210,12 @@
             "p_trigger_id": 1496309785, 
             "trigger_id": 291192863, 
             "trigger_name": "focu_on_select_unit", 
-            "valid": true
+            "valid": true, 
+            "var_data": [
+                {}, 
+                {}, 
+                []
+            ]
         }, 
         "366354479": {
             "action": [
@@ -2364,7 +2407,21 @@
             "p_trigger_id": 1496309785, 
             "trigger_id": 366354479, 
             "trigger_name": "store_tab_up", 
-            "valid": true
+            "valid": true, 
+            "var_data": [
+                {
+                    "PLAYER": {}, 
+                    "UNIT_ENTITY": {
+                        "store unit": 0
+                    }
+                }, 
+                {
+                    "store unit": 0
+                }, 
+                [
+                    "store unit"
+                ]
+            ]
         }, 
         "416448551": {
             "action": [
@@ -2440,7 +2497,12 @@
             "p_trigger_id": 1496309785, 
             "trigger_id": 416448551, 
             "trigger_name": "hide_tips", 
-            "valid": true
+            "valid": true, 
+            "var_data": [
+                {}, 
+                {}, 
+                []
+            ]
         }, 
         "459735072": {
             "action": [
@@ -2529,7 +2591,12 @@
             "p_trigger_id": 291192863, 
             "trigger_id": 459735072, 
             "trigger_name": "release_listener", 
-            "valid": true
+            "valid": true, 
+            "var_data": [
+                {}, 
+                {}, 
+                []
+            ]
         }, 
         "649699366": {
             "action": [
@@ -3055,7 +3122,12 @@
             "p_trigger_id": 1496309785, 
             "trigger_id": 649699366, 
             "trigger_name": "show_modifier_tips", 
-            "valid": true
+            "valid": true, 
+            "var_data": [
+                {}, 
+                {}, 
+                []
+            ]
         }, 
         "651300900": {
             "action": [
@@ -3255,7 +3327,12 @@
             "p_trigger_id": 1496309785, 
             "trigger_id": 651300900, 
             "trigger_name": "show_skill_tips", 
-            "valid": true
+            "valid": true, 
+            "var_data": [
+                {}, 
+                {}, 
+                []
+            ]
         }, 
         "863993900": {
             "action": [
@@ -4403,7 +4480,20 @@
             "p_trigger_id": 1496309785, 
             "trigger_id": 863993900, 
             "trigger_name": "buy_item", 
-            "valid": true
+            "valid": true, 
+            "var_data": [
+                {
+                    "FLOAT": {
+                        "dis": 0.0
+                    }
+                }, 
+                {
+                    "dis": 0
+                }, 
+                [
+                    "dis"
+                ]
+            ]
         }, 
         "978677801": {
             "action": [
@@ -4660,7 +4750,12 @@
             "p_trigger_id": 1496309785, 
             "trigger_id": 978677801, 
             "trigger_name": "show_store_tips", 
-            "valid": true
+            "valid": true, 
+            "var_data": [
+                {}, 
+                {}, 
+                []
+            ]
         }, 
         "990195764": {
             "action": [
@@ -4963,7 +5058,20 @@
             "p_trigger_id": 1496309785, 
             "trigger_id": 990195764, 
             "trigger_name": "fresh_sell_list", 
-            "valid": true
+            "valid": true, 
+            "var_data": [
+                {
+                    "INTEGER": {
+                        "n": 0
+                    }
+                }, 
+                {
+                    "n": 0
+                }, 
+                [
+                    "n"
+                ]
+            ]
         }, 
         "1302442017": {
             "action": [
@@ -5121,7 +5229,21 @@
             "p_trigger_id": 1496309785, 
             "trigger_id": 1302442017, 
             "trigger_name": "main_unit_skill_list_value_change", 
-            "valid": true
+            "valid": true, 
+            "var_data": [
+                {
+                    "PLAYER": {}, 
+                    "UNIT_ENTITY": {
+                        "unit": 0
+                    }
+                }, 
+                {
+                    "unit": 0
+                }, 
+                [
+                    "unit"
+                ]
+            ]
         }, 
         "1523929134": {
             "action": [
@@ -5276,7 +5398,12 @@
             "p_trigger_id": 1496309785, 
             "trigger_id": 1523929134, 
             "trigger_name": "store_tab_down", 
-            "valid": true
+            "valid": true, 
+            "var_data": [
+                {}, 
+                {}, 
+                []
+            ]
         }, 
         "1665630250": {
             "action": [
@@ -6089,7 +6216,20 @@
             "p_trigger_id": 1496309785, 
             "trigger_id": 1665630250, 
             "trigger_name": "sell_item", 
-            "valid": true
+            "valid": true, 
+            "var_data": [
+                {
+                    "FLOAT": {
+                        "dis": 0.0
+                    }
+                }, 
+                {
+                    "dis": 0
+                }, 
+                [
+                    "dis"
+                ]
+            ]
         }, 
         "1859280934": {
             "action": [
@@ -6296,7 +6436,12 @@
             "p_trigger_id": 1496309785, 
             "trigger_id": 1859280934, 
             "trigger_name": "show_inventory_tips", 
-            "valid": true
+            "valid": true, 
+            "var_data": [
+                {}, 
+                {}, 
+                []
+            ]
         }, 
         "2010271789": {
             "action": [
@@ -7178,7 +7323,31 @@
             "p_trigger_id": 1496309785, 
             "trigger_id": 2010271789, 
             "trigger_name": "store_tab_click", 
-            "valid": true
+            "valid": true, 
+            "var_data": [
+                {
+                    "FLOAT": {
+                        "dis": 0.0
+                    }, 
+                    "INTEGER": {
+                        "tab_index": 0
+                    }, 
+                    "PLAYER": {}, 
+                    "UNIT_ENTITY": {
+                        "store unit": 0
+                    }
+                }, 
+                {
+                    "dis": 0, 
+                    "store unit": 0, 
+                    "tab_index": 0
+                }, 
+                [
+                    "dis", 
+                    "store unit", 
+                    "tab_index"
+                ]
+            ]
         }, 
         "2064273458": {
             "action": [
@@ -7509,10 +7678,40 @@
             "p_trigger_id": 1496309785, 
             "trigger_id": 2064273458, 
             "trigger_name": "show_bag_tips", 
-            "valid": true
+            "valid": true, 
+            "var_data": [
+                {}, 
+                {}, 
+                []
+            ]
         }
     }, 
     "trigger_id": 1496309785, 
     "trigger_name": "初始化界面事件", 
-    "valid": true
+    "valid": true, 
+    "var_data": [
+        {
+            "INTEGER": {
+                "i": 0, 
+                "index": 0, 
+                "row": 0
+            }, 
+            "NEW_TIMER": {}, 
+            "PLAYER": {
+                "player": 0
+            }
+        }, 
+        {
+            "i": 0, 
+            "index": 0, 
+            "player": 0, 
+            "row": 0
+        }, 
+        [
+            "i", 
+            "index", 
+            "player", 
+            "row"
+        ]
+    ]
 }

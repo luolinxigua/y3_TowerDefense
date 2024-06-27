@@ -98,5 +98,10 @@
     "p_trigger_id": null, 
     "trigger_id": 1878765691, 
     "trigger_name": "death_unit", 
-    "valid": true
+    "valid": true, 
+    "var_data": [
+        {}, 
+        {}, 
+        []
+    ]
 }

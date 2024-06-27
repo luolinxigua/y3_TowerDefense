@@ -473,5 +473,30 @@
     "p_trigger_id": null, 
     "trigger_id": 1268478034, 
     "trigger_name": "rez_hero", 
-    "valid": true
+    "valid": true, 
+    "var_data": [
+        {
+            "FLOAT": {
+                "dmg": 0.0
+            }, 
+            "POINT": {
+                "rez_pos": {
+                    "__tuple__": true, 
+                    "items": [
+                        0, 
+                        0, 
+                        0
+                    ]
+                }
+            }
+        }, 
+        {
+            "dmg": 0, 
+            "rez_pos": 0
+        }, 
+        [
+            "dmg", 
+            "rez_pos"
+        ]
+    ]
 }

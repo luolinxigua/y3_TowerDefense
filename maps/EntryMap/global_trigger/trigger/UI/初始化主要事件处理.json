@@ -364,7 +364,12 @@
             "p_trigger_id": 333193219, 
             "trigger_id": 435048459, 
             "trigger_name": "Select Unit Group", 
-            "valid": true
+            "valid": true, 
+            "var_data": [
+                {}, 
+                {}, 
+                []
+            ]
         }, 
         "602828813": {
             "action": [
@@ -412,7 +417,12 @@
             "p_trigger_id": 333193219, 
             "trigger_id": 602828813, 
             "trigger_name": "Select Destructible", 
-            "valid": true
+            "valid": true, 
+            "var_data": [
+                {}, 
+                {}, 
+                []
+            ]
         }, 
         "1257107466": {
             "action": [
@@ -713,7 +723,12 @@
             "p_trigger_id": 333193219, 
             "trigger_id": 1257107466, 
             "trigger_name": "Select Unit", 
-            "valid": true
+            "valid": true, 
+            "var_data": [
+                {}, 
+                {}, 
+                []
+            ]
         }, 
         "1743675404": {
             "action": [
@@ -761,7 +776,12 @@
             "p_trigger_id": 333193219, 
             "trigger_id": 1743675404, 
             "trigger_name": "Select Item", 
-            "valid": true
+            "valid": true, 
+            "var_data": [
+                {}, 
+                {}, 
+                []
+            ]
         }, 
         "1897074738": {
             "action": [
@@ -810,7 +830,12 @@
             "p_trigger_id": 333193219, 
             "trigger_id": 1897074738, 
             "trigger_name": "minimap_btn2", 
-            "valid": true
+            "valid": true, 
+            "var_data": [
+                {}, 
+                {}, 
+                []
+            ]
         }, 
         "1913552945": {
             "action": [
@@ -859,7 +884,12 @@
             "p_trigger_id": 333193219, 
             "trigger_id": 1913552945, 
             "trigger_name": "minimap_btn1", 
-            "valid": true
+            "valid": true, 
+            "var_data": [
+                {}, 
+                {}, 
+                []
+            ]
         }, 
         "2096021518": {
             "action": [
@@ -1010,10 +1040,28 @@
             "p_trigger_id": 333193219, 
             "trigger_id": 2096021518, 
             "trigger_name": "Open Bag", 
-            "valid": true
+            "valid": true, 
+            "var_data": [
+                {}, 
+                {}, 
+                []
+            ]
         }
     }, 
     "trigger_id": 333193219, 
     "trigger_name": "初始化主要事件处理", 
-    "valid": true
+    "valid": true, 
+    "var_data": [
+        {
+            "BOOLEAN": {
+                "is_bag_open": false
+            }
+        }, 
+        {
+            "is_bag_open": 0
+        }, 
+        [
+            "is_bag_open"
+        ]
+    ]
 }

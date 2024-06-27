@@ -554,10 +554,38 @@
             "p_trigger_id": 430391369, 
             "trigger_id": 1694879818, 
             "trigger_name": "on_exchange_hero_skill", 
-            "valid": true
+            "valid": true, 
+            "var_data": [
+                {}, 
+                {}, 
+                []
+            ]
         }
     }, 
     "trigger_id": 430391369, 
     "trigger_name": "craete_hero", 
-    "valid": true
+    "valid": true, 
+    "var_data": [
+        {
+            "INTEGER": {
+                "i": 0
+            }, 
+            "TABLE": {
+                "groupInfo": null
+            }, 
+            "UNIT_ENTITY": {
+                "hero": 0
+            }
+        }, 
+        {
+            "groupInfo": 0, 
+            "hero": 0, 
+            "i": 0
+        }, 
+        [
+            "groupInfo", 
+            "hero", 
+            "i"
+        ]
+    ]
 }

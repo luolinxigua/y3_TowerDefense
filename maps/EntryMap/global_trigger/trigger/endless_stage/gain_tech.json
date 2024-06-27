@@ -1449,10 +1449,60 @@
             "p_trigger_id": 1881444555, 
             "trigger_id": 894664910, 
             "trigger_name": "choose_tech", 
-            "valid": true
+            "valid": true, 
+            "var_data": [
+                {}, 
+                {}, 
+                []
+            ]
         }
     }, 
     "trigger_id": 1881444555, 
     "trigger_name": "gain_tech", 
-    "valid": true
+    "valid": true, 
+    "var_data": [
+        {
+            "INTEGER": {
+                "i": 0, 
+                "j": 0, 
+                "k": 0, 
+                "m": 0, 
+                "player_tech_length": 0, 
+                "random_array_subscript": 0, 
+                "tech_level": 0
+            }, 
+            "STRING": {
+                "click": ""
+            }, 
+            "TABLE": {}, 
+            "TECH_KEY": {
+                "tech_array": 0, 
+                "tech_array_choice": 0
+            }
+        }, 
+        {
+            "click": 0, 
+            "i": 0, 
+            "j": 0, 
+            "k": 0, 
+            "m": 0, 
+            "player_tech_length": 0, 
+            "random_array_subscript": 0, 
+            "tech_array": 10, 
+            "tech_array_choice": 10, 
+            "tech_level": 0
+        }, 
+        [
+            "click", 
+            "i", 
+            "j", 
+            "k", 
+            "m", 
+            "player_tech_length", 
+            "random_array_subscript", 
+            "tech_array", 
+            "tech_array_choice", 
+            "tech_level"
+        ]
+    ]
 }

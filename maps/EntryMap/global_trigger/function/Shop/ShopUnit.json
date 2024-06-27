@@ -2434,10 +2434,100 @@
             "p_trigger_id": 2146480253, 
             "trigger_id": 791433342, 
             "trigger_name": "on_click_shopunit", 
-            "valid": true
+            "valid": true, 
+            "var_data": [
+                {}, 
+                {}, 
+                []
+            ]
         }
     }, 
     "trigger_id": 2146480253, 
     "trigger_name": "ShopUnit", 
-    "valid": true
+    "valid": true, 
+    "var_data": [
+        {
+            "ABILITY_NAME": {
+                "unitSkill": 0, 
+                "unit_archive": 0, 
+                "unit_choose": 0
+            }, 
+            "INTEGER": {
+                "count": 0, 
+                "i": 0, 
+                "index": 0, 
+                "j": 0, 
+                "length": 0, 
+                "m": 0, 
+                "n": 0, 
+                "quality": 0, 
+                "random": 0, 
+                "temp": 0, 
+                "unitList": 0, 
+                "upgrade": 0
+            }, 
+            "MODEL": {
+                "model": 0
+            }, 
+            "NEW_TIMER": {}, 
+            "STRING": {
+                "click": "", 
+                "count_str": "", 
+                "name_str": "", 
+                "upgrade_str": ""
+            }, 
+            "TABLE": {
+                "randomShopUnit": null, 
+                "unitInfo": null
+            }
+        }, 
+        {
+            "click": 0, 
+            "count": 0, 
+            "count_str": 0, 
+            "i": 0, 
+            "index": 0, 
+            "j": 0, 
+            "length": 0, 
+            "m": 0, 
+            "model": 0, 
+            "n": 0, 
+            "name_str": 0, 
+            "quality": 0, 
+            "random": 0, 
+            "randomShopUnit": 0, 
+            "temp": 0, 
+            "unitInfo": 0, 
+            "unitList": 10, 
+            "unitSkill": 0, 
+            "unit_archive": 0, 
+            "unit_choose": 0, 
+            "upgrade": 0, 
+            "upgrade_str": 0
+        }, 
+        [
+            "click", 
+            "count", 
+            "count_str", 
+            "i", 
+            "index", 
+            "j", 
+            "length", 
+            "m", 
+            "model", 
+            "n", 
+            "name_str", 
+            "quality", 
+            "random", 
+            "randomShopUnit", 
+            "temp", 
+            "unitInfo", 
+            "unitList", 
+            "unitSkill", 
+            "unit_archive", 
+            "unit_choose", 
+            "upgrade", 
+            "upgrade_str"
+        ]
+    ]
 }

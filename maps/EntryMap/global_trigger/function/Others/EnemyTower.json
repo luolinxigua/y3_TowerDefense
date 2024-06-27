@@ -226,5 +226,23 @@
     "p_trigger_id": null, 
     "trigger_id": 81289322, 
     "trigger_name": "EnemyTower", 
-    "valid": true
+    "valid": true, 
+    "var_data": [
+        {
+            "RECTANGLE": {
+                "area": 0
+            }, 
+            "UNIT_ENTITY": {
+                "target": 0
+            }
+        }, 
+        {
+            "area": 0, 
+            "target": 0
+        }, 
+        [
+            "area", 
+            "target"
+        ]
+    ]
 }

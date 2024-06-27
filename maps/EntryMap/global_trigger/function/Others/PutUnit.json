@@ -2232,5 +2232,109 @@
     "p_trigger_id": null, 
     "trigger_id": 252182674, 
     "trigger_name": "PutUnit", 
-    "valid": true
+    "valid": true, 
+    "var_data": [
+        {
+            "INTEGER": {
+                "baseLevel": 0, 
+                "count": 0, 
+                "i": 0, 
+                "index": 0, 
+                "j": 0, 
+                "k": 0, 
+                "key": 0, 
+                "length_unitAttribute": 0, 
+                "length_unitInfo": 0, 
+                "m": 0, 
+                "qualityLevel": 0, 
+                "realLevel": 0, 
+                "unitid": 0, 
+                "物理攻击": 0, 
+                "物理防御": 0, 
+                "生命值": 0, 
+                "魔法攻击": 0, 
+                "魔法防御": 0
+            }, 
+            "PLAYER": {
+                "player": 0
+            }, 
+            "POINT": {
+                "dot": {
+                    "__tuple__": true, 
+                    "items": [
+                        0, 
+                        0, 
+                        0
+                    ]
+                }
+            }, 
+            "STRING": {
+                "isLockedj": "", 
+                "skillj": ""
+            }, 
+            "TABLE": {
+                "unitInfo": null
+            }, 
+            "UNIT_ENTITY": {
+                "entityUnit": 0
+            }, 
+            "UNIT_NAME": {
+                "unit": 0
+            }
+        }, 
+        {
+            "baseLevel": 0, 
+            "count": 0, 
+            "dot": 0, 
+            "entityUnit": 0, 
+            "i": 0, 
+            "index": 0, 
+            "isLockedj": 0, 
+            "j": 0, 
+            "k": 0, 
+            "key": 0, 
+            "length_unitAttribute": 0, 
+            "length_unitInfo": 0, 
+            "m": 0, 
+            "player": 0, 
+            "qualityLevel": 0, 
+            "realLevel": 0, 
+            "skillj": 0, 
+            "unit": 0, 
+            "unitInfo": 0, 
+            "unitid": 0, 
+            "物理攻击": 0, 
+            "物理防御": 0, 
+            "生命值": 0, 
+            "魔法攻击": 0, 
+            "魔法防御": 0
+        }, 
+        [
+            "baseLevel", 
+            "count", 
+            "dot", 
+            "entityUnit", 
+            "i", 
+            "index", 
+            "isLockedj", 
+            "j", 
+            "k", 
+            "key", 
+            "length_unitAttribute", 
+            "length_unitInfo", 
+            "m", 
+            "player", 
+            "qualityLevel", 
+            "realLevel", 
+            "skillj", 
+            "unit", 
+            "unitInfo", 
+            "unitid", 
+            "物理攻击", 
+            "物理防御", 
+            "生命值", 
+            "魔法攻击", 
+            "魔法防御"
+        ]
+    ]
 }

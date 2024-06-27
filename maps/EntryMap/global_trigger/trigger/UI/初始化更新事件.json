@@ -2753,7 +2753,25 @@
             "p_trigger_id": 786112514, 
             "trigger_id": 210653238, 
             "trigger_name": "on_unit_delete", 
-            "valid": true
+            "valid": true, 
+            "var_data": [
+                {
+                    "UNIT_ENTITY": {
+                        "last_main_unit": 0
+                    }, 
+                    "UNIT_GROUP": {
+                        "unit_group": []
+                    }
+                }, 
+                {
+                    "last_main_unit": 0, 
+                    "unit_group": 0
+                }, 
+                [
+                    "last_main_unit", 
+                    "unit_group"
+                ]
+            ]
         }, 
         "383975446": {
             "action": [
@@ -3016,7 +3034,12 @@
             "p_trigger_id": 786112514, 
             "trigger_id": 383975446, 
             "trigger_name": "on_hero_reborn", 
-            "valid": true
+            "valid": true, 
+            "var_data": [
+                {}, 
+                {}, 
+                []
+            ]
         }, 
         "384389137": {
             "action": [
@@ -3099,7 +3122,12 @@
             "p_trigger_id": 786112514, 
             "trigger_id": 384389137, 
             "trigger_name": "MOUSE MOVE", 
-            "valid": true
+            "valid": true, 
+            "var_data": [
+                {}, 
+                {}, 
+                []
+            ]
         }, 
         "499355669": {
             "action": [
@@ -3204,7 +3232,12 @@
             }, 
             "trigger_id": 499355669, 
             "trigger_name": "子触发器", 
-            "valid": true
+            "valid": true, 
+            "var_data": [
+                {}, 
+                {}, 
+                []
+            ]
         }, 
         "524156982": {
             "action": [
@@ -3948,7 +3981,25 @@
             "p_trigger_id": 786112514, 
             "trigger_id": 524156982, 
             "trigger_name": "on_unit_dead", 
-            "valid": true
+            "valid": true, 
+            "var_data": [
+                {
+                    "UNIT_ENTITY": {
+                        "last_main_unit": 0
+                    }, 
+                    "UNIT_GROUP": {
+                        "unit_group": []
+                    }
+                }, 
+                {
+                    "last_main_unit": 0, 
+                    "unit_group": 0
+                }, 
+                [
+                    "last_main_unit", 
+                    "unit_group"
+                ]
+            ]
         }, 
         "1023295507": {
             "action": [
@@ -5430,7 +5481,12 @@
             "p_trigger_id": 786112514, 
             "trigger_id": 1023295507, 
             "trigger_name": "on_hero_create", 
-            "valid": false
+            "valid": false, 
+            "var_data": [
+                {}, 
+                {}, 
+                []
+            ]
         }, 
         "2081886231": {
             "action": [
@@ -5573,7 +5629,12 @@
             "p_trigger_id": 786112514, 
             "trigger_id": 2081886231, 
             "trigger_name": "on_hero_dead", 
-            "valid": true
+            "valid": true, 
+            "var_data": [
+                {}, 
+                {}, 
+                []
+            ]
         }, 
         "2132029460": {
             "action": [
@@ -6238,10 +6299,51 @@
             "p_trigger_id": 786112514, 
             "trigger_id": 2132029460, 
             "trigger_name": "on_hero_delete", 
-            "valid": true
+            "valid": true, 
+            "var_data": [
+                {}, 
+                {}, 
+                []
+            ]
         }
     }, 
     "trigger_id": 786112514, 
     "trigger_name": "初始化更新事件", 
-    "valid": false
+    "valid": false, 
+    "var_data": [
+        {
+            "DYNAMIC_TRIGGER_INSTANCE": {
+                "trig": 0
+            }, 
+            "INTEGER": {
+                "hero_list_len": 0, 
+                "i": 0, 
+                "n": 0, 
+                "num": 0
+            }, 
+            "NEW_TIMER": {}, 
+            "STRING": {
+                "hour": "", 
+                "min": ""
+            }
+        }, 
+        {
+            "hero_list_len": 0, 
+            "hour": 0, 
+            "i": 0, 
+            "min": 0, 
+            "n": 0, 
+            "num": 0, 
+            "trig": 0
+        }, 
+        [
+            "hero_list_len", 
+            "hour", 
+            "i", 
+            "min", 
+            "n", 
+            "num", 
+            "trig"
+        ]
+    ]
 }

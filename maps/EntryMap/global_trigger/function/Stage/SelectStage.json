@@ -1375,10 +1375,64 @@
             "p_trigger_id": 1660883006, 
             "trigger_id": 1647018054, 
             "trigger_name": "on_choose_stage", 
-            "valid": true
+            "valid": true, 
+            "var_data": [
+                {}, 
+                {}, 
+                []
+            ]
         }
     }, 
     "trigger_id": 1660883006, 
     "trigger_name": "SelectStage", 
-    "valid": true
+    "valid": true, 
+    "var_data": [
+        {
+            "BOOLEAN": {
+                "isCompleted": false, 
+                "isLocked": false
+            }, 
+            "INTEGER": {
+                "i": 0, 
+                "j": 0, 
+                "x": 0, 
+                "y": 0
+            }, 
+            "STRING": {
+                "click": ""
+            }, 
+            "TABLE": {
+                "groupInfo": null, 
+                "stageInfo": null
+            }, 
+            "TABLE_SAVE": {}, 
+            "UNIT_ENTITY": {
+                "hero": 0
+            }
+        }, 
+        {
+            "click": 0, 
+            "groupInfo": 0, 
+            "hero": 0, 
+            "i": 0, 
+            "isCompleted": 0, 
+            "isLocked": 0, 
+            "j": 0, 
+            "stageInfo": 0, 
+            "x": 0, 
+            "y": 0
+        }, 
+        [
+            "click", 
+            "groupInfo", 
+            "hero", 
+            "i", 
+            "isCompleted", 
+            "isLocked", 
+            "j", 
+            "stageInfo", 
+            "x", 
+            "y"
+        ]
+    ]
 }

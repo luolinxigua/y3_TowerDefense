@@ -1,4 +1,32 @@
 {
+    "deps_info": {
+        "deps": [
+            {
+                "__tuple__": true, 
+                "items": [
+                    "editor_icon", 
+                    901700
+                ]
+            }, 
+            {
+                "__tuple__": true, 
+                "items": [
+                    "editor_icon", 
+                    902067
+                ]
+            }, 
+            {
+                "__tuple__": true, 
+                "items": [
+                    "editor_icon", 
+                    901861
+                ]
+            }
+        ], 
+        "sound_id_list": [
+            124979
+        ]
+    }, 
     "describe": 134281906, 
     "key": 134281906, 
     "md5": "c0b732b483d2b15c9f51ed7645838a3f", 

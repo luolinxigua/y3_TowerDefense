@@ -413,7 +413,12 @@
             "p_trigger_id": 1475031148, 
             "trigger_id": 250433645, 
             "trigger_name": "on_show_tip_01", 
-            "valid": true
+            "valid": true, 
+            "var_data": [
+                {}, 
+                {}, 
+                []
+            ]
         }, 
         "428331123": {
             "action": [
@@ -691,7 +696,12 @@
             "p_trigger_id": 1475031148, 
             "trigger_id": 428331123, 
             "trigger_name": "on_show_tip_03", 
-            "valid": true
+            "valid": true, 
+            "var_data": [
+                {}, 
+                {}, 
+                []
+            ]
         }, 
         "771407985": {
             "action": [
@@ -797,7 +807,12 @@
             "p_trigger_id": 1475031148, 
             "trigger_id": 771407985, 
             "trigger_name": "on_cancel_pause", 
-            "valid": true
+            "valid": true, 
+            "var_data": [
+                {}, 
+                {}, 
+                []
+            ]
         }, 
         "989274232": {
             "action": [
@@ -1024,7 +1039,12 @@
             "p_trigger_id": 1475031148, 
             "trigger_id": 989274232, 
             "trigger_name": "on_show_tip_08", 
-            "valid": true
+            "valid": true, 
+            "var_data": [
+                {}, 
+                {}, 
+                []
+            ]
         }, 
         "1389838455": {
             "action": [
@@ -1283,7 +1303,12 @@
             "p_trigger_id": 1475031148, 
             "trigger_id": 1389838455, 
             "trigger_name": "on_show_tip_07", 
-            "valid": true
+            "valid": true, 
+            "var_data": [
+                {}, 
+                {}, 
+                []
+            ]
         }, 
         "1560825970": {
             "action": [
@@ -1635,7 +1660,12 @@
             "p_trigger_id": 1475031148, 
             "trigger_id": 1560825970, 
             "trigger_name": "on_show_tip_02", 
-            "valid": true
+            "valid": true, 
+            "var_data": [
+                {}, 
+                {}, 
+                []
+            ]
         }, 
         "1758408820": {
             "action": [
@@ -1954,7 +1984,12 @@
             "p_trigger_id": 1475031148, 
             "trigger_id": 1758408820, 
             "trigger_name": "on_show_tip_04", 
-            "valid": true
+            "valid": true, 
+            "var_data": [
+                {}, 
+                {}, 
+                []
+            ]
         }, 
         "1760624757": {
             "action": [
@@ -2236,7 +2271,12 @@
             "p_trigger_id": 1475031148, 
             "trigger_id": 1760624757, 
             "trigger_name": "on_show_tip_05", 
-            "valid": true
+            "valid": true, 
+            "var_data": [
+                {}, 
+                {}, 
+                []
+            ]
         }, 
         "1947394166": {
             "action": [
@@ -2588,10 +2628,20 @@
             "p_trigger_id": 1475031148, 
             "trigger_id": 1947394166, 
             "trigger_name": "on_show_tip_06", 
-            "valid": true
+            "valid": true, 
+            "var_data": [
+                {}, 
+                {}, 
+                []
+            ]
         }
     }, 
     "trigger_id": 1475031148, 
     "trigger_name": "tip_ui", 
-    "valid": true
+    "valid": true, 
+    "var_data": [
+        {}, 
+        {}, 
+        []
+    ]
 }

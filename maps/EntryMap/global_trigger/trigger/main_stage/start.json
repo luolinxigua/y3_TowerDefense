@@ -156,7 +156,12 @@
             "p_trigger_id": 1455640770, 
             "trigger_id": 64508104, 
             "trigger_name": "main_stage_03", 
-            "valid": true
+            "valid": true, 
+            "var_data": [
+                {}, 
+                {}, 
+                []
+            ]
         }, 
         "81285319": {
             "action": [
@@ -291,7 +296,12 @@
             "p_trigger_id": 1455640770, 
             "trigger_id": 81285319, 
             "trigger_name": "main_stage_04", 
-            "valid": true
+            "valid": true, 
+            "var_data": [
+                {}, 
+                {}, 
+                []
+            ]
         }, 
         "618152132": {
             "action": [
@@ -426,7 +436,12 @@
             "p_trigger_id": 1455640770, 
             "trigger_id": 618152132, 
             "trigger_name": "main_stage_07", 
-            "valid": true
+            "valid": true, 
+            "var_data": [
+                {}, 
+                {}, 
+                []
+            ]
         }, 
         "685265094": {
             "action": [
@@ -561,7 +576,12 @@
             "p_trigger_id": 1455640770, 
             "trigger_id": 685265094, 
             "trigger_name": "main_stage_05", 
-            "valid": true
+            "valid": true, 
+            "var_data": [
+                {}, 
+                {}, 
+                []
+            ]
         }, 
         "1121763530": {
             "action": [
@@ -696,7 +716,12 @@
             "p_trigger_id": 1455640770, 
             "trigger_id": 1121763530, 
             "trigger_name": "main_stage_08", 
-            "valid": true
+            "valid": true, 
+            "var_data": [
+                {}, 
+                {}, 
+                []
+            ]
         }, 
         "1339580617": {
             "action": [
@@ -831,7 +856,12 @@
             "p_trigger_id": 1455640770, 
             "trigger_id": 1339580617, 
             "trigger_name": "main_stage_02", 
-            "valid": true
+            "valid": true, 
+            "var_data": [
+                {}, 
+                {}, 
+                []
+            ]
         }, 
         "1943552197": {
             "action": [
@@ -966,7 +996,12 @@
             "p_trigger_id": 1455640770, 
             "trigger_id": 1943552197, 
             "trigger_name": "main_stage_06", 
-            "valid": true
+            "valid": true, 
+            "var_data": [
+                {}, 
+                {}, 
+                []
+            ]
         }, 
         "2110419139": {
             "action": [
@@ -1101,10 +1136,20 @@
             "p_trigger_id": 1455640770, 
             "trigger_id": 2110419139, 
             "trigger_name": "main_stage_01", 
-            "valid": true
+            "valid": true, 
+            "var_data": [
+                {}, 
+                {}, 
+                []
+            ]
         }
     }, 
     "trigger_id": 1455640770, 
     "trigger_name": "start", 
-    "valid": true
+    "valid": true, 
+    "var_data": [
+        {}, 
+        {}, 
+        []
+    ]
 }

@@ -64,5 +64,10 @@
     "p_trigger_id": null, 
     "trigger_id": 1034428564, 
     "trigger_name": "GroupPanel", 
-    "valid": true
+    "valid": true, 
+    "var_data": [
+        {}, 
+        {}, 
+        []
+    ]
 }

@@ -2220,5 +2220,45 @@
     "p_trigger_id": null, 
     "trigger_id": 1425182768, 
     "trigger_name": "Refresh Shop Tab", 
-    "valid": true
+    "valid": true, 
+    "var_data": [
+        {
+            "INTEGER": {
+                "goods_index": 0, 
+                "n": 0, 
+                "new tab index": 0, 
+                "slot": 0
+            }, 
+            "NEW_TIMER": {
+                "t": -1
+            }, 
+            "PLAYER": {
+                "player": 0
+            }, 
+            "UNIT_ENTITY": {
+                "store unit": 0, 
+                "unit": 0
+            }
+        }, 
+        {
+            "goods_index": 0, 
+            "n": 0, 
+            "new tab index": 0, 
+            "player": 0, 
+            "slot": 0, 
+            "store unit": 0, 
+            "t": 0, 
+            "unit": 0
+        }, 
+        [
+            "goods_index", 
+            "n", 
+            "new tab index", 
+            "player", 
+            "slot", 
+            "store unit", 
+            "t", 
+            "unit"
+        ]
+    ]
 }

@@ -72,7 +72,12 @@
             "p_trigger_id": 627437651, 
             "trigger_id": 80740443, 
             "trigger_name": "kill_my_base", 
-            "valid": true
+            "valid": true, 
+            "var_data": [
+                {}, 
+                {}, 
+                []
+            ]
         }, 
         "367460445": {
             "action": [
@@ -129,7 +134,12 @@
             "p_trigger_id": 627437651, 
             "trigger_id": 367460445, 
             "trigger_name": "set_time_over", 
-            "valid": true
+            "valid": true, 
+            "var_data": [
+                {}, 
+                {}, 
+                []
+            ]
         }, 
         "1657663578": {
             "action": [
@@ -184,7 +194,12 @@
             "p_trigger_id": 627437651, 
             "trigger_id": 1657663578, 
             "trigger_name": "kill_enemy_base", 
-            "valid": true
+            "valid": true, 
+            "var_data": [
+                {}, 
+                {}, 
+                []
+            ]
         }, 
         "2066018509": {
             "action": [
@@ -241,10 +256,20 @@
             "p_trigger_id": 627437651, 
             "trigger_id": 2066018509, 
             "trigger_name": "gain_energy", 
-            "valid": true
+            "valid": true, 
+            "var_data": [
+                {}, 
+                {}, 
+                []
+            ]
         }
     }, 
     "trigger_id": 627437651, 
     "trigger_name": "CHEAT", 
-    "valid": true
+    "valid": true, 
+    "var_data": [
+        {}, 
+        {}, 
+        []
+    ]
 }

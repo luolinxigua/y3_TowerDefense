@@ -2645,5 +2645,47 @@
     "p_trigger_id": null, 
     "trigger_id": 132288546, 
     "trigger_name": "Refresh Tooltip", 
-    "valid": true
+    "valid": true, 
+    "var_data": [
+        {
+            "ABILITY": {
+                "skill": null
+            }, 
+            "BOOLEAN": {
+                "boolean": false, 
+                "is_shop_tips": false
+            }, 
+            "ITEM_ENTITY": {
+                "item": 0
+            }, 
+            "ITEM_NAME": {
+                "item_type": 0
+            }, 
+            "MODIFIER_ENTITY": {
+                "modifier": 0
+            }, 
+            "PLAYER": {
+                "player": 0
+            }, 
+            "STRING": {}
+        }, 
+        {
+            "boolean": 0, 
+            "is_shop_tips": 0, 
+            "item": 0, 
+            "item_type": 0, 
+            "modifier": 0, 
+            "player": 0, 
+            "skill": 0
+        }, 
+        [
+            "boolean", 
+            "is_shop_tips", 
+            "item", 
+            "item_type", 
+            "modifier", 
+            "player", 
+            "skill"
+        ]
+    ]
 }

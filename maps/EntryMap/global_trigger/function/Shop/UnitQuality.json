@@ -872,5 +872,23 @@
     "p_trigger_id": null, 
     "trigger_id": 2042871939, 
     "trigger_name": "UnitQuality", 
-    "valid": true
+    "valid": true, 
+    "var_data": [
+        {
+            "INTEGER": {
+                "i": 0
+            }, 
+            "UI_COMP": {
+                "layout": ""
+            }
+        }, 
+        {
+            "i": 0, 
+            "layout": 0
+        }, 
+        [
+            "i", 
+            "layout"
+        ]
+    ]
 }

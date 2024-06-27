@@ -334,5 +334,33 @@
     "p_trigger_id": null, 
     "trigger_id": 828813355, 
     "trigger_name": "Display Notice", 
-    "valid": true
+    "valid": true, 
+    "var_data": [
+        {
+            "FLOAT": {
+                "time": 0.0
+            }, 
+            "NEW_TIMER": {
+                "t": -1
+            }, 
+            "PLAYER": {
+                "player": 0
+            }, 
+            "STRING": {
+                "info": ""
+            }
+        }, 
+        {
+            "info": 0, 
+            "player": 0, 
+            "t": 0, 
+            "time": 0
+        }, 
+        [
+            "info", 
+            "player", 
+            "t", 
+            "time"
+        ]
+    ]
 }

@@ -118,7 +118,19 @@
                             ], 
                             "bp": false, 
                             "element_id": 58622024000056, 
-                            "enable": true
+                            "enable": true, 
+                            "op_arg": [
+                                {
+                                    "arg_type": 100001, 
+                                    "args_list": [
+                                        true
+                                    ], 
+                                    "sub_type": 1
+                                }
+                            ], 
+                            "op_arg_enable": [
+                                false
+                            ]
                         }
                     ], 
                     "sub_type": 1
@@ -184,7 +196,19 @@
                             ], 
                             "bp": false, 
                             "element_id": 461287498000065, 
-                            "enable": true
+                            "enable": true, 
+                            "op_arg": [
+                                {
+                                    "arg_type": 100001, 
+                                    "args_list": [
+                                        true
+                                    ], 
+                                    "sub_type": 1
+                                }
+                            ], 
+                            "op_arg_enable": [
+                                false
+                            ]
                         }
                     ], 
                     "sub_type": 1
@@ -292,5 +316,10 @@
     "p_trigger_id": null, 
     "trigger_id": 461287498, 
     "trigger_name": "001路标区域01", 
-    "valid": true
+    "valid": true, 
+    "var_data": [
+        {}, 
+        {}, 
+        []
+    ]
 }

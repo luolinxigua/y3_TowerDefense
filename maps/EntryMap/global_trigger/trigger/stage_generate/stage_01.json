@@ -863,7 +863,19 @@
                                             ], 
                                             "bp": false, 
                                             "element_id": 1330442311981267, 
-                                            "enable": true
+                                            "enable": true, 
+                                            "op_arg": [
+                                                {
+                                                    "arg_type": 100001, 
+                                                    "args_list": [
+                                                        true
+                                                    ], 
+                                                    "sub_type": 1
+                                                }
+                                            ], 
+                                            "op_arg_enable": [
+                                                false
+                                            ]
                                         }, 
                                         {
                                             "action_type": "RUN_ONCE_TIMER", 
@@ -1050,7 +1062,19 @@
                                                             ], 
                                                             "bp": false, 
                                                             "element_id": 1330442311981269, 
-                                                            "enable": true
+                                                            "enable": true, 
+                                                            "op_arg": [
+                                                                {
+                                                                    "arg_type": 100001, 
+                                                                    "args_list": [
+                                                                        true
+                                                                    ], 
+                                                                    "sub_type": 1
+                                                                }
+                                                            ], 
+                                                            "op_arg_enable": [
+                                                                false
+                                                            ]
                                                         }
                                                     ], 
                                                     "sub_type": 1
@@ -1399,7 +1423,19 @@
                                                             ], 
                                                             "bp": false, 
                                                             "element_id": 1330442311981345, 
-                                                            "enable": true
+                                                            "enable": true, 
+                                                            "op_arg": [
+                                                                {
+                                                                    "arg_type": 100001, 
+                                                                    "args_list": [
+                                                                        true
+                                                                    ], 
+                                                                    "sub_type": 1
+                                                                }
+                                                            ], 
+                                                            "op_arg_enable": [
+                                                                false
+                                                            ]
                                                         }, 
                                                         {
                                                             "action_type": "RUN_ONCE_TIMER", 
@@ -1596,7 +1632,19 @@
                                                                             ], 
                                                                             "bp": false, 
                                                                             "element_id": 1330442311981347, 
-                                                                            "enable": true
+                                                                            "enable": true, 
+                                                                            "op_arg": [
+                                                                                {
+                                                                                    "arg_type": 100001, 
+                                                                                    "args_list": [
+                                                                                        true
+                                                                                    ], 
+                                                                                    "sub_type": 1
+                                                                                }
+                                                                            ], 
+                                                                            "op_arg_enable": [
+                                                                                false
+                                                                            ]
                                                                         }
                                                                     ], 
                                                                     "sub_type": 1
@@ -1826,7 +1874,19 @@
                                                             ], 
                                                             "bp": false, 
                                                             "element_id": 1330442311981351, 
-                                                            "enable": true
+                                                            "enable": true, 
+                                                            "op_arg": [
+                                                                {
+                                                                    "arg_type": 100001, 
+                                                                    "args_list": [
+                                                                        true
+                                                                    ], 
+                                                                    "sub_type": 1
+                                                                }
+                                                            ], 
+                                                            "op_arg_enable": [
+                                                                false
+                                                            ]
                                                         }, 
                                                         {
                                                             "action_type": "RUN_ONCE_TIMER", 
@@ -2023,7 +2083,19 @@
                                                                             ], 
                                                                             "bp": false, 
                                                                             "element_id": 1330442311981353, 
-                                                                            "enable": true
+                                                                            "enable": true, 
+                                                                            "op_arg": [
+                                                                                {
+                                                                                    "arg_type": 100001, 
+                                                                                    "args_list": [
+                                                                                        true
+                                                                                    ], 
+                                                                                    "sub_type": 1
+                                                                                }
+                                                                            ], 
+                                                                            "op_arg_enable": [
+                                                                                false
+                                                                            ]
                                                                         }
                                                                     ], 
                                                                     "sub_type": 1
@@ -2105,5 +2177,70 @@
     "p_trigger_id": null, 
     "trigger_id": 1330442311, 
     "trigger_name": "stage_01", 
-    "valid": true
+    "valid": true, 
+    "var_data": [
+        {
+            "INTEGER": {
+                "i": 0
+            }, 
+            "POINT": {
+                "pot": {
+                    "__tuple__": true, 
+                    "items": [
+                        0, 
+                        0, 
+                        0
+                    ]
+                }
+            }, 
+            "TABLE": {
+                "groupInfo": null, 
+                "stageInfo": null
+            }, 
+            "UNIT_ENTITY": {
+                "building": 0, 
+                "enemyBase": 0, 
+                "enemyTower_1": 0, 
+                "hero": 0, 
+                "mob1": 0, 
+                "mob2": 0, 
+                "mob3": 0, 
+                "mob4": 0, 
+                "myBase": 0, 
+                "target": 0
+            }
+        }, 
+        {
+            "building": 0, 
+            "enemyBase": 0, 
+            "enemyTower_1": 0, 
+            "groupInfo": 0, 
+            "hero": 0, 
+            "i": 0, 
+            "mob1": 0, 
+            "mob2": 0, 
+            "mob3": 0, 
+            "mob4": 0, 
+            "myBase": 0, 
+            "pot": 0, 
+            "stageInfo": 0, 
+            "target": 0
+        }, 
+        [
+            "building", 
+            "enemyBase", 
+            "enemyTower_1", 
+            "groupInfo", 
+            "hero", 
+            "i", 
+            "mob1", 
+            "mob2", 
+            "mob3", 
+            "mob4", 
+            "myBase", 
+            "pot", 
+            "stageInfo", 
+            "target"
+        ]
+    ]
 }

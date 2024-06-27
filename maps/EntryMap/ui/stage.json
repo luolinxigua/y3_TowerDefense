@@ -24,11 +24,15 @@
                     "event_list": [], 
                     "image": 131194, 
                     "name": "pic", 
-                    "pos": {
+                    "pos_data": {
                         "__tuple__": true, 
                         "items": [
                             960.0, 
-                            540.0
+                            540.0, 
+                            50.0, 
+                            50.0, 
+                            1, 
+                            1
                         ]
                     }, 
                     "prefab_sub_key": null, 
@@ -46,11 +50,15 @@
             ], 
             "event_list": [], 
             "name": "bg", 
-            "pos": {
+            "pos_data": {
                 "__tuple__": true, 
                 "items": [
                     960.0, 
-                    540.0
+                    540.0, 
+                    50.0, 
+                    50.0, 
+                    1, 
+                    1
                 ]
             }, 
             "prefab_sub_key": null, 
@@ -102,18 +110,15 @@
                     "hover_status_added": true, 
                     "name": "back_to_main", 
                     "normal_picture": 108469, 
-                    "pos": {
+                    "pos_data": {
                         "__tuple__": true, 
                         "items": [
                             100.0, 
-                            980.0
-                        ]
-                    }, 
-                    "pos_percent": {
-                        "__tuple__": true, 
-                        "items": [
+                            980.0, 
                             5.2083, 
-                            90.7407
+                            90.7407, 
+                            1, 
+                            1
                         ]
                     }, 
                     "prefab_sub_key": null, 
@@ -184,18 +189,15 @@
                             false
                         ]
                     }, 
-                    "pos": {
+                    "pos_data": {
                         "__tuple__": true, 
                         "items": [
                             225.0, 
-                            75.0
-                        ]
-                    }, 
-                    "pos_percent": {
-                        "__tuple__": true, 
-                        "items": [
+                            75.0, 
                             11.7188, 
-                            6.9444
+                            6.9444, 
+                            1, 
+                            1
                         ]
                     }, 
                     "prefab_sub_key": null, 
@@ -279,18 +281,15 @@
                             false
                         ]
                     }, 
-                    "pos": {
+                    "pos_data": {
                         "__tuple__": true, 
                         "items": [
                             675.0, 
-                            75.0
-                        ]
-                    }, 
-                    "pos_percent": {
-                        "__tuple__": true, 
-                        "items": [
+                            75.0, 
                             35.1563, 
-                            6.9444
+                            6.9444, 
+                            1, 
+                            1
                         ]
                     }, 
                     "prefab_sub_key": null, 
@@ -374,18 +373,15 @@
                             false
                         ]
                     }, 
-                    "pos": {
+                    "pos_data": {
                         "__tuple__": true, 
                         "items": [
                             1125.0, 
-                            75.0
-                        ]
-                    }, 
-                    "pos_percent": {
-                        "__tuple__": true, 
-                        "items": [
+                            75.0, 
                             58.5938, 
-                            6.9444
+                            6.9444, 
+                            1, 
+                            1
                         ]
                     }, 
                     "prefab_sub_key": null, 
@@ -417,11 +413,15 @@
             ], 
             "event_list": [], 
             "name": "ctrl", 
-            "pos": {
+            "pos_data": {
                 "__tuple__": true, 
                 "items": [
                     960.0, 
-                    540.0
+                    540.0, 
+                    50.0, 
+                    50.0, 
+                    1, 
+                    1
                 ]
             }, 
             "prefab_sub_key": null, 
@@ -446,11 +446,15 @@
                             "hover_status_added": true, 
                             "name": "unlocked", 
                             "normal_picture": 131931, 
-                            "pos": {
+                            "pos_data": {
                                 "__tuple__": true, 
                                 "items": [
                                     100.0, 
-                                    100.0
+                                    100.0, 
+                                    50.0, 
+                                    50.0, 
+                                    1, 
+                                    1
                                 ]
                             }, 
                             "prefab_sub_key": null, 
@@ -480,11 +484,15 @@
                             "event_list": [], 
                             "image": 131933, 
                             "name": "locked", 
-                            "pos": {
+                            "pos_data": {
                                 "__tuple__": true, 
                                 "items": [
                                     100.0, 
-                                    100.0
+                                    100.0, 
+                                    50.0, 
+                                    50.0, 
+                                    1, 
+                                    1
                                 ]
                             }, 
                             "prefab_sub_key": null, 
@@ -513,11 +521,15 @@
                             "event_list": [], 
                             "image": 131766, 
                             "name": "completed", 
-                            "pos": {
+                            "pos_data": {
                                 "__tuple__": true, 
                                 "items": [
                                     100.0, 
-                                    100.0
+                                    100.0, 
+                                    50.0, 
+                                    50.0, 
+                                    1, 
+                                    1
                                 ]
                             }, 
                             "prefab_sub_key": null, 
@@ -544,18 +556,15 @@
                             0
                         ]
                     }, 
-                    "pos": {
+                    "pos_data": {
                         "__tuple__": true, 
                         "items": [
                             494.0, 
-                            942.0
-                        ]
-                    }, 
-                    "pos_percent": {
-                        "__tuple__": true, 
-                        "items": [
+                            942.0, 
                             25.7292, 
-                            87.2222
+                            87.2222, 
+                            1, 
+                            1
                         ]
                     }, 
                     "prefab_sub_key": null, 
@@ -578,11 +587,15 @@
                             "hover_status_added": true, 
                             "name": "unlocked", 
                             "normal_picture": 131931, 
-                            "pos": {
+                            "pos_data": {
                                 "__tuple__": true, 
                                 "items": [
                                     100.0, 
-                                    100.0
+                                    100.0, 
+                                    50.0, 
+                                    50.0, 
+                                    1, 
+                                    1
                                 ]
                             }, 
                             "prefab_sub_key": null, 
@@ -612,11 +625,15 @@
                             "event_list": [], 
                             "image": 131933, 
                             "name": "locked", 
-                            "pos": {
+                            "pos_data": {
                                 "__tuple__": true, 
                                 "items": [
                                     100.0, 
-                                    100.0
+                                    100.0, 
+                                    50.0, 
+                                    50.0, 
+                                    1, 
+                                    1
                                 ]
                             }, 
                             "prefab_sub_key": null, 
@@ -645,11 +662,15 @@
                             "event_list": [], 
                             "image": 131766, 
                             "name": "completed", 
-                            "pos": {
+                            "pos_data": {
                                 "__tuple__": true, 
                                 "items": [
                                     100.0, 
-                                    100.0
+                                    100.0, 
+                                    50.0, 
+                                    50.0, 
+                                    1, 
+                                    1
                                 ]
                             }, 
                             "prefab_sub_key": null, 
@@ -676,18 +697,15 @@
                             0
                         ]
                     }, 
-                    "pos": {
+                    "pos_data": {
                         "__tuple__": true, 
                         "items": [
                             910.0, 
-                            870.0
-                        ]
-                    }, 
-                    "pos_percent": {
-                        "__tuple__": true, 
-                        "items": [
+                            870.0, 
                             47.3958, 
-                            80.5556
+                            80.5556, 
+                            1, 
+                            1
                         ]
                     }, 
                     "prefab_sub_key": null, 
@@ -710,11 +728,15 @@
                             "hover_status_added": true, 
                             "name": "unlocked", 
                             "normal_picture": 131931, 
-                            "pos": {
+                            "pos_data": {
                                 "__tuple__": true, 
                                 "items": [
                                     100.0, 
-                                    100.0
+                                    100.0, 
+                                    50.0, 
+                                    50.0, 
+                                    1, 
+                                    1
                                 ]
                             }, 
                             "prefab_sub_key": null, 
@@ -744,11 +766,15 @@
                             "event_list": [], 
                             "image": 131933, 
                             "name": "locked", 
-                            "pos": {
+                            "pos_data": {
                                 "__tuple__": true, 
                                 "items": [
                                     100.0, 
-                                    100.0
+                                    100.0, 
+                                    50.0, 
+                                    50.0, 
+                                    1, 
+                                    1
                                 ]
                             }, 
                             "prefab_sub_key": null, 
@@ -777,11 +803,15 @@
                             "event_list": [], 
                             "image": 131766, 
                             "name": "completed", 
-                            "pos": {
+                            "pos_data": {
                                 "__tuple__": true, 
                                 "items": [
                                     100.0, 
-                                    100.0
+                                    100.0, 
+                                    50.0, 
+                                    50.0, 
+                                    1, 
+                                    1
                                 ]
                             }, 
                             "prefab_sub_key": null, 
@@ -808,18 +838,15 @@
                             0
                         ]
                     }, 
-                    "pos": {
+                    "pos_data": {
                         "__tuple__": true, 
                         "items": [
                             1187.0, 
-                            630.0
-                        ]
-                    }, 
-                    "pos_percent": {
-                        "__tuple__": true, 
-                        "items": [
+                            630.0, 
                             61.8229, 
-                            58.3333
+                            58.3333, 
+                            1, 
+                            1
                         ]
                     }, 
                     "prefab_sub_key": null, 
@@ -842,11 +869,15 @@
                             "hover_status_added": true, 
                             "name": "unlocked", 
                             "normal_picture": 131931, 
-                            "pos": {
+                            "pos_data": {
                                 "__tuple__": true, 
                                 "items": [
                                     100.0, 
-                                    100.0
+                                    100.0, 
+                                    50.0, 
+                                    50.0, 
+                                    1, 
+                                    1
                                 ]
                             }, 
                             "prefab_sub_key": null, 
@@ -876,11 +907,15 @@
                             "event_list": [], 
                             "image": 131933, 
                             "name": "locked", 
-                            "pos": {
+                            "pos_data": {
                                 "__tuple__": true, 
                                 "items": [
                                     100.0, 
-                                    100.0
+                                    100.0, 
+                                    50.0, 
+                                    50.0, 
+                                    1, 
+                                    1
                                 ]
                             }, 
                             "prefab_sub_key": null, 
@@ -909,11 +944,15 @@
                             "event_list": [], 
                             "image": 131766, 
                             "name": "completed", 
-                            "pos": {
+                            "pos_data": {
                                 "__tuple__": true, 
                                 "items": [
                                     100.0, 
-                                    100.0
+                                    100.0, 
+                                    50.0, 
+                                    50.0, 
+                                    1, 
+                                    1
                                 ]
                             }, 
                             "prefab_sub_key": null, 
@@ -940,18 +979,15 @@
                             0
                         ]
                     }, 
-                    "pos": {
+                    "pos_data": {
                         "__tuple__": true, 
                         "items": [
                             1479.0, 
-                            556.0
-                        ]
-                    }, 
-                    "pos_percent": {
-                        "__tuple__": true, 
-                        "items": [
+                            556.0, 
                             77.0313, 
-                            51.4815
+                            51.4815, 
+                            1, 
+                            1
                         ]
                     }, 
                     "prefab_sub_key": null, 
@@ -974,11 +1010,15 @@
                             "hover_status_added": true, 
                             "name": "unlocked", 
                             "normal_picture": 131931, 
-                            "pos": {
+                            "pos_data": {
                                 "__tuple__": true, 
                                 "items": [
                                     100.0, 
-                                    100.0
+                                    100.0, 
+                                    50.0, 
+                                    50.0, 
+                                    1, 
+                                    1
                                 ]
                             }, 
                             "prefab_sub_key": null, 
@@ -1008,11 +1048,15 @@
                             "event_list": [], 
                             "image": 131933, 
                             "name": "locked", 
-                            "pos": {
+                            "pos_data": {
                                 "__tuple__": true, 
                                 "items": [
                                     100.0, 
-                                    100.0
+                                    100.0, 
+                                    50.0, 
+                                    50.0, 
+                                    1, 
+                                    1
                                 ]
                             }, 
                             "prefab_sub_key": null, 
@@ -1041,11 +1085,15 @@
                             "event_list": [], 
                             "image": 131766, 
                             "name": "completed", 
-                            "pos": {
+                            "pos_data": {
                                 "__tuple__": true, 
                                 "items": [
                                     100.0, 
-                                    100.0
+                                    100.0, 
+                                    50.0, 
+                                    50.0, 
+                                    1, 
+                                    1
                                 ]
                             }, 
                             "prefab_sub_key": null, 
@@ -1072,18 +1120,15 @@
                             0
                         ]
                     }, 
-                    "pos": {
+                    "pos_data": {
                         "__tuple__": true, 
                         "items": [
                             1387.0, 
-                            340.0
-                        ]
-                    }, 
-                    "pos_percent": {
-                        "__tuple__": true, 
-                        "items": [
+                            340.0, 
                             72.2396, 
-                            31.4815
+                            31.4815, 
+                            1, 
+                            1
                         ]
                     }, 
                     "prefab_sub_key": null, 
@@ -1106,11 +1151,15 @@
                             "hover_status_added": true, 
                             "name": "unlocked", 
                             "normal_picture": 131931, 
-                            "pos": {
+                            "pos_data": {
                                 "__tuple__": true, 
                                 "items": [
                                     100.0, 
-                                    100.0
+                                    100.0, 
+                                    50.0, 
+                                    50.0, 
+                                    1, 
+                                    1
                                 ]
                             }, 
                             "prefab_sub_key": null, 
@@ -1140,11 +1189,15 @@
                             "event_list": [], 
                             "image": 131933, 
                             "name": "locked", 
-                            "pos": {
+                            "pos_data": {
                                 "__tuple__": true, 
                                 "items": [
                                     100.0, 
-                                    100.0
+                                    100.0, 
+                                    50.0, 
+                                    50.0, 
+                                    1, 
+                                    1
                                 ]
                             }, 
                             "prefab_sub_key": null, 
@@ -1173,11 +1226,15 @@
                             "event_list": [], 
                             "image": 131766, 
                             "name": "completed", 
-                            "pos": {
+                            "pos_data": {
                                 "__tuple__": true, 
                                 "items": [
                                     100.0, 
-                                    100.0
+                                    100.0, 
+                                    50.0, 
+                                    50.0, 
+                                    1, 
+                                    1
                                 ]
                             }, 
                             "prefab_sub_key": null, 
@@ -1204,18 +1261,15 @@
                             0
                         ]
                     }, 
-                    "pos": {
+                    "pos_data": {
                         "__tuple__": true, 
                         "items": [
                             1022.0, 
-                            340.0
-                        ]
-                    }, 
-                    "pos_percent": {
-                        "__tuple__": true, 
-                        "items": [
+                            340.0, 
                             53.2292, 
-                            31.4815
+                            31.4815, 
+                            1, 
+                            1
                         ]
                     }, 
                     "prefab_sub_key": null, 
@@ -1238,11 +1292,15 @@
                             "hover_status_added": true, 
                             "name": "unlocked", 
                             "normal_picture": 131931, 
-                            "pos": {
+                            "pos_data": {
                                 "__tuple__": true, 
                                 "items": [
                                     100.0, 
-                                    100.0
+                                    100.0, 
+                                    50.0, 
+                                    50.0, 
+                                    1, 
+                                    1
                                 ]
                             }, 
                             "prefab_sub_key": null, 
@@ -1272,11 +1330,15 @@
                             "event_list": [], 
                             "image": 131933, 
                             "name": "locked", 
-                            "pos": {
+                            "pos_data": {
                                 "__tuple__": true, 
                                 "items": [
                                     100.0, 
-                                    100.0
+                                    100.0, 
+                                    50.0, 
+                                    50.0, 
+                                    1, 
+                                    1
                                 ]
                             }, 
                             "prefab_sub_key": null, 
@@ -1305,11 +1367,15 @@
                             "event_list": [], 
                             "image": 131766, 
                             "name": "completed", 
-                            "pos": {
+                            "pos_data": {
                                 "__tuple__": true, 
                                 "items": [
                                     100.0, 
-                                    100.0
+                                    100.0, 
+                                    50.0, 
+                                    50.0, 
+                                    1, 
+                                    1
                                 ]
                             }, 
                             "prefab_sub_key": null, 
@@ -1336,18 +1402,15 @@
                             0
                         ]
                     }, 
-                    "pos": {
+                    "pos_data": {
                         "__tuple__": true, 
                         "items": [
                             710.0, 
-                            472.0
-                        ]
-                    }, 
-                    "pos_percent": {
-                        "__tuple__": true, 
-                        "items": [
+                            472.0, 
                             36.9792, 
-                            43.7037
+                            43.7037, 
+                            1, 
+                            1
                         ]
                     }, 
                     "prefab_sub_key": null, 
@@ -1370,11 +1433,15 @@
                             "hover_status_added": true, 
                             "name": "unlocked", 
                             "normal_picture": 131931, 
-                            "pos": {
+                            "pos_data": {
                                 "__tuple__": true, 
                                 "items": [
                                     100.0, 
-                                    100.0
+                                    100.0, 
+                                    50.0, 
+                                    50.0, 
+                                    1, 
+                                    1
                                 ]
                             }, 
                             "prefab_sub_key": null, 
@@ -1404,11 +1471,15 @@
                             "event_list": [], 
                             "image": 131933, 
                             "name": "locked", 
-                            "pos": {
+                            "pos_data": {
                                 "__tuple__": true, 
                                 "items": [
                                     100.0, 
-                                    100.0
+                                    100.0, 
+                                    50.0, 
+                                    50.0, 
+                                    1, 
+                                    1
                                 ]
                             }, 
                             "prefab_sub_key": null, 
@@ -1437,11 +1508,15 @@
                             "event_list": [], 
                             "image": 131766, 
                             "name": "completed", 
-                            "pos": {
+                            "pos_data": {
                                 "__tuple__": true, 
                                 "items": [
                                     100.0, 
-                                    100.0
+                                    100.0, 
+                                    50.0, 
+                                    50.0, 
+                                    1, 
+                                    1
                                 ]
                             }, 
                             "prefab_sub_key": null, 
@@ -1468,18 +1543,15 @@
                             0
                         ]
                     }, 
-                    "pos": {
+                    "pos_data": {
                         "__tuple__": true, 
                         "items": [
                             418.0, 
-                            630.0
-                        ]
-                    }, 
-                    "pos_percent": {
-                        "__tuple__": true, 
-                        "items": [
+                            630.0, 
                             21.7708, 
-                            58.3333
+                            58.3333, 
+                            1, 
+                            1
                         ]
                     }, 
                     "prefab_sub_key": null, 
@@ -1497,11 +1569,15 @@
             ], 
             "event_list": [], 
             "name": "stage", 
-            "pos": {
+            "pos_data": {
                 "__tuple__": true, 
                 "items": [
                     960.0, 
-                    540.0
+                    540.0, 
+                    50.0, 
+                    50.0, 
+                    1, 
+                    1
                 ]
             }, 
             "prefab_sub_key": null, 
@@ -1528,18 +1604,15 @@
                 }
             ], 
             "name": "button_1", 
-            "pos": {
+            "pos_data": {
                 "__tuple__": true, 
                 "items": [
                     960.0, 
-                    613.0
-                ]
-            }, 
-            "pos_percent": {
-                "__tuple__": true, 
-                "items": [
+                    613.0, 
                     50.0, 
-                    56.7593
+                    56.7593, 
+                    1, 
+                    1
                 ]
             }, 
             "prefab_sub_key": null, 
@@ -1572,18 +1645,15 @@
                             "event_list": [], 
                             "image": 106338, 
                             "name": "bg", 
-                            "pos": {
+                            "pos_data": {
                                 "__tuple__": true, 
                                 "items": [
                                     960.0, 
-                                    600.0
-                                ]
-                            }, 
-                            "pos_percent": {
-                                "__tuple__": true, 
-                                "items": [
+                                    600.0, 
                                     50.0, 
-                                    55.5556
+                                    55.5556, 
+                                    1, 
+                                    1
                                 ]
                             }, 
                             "prefab_sub_key": null, 
@@ -1623,18 +1693,15 @@
                                 ]
                             }, 
                             "name": "tip", 
-                            "pos": {
+                            "pos_data": {
                                 "__tuple__": true, 
                                 "items": [
                                     960.0, 
-                                    600.0
-                                ]
-                            }, 
-                            "pos_percent": {
-                                "__tuple__": true, 
-                                "items": [
+                                    600.0, 
                                     50.0, 
-                                    55.5556
+                                    55.5556, 
+                                    1, 
+                                    1
                                 ]
                             }, 
                             "prefab_sub_key": null, 
@@ -1670,18 +1737,15 @@
                             "event_list": [], 
                             "image": 131797, 
                             "name": "point", 
-                            "pos": {
+                            "pos_data": {
                                 "__tuple__": true, 
                                 "items": [
                                     220.0, 
-                                    200.0
-                                ]
-                            }, 
-                            "pos_percent": {
-                                "__tuple__": true, 
-                                "items": [
+                                    200.0, 
                                     11.4583, 
-                                    18.5185
+                                    18.5185, 
+                                    1, 
+                                    1
                                 ]
                             }, 
                             "prefab_sub_key": null, 
@@ -1746,18 +1810,15 @@
                                     false
                                 ]
                             }, 
-                            "pos": {
+                            "pos_data": {
                                 "__tuple__": true, 
                                 "items": [
                                     1355.0, 
-                                    335.0
-                                ]
-                            }, 
-                            "pos_percent": {
-                                "__tuple__": true, 
-                                "items": [
+                                    335.0, 
                                     70.5729, 
-                                    31.0185
+                                    31.0185, 
+                                    1, 
+                                    1
                                 ]
                             }, 
                             "prefab_sub_key": null, 
@@ -1783,11 +1844,15 @@
                     ], 
                     "event_list": [], 
                     "name": "tip_07", 
-                    "pos": {
+                    "pos_data": {
                         "__tuple__": true, 
                         "items": [
                             960.0, 
-                            540.0
+                            540.0, 
+                            50.0, 
+                            50.0, 
+                            1, 
+                            1
                         ]
                     }, 
                     "prefab_sub_key": null, 
@@ -1806,11 +1871,15 @@
             ], 
             "event_list": [], 
             "name": "tip", 
-            "pos": {
+            "pos_data": {
                 "__tuple__": true, 
                 "items": [
                     960.0, 
-                    540.0
+                    540.0, 
+                    50.0, 
+                    50.0, 
+                    1, 
+                    1
                 ]
             }, 
             "prefab_sub_key": null, 

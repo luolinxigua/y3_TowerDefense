@@ -1289,5 +1289,31 @@
     "p_trigger_id": null, 
     "trigger_id": 718082063, 
     "trigger_name": "Bind Unit's Ability Button", 
-    "valid": true
+    "valid": true, 
+    "var_data": [
+        {
+            "INTEGER": {
+                "index": 0, 
+                "n": 0
+            }, 
+            "PLAYER": {
+                "player": 0
+            }, 
+            "UNIT_ENTITY": {
+                "unit": 0
+            }
+        }, 
+        {
+            "index": 0, 
+            "n": 0, 
+            "player": 0, 
+            "unit": 0
+        }, 
+        [
+            "index", 
+            "n", 
+            "player", 
+            "unit"
+        ]
+    ]
 }

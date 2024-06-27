@@ -18,11 +18,15 @@
                     "event_list": [], 
                     "image": 131205, 
                     "name": "pic", 
-                    "pos": {
+                    "pos_data": {
                         "__tuple__": true, 
                         "items": [
                             960.0, 
-                            540.0
+                            540.0, 
+                            50.0, 
+                            50.0, 
+                            1, 
+                            1
                         ]
                     }, 
                     "prefab_sub_key": null, 
@@ -51,18 +55,15 @@
                     "event_list": [], 
                     "image": 134274587, 
                     "name": "title", 
-                    "pos": {
+                    "pos_data": {
                         "__tuple__": true, 
                         "items": [
                             960.0, 
-                            754.0
-                        ]
-                    }, 
-                    "pos_percent": {
-                        "__tuple__": true, 
-                        "items": [
+                            754.0, 
                             50.0, 
-                            69.8148
+                            69.8148, 
+                            1, 
+                            1
                         ]
                     }, 
                     "prefab_sub_key": null, 
@@ -80,11 +81,15 @@
             ], 
             "event_list": [], 
             "name": "bg", 
-            "pos": {
+            "pos_data": {
                 "__tuple__": true, 
                 "items": [
                     960.0, 
-                    540.0
+                    540.0, 
+                    50.0, 
+                    50.0, 
+                    1, 
+                    1
                 ]
             }, 
             "prefab_sub_key": null, 
@@ -166,18 +171,15 @@
                             false
                         ]
                     }, 
-                    "pos": {
+                    "pos_data": {
                         "__tuple__": true, 
                         "items": [
                             225.0, 
-                            225.0
-                        ]
-                    }, 
-                    "pos_percent": {
-                        "__tuple__": true, 
-                        "items": [
+                            225.0, 
                             50.0, 
-                            75.0
+                            75.0, 
+                            1, 
+                            1
                         ]
                     }, 
                     "prefab_sub_key": null, 
@@ -251,18 +253,15 @@
                             false
                         ]
                     }, 
-                    "pos": {
+                    "pos_data": {
                         "__tuple__": true, 
                         "items": [
                             225.0, 
-                            75.0
-                        ]
-                    }, 
-                    "pos_percent": {
-                        "__tuple__": true, 
-                        "items": [
+                            75.0, 
                             50.0, 
-                            25.0
+                            25.0, 
+                            1, 
+                            1
                         ]
                     }, 
                     "prefab_sub_key": null, 
@@ -297,18 +296,15 @@
             ], 
             "event_list": [], 
             "name": "ctrl", 
-            "pos": {
+            "pos_data": {
                 "__tuple__": true, 
                 "items": [
                     960.0, 
-                    348.0
-                ]
-            }, 
-            "pos_percent": {
-                "__tuple__": true, 
-                "items": [
+                    348.0, 
                     50.0, 
-                    32.2222
+                    32.2222, 
+                    1, 
+                    1
                 ]
             }, 
             "prefab_sub_key": null, 

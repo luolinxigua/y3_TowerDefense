@@ -81,7 +81,12 @@
             "p_trigger_id": 1475866704, 
             "trigger_id": 620331089, 
             "trigger_name": "on_pause", 
-            "valid": true
+            "valid": true, 
+            "var_data": [
+                {}, 
+                {}, 
+                []
+            ]
         }, 
         "1342095441": {
             "action": [
@@ -438,7 +443,12 @@
             "p_trigger_id": 1475866704, 
             "trigger_id": 1342095441, 
             "trigger_name": "on_pause_yes", 
-            "valid": true
+            "valid": true, 
+            "var_data": [
+                {}, 
+                {}, 
+                []
+            ]
         }, 
         "1711558738": {
             "action": [
@@ -503,10 +513,20 @@
             "p_trigger_id": 1475866704, 
             "trigger_id": 1711558738, 
             "trigger_name": "on_pause_no", 
-            "valid": true
+            "valid": true, 
+            "var_data": [
+                {}, 
+                {}, 
+                []
+            ]
         }
     }, 
     "trigger_id": 1475866704, 
     "trigger_name": "ini_ui", 
-    "valid": true
+    "valid": true, 
+    "var_data": [
+        {}, 
+        {}, 
+        []
+    ]
 }

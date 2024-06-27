@@ -164,5 +164,10 @@
     "p_trigger_id": null, 
     "trigger_id": 1875570739, 
     "trigger_name": "INI", 
-    "valid": true
+    "valid": true, 
+    "var_data": [
+        {}, 
+        {}, 
+        []
+    ]
 }

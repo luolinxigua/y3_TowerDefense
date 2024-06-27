@@ -167,5 +167,10 @@
     "p_trigger_id": null, 
     "trigger_id": 429301848, 
     "trigger_name": "countdown", 
-    "valid": true
+    "valid": true, 
+    "var_data": [
+        {}, 
+        {}, 
+        []
+    ]
 }

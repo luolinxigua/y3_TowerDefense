@@ -2724,10 +2724,49 @@
             "p_trigger_id": 1775235134, 
             "trigger_id": 1358192705, 
             "trigger_name": "on_choose_hero", 
-            "valid": true
+            "valid": true, 
+            "var_data": [
+                {}, 
+                {}, 
+                []
+            ]
         }
     }, 
     "trigger_id": 1775235134, 
     "trigger_name": "SelectHero", 
-    "valid": true
+    "valid": true, 
+    "var_data": [
+        {
+            "INTEGER": {
+                "i": 1000, 
+                "j": 0
+            }, 
+            "MODEL": {
+                "model": 0
+            }, 
+            "STRING": {
+                "click": "", 
+                "skillNum": ""
+            }, 
+            "TABLE": {
+                "groupInfo": null
+            }
+        }, 
+        {
+            "click": 0, 
+            "groupInfo": 0, 
+            "i": 0, 
+            "j": 0, 
+            "model": 0, 
+            "skillNum": 0
+        }, 
+        [
+            "click", 
+            "groupInfo", 
+            "i", 
+            "j", 
+            "model", 
+            "skillNum"
+        ]
+    ]
 }

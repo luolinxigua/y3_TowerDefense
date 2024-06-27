@@ -2400,5 +2400,65 @@
     "p_trigger_id": null, 
     "trigger_id": 2012668045, 
     "trigger_name": "upgrade_add_exp_100", 
-    "valid": true
+    "valid": true, 
+    "var_data": [
+        {
+            "INTEGER": {
+                "add_exp": 0, 
+                "baseLevel": 0, 
+                "current_exp": 0, 
+                "have_exp": 0, 
+                "i": 0, 
+                "j": 0, 
+                "need_exp": 0, 
+                "origin_exp": 0, 
+                "quality": 0, 
+                "realLevel": 0, 
+                "rsrcInfo_length": 0, 
+                "unitInfo_length": 0, 
+                "upgrade_exp": 0, 
+                "uplevel_exp": 0
+            }, 
+            "TABLE": {
+                "rsrcInfo": null, 
+                "unitInfo": null
+            }
+        }, 
+        {
+            "add_exp": 0, 
+            "baseLevel": 0, 
+            "current_exp": 0, 
+            "have_exp": 0, 
+            "i": 0, 
+            "j": 0, 
+            "need_exp": 0, 
+            "origin_exp": 0, 
+            "quality": 0, 
+            "realLevel": 0, 
+            "rsrcInfo": 0, 
+            "rsrcInfo_length": 0, 
+            "unitInfo": 0, 
+            "unitInfo_length": 0, 
+            "upgrade_exp": 0, 
+            "uplevel_exp": 0
+        }, 
+        [
+            "add_exp", 
+            "baseLevel", 
+            "current_exp", 
+            "have_exp", 
+            "i", 
+            "j", 
+            "need_exp", 
+            "origin_exp", 
+            "quality", 
+            "realLevel", 
+            "rsrcInfo", 
+            "rsrcInfo_length", 
+            "unitInfo", 
+            "unitInfo_length", 
+            "upgrade_exp", 
+            "uplevel_exp"
+        ]
+    ]
 }

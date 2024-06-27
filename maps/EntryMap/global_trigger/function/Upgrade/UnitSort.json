@@ -2219,5 +2219,26 @@
     "p_trigger_id": null, 
     "trigger_id": 707997835, 
     "trigger_name": "UnitSort", 
-    "valid": true
+    "valid": true, 
+    "var_data": [
+        {
+            "INTEGER": {
+                "n": 0
+            }, 
+            "TABLE": {
+                "origin_form": null, 
+                "skillInfo": null
+            }
+        }, 
+        {
+            "n": 0, 
+            "origin_form": 0, 
+            "skillInfo": 0
+        }, 
+        [
+            "n", 
+            "origin_form", 
+            "skillInfo"
+        ]
+    ]
 }
