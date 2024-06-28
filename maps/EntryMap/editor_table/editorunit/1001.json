@@ -9,6 +9,7 @@
     "agility_grow": 1.0, 
     "alarm_range": 8.0, 
     "angle_tolerance": 1, 
+    "anim_state_name": "", 
     "armor_type": 20000, 
     "attack_interval": 1, 
     "attack_interval_grow": 0, 
@@ -45,6 +46,8 @@
         "__tuple__": true, 
         "items": []
     }, 
+    "build_time": 5, 
+    "build_upgrade_list": [], 
     "buy_res_list": {
         "__tuple__": true, 
         "items": []
@@ -134,6 +137,8 @@
     "hp_max_grow": 0.0, 
     "hp_rec": 0.0, 
     "hp_rec_grow": 0.0, 
+    "hp_rec_percent": 0.0, 
+    "hp_rec_percent_grow": 0.0, 
     "icon": 905239, 
     "idle_anim": "hold", 
     "init_stock": 5, 

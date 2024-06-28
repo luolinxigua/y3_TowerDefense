@@ -18,11 +18,15 @@
                     "event_list": [], 
                     "image": 100047, 
                     "name": "pic", 
-                    "pos": {
+                    "pos_data": {
                         "__tuple__": true, 
                         "items": [
                             960.0, 
-                            540.0
+                            540.0, 
+                            50.0, 
+                            50.0, 
+                            1, 
+                            1
                         ]
                     }, 
                     "prefab_sub_key": null, 
@@ -40,11 +44,15 @@
             ], 
             "event_list": [], 
             "name": "bg", 
-            "pos": {
+            "pos_data": {
                 "__tuple__": true, 
                 "items": [
                     960.0, 
-                    540.0
+                    540.0, 
+                    50.0, 
+                    50.0, 
+                    1, 
+                    1
                 ]
             }, 
             "prefab_sub_key": null, 
@@ -96,18 +104,15 @@
                     "hover_status_added": true, 
                     "name": "back_to_main", 
                     "normal_picture": 108469, 
-                    "pos": {
+                    "pos_data": {
                         "__tuple__": true, 
                         "items": [
                             100.0, 
-                            980.0
-                        ]
-                    }, 
-                    "pos_percent": {
-                        "__tuple__": true, 
-                        "items": [
+                            980.0, 
                             5.2083, 
-                            90.7407
+                            90.7407, 
+                            1, 
+                            1
                         ]
                     }, 
                     "prefab_sub_key": null, 
@@ -126,11 +131,15 @@
             ], 
             "event_list": [], 
             "name": "ctrl", 
-            "pos": {
+            "pos_data": {
                 "__tuple__": true, 
                 "items": [
                     960.0, 
-                    540.0
+                    540.0, 
+                    50.0, 
+                    50.0, 
+                    1, 
+                    1
                 ]
             }, 
             "prefab_sub_key": null, 
@@ -163,18 +172,15 @@
                             "event_list": [], 
                             "image": 131358, 
                             "name": "icon", 
-                            "pos": {
+                            "pos_data": {
                                 "__tuple__": true, 
                                 "items": [
                                     50.0, 
-                                    50.0
-                                ]
-                            }, 
-                            "pos_percent": {
-                                "__tuple__": true, 
-                                "items": [
+                                    50.0, 
                                     16.6667, 
-                                    50.0
+                                    50.0, 
+                                    1, 
+                                    1
                                 ]
                             }, 
                             "prefab_sub_key": null, 
@@ -200,18 +206,15 @@
                                 ]
                             }, 
                             "name": "value", 
-                            "pos": {
+                            "pos_data": {
                                 "__tuple__": true, 
                                 "items": [
                                     200.0, 
-                                    50.0
-                                ]
-                            }, 
-                            "pos_percent": {
-                                "__tuple__": true, 
-                                "items": [
+                                    50.0, 
                                     66.6667, 
-                                    50.0
+                                    50.0, 
+                                    1, 
+                                    1
                                 ]
                             }, 
                             "prefab_sub_key": null, 
@@ -236,18 +239,15 @@
                     ], 
                     "event_list": [], 
                     "name": "gold", 
-                    "pos": {
+                    "pos_data": {
                         "__tuple__": true, 
                         "items": [
                             1380.0, 
-                            70.0
-                        ]
-                    }, 
-                    "pos_percent": {
-                        "__tuple__": true, 
-                        "items": [
+                            70.0, 
                             71.875, 
-                            50.0
+                            50.0, 
+                            1, 
+                            1
                         ]
                     }, 
                     "prefab_sub_key": null, 
@@ -278,18 +278,15 @@
                             "event_list": [], 
                             "image": 120699, 
                             "name": "icon", 
-                            "pos": {
+                            "pos_data": {
                                 "__tuple__": true, 
                                 "items": [
                                     50.0, 
-                                    50.0
-                                ]
-                            }, 
-                            "pos_percent": {
-                                "__tuple__": true, 
-                                "items": [
+                                    50.0, 
                                     16.6667, 
-                                    50.0
+                                    50.0, 
+                                    1, 
+                                    1
                                 ]
                             }, 
                             "prefab_sub_key": null, 
@@ -315,18 +312,15 @@
                                 ]
                             }, 
                             "name": "value", 
-                            "pos": {
+                            "pos_data": {
                                 "__tuple__": true, 
                                 "items": [
                                     200.0, 
-                                    50.0
-                                ]
-                            }, 
-                            "pos_percent": {
-                                "__tuple__": true, 
-                                "items": [
+                                    50.0, 
                                     66.6667, 
-                                    50.0
+                                    50.0, 
+                                    1, 
+                                    1
                                 ]
                             }, 
                             "prefab_sub_key": null, 
@@ -351,18 +345,15 @@
                     ], 
                     "event_list": [], 
                     "name": "diamond", 
-                    "pos": {
+                    "pos_data": {
                         "__tuple__": true, 
                         "items": [
                             1680.0, 
-                            70.0
-                        ]
-                    }, 
-                    "pos_percent": {
-                        "__tuple__": true, 
-                        "items": [
+                            70.0, 
                             87.5, 
-                            50.0
+                            50.0, 
+                            1, 
+                            1
                         ]
                     }, 
                     "prefab_sub_key": null, 
@@ -380,18 +371,15 @@
             ], 
             "event_list": [], 
             "name": "info", 
-            "pos": {
+            "pos_data": {
                 "__tuple__": true, 
                 "items": [
                     960.0, 
-                    1010.0
-                ]
-            }, 
-            "pos_percent": {
-                "__tuple__": true, 
-                "items": [
+                    1010.0, 
                     50.0, 
-                    93.5185
+                    93.5185, 
+                    1, 
+                    1
                 ]
             }, 
             "prefab_sub_key": null, 
@@ -422,11 +410,15 @@
                     "event_list": [], 
                     "image": 110091, 
                     "name": "bg", 
-                    "pos": {
+                    "pos_data": {
                         "__tuple__": true, 
                         "items": [
                             725.0, 
-                            150.0
+                            150.0, 
+                            50.0, 
+                            50.0, 
+                            1, 
+                            1
                         ]
                     }, 
                     "prefab_sub_key": null, 
@@ -459,18 +451,15 @@
                         ]
                     }, 
                     "name": "title", 
-                    "pos": {
+                    "pos_data": {
                         "__tuple__": true, 
                         "items": [
                             725.0, 
-                            235.0
-                        ]
-                    }, 
-                    "pos_percent": {
-                        "__tuple__": true, 
-                        "items": [
+                            235.0, 
                             50.0, 
-                            78.3333
+                            78.3333, 
+                            1, 
+                            1
                         ]
                     }, 
                     "prefab_sub_key": null, 
@@ -510,11 +499,15 @@
                                     "event_list": [], 
                                     "image": 904015, 
                                     "name": "bg", 
-                                    "pos": {
+                                    "pos_data": {
                                         "__tuple__": true, 
                                         "items": [
                                             85.0, 
-                                            85.0
+                                            85.0, 
+                                            50.0, 
+                                            50.0, 
+                                            1, 
+                                            1
                                         ]
                                     }, 
                                     "prefab_sub_key": null, 
@@ -536,11 +529,15 @@
                                     "event_list": [], 
                                     "image": 999, 
                                     "name": "avator", 
-                                    "pos": {
+                                    "pos_data": {
                                         "__tuple__": true, 
                                         "items": [
                                             85.0, 
-                                            85.0
+                                            85.0, 
+                                            50.0, 
+                                            50.0, 
+                                            1, 
+                                            1
                                         ]
                                     }, 
                                     "prefab_sub_key": null, 
@@ -576,18 +573,15 @@
                                         ]
                                     }, 
                                     "name": "model", 
-                                    "pos": {
+                                    "pos_data": {
                                         "__tuple__": true, 
                                         "items": [
                                             85.0, 
-                                            84.9999
-                                        ]
-                                    }, 
-                                    "pos_percent": {
-                                        "__tuple__": true, 
-                                        "items": [
+                                            84.9999, 
                                             50.0, 
-                                            49.9999
+                                            49.9999, 
+                                            1, 
+                                            1
                                         ]
                                     }, 
                                     "prefab_sub_key": null, 
@@ -609,11 +603,15 @@
                                     "hover_status_added": true, 
                                     "name": "frame", 
                                     "normal_picture": 107172, 
-                                    "pos": {
+                                    "pos_data": {
                                         "__tuple__": true, 
                                         "items": [
                                             85.0, 
-                                            85.0
+                                            85.0, 
+                                            50.0, 
+                                            50.0, 
+                                            1, 
+                                            1
                                         ]
                                     }, 
                                     "prefab_sub_key": null, 
@@ -632,18 +630,15 @@
                             ], 
                             "event_list": [], 
                             "name": "unit1", 
-                            "pos": {
+                            "pos_data": {
                                 "__tuple__": true, 
                                 "items": [
                                     85.0, 
-                                    85.0
-                                ]
-                            }, 
-                            "pos_percent": {
-                                "__tuple__": true, 
-                                "items": [
+                                    85.0, 
                                     6.2044, 
-                                    50.0
+                                    50.0, 
+                                    1, 
+                                    1
                                 ]
                             }, 
                             "prefab_sub_key": null, 
@@ -674,11 +669,15 @@
                                     "event_list": [], 
                                     "image": 904015, 
                                     "name": "bg", 
-                                    "pos": {
+                                    "pos_data": {
                                         "__tuple__": true, 
                                         "items": [
                                             85.0, 
-                                            85.0
+                                            85.0, 
+                                            50.0, 
+                                            50.0, 
+                                            1, 
+                                            1
                                         ]
                                     }, 
                                     "prefab_sub_key": null, 
@@ -700,11 +699,15 @@
                                     "event_list": [], 
                                     "image": 999, 
                                     "name": "avator", 
-                                    "pos": {
+                                    "pos_data": {
                                         "__tuple__": true, 
                                         "items": [
                                             85.0, 
-                                            85.0
+                                            85.0, 
+                                            50.0, 
+                                            50.0, 
+                                            1, 
+                                            1
                                         ]
                                     }, 
                                     "prefab_sub_key": null, 
@@ -740,18 +743,15 @@
                                         ]
                                     }, 
                                     "name": "model", 
-                                    "pos": {
+                                    "pos_data": {
                                         "__tuple__": true, 
                                         "items": [
                                             85.0, 
-                                            84.9999
-                                        ]
-                                    }, 
-                                    "pos_percent": {
-                                        "__tuple__": true, 
-                                        "items": [
+                                            84.9999, 
                                             50.0, 
-                                            49.9999
+                                            49.9999, 
+                                            1, 
+                                            1
                                         ]
                                     }, 
                                     "prefab_sub_key": null, 
@@ -773,11 +773,15 @@
                                     "hover_status_added": true, 
                                     "name": "frame", 
                                     "normal_picture": 107172, 
-                                    "pos": {
+                                    "pos_data": {
                                         "__tuple__": true, 
                                         "items": [
                                             85.0, 
-                                            85.0
+                                            85.0, 
+                                            50.0, 
+                                            50.0, 
+                                            1, 
+                                            1
                                         ]
                                     }, 
                                     "prefab_sub_key": null, 
@@ -796,18 +800,15 @@
                             ], 
                             "event_list": [], 
                             "name": "unit2", 
-                            "pos": {
+                            "pos_data": {
                                 "__tuple__": true, 
                                 "items": [
                                     285.0, 
-                                    85.0
-                                ]
-                            }, 
-                            "pos_percent": {
-                                "__tuple__": true, 
-                                "items": [
+                                    85.0, 
                                     20.8029, 
-                                    50.0
+                                    50.0, 
+                                    1, 
+                                    1
                                 ]
                             }, 
                             "prefab_sub_key": null, 
@@ -838,11 +839,15 @@
                                     "event_list": [], 
                                     "image": 904015, 
                                     "name": "bg", 
-                                    "pos": {
+                                    "pos_data": {
                                         "__tuple__": true, 
                                         "items": [
                                             85.0, 
-                                            85.0
+                                            85.0, 
+                                            50.0, 
+                                            50.0, 
+                                            1, 
+                                            1
                                         ]
                                     }, 
                                     "prefab_sub_key": null, 
@@ -864,11 +869,15 @@
                                     "event_list": [], 
                                     "image": 999, 
                                     "name": "avator", 
-                                    "pos": {
+                                    "pos_data": {
                                         "__tuple__": true, 
                                         "items": [
                                             85.0, 
-                                            85.0
+                                            85.0, 
+                                            50.0, 
+                                            50.0, 
+                                            1, 
+                                            1
                                         ]
                                     }, 
                                     "prefab_sub_key": null, 
@@ -904,18 +913,15 @@
                                         ]
                                     }, 
                                     "name": "model", 
-                                    "pos": {
+                                    "pos_data": {
                                         "__tuple__": true, 
                                         "items": [
                                             85.0, 
-                                            84.9999
-                                        ]
-                                    }, 
-                                    "pos_percent": {
-                                        "__tuple__": true, 
-                                        "items": [
+                                            84.9999, 
                                             50.0, 
-                                            49.9999
+                                            49.9999, 
+                                            1, 
+                                            1
                                         ]
                                     }, 
                                     "prefab_sub_key": null, 
@@ -937,11 +943,15 @@
                                     "hover_status_added": true, 
                                     "name": "frame", 
                                     "normal_picture": 107172, 
-                                    "pos": {
+                                    "pos_data": {
                                         "__tuple__": true, 
                                         "items": [
                                             85.0, 
-                                            85.0
+                                            85.0, 
+                                            50.0, 
+                                            50.0, 
+                                            1, 
+                                            1
                                         ]
                                     }, 
                                     "prefab_sub_key": null, 
@@ -960,18 +970,15 @@
                             ], 
                             "event_list": [], 
                             "name": "unit3", 
-                            "pos": {
+                            "pos_data": {
                                 "__tuple__": true, 
                                 "items": [
                                     485.0, 
-                                    85.0
-                                ]
-                            }, 
-                            "pos_percent": {
-                                "__tuple__": true, 
-                                "items": [
+                                    85.0, 
                                     35.4015, 
-                                    50.0
+                                    50.0, 
+                                    1, 
+                                    1
                                 ]
                             }, 
                             "prefab_sub_key": null, 
@@ -1002,11 +1009,15 @@
                                     "event_list": [], 
                                     "image": 904015, 
                                     "name": "bg", 
-                                    "pos": {
+                                    "pos_data": {
                                         "__tuple__": true, 
                                         "items": [
                                             85.0, 
-                                            85.0
+                                            85.0, 
+                                            50.0, 
+                                            50.0, 
+                                            1, 
+                                            1
                                         ]
                                     }, 
                                     "prefab_sub_key": null, 
@@ -1028,11 +1039,15 @@
                                     "event_list": [], 
                                     "image": 999, 
                                     "name": "avator", 
-                                    "pos": {
+                                    "pos_data": {
                                         "__tuple__": true, 
                                         "items": [
                                             85.0, 
-                                            85.0
+                                            85.0, 
+                                            50.0, 
+                                            50.0, 
+                                            1, 
+                                            1
                                         ]
                                     }, 
                                     "prefab_sub_key": null, 
@@ -1068,18 +1083,15 @@
                                         ]
                                     }, 
                                     "name": "model", 
-                                    "pos": {
+                                    "pos_data": {
                                         "__tuple__": true, 
                                         "items": [
                                             85.0, 
-                                            84.9999
-                                        ]
-                                    }, 
-                                    "pos_percent": {
-                                        "__tuple__": true, 
-                                        "items": [
+                                            84.9999, 
                                             50.0, 
-                                            49.9999
+                                            49.9999, 
+                                            1, 
+                                            1
                                         ]
                                     }, 
                                     "prefab_sub_key": null, 
@@ -1101,11 +1113,15 @@
                                     "hover_status_added": true, 
                                     "name": "frame", 
                                     "normal_picture": 107172, 
-                                    "pos": {
+                                    "pos_data": {
                                         "__tuple__": true, 
                                         "items": [
                                             85.0, 
-                                            85.0
+                                            85.0, 
+                                            50.0, 
+                                            50.0, 
+                                            1, 
+                                            1
                                         ]
                                     }, 
                                     "prefab_sub_key": null, 
@@ -1124,11 +1140,15 @@
                             ], 
                             "event_list": [], 
                             "name": "unit4", 
-                            "pos": {
+                            "pos_data": {
                                 "__tuple__": true, 
                                 "items": [
                                     685.0, 
-                                    85.0
+                                    85.0, 
+                                    50.0, 
+                                    50.0, 
+                                    1, 
+                                    1
                                 ]
                             }, 
                             "prefab_sub_key": null, 
@@ -1159,11 +1179,15 @@
                                     "event_list": [], 
                                     "image": 904015, 
                                     "name": "bg", 
-                                    "pos": {
+                                    "pos_data": {
                                         "__tuple__": true, 
                                         "items": [
                                             85.0, 
-                                            85.0
+                                            85.0, 
+                                            50.0, 
+                                            50.0, 
+                                            1, 
+                                            1
                                         ]
                                     }, 
                                     "prefab_sub_key": null, 
@@ -1185,11 +1209,15 @@
                                     "event_list": [], 
                                     "image": 999, 
                                     "name": "avator", 
-                                    "pos": {
+                                    "pos_data": {
                                         "__tuple__": true, 
                                         "items": [
                                             85.0, 
-                                            85.0
+                                            85.0, 
+                                            50.0, 
+                                            50.0, 
+                                            1, 
+                                            1
                                         ]
                                     }, 
                                     "prefab_sub_key": null, 
@@ -1225,18 +1253,15 @@
                                         ]
                                     }, 
                                     "name": "model", 
-                                    "pos": {
+                                    "pos_data": {
                                         "__tuple__": true, 
                                         "items": [
                                             85.0, 
-                                            84.9999
-                                        ]
-                                    }, 
-                                    "pos_percent": {
-                                        "__tuple__": true, 
-                                        "items": [
+                                            84.9999, 
                                             50.0, 
-                                            49.9999
+                                            49.9999, 
+                                            1, 
+                                            1
                                         ]
                                     }, 
                                     "prefab_sub_key": null, 
@@ -1258,11 +1283,15 @@
                                     "hover_status_added": true, 
                                     "name": "frame", 
                                     "normal_picture": 107172, 
-                                    "pos": {
+                                    "pos_data": {
                                         "__tuple__": true, 
                                         "items": [
                                             85.0, 
-                                            85.0
+                                            85.0, 
+                                            50.0, 
+                                            50.0, 
+                                            1, 
+                                            1
                                         ]
                                     }, 
                                     "prefab_sub_key": null, 
@@ -1281,18 +1310,15 @@
                             ], 
                             "event_list": [], 
                             "name": "unit5", 
-                            "pos": {
+                            "pos_data": {
                                 "__tuple__": true, 
                                 "items": [
                                     885.0, 
-                                    85.0
-                                ]
-                            }, 
-                            "pos_percent": {
-                                "__tuple__": true, 
-                                "items": [
+                                    85.0, 
                                     64.5985, 
-                                    50.0
+                                    50.0, 
+                                    1, 
+                                    1
                                 ]
                             }, 
                             "prefab_sub_key": null, 
@@ -1323,11 +1349,15 @@
                                     "event_list": [], 
                                     "image": 904015, 
                                     "name": "bg", 
-                                    "pos": {
+                                    "pos_data": {
                                         "__tuple__": true, 
                                         "items": [
                                             85.0, 
-                                            85.0
+                                            85.0, 
+                                            50.0, 
+                                            50.0, 
+                                            1, 
+                                            1
                                         ]
                                     }, 
                                     "prefab_sub_key": null, 
@@ -1349,11 +1379,15 @@
                                     "event_list": [], 
                                     "image": 999, 
                                     "name": "avator", 
-                                    "pos": {
+                                    "pos_data": {
                                         "__tuple__": true, 
                                         "items": [
                                             85.0, 
-                                            85.0
+                                            85.0, 
+                                            50.0, 
+                                            50.0, 
+                                            1, 
+                                            1
                                         ]
                                     }, 
                                     "prefab_sub_key": null, 
@@ -1389,18 +1423,15 @@
                                         ]
                                     }, 
                                     "name": "model", 
-                                    "pos": {
+                                    "pos_data": {
                                         "__tuple__": true, 
                                         "items": [
                                             85.0, 
-                                            84.9999
-                                        ]
-                                    }, 
-                                    "pos_percent": {
-                                        "__tuple__": true, 
-                                        "items": [
+                                            84.9999, 
                                             50.0, 
-                                            49.9999
+                                            49.9999, 
+                                            1, 
+                                            1
                                         ]
                                     }, 
                                     "prefab_sub_key": null, 
@@ -1422,11 +1453,15 @@
                                     "hover_status_added": true, 
                                     "name": "frame", 
                                     "normal_picture": 107172, 
-                                    "pos": {
+                                    "pos_data": {
                                         "__tuple__": true, 
                                         "items": [
                                             85.0, 
-                                            85.0
+                                            85.0, 
+                                            50.0, 
+                                            50.0, 
+                                            1, 
+                                            1
                                         ]
                                     }, 
                                     "prefab_sub_key": null, 
@@ -1445,18 +1480,15 @@
                             ], 
                             "event_list": [], 
                             "name": "unit6", 
-                            "pos": {
+                            "pos_data": {
                                 "__tuple__": true, 
                                 "items": [
                                     1085.0, 
-                                    85.0
-                                ]
-                            }, 
-                            "pos_percent": {
-                                "__tuple__": true, 
-                                "items": [
+                                    85.0, 
                                     79.1971, 
-                                    50.0
+                                    50.0, 
+                                    1, 
+                                    1
                                 ]
                             }, 
                             "prefab_sub_key": null, 
@@ -1487,11 +1519,15 @@
                                     "event_list": [], 
                                     "image": 904015, 
                                     "name": "bg", 
-                                    "pos": {
+                                    "pos_data": {
                                         "__tuple__": true, 
                                         "items": [
                                             85.0, 
-                                            85.0
+                                            85.0, 
+                                            50.0, 
+                                            50.0, 
+                                            1, 
+                                            1
                                         ]
                                     }, 
                                     "prefab_sub_key": null, 
@@ -1513,11 +1549,15 @@
                                     "event_list": [], 
                                     "image": 999, 
                                     "name": "avator", 
-                                    "pos": {
+                                    "pos_data": {
                                         "__tuple__": true, 
                                         "items": [
                                             85.0, 
-                                            85.0
+                                            85.0, 
+                                            50.0, 
+                                            50.0, 
+                                            1, 
+                                            1
                                         ]
                                     }, 
                                     "prefab_sub_key": null, 
@@ -1553,18 +1593,15 @@
                                         ]
                                     }, 
                                     "name": "model", 
-                                    "pos": {
+                                    "pos_data": {
                                         "__tuple__": true, 
                                         "items": [
                                             85.0, 
-                                            84.9999
-                                        ]
-                                    }, 
-                                    "pos_percent": {
-                                        "__tuple__": true, 
-                                        "items": [
+                                            84.9999, 
                                             50.0, 
-                                            49.9999
+                                            49.9999, 
+                                            1, 
+                                            1
                                         ]
                                     }, 
                                     "prefab_sub_key": null, 
@@ -1586,11 +1623,15 @@
                                     "hover_status_added": true, 
                                     "name": "frame", 
                                     "normal_picture": 107172, 
-                                    "pos": {
+                                    "pos_data": {
                                         "__tuple__": true, 
                                         "items": [
                                             85.0, 
-                                            85.0
+                                            85.0, 
+                                            50.0, 
+                                            50.0, 
+                                            1, 
+                                            1
                                         ]
                                     }, 
                                     "prefab_sub_key": null, 
@@ -1609,18 +1650,15 @@
                             ], 
                             "event_list": [], 
                             "name": "unit7", 
-                            "pos": {
+                            "pos_data": {
                                 "__tuple__": true, 
                                 "items": [
                                     1285.0, 
-                                    85.0
-                                ]
-                            }, 
-                            "pos_percent": {
-                                "__tuple__": true, 
-                                "items": [
+                                    85.0, 
                                     93.7956, 
-                                    50.0
+                                    50.0, 
+                                    1, 
+                                    1
                                 ]
                             }, 
                             "prefab_sub_key": null, 
@@ -1638,18 +1676,15 @@
                     ], 
                     "event_list": [], 
                     "name": "unit", 
-                    "pos": {
+                    "pos_data": {
                         "__tuple__": true, 
                         "items": [
                             725.0, 
-                            110.0
-                        ]
-                    }, 
-                    "pos_percent": {
-                        "__tuple__": true, 
-                        "items": [
+                            110.0, 
                             50.0, 
-                            36.6667
+                            36.6667, 
+                            1, 
+                            1
                         ]
                     }, 
                     "prefab_sub_key": null, 
@@ -1667,18 +1702,15 @@
             ], 
             "event_list": [], 
             "name": "shop_unit", 
-            "pos": {
+            "pos_data": {
                 "__tuple__": true, 
                 "items": [
                     960.0, 
-                    793.0001
-                ]
-            }, 
-            "pos_percent": {
-                "__tuple__": true, 
-                "items": [
+                    793.0001, 
                     50.0, 
-                    73.4259
+                    73.4259, 
+                    1, 
+                    1
                 ]
             }, 
             "prefab_sub_key": null, 
@@ -1709,11 +1741,15 @@
                     "event_list": [], 
                     "image": 110091, 
                     "name": "bg", 
-                    "pos": {
+                    "pos_data": {
                         "__tuple__": true, 
                         "items": [
                             725.0, 
-                            150.0
+                            150.0, 
+                            50.0, 
+                            50.0, 
+                            1, 
+                            1
                         ]
                     }, 
                     "prefab_sub_key": null, 
@@ -1746,18 +1782,15 @@
                         ]
                     }, 
                     "name": "title", 
-                    "pos": {
+                    "pos_data": {
                         "__tuple__": true, 
                         "items": [
                             725.0, 
-                            235.0
-                        ]
-                    }, 
-                    "pos_percent": {
-                        "__tuple__": true, 
-                        "items": [
+                            235.0, 
                             50.0, 
-                            78.3333
+                            78.3333, 
+                            1, 
+                            1
                         ]
                     }, 
                     "prefab_sub_key": null, 
@@ -1797,11 +1830,15 @@
                                     "event_list": [], 
                                     "image": 904015, 
                                     "name": "bg", 
-                                    "pos": {
+                                    "pos_data": {
                                         "__tuple__": true, 
                                         "items": [
                                             85.0, 
-                                            85.0
+                                            85.0, 
+                                            50.0, 
+                                            50.0, 
+                                            1, 
+                                            1
                                         ]
                                     }, 
                                     "prefab_sub_key": null, 
@@ -1823,11 +1860,15 @@
                                     "event_list": [], 
                                     "image": 999, 
                                     "name": "avator", 
-                                    "pos": {
+                                    "pos_data": {
                                         "__tuple__": true, 
                                         "items": [
                                             85.0, 
-                                            85.0
+                                            85.0, 
+                                            50.0, 
+                                            50.0, 
+                                            1, 
+                                            1
                                         ]
                                     }, 
                                     "prefab_sub_key": null, 
@@ -1863,18 +1904,15 @@
                                         ]
                                     }, 
                                     "name": "model", 
-                                    "pos": {
+                                    "pos_data": {
                                         "__tuple__": true, 
                                         "items": [
                                             85.0, 
-                                            84.9999
-                                        ]
-                                    }, 
-                                    "pos_percent": {
-                                        "__tuple__": true, 
-                                        "items": [
+                                            84.9999, 
                                             50.0, 
-                                            49.9999
+                                            49.9999, 
+                                            1, 
+                                            1
                                         ]
                                     }, 
                                     "prefab_sub_key": null, 
@@ -1896,11 +1934,15 @@
                                     "hover_status_added": true, 
                                     "name": "frame", 
                                     "normal_picture": 107172, 
-                                    "pos": {
+                                    "pos_data": {
                                         "__tuple__": true, 
                                         "items": [
                                             85.0, 
-                                            85.0
+                                            85.0, 
+                                            50.0, 
+                                            50.0, 
+                                            1, 
+                                            1
                                         ]
                                     }, 
                                     "prefab_sub_key": null, 
@@ -1919,18 +1961,15 @@
                             ], 
                             "event_list": [], 
                             "name": "skill1", 
-                            "pos": {
+                            "pos_data": {
                                 "__tuple__": true, 
                                 "items": [
                                     85.0, 
-                                    85.0
-                                ]
-                            }, 
-                            "pos_percent": {
-                                "__tuple__": true, 
-                                "items": [
+                                    85.0, 
                                     6.2044, 
-                                    50.0
+                                    50.0, 
+                                    1, 
+                                    1
                                 ]
                             }, 
                             "prefab_sub_key": null, 
@@ -1961,11 +2000,15 @@
                                     "event_list": [], 
                                     "image": 904015, 
                                     "name": "bg", 
-                                    "pos": {
+                                    "pos_data": {
                                         "__tuple__": true, 
                                         "items": [
                                             85.0, 
-                                            85.0
+                                            85.0, 
+                                            50.0, 
+                                            50.0, 
+                                            1, 
+                                            1
                                         ]
                                     }, 
                                     "prefab_sub_key": null, 
@@ -1987,11 +2030,15 @@
                                     "event_list": [], 
                                     "image": 999, 
                                     "name": "avator", 
-                                    "pos": {
+                                    "pos_data": {
                                         "__tuple__": true, 
                                         "items": [
                                             85.0, 
-                                            85.0
+                                            85.0, 
+                                            50.0, 
+                                            50.0, 
+                                            1, 
+                                            1
                                         ]
                                     }, 
                                     "prefab_sub_key": null, 
@@ -2027,18 +2074,15 @@
                                         ]
                                     }, 
                                     "name": "model", 
-                                    "pos": {
+                                    "pos_data": {
                                         "__tuple__": true, 
                                         "items": [
                                             85.0, 
-                                            84.9999
-                                        ]
-                                    }, 
-                                    "pos_percent": {
-                                        "__tuple__": true, 
-                                        "items": [
+                                            84.9999, 
                                             50.0, 
-                                            49.9999
+                                            49.9999, 
+                                            1, 
+                                            1
                                         ]
                                     }, 
                                     "prefab_sub_key": null, 
@@ -2060,11 +2104,15 @@
                                     "hover_status_added": true, 
                                     "name": "frame", 
                                     "normal_picture": 107172, 
-                                    "pos": {
+                                    "pos_data": {
                                         "__tuple__": true, 
                                         "items": [
                                             85.0, 
-                                            85.0
+                                            85.0, 
+                                            50.0, 
+                                            50.0, 
+                                            1, 
+                                            1
                                         ]
                                     }, 
                                     "prefab_sub_key": null, 
@@ -2083,18 +2131,15 @@
                             ], 
                             "event_list": [], 
                             "name": "skill2", 
-                            "pos": {
+                            "pos_data": {
                                 "__tuple__": true, 
                                 "items": [
                                     285.0, 
-                                    85.0
-                                ]
-                            }, 
-                            "pos_percent": {
-                                "__tuple__": true, 
-                                "items": [
+                                    85.0, 
                                     20.8029, 
-                                    50.0
+                                    50.0, 
+                                    1, 
+                                    1
                                 ]
                             }, 
                             "prefab_sub_key": null, 
@@ -2125,11 +2170,15 @@
                                     "event_list": [], 
                                     "image": 904015, 
                                     "name": "bg", 
-                                    "pos": {
+                                    "pos_data": {
                                         "__tuple__": true, 
                                         "items": [
                                             85.0, 
-                                            85.0
+                                            85.0, 
+                                            50.0, 
+                                            50.0, 
+                                            1, 
+                                            1
                                         ]
                                     }, 
                                     "prefab_sub_key": null, 
@@ -2151,11 +2200,15 @@
                                     "event_list": [], 
                                     "image": 999, 
                                     "name": "avator", 
-                                    "pos": {
+                                    "pos_data": {
                                         "__tuple__": true, 
                                         "items": [
                                             85.0, 
-                                            85.0
+                                            85.0, 
+                                            50.0, 
+                                            50.0, 
+                                            1, 
+                                            1
                                         ]
                                     }, 
                                     "prefab_sub_key": null, 
@@ -2191,18 +2244,15 @@
                                         ]
                                     }, 
                                     "name": "model", 
-                                    "pos": {
+                                    "pos_data": {
                                         "__tuple__": true, 
                                         "items": [
                                             85.0, 
-                                            84.9999
-                                        ]
-                                    }, 
-                                    "pos_percent": {
-                                        "__tuple__": true, 
-                                        "items": [
+                                            84.9999, 
                                             50.0, 
-                                            49.9999
+                                            49.9999, 
+                                            1, 
+                                            1
                                         ]
                                     }, 
                                     "prefab_sub_key": null, 
@@ -2224,11 +2274,15 @@
                                     "hover_status_added": true, 
                                     "name": "frame", 
                                     "normal_picture": 107172, 
-                                    "pos": {
+                                    "pos_data": {
                                         "__tuple__": true, 
                                         "items": [
                                             85.0, 
-                                            85.0
+                                            85.0, 
+                                            50.0, 
+                                            50.0, 
+                                            1, 
+                                            1
                                         ]
                                     }, 
                                     "prefab_sub_key": null, 
@@ -2247,18 +2301,15 @@
                             ], 
                             "event_list": [], 
                             "name": "skill3", 
-                            "pos": {
+                            "pos_data": {
                                 "__tuple__": true, 
                                 "items": [
                                     485.0, 
-                                    85.0
-                                ]
-                            }, 
-                            "pos_percent": {
-                                "__tuple__": true, 
-                                "items": [
+                                    85.0, 
                                     35.4015, 
-                                    50.0
+                                    50.0, 
+                                    1, 
+                                    1
                                 ]
                             }, 
                             "prefab_sub_key": null, 
@@ -2289,11 +2340,15 @@
                                     "event_list": [], 
                                     "image": 904015, 
                                     "name": "bg", 
-                                    "pos": {
+                                    "pos_data": {
                                         "__tuple__": true, 
                                         "items": [
                                             85.0, 
-                                            85.0
+                                            85.0, 
+                                            50.0, 
+                                            50.0, 
+                                            1, 
+                                            1
                                         ]
                                     }, 
                                     "prefab_sub_key": null, 
@@ -2315,11 +2370,15 @@
                                     "event_list": [], 
                                     "image": 999, 
                                     "name": "avator", 
-                                    "pos": {
+                                    "pos_data": {
                                         "__tuple__": true, 
                                         "items": [
                                             85.0, 
-                                            85.0
+                                            85.0, 
+                                            50.0, 
+                                            50.0, 
+                                            1, 
+                                            1
                                         ]
                                     }, 
                                     "prefab_sub_key": null, 
@@ -2355,18 +2414,15 @@
                                         ]
                                     }, 
                                     "name": "model", 
-                                    "pos": {
+                                    "pos_data": {
                                         "__tuple__": true, 
                                         "items": [
                                             85.0, 
-                                            84.9999
-                                        ]
-                                    }, 
-                                    "pos_percent": {
-                                        "__tuple__": true, 
-                                        "items": [
+                                            84.9999, 
                                             50.0, 
-                                            49.9999
+                                            49.9999, 
+                                            1, 
+                                            1
                                         ]
                                     }, 
                                     "prefab_sub_key": null, 
@@ -2388,11 +2444,15 @@
                                     "hover_status_added": true, 
                                     "name": "frame", 
                                     "normal_picture": 107172, 
-                                    "pos": {
+                                    "pos_data": {
                                         "__tuple__": true, 
                                         "items": [
                                             85.0, 
-                                            85.0
+                                            85.0, 
+                                            50.0, 
+                                            50.0, 
+                                            1, 
+                                            1
                                         ]
                                     }, 
                                     "prefab_sub_key": null, 
@@ -2411,11 +2471,15 @@
                             ], 
                             "event_list": [], 
                             "name": "skill4", 
-                            "pos": {
+                            "pos_data": {
                                 "__tuple__": true, 
                                 "items": [
                                     685.0, 
-                                    85.0
+                                    85.0, 
+                                    50.0, 
+                                    50.0, 
+                                    1, 
+                                    1
                                 ]
                             }, 
                             "prefab_sub_key": null, 
@@ -2446,11 +2510,15 @@
                                     "event_list": [], 
                                     "image": 904015, 
                                     "name": "bg", 
-                                    "pos": {
+                                    "pos_data": {
                                         "__tuple__": true, 
                                         "items": [
                                             85.0, 
-                                            85.0
+                                            85.0, 
+                                            50.0, 
+                                            50.0, 
+                                            1, 
+                                            1
                                         ]
                                     }, 
                                     "prefab_sub_key": null, 
@@ -2472,11 +2540,15 @@
                                     "event_list": [], 
                                     "image": 999, 
                                     "name": "avator", 
-                                    "pos": {
+                                    "pos_data": {
                                         "__tuple__": true, 
                                         "items": [
                                             85.0, 
-                                            85.0
+                                            85.0, 
+                                            50.0, 
+                                            50.0, 
+                                            1, 
+                                            1
                                         ]
                                     }, 
                                     "prefab_sub_key": null, 
@@ -2512,18 +2584,15 @@
                                         ]
                                     }, 
                                     "name": "model", 
-                                    "pos": {
+                                    "pos_data": {
                                         "__tuple__": true, 
                                         "items": [
                                             85.0, 
-                                            84.9999
-                                        ]
-                                    }, 
-                                    "pos_percent": {
-                                        "__tuple__": true, 
-                                        "items": [
+                                            84.9999, 
                                             50.0, 
-                                            49.9999
+                                            49.9999, 
+                                            1, 
+                                            1
                                         ]
                                     }, 
                                     "prefab_sub_key": null, 
@@ -2545,11 +2614,15 @@
                                     "hover_status_added": true, 
                                     "name": "frame", 
                                     "normal_picture": 107172, 
-                                    "pos": {
+                                    "pos_data": {
                                         "__tuple__": true, 
                                         "items": [
                                             85.0, 
-                                            85.0
+                                            85.0, 
+                                            50.0, 
+                                            50.0, 
+                                            1, 
+                                            1
                                         ]
                                     }, 
                                     "prefab_sub_key": null, 
@@ -2568,18 +2641,15 @@
                             ], 
                             "event_list": [], 
                             "name": "skill5", 
-                            "pos": {
+                            "pos_data": {
                                 "__tuple__": true, 
                                 "items": [
                                     885.0, 
-                                    85.0
-                                ]
-                            }, 
-                            "pos_percent": {
-                                "__tuple__": true, 
-                                "items": [
+                                    85.0, 
                                     64.5985, 
-                                    50.0
+                                    50.0, 
+                                    1, 
+                                    1
                                 ]
                             }, 
                             "prefab_sub_key": null, 
@@ -2610,11 +2680,15 @@
                                     "event_list": [], 
                                     "image": 904015, 
                                     "name": "bg", 
-                                    "pos": {
+                                    "pos_data": {
                                         "__tuple__": true, 
                                         "items": [
                                             85.0, 
-                                            85.0
+                                            85.0, 
+                                            50.0, 
+                                            50.0, 
+                                            1, 
+                                            1
                                         ]
                                     }, 
                                     "prefab_sub_key": null, 
@@ -2636,11 +2710,15 @@
                                     "event_list": [], 
                                     "image": 999, 
                                     "name": "avator", 
-                                    "pos": {
+                                    "pos_data": {
                                         "__tuple__": true, 
                                         "items": [
                                             85.0, 
-                                            85.0
+                                            85.0, 
+                                            50.0, 
+                                            50.0, 
+                                            1, 
+                                            1
                                         ]
                                     }, 
                                     "prefab_sub_key": null, 
@@ -2676,18 +2754,15 @@
                                         ]
                                     }, 
                                     "name": "model", 
-                                    "pos": {
+                                    "pos_data": {
                                         "__tuple__": true, 
                                         "items": [
                                             85.0, 
-                                            84.9999
-                                        ]
-                                    }, 
-                                    "pos_percent": {
-                                        "__tuple__": true, 
-                                        "items": [
+                                            84.9999, 
                                             50.0, 
-                                            49.9999
+                                            49.9999, 
+                                            1, 
+                                            1
                                         ]
                                     }, 
                                     "prefab_sub_key": null, 
@@ -2709,11 +2784,15 @@
                                     "hover_status_added": true, 
                                     "name": "frame", 
                                     "normal_picture": 107172, 
-                                    "pos": {
+                                    "pos_data": {
                                         "__tuple__": true, 
                                         "items": [
                                             85.0, 
-                                            85.0
+                                            85.0, 
+                                            50.0, 
+                                            50.0, 
+                                            1, 
+                                            1
                                         ]
                                     }, 
                                     "prefab_sub_key": null, 
@@ -2732,18 +2811,15 @@
                             ], 
                             "event_list": [], 
                             "name": "skill6", 
-                            "pos": {
+                            "pos_data": {
                                 "__tuple__": true, 
                                 "items": [
                                     1085.0, 
-                                    85.0
-                                ]
-                            }, 
-                            "pos_percent": {
-                                "__tuple__": true, 
-                                "items": [
+                                    85.0, 
                                     79.1971, 
-                                    50.0
+                                    50.0, 
+                                    1, 
+                                    1
                                 ]
                             }, 
                             "prefab_sub_key": null, 
@@ -2774,11 +2850,15 @@
                                     "event_list": [], 
                                     "image": 904015, 
                                     "name": "bg", 
-                                    "pos": {
+                                    "pos_data": {
                                         "__tuple__": true, 
                                         "items": [
                                             85.0, 
-                                            85.0
+                                            85.0, 
+                                            50.0, 
+                                            50.0, 
+                                            1, 
+                                            1
                                         ]
                                     }, 
                                     "prefab_sub_key": null, 
@@ -2800,11 +2880,15 @@
                                     "event_list": [], 
                                     "image": 999, 
                                     "name": "avator", 
-                                    "pos": {
+                                    "pos_data": {
                                         "__tuple__": true, 
                                         "items": [
                                             85.0, 
-                                            85.0
+                                            85.0, 
+                                            50.0, 
+                                            50.0, 
+                                            1, 
+                                            1
                                         ]
                                     }, 
                                     "prefab_sub_key": null, 
@@ -2840,18 +2924,15 @@
                                         ]
                                     }, 
                                     "name": "model", 
-                                    "pos": {
+                                    "pos_data": {
                                         "__tuple__": true, 
                                         "items": [
                                             85.0, 
-                                            84.9999
-                                        ]
-                                    }, 
-                                    "pos_percent": {
-                                        "__tuple__": true, 
-                                        "items": [
+                                            84.9999, 
                                             50.0, 
-                                            49.9999
+                                            49.9999, 
+                                            1, 
+                                            1
                                         ]
                                     }, 
                                     "prefab_sub_key": null, 
@@ -2873,11 +2954,15 @@
                                     "hover_status_added": true, 
                                     "name": "frame", 
                                     "normal_picture": 107172, 
-                                    "pos": {
+                                    "pos_data": {
                                         "__tuple__": true, 
                                         "items": [
                                             85.0, 
-                                            85.0
+                                            85.0, 
+                                            50.0, 
+                                            50.0, 
+                                            1, 
+                                            1
                                         ]
                                     }, 
                                     "prefab_sub_key": null, 
@@ -2896,18 +2981,15 @@
                             ], 
                             "event_list": [], 
                             "name": "skill7", 
-                            "pos": {
+                            "pos_data": {
                                 "__tuple__": true, 
                                 "items": [
                                     1285.0, 
-                                    85.0
-                                ]
-                            }, 
-                            "pos_percent": {
-                                "__tuple__": true, 
-                                "items": [
+                                    85.0, 
                                     93.7956, 
-                                    50.0
+                                    50.0, 
+                                    1, 
+                                    1
                                 ]
                             }, 
                             "prefab_sub_key": null, 
@@ -2925,18 +3007,15 @@
                     ], 
                     "event_list": [], 
                     "name": "skill", 
-                    "pos": {
+                    "pos_data": {
                         "__tuple__": true, 
                         "items": [
                             725.0, 
-                            110.0
-                        ]
-                    }, 
-                    "pos_percent": {
-                        "__tuple__": true, 
-                        "items": [
+                            110.0, 
                             50.0, 
-                            36.6667
+                            36.6667, 
+                            1, 
+                            1
                         ]
                     }, 
                     "prefab_sub_key": null, 
@@ -2954,18 +3033,15 @@
             ], 
             "event_list": [], 
             "name": "shop_skill", 
-            "pos": {
+            "pos_data": {
                 "__tuple__": true, 
                 "items": [
                     960.0, 
-                    493.0001
-                ]
-            }, 
-            "pos_percent": {
-                "__tuple__": true, 
-                "items": [
+                    493.0001, 
                     50.0, 
-                    45.6482
+                    45.6482, 
+                    1, 
+                    1
                 ]
             }, 
             "prefab_sub_key": null, 
@@ -2996,11 +3072,15 @@
                     "event_list": [], 
                     "image": 110091, 
                     "name": "bg", 
-                    "pos": {
+                    "pos_data": {
                         "__tuple__": true, 
                         "items": [
                             725.0, 
-                            150.0
+                            150.0, 
+                            50.0, 
+                            50.0, 
+                            1, 
+                            1
                         ]
                     }, 
                     "prefab_sub_key": null, 
@@ -3033,18 +3113,15 @@
                         ]
                     }, 
                     "name": "title", 
-                    "pos": {
+                    "pos_data": {
                         "__tuple__": true, 
                         "items": [
                             725.0, 
-                            235.0
-                        ]
-                    }, 
-                    "pos_percent": {
-                        "__tuple__": true, 
-                        "items": [
+                            235.0, 
                             50.0, 
-                            78.3333
+                            78.3333, 
+                            1, 
+                            1
                         ]
                     }, 
                     "prefab_sub_key": null, 
@@ -3084,11 +3161,15 @@
                                     "event_list": [], 
                                     "image": 904015, 
                                     "name": "bg", 
-                                    "pos": {
+                                    "pos_data": {
                                         "__tuple__": true, 
                                         "items": [
                                             85.0, 
-                                            85.0
+                                            85.0, 
+                                            50.0, 
+                                            50.0, 
+                                            1, 
+                                            1
                                         ]
                                     }, 
                                     "prefab_sub_key": null, 
@@ -3110,11 +3191,15 @@
                                     "event_list": [], 
                                     "image": 999, 
                                     "name": "avator", 
-                                    "pos": {
+                                    "pos_data": {
                                         "__tuple__": true, 
                                         "items": [
                                             85.0, 
-                                            85.0
+                                            85.0, 
+                                            50.0, 
+                                            50.0, 
+                                            1, 
+                                            1
                                         ]
                                     }, 
                                     "prefab_sub_key": null, 
@@ -3150,18 +3235,15 @@
                                         ]
                                     }, 
                                     "name": "model", 
-                                    "pos": {
+                                    "pos_data": {
                                         "__tuple__": true, 
                                         "items": [
                                             85.0, 
-                                            84.9999
-                                        ]
-                                    }, 
-                                    "pos_percent": {
-                                        "__tuple__": true, 
-                                        "items": [
+                                            84.9999, 
                                             50.0, 
-                                            49.9999
+                                            49.9999, 
+                                            1, 
+                                            1
                                         ]
                                     }, 
                                     "prefab_sub_key": null, 
@@ -3183,11 +3265,15 @@
                                     "hover_status_added": true, 
                                     "name": "frame", 
                                     "normal_picture": 107172, 
-                                    "pos": {
+                                    "pos_data": {
                                         "__tuple__": true, 
                                         "items": [
                                             85.0, 
-                                            85.0
+                                            85.0, 
+                                            50.0, 
+                                            50.0, 
+                                            1, 
+                                            1
                                         ]
                                     }, 
                                     "prefab_sub_key": null, 
@@ -3206,18 +3292,15 @@
                             ], 
                             "event_list": [], 
                             "name": "material1", 
-                            "pos": {
+                            "pos_data": {
                                 "__tuple__": true, 
                                 "items": [
                                     85.0, 
-                                    85.0
-                                ]
-                            }, 
-                            "pos_percent": {
-                                "__tuple__": true, 
-                                "items": [
+                                    85.0, 
                                     6.2044, 
-                                    50.0
+                                    50.0, 
+                                    1, 
+                                    1
                                 ]
                             }, 
                             "prefab_sub_key": null, 
@@ -3248,11 +3331,15 @@
                                     "event_list": [], 
                                     "image": 904015, 
                                     "name": "bg", 
-                                    "pos": {
+                                    "pos_data": {
                                         "__tuple__": true, 
                                         "items": [
                                             85.0, 
-                                            85.0
+                                            85.0, 
+                                            50.0, 
+                                            50.0, 
+                                            1, 
+                                            1
                                         ]
                                     }, 
                                     "prefab_sub_key": null, 
@@ -3274,11 +3361,15 @@
                                     "event_list": [], 
                                     "image": 999, 
                                     "name": "avator", 
-                                    "pos": {
+                                    "pos_data": {
                                         "__tuple__": true, 
                                         "items": [
                                             85.0, 
-                                            85.0
+                                            85.0, 
+                                            50.0, 
+                                            50.0, 
+                                            1, 
+                                            1
                                         ]
                                     }, 
                                     "prefab_sub_key": null, 
@@ -3314,18 +3405,15 @@
                                         ]
                                     }, 
                                     "name": "model", 
-                                    "pos": {
+                                    "pos_data": {
                                         "__tuple__": true, 
                                         "items": [
                                             85.0, 
-                                            84.9999
-                                        ]
-                                    }, 
-                                    "pos_percent": {
-                                        "__tuple__": true, 
-                                        "items": [
+                                            84.9999, 
                                             50.0, 
-                                            49.9999
+                                            49.9999, 
+                                            1, 
+                                            1
                                         ]
                                     }, 
                                     "prefab_sub_key": null, 
@@ -3347,11 +3435,15 @@
                                     "hover_status_added": true, 
                                     "name": "frame", 
                                     "normal_picture": 107172, 
-                                    "pos": {
+                                    "pos_data": {
                                         "__tuple__": true, 
                                         "items": [
                                             85.0, 
-                                            85.0
+                                            85.0, 
+                                            50.0, 
+                                            50.0, 
+                                            1, 
+                                            1
                                         ]
                                     }, 
                                     "prefab_sub_key": null, 
@@ -3370,18 +3462,15 @@
                             ], 
                             "event_list": [], 
                             "name": "material2", 
-                            "pos": {
+                            "pos_data": {
                                 "__tuple__": true, 
                                 "items": [
                                     285.0, 
-                                    85.0
-                                ]
-                            }, 
-                            "pos_percent": {
-                                "__tuple__": true, 
-                                "items": [
+                                    85.0, 
                                     20.8029, 
-                                    50.0
+                                    50.0, 
+                                    1, 
+                                    1
                                 ]
                             }, 
                             "prefab_sub_key": null, 
@@ -3412,11 +3501,15 @@
                                     "event_list": [], 
                                     "image": 904015, 
                                     "name": "bg", 
-                                    "pos": {
+                                    "pos_data": {
                                         "__tuple__": true, 
                                         "items": [
                                             85.0, 
-                                            85.0
+                                            85.0, 
+                                            50.0, 
+                                            50.0, 
+                                            1, 
+                                            1
                                         ]
                                     }, 
                                     "prefab_sub_key": null, 
@@ -3438,11 +3531,15 @@
                                     "event_list": [], 
                                     "image": 999, 
                                     "name": "avator", 
-                                    "pos": {
+                                    "pos_data": {
                                         "__tuple__": true, 
                                         "items": [
                                             85.0, 
-                                            85.0
+                                            85.0, 
+                                            50.0, 
+                                            50.0, 
+                                            1, 
+                                            1
                                         ]
                                     }, 
                                     "prefab_sub_key": null, 
@@ -3478,18 +3575,15 @@
                                         ]
                                     }, 
                                     "name": "model", 
-                                    "pos": {
+                                    "pos_data": {
                                         "__tuple__": true, 
                                         "items": [
                                             85.0, 
-                                            84.9999
-                                        ]
-                                    }, 
-                                    "pos_percent": {
-                                        "__tuple__": true, 
-                                        "items": [
+                                            84.9999, 
                                             50.0, 
-                                            49.9999
+                                            49.9999, 
+                                            1, 
+                                            1
                                         ]
                                     }, 
                                     "prefab_sub_key": null, 
@@ -3511,11 +3605,15 @@
                                     "hover_status_added": true, 
                                     "name": "frame", 
                                     "normal_picture": 107172, 
-                                    "pos": {
+                                    "pos_data": {
                                         "__tuple__": true, 
                                         "items": [
                                             85.0, 
-                                            85.0
+                                            85.0, 
+                                            50.0, 
+                                            50.0, 
+                                            1, 
+                                            1
                                         ]
                                     }, 
                                     "prefab_sub_key": null, 
@@ -3534,18 +3632,15 @@
                             ], 
                             "event_list": [], 
                             "name": "material3", 
-                            "pos": {
+                            "pos_data": {
                                 "__tuple__": true, 
                                 "items": [
                                     485.0, 
-                                    85.0
-                                ]
-                            }, 
-                            "pos_percent": {
-                                "__tuple__": true, 
-                                "items": [
+                                    85.0, 
                                     35.4015, 
-                                    50.0
+                                    50.0, 
+                                    1, 
+                                    1
                                 ]
                             }, 
                             "prefab_sub_key": null, 
@@ -3576,11 +3671,15 @@
                                     "event_list": [], 
                                     "image": 904015, 
                                     "name": "bg", 
-                                    "pos": {
+                                    "pos_data": {
                                         "__tuple__": true, 
                                         "items": [
                                             85.0, 
-                                            85.0
+                                            85.0, 
+                                            50.0, 
+                                            50.0, 
+                                            1, 
+                                            1
                                         ]
                                     }, 
                                     "prefab_sub_key": null, 
@@ -3602,11 +3701,15 @@
                                     "event_list": [], 
                                     "image": 999, 
                                     "name": "avator", 
-                                    "pos": {
+                                    "pos_data": {
                                         "__tuple__": true, 
                                         "items": [
                                             85.0, 
-                                            85.0
+                                            85.0, 
+                                            50.0, 
+                                            50.0, 
+                                            1, 
+                                            1
                                         ]
                                     }, 
                                     "prefab_sub_key": null, 
@@ -3642,18 +3745,15 @@
                                         ]
                                     }, 
                                     "name": "model", 
-                                    "pos": {
+                                    "pos_data": {
                                         "__tuple__": true, 
                                         "items": [
                                             85.0, 
-                                            84.9999
-                                        ]
-                                    }, 
-                                    "pos_percent": {
-                                        "__tuple__": true, 
-                                        "items": [
+                                            84.9999, 
                                             50.0, 
-                                            49.9999
+                                            49.9999, 
+                                            1, 
+                                            1
                                         ]
                                     }, 
                                     "prefab_sub_key": null, 
@@ -3675,11 +3775,15 @@
                                     "hover_status_added": true, 
                                     "name": "frame", 
                                     "normal_picture": 107172, 
-                                    "pos": {
+                                    "pos_data": {
                                         "__tuple__": true, 
                                         "items": [
                                             85.0, 
-                                            85.0
+                                            85.0, 
+                                            50.0, 
+                                            50.0, 
+                                            1, 
+                                            1
                                         ]
                                     }, 
                                     "prefab_sub_key": null, 
@@ -3698,11 +3802,15 @@
                             ], 
                             "event_list": [], 
                             "name": "material4", 
-                            "pos": {
+                            "pos_data": {
                                 "__tuple__": true, 
                                 "items": [
                                     685.0, 
-                                    85.0
+                                    85.0, 
+                                    50.0, 
+                                    50.0, 
+                                    1, 
+                                    1
                                 ]
                             }, 
                             "prefab_sub_key": null, 
@@ -3733,11 +3841,15 @@
                                     "event_list": [], 
                                     "image": 904015, 
                                     "name": "bg", 
-                                    "pos": {
+                                    "pos_data": {
                                         "__tuple__": true, 
                                         "items": [
                                             85.0, 
-                                            85.0
+                                            85.0, 
+                                            50.0, 
+                                            50.0, 
+                                            1, 
+                                            1
                                         ]
                                     }, 
                                     "prefab_sub_key": null, 
@@ -3759,11 +3871,15 @@
                                     "event_list": [], 
                                     "image": 999, 
                                     "name": "avator", 
-                                    "pos": {
+                                    "pos_data": {
                                         "__tuple__": true, 
                                         "items": [
                                             85.0, 
-                                            85.0
+                                            85.0, 
+                                            50.0, 
+                                            50.0, 
+                                            1, 
+                                            1
                                         ]
                                     }, 
                                     "prefab_sub_key": null, 
@@ -3799,18 +3915,15 @@
                                         ]
                                     }, 
                                     "name": "model", 
-                                    "pos": {
+                                    "pos_data": {
                                         "__tuple__": true, 
                                         "items": [
                                             85.0, 
-                                            84.9999
-                                        ]
-                                    }, 
-                                    "pos_percent": {
-                                        "__tuple__": true, 
-                                        "items": [
+                                            84.9999, 
                                             50.0, 
-                                            49.9999
+                                            49.9999, 
+                                            1, 
+                                            1
                                         ]
                                     }, 
                                     "prefab_sub_key": null, 
@@ -3832,11 +3945,15 @@
                                     "hover_status_added": true, 
                                     "name": "frame", 
                                     "normal_picture": 107172, 
-                                    "pos": {
+                                    "pos_data": {
                                         "__tuple__": true, 
                                         "items": [
                                             85.0, 
-                                            85.0
+                                            85.0, 
+                                            50.0, 
+                                            50.0, 
+                                            1, 
+                                            1
                                         ]
                                     }, 
                                     "prefab_sub_key": null, 
@@ -3855,18 +3972,15 @@
                             ], 
                             "event_list": [], 
                             "name": "material5", 
-                            "pos": {
+                            "pos_data": {
                                 "__tuple__": true, 
                                 "items": [
                                     885.0, 
-                                    85.0
-                                ]
-                            }, 
-                            "pos_percent": {
-                                "__tuple__": true, 
-                                "items": [
+                                    85.0, 
                                     64.5985, 
-                                    50.0
+                                    50.0, 
+                                    1, 
+                                    1
                                 ]
                             }, 
                             "prefab_sub_key": null, 
@@ -3897,11 +4011,15 @@
                                     "event_list": [], 
                                     "image": 904015, 
                                     "name": "bg", 
-                                    "pos": {
+                                    "pos_data": {
                                         "__tuple__": true, 
                                         "items": [
                                             85.0, 
-                                            85.0
+                                            85.0, 
+                                            50.0, 
+                                            50.0, 
+                                            1, 
+                                            1
                                         ]
                                     }, 
                                     "prefab_sub_key": null, 
@@ -3923,11 +4041,15 @@
                                     "event_list": [], 
                                     "image": 999, 
                                     "name": "avator", 
-                                    "pos": {
+                                    "pos_data": {
                                         "__tuple__": true, 
                                         "items": [
                                             85.0, 
-                                            85.0
+                                            85.0, 
+                                            50.0, 
+                                            50.0, 
+                                            1, 
+                                            1
                                         ]
                                     }, 
                                     "prefab_sub_key": null, 
@@ -3963,18 +4085,15 @@
                                         ]
                                     }, 
                                     "name": "model", 
-                                    "pos": {
+                                    "pos_data": {
                                         "__tuple__": true, 
                                         "items": [
                                             85.0, 
-                                            84.9999
-                                        ]
-                                    }, 
-                                    "pos_percent": {
-                                        "__tuple__": true, 
-                                        "items": [
+                                            84.9999, 
                                             50.0, 
-                                            49.9999
+                                            49.9999, 
+                                            1, 
+                                            1
                                         ]
                                     }, 
                                     "prefab_sub_key": null, 
@@ -3996,11 +4115,15 @@
                                     "hover_status_added": true, 
                                     "name": "frame", 
                                     "normal_picture": 107172, 
-                                    "pos": {
+                                    "pos_data": {
                                         "__tuple__": true, 
                                         "items": [
                                             85.0, 
-                                            85.0
+                                            85.0, 
+                                            50.0, 
+                                            50.0, 
+                                            1, 
+                                            1
                                         ]
                                     }, 
                                     "prefab_sub_key": null, 
@@ -4019,18 +4142,15 @@
                             ], 
                             "event_list": [], 
                             "name": "material6", 
-                            "pos": {
+                            "pos_data": {
                                 "__tuple__": true, 
                                 "items": [
                                     1085.0, 
-                                    85.0
-                                ]
-                            }, 
-                            "pos_percent": {
-                                "__tuple__": true, 
-                                "items": [
+                                    85.0, 
                                     79.1971, 
-                                    50.0
+                                    50.0, 
+                                    1, 
+                                    1
                                 ]
                             }, 
                             "prefab_sub_key": null, 
@@ -4061,11 +4181,15 @@
                                     "event_list": [], 
                                     "image": 904015, 
                                     "name": "bg", 
-                                    "pos": {
+                                    "pos_data": {
                                         "__tuple__": true, 
                                         "items": [
                                             85.0, 
-                                            85.0
+                                            85.0, 
+                                            50.0, 
+                                            50.0, 
+                                            1, 
+                                            1
                                         ]
                                     }, 
                                     "prefab_sub_key": null, 
@@ -4087,11 +4211,15 @@
                                     "event_list": [], 
                                     "image": 999, 
                                     "name": "avator", 
-                                    "pos": {
+                                    "pos_data": {
                                         "__tuple__": true, 
                                         "items": [
                                             85.0, 
-                                            85.0
+                                            85.0, 
+                                            50.0, 
+                                            50.0, 
+                                            1, 
+                                            1
                                         ]
                                     }, 
                                     "prefab_sub_key": null, 
@@ -4127,18 +4255,15 @@
                                         ]
                                     }, 
                                     "name": "model", 
-                                    "pos": {
+                                    "pos_data": {
                                         "__tuple__": true, 
                                         "items": [
                                             85.0, 
-                                            84.9999
-                                        ]
-                                    }, 
-                                    "pos_percent": {
-                                        "__tuple__": true, 
-                                        "items": [
+                                            84.9999, 
                                             50.0, 
-                                            49.9999
+                                            49.9999, 
+                                            1, 
+                                            1
                                         ]
                                     }, 
                                     "prefab_sub_key": null, 
@@ -4160,11 +4285,15 @@
                                     "hover_status_added": true, 
                                     "name": "frame", 
                                     "normal_picture": 107172, 
-                                    "pos": {
+                                    "pos_data": {
                                         "__tuple__": true, 
                                         "items": [
                                             85.0, 
-                                            85.0
+                                            85.0, 
+                                            50.0, 
+                                            50.0, 
+                                            1, 
+                                            1
                                         ]
                                     }, 
                                     "prefab_sub_key": null, 
@@ -4183,18 +4312,15 @@
                             ], 
                             "event_list": [], 
                             "name": "material7", 
-                            "pos": {
+                            "pos_data": {
                                 "__tuple__": true, 
                                 "items": [
                                     1285.0, 
-                                    85.0
-                                ]
-                            }, 
-                            "pos_percent": {
-                                "__tuple__": true, 
-                                "items": [
+                                    85.0, 
                                     93.7956, 
-                                    50.0
+                                    50.0, 
+                                    1, 
+                                    1
                                 ]
                             }, 
                             "prefab_sub_key": null, 
@@ -4212,18 +4338,15 @@
                     ], 
                     "event_list": [], 
                     "name": "material", 
-                    "pos": {
+                    "pos_data": {
                         "__tuple__": true, 
                         "items": [
                             725.0, 
-                            110.0
-                        ]
-                    }, 
-                    "pos_percent": {
-                        "__tuple__": true, 
-                        "items": [
+                            110.0, 
                             50.0, 
-                            36.6667
+                            36.6667, 
+                            1, 
+                            1
                         ]
                     }, 
                     "prefab_sub_key": null, 
@@ -4241,18 +4364,15 @@
             ], 
             "event_list": [], 
             "name": "shop_material", 
-            "pos": {
+            "pos_data": {
                 "__tuple__": true, 
                 "items": [
                     960.0, 
-                    193.0001
-                ]
-            }, 
-            "pos_percent": {
-                "__tuple__": true, 
-                "items": [
+                    193.0001, 
                     50.0, 
-                    17.8704
+                    17.8704, 
+                    1, 
+                    1
                 ]
             }, 
             "prefab_sub_key": null, 
@@ -4285,11 +4405,15 @@
                             "event_list": [], 
                             "image": 105044, 
                             "name": "bg", 
-                            "pos": {
+                            "pos_data": {
                                 "__tuple__": true, 
                                 "items": [
                                     300.0, 
-                                    400.0
+                                    400.0, 
+                                    50.0, 
+                                    50.0, 
+                                    1, 
+                                    1
                                 ]
                             }, 
                             "prefab_sub_key": null, 
@@ -4318,11 +4442,15 @@
                             "event_list": [], 
                             "image": 133964, 
                             "name": "frame", 
-                            "pos": {
+                            "pos_data": {
                                 "__tuple__": true, 
                                 "items": [
                                     300.0, 
-                                    400.0
+                                    400.0, 
+                                    50.0, 
+                                    50.0, 
+                                    1, 
+                                    1
                                 ]
                             }, 
                             "prefab_sub_key": null, 
@@ -4355,18 +4483,15 @@
                                 ]
                             }, 
                             "name": "name", 
-                            "pos": {
+                            "pos_data": {
                                 "__tuple__": true, 
                                 "items": [
                                     300.0, 
-                                    720.0
-                                ]
-                            }, 
-                            "pos_percent": {
-                                "__tuple__": true, 
-                                "items": [
+                                    720.0, 
                                     50.0, 
-                                    90.0
+                                    90.0, 
+                                    1, 
+                                    1
                                 ]
                             }, 
                             "prefab_sub_key": null, 
@@ -4411,11 +4536,15 @@
                                         ]
                                     }, 
                                     "name": "model", 
-                                    "pos": {
+                                    "pos_data": {
                                         "__tuple__": true, 
                                         "items": [
                                             150.0, 
-                                            150.0
+                                            150.0, 
+                                            50.0, 
+                                            50.0, 
+                                            1, 
+                                            1
                                         ]
                                     }, 
                                     "prefab_sub_key": null, 
@@ -4435,11 +4564,15 @@
                                     "event_list": [], 
                                     "name": "frame", 
                                     "normal_picture": 107172, 
-                                    "pos": {
+                                    "pos_data": {
                                         "__tuple__": true, 
                                         "items": [
                                             150.0, 
-                                            150.0
+                                            150.0, 
+                                            50.0, 
+                                            50.0, 
+                                            1, 
+                                            1
                                         ]
                                     }, 
                                     "prefab_sub_key": null, 
@@ -4457,18 +4590,15 @@
                             ], 
                             "event_list": [], 
                             "name": "model", 
-                            "pos": {
+                            "pos_data": {
                                 "__tuple__": true, 
                                 "items": [
                                     300.0, 
-                                    520.0
-                                ]
-                            }, 
-                            "pos_percent": {
-                                "__tuple__": true, 
-                                "items": [
+                                    520.0, 
                                     50.0, 
-                                    65.0
+                                    65.0, 
+                                    1, 
+                                    1
                                 ]
                             }, 
                             "prefab_sub_key": null, 
@@ -4503,11 +4633,15 @@
                                         ]
                                     }, 
                                     "name": "quality", 
-                                    "pos": {
+                                    "pos_data": {
                                         "__tuple__": true, 
                                         "items": [
                                             50.0, 
-                                            25.0
+                                            25.0, 
+                                            50.0, 
+                                            50.0, 
+                                            1, 
+                                            1
                                         ]
                                     }, 
                                     "prefab_sub_key": null, 
@@ -4532,18 +4666,15 @@
                             ], 
                             "event_list": [], 
                             "name": "quailty", 
-                            "pos": {
+                            "pos_data": {
                                 "__tuple__": true, 
                                 "items": [
                                     300.0, 
-                                    320.0
-                                ]
-                            }, 
-                            "pos_percent": {
-                                "__tuple__": true, 
-                                "items": [
+                                    320.0, 
                                     50.0, 
-                                    40.0
+                                    40.0, 
+                                    1, 
+                                    1
                                 ]
                             }, 
                             "prefab_sub_key": null, 
@@ -4578,18 +4709,15 @@
                                         ]
                                     }, 
                                     "name": "value", 
-                                    "pos": {
+                                    "pos_data": {
                                         "__tuple__": true, 
                                         "items": [
                                             50.0, 
-                                            25.0
-                                        ]
-                                    }, 
-                                    "pos_percent": {
-                                        "__tuple__": true, 
-                                        "items": [
+                                            25.0, 
                                             20.0, 
-                                            50.0
+                                            50.0, 
+                                            1, 
+                                            1
                                         ]
                                     }, 
                                     "prefab_sub_key": null, 
@@ -4629,11 +4757,15 @@
                                         ]
                                     }, 
                                     "name": "/", 
-                                    "pos": {
+                                    "pos_data": {
                                         "__tuple__": true, 
                                         "items": [
                                             125.0, 
-                                            25.0
+                                            25.0, 
+                                            50.0, 
+                                            50.0, 
+                                            1, 
+                                            1
                                         ]
                                     }, 
                                     "prefab_sub_key": null, 
@@ -4666,18 +4798,15 @@
                                         ]
                                     }, 
                                     "name": "upgrade", 
-                                    "pos": {
+                                    "pos_data": {
                                         "__tuple__": true, 
                                         "items": [
                                             200.0, 
-                                            25.0
-                                        ]
-                                    }, 
-                                    "pos_percent": {
-                                        "__tuple__": true, 
-                                        "items": [
+                                            25.0, 
                                             80.0, 
-                                            50.0
+                                            50.0, 
+                                            1, 
+                                            1
                                         ]
                                     }, 
                                     "prefab_sub_key": null, 
@@ -4702,18 +4831,15 @@
                             ], 
                             "event_list": [], 
                             "name": "info", 
-                            "pos": {
+                            "pos_data": {
                                 "__tuple__": true, 
                                 "items": [
                                     300.0, 
-                                    260.0
-                                ]
-                            }, 
-                            "pos_percent": {
-                                "__tuple__": true, 
-                                "items": [
+                                    260.0, 
                                     50.0, 
-                                    32.5
+                                    32.5, 
+                                    1, 
+                                    1
                                 ]
                             }, 
                             "prefab_sub_key": null, 
@@ -4744,18 +4870,15 @@
                                     "event_list": [], 
                                     "image": 131358, 
                                     "name": "icon", 
-                                    "pos": {
+                                    "pos_data": {
                                         "__tuple__": true, 
                                         "items": [
                                             25.0, 
-                                            25.0
-                                        ]
-                                    }, 
-                                    "pos_percent": {
-                                        "__tuple__": true, 
-                                        "items": [
+                                            25.0, 
                                             16.6667, 
-                                            50.0
+                                            50.0, 
+                                            1, 
+                                            1
                                         ]
                                     }, 
                                     "prefab_sub_key": null, 
@@ -4790,18 +4913,15 @@
                                         ]
                                     }, 
                                     "name": "value", 
-                                    "pos": {
+                                    "pos_data": {
                                         "__tuple__": true, 
                                         "items": [
                                             150.0, 
-                                            25.0
-                                        ]
-                                    }, 
-                                    "pos_percent": {
-                                        "__tuple__": true, 
-                                        "items": [
+                                            25.0, 
                                             100.0, 
-                                            50.0
+                                            50.0, 
+                                            1, 
+                                            1
                                         ]
                                     }, 
                                     "prefab_sub_key": null, 
@@ -4826,18 +4946,15 @@
                             ], 
                             "event_list": [], 
                             "name": "price", 
-                            "pos": {
+                            "pos_data": {
                                 "__tuple__": true, 
                                 "items": [
                                     300.0, 
-                                    200.0
-                                ]
-                            }, 
-                            "pos_percent": {
-                                "__tuple__": true, 
-                                "items": [
+                                    200.0, 
                                     50.0, 
-                                    25.0
+                                    25.0, 
+                                    1, 
+                                    1
                                 ]
                             }, 
                             "prefab_sub_key": null, 
@@ -4903,18 +5020,15 @@
                                             false
                                         ]
                                     }, 
-                                    "pos": {
+                                    "pos_data": {
                                         "__tuple__": true, 
                                         "items": [
                                             100.0, 
-                                            50.0
-                                        ]
-                                    }, 
-                                    "pos_percent": {
-                                        "__tuple__": true, 
-                                        "items": [
+                                            50.0, 
                                             22.2222, 
-                                            50.0
+                                            50.0, 
+                                            1, 
+                                            1
                                         ]
                                     }, 
                                     "prefab_sub_key": null, 
@@ -4965,18 +5079,15 @@
                                             false
                                         ]
                                     }, 
-                                    "pos": {
+                                    "pos_data": {
                                         "__tuple__": true, 
                                         "items": [
                                             350.0, 
-                                            50.0
-                                        ]
-                                    }, 
-                                    "pos_percent": {
-                                        "__tuple__": true, 
-                                        "items": [
+                                            50.0, 
                                             77.7778, 
-                                            50.0
+                                            50.0, 
+                                            1, 
+                                            1
                                         ]
                                     }, 
                                     "prefab_sub_key": null, 
@@ -5002,18 +5113,15 @@
                             ], 
                             "event_list": [], 
                             "name": "button", 
-                            "pos": {
+                            "pos_data": {
                                 "__tuple__": true, 
                                 "items": [
                                     300.0, 
-                                    120.0
-                                ]
-                            }, 
-                            "pos_percent": {
-                                "__tuple__": true, 
-                                "items": [
+                                    120.0, 
                                     50.0, 
-                                    15.0
+                                    15.0, 
+                                    1, 
+                                    1
                                 ]
                             }, 
                             "prefab_sub_key": null, 
@@ -5031,11 +5139,15 @@
                     ], 
                     "event_list": [], 
                     "name": "confirm_unit", 
-                    "pos": {
+                    "pos_data": {
                         "__tuple__": true, 
                         "items": [
                             960.0, 
-                            540.0
+                            540.0, 
+                            50.0, 
+                            50.0, 
+                            1, 
+                            1
                         ]
                     }, 
                     "prefab_sub_key": null, 
@@ -5067,11 +5179,15 @@
                             "event_list": [], 
                             "image": 105044, 
                             "name": "bg", 
-                            "pos": {
+                            "pos_data": {
                                 "__tuple__": true, 
                                 "items": [
                                     300.0, 
-                                    400.0
+                                    400.0, 
+                                    50.0, 
+                                    50.0, 
+                                    1, 
+                                    1
                                 ]
                             }, 
                             "prefab_sub_key": null, 
@@ -5100,18 +5216,15 @@
                             "event_list": [], 
                             "image": 133964, 
                             "name": "frame", 
-                            "pos": {
+                            "pos_data": {
                                 "__tuple__": true, 
                                 "items": [
                                     300.0, 
-                                    399.9999
-                                ]
-                            }, 
-                            "pos_percent": {
-                                "__tuple__": true, 
-                                "items": [
+                                    399.9999, 
                                     50.0, 
-                                    50.0
+                                    50.0, 
+                                    1, 
+                                    1
                                 ]
                             }, 
                             "prefab_sub_key": null, 
@@ -5144,18 +5257,15 @@
                                 ]
                             }, 
                             "name": "name", 
-                            "pos": {
+                            "pos_data": {
                                 "__tuple__": true, 
                                 "items": [
                                     300.0, 
-                                    720.0
-                                ]
-                            }, 
-                            "pos_percent": {
-                                "__tuple__": true, 
-                                "items": [
+                                    720.0, 
                                     50.0, 
-                                    90.0
+                                    90.0, 
+                                    1, 
+                                    1
                                 ]
                             }, 
                             "prefab_sub_key": null, 
@@ -5193,11 +5303,15 @@
                                     "event_list": [], 
                                     "image": 904015, 
                                     "name": "bg", 
-                                    "pos": {
+                                    "pos_data": {
                                         "__tuple__": true, 
                                         "items": [
                                             75.0, 
-                                            75.0
+                                            75.0, 
+                                            50.0, 
+                                            50.0, 
+                                            1, 
+                                            1
                                         ]
                                     }, 
                                     "prefab_sub_key": null, 
@@ -5216,11 +5330,15 @@
                                     "children": [], 
                                     "event_list": [], 
                                     "name": "avator", 
-                                    "pos": {
+                                    "pos_data": {
                                         "__tuple__": true, 
                                         "items": [
                                             75.0, 
-                                            75.0
+                                            75.0, 
+                                            50.0, 
+                                            50.0, 
+                                            1, 
+                                            1
                                         ]
                                     }, 
                                     "prefab_sub_key": null, 
@@ -5240,11 +5358,15 @@
                                     "event_list": [], 
                                     "name": "frame", 
                                     "normal_picture": 107172, 
-                                    "pos": {
+                                    "pos_data": {
                                         "__tuple__": true, 
                                         "items": [
                                             75.0, 
-                                            75.0
+                                            75.0, 
+                                            50.0, 
+                                            50.0, 
+                                            1, 
+                                            1
                                         ]
                                     }, 
                                     "prefab_sub_key": null, 
@@ -5262,18 +5384,15 @@
                             ], 
                             "event_list": [], 
                             "name": "avator", 
-                            "pos": {
+                            "pos_data": {
                                 "__tuple__": true, 
                                 "items": [
                                     300.0, 
-                                    610.0
-                                ]
-                            }, 
-                            "pos_percent": {
-                                "__tuple__": true, 
-                                "items": [
+                                    610.0, 
                                     50.0, 
-                                    76.25
+                                    76.25, 
+                                    1, 
+                                    1
                                 ]
                             }, 
                             "prefab_sub_key": null, 
@@ -5308,11 +5427,15 @@
                                         ]
                                     }, 
                                     "name": "desc", 
-                                    "pos": {
+                                    "pos_data": {
                                         "__tuple__": true, 
                                         "items": [
                                             225.0, 
-                                            50.0
+                                            50.0, 
+                                            50.0, 
+                                            50.0, 
+                                            1, 
+                                            1
                                         ]
                                     }, 
                                     "prefab_sub_key": null, 
@@ -5337,18 +5460,15 @@
                             ], 
                             "event_list": [], 
                             "name": "desc", 
-                            "pos": {
+                            "pos_data": {
                                 "__tuple__": true, 
                                 "items": [
                                     300.0, 
-                                    465.0
-                                ]
-                            }, 
-                            "pos_percent": {
-                                "__tuple__": true, 
-                                "items": [
+                                    465.0, 
                                     50.0, 
-                                    58.125
+                                    58.125, 
+                                    1, 
+                                    1
                                 ]
                             }, 
                             "prefab_sub_key": null, 
@@ -5383,18 +5503,15 @@
                                         ]
                                     }, 
                                     "name": "icon", 
-                                    "pos": {
+                                    "pos_data": {
                                         "__tuple__": true, 
                                         "items": [
                                             100.0, 
-                                            25.0
-                                        ]
-                                    }, 
-                                    "pos_percent": {
-                                        "__tuple__": true, 
-                                        "items": [
+                                            25.0, 
                                             22.2222, 
-                                            50.0
+                                            50.0, 
+                                            1, 
+                                            1
                                         ]
                                     }, 
                                     "prefab_sub_key": null, 
@@ -5434,11 +5551,15 @@
                                         ]
                                     }, 
                                     "name": "\uff1a", 
-                                    "pos": {
+                                    "pos_data": {
                                         "__tuple__": true, 
                                         "items": [
                                             225.0, 
-                                            25.0
+                                            25.0, 
+                                            50.0, 
+                                            50.0, 
+                                            1, 
+                                            1
                                         ]
                                     }, 
                                     "prefab_sub_key": null, 
@@ -5471,18 +5592,15 @@
                                         ]
                                     }, 
                                     "name": "name", 
-                                    "pos": {
+                                    "pos_data": {
                                         "__tuple__": true, 
                                         "items": [
                                             350.0, 
-                                            25.0
-                                        ]
-                                    }, 
-                                    "pos_percent": {
-                                        "__tuple__": true, 
-                                        "items": [
+                                            25.0, 
                                             77.7778, 
-                                            50.0
+                                            50.0, 
+                                            1, 
+                                            1
                                         ]
                                     }, 
                                     "prefab_sub_key": null, 
@@ -5507,18 +5625,15 @@
                             ], 
                             "event_list": [], 
                             "name": "unit", 
-                            "pos": {
+                            "pos_data": {
                                 "__tuple__": true, 
                                 "items": [
                                     300.0, 
-                                    390.0
-                                ]
-                            }, 
-                            "pos_percent": {
-                                "__tuple__": true, 
-                                "items": [
+                                    390.0, 
                                     50.0, 
-                                    48.75
+                                    48.75, 
+                                    1, 
+                                    1
                                 ]
                             }, 
                             "prefab_sub_key": null, 
@@ -5551,11 +5666,15 @@
                                             "event_list": [], 
                                             "image": 904015, 
                                             "name": "bg", 
-                                            "pos": {
+                                            "pos_data": {
                                                 "__tuple__": true, 
                                                 "items": [
                                                     60.0, 
-                                                    60.0
+                                                    60.0, 
+                                                    50.0, 
+                                                    50.0, 
+                                                    1, 
+                                                    1
                                                 ]
                                             }, 
                                             "prefab_sub_key": null, 
@@ -5584,11 +5703,15 @@
                                             "event_list": [], 
                                             "image": 999, 
                                             "name": "avator", 
-                                            "pos": {
+                                            "pos_data": {
                                                 "__tuple__": true, 
                                                 "items": [
                                                     60.0, 
-                                                    60.0
+                                                    60.0, 
+                                                    50.0, 
+                                                    50.0, 
+                                                    1, 
+                                                    1
                                                 ]
                                             }, 
                                             "prefab_sub_key": null, 
@@ -5608,11 +5731,15 @@
                                             "event_list": [], 
                                             "name": "frame", 
                                             "normal_picture": 107172, 
-                                            "pos": {
+                                            "pos_data": {
                                                 "__tuple__": true, 
                                                 "items": [
                                                     60.0, 
-                                                    60.0
+                                                    60.0, 
+                                                    50.0, 
+                                                    50.0, 
+                                                    1, 
+                                                    1
                                                 ]
                                             }, 
                                             "prefab_sub_key": null, 
@@ -5641,11 +5768,15 @@
                                             "event_list": [], 
                                             "image": 133827, 
                                             "name": "locked", 
-                                            "pos": {
+                                            "pos_data": {
                                                 "__tuple__": true, 
                                                 "items": [
                                                     60.0, 
-                                                    60.0
+                                                    60.0, 
+                                                    50.0, 
+                                                    50.0, 
+                                                    1, 
+                                                    1
                                                 ]
                                             }, 
                                             "prefab_sub_key": null, 
@@ -5663,18 +5794,15 @@
                                     ], 
                                     "event_list": [], 
                                     "name": "skill1", 
-                                    "pos": {
+                                    "pos_data": {
                                         "__tuple__": true, 
                                         "items": [
                                             60.0, 
-                                            60.0
-                                        ]
-                                    }, 
-                                    "pos_percent": {
-                                        "__tuple__": true, 
-                                        "items": [
+                                            60.0, 
                                             15.0, 
-                                            50.0
+                                            50.0, 
+                                            1, 
+                                            1
                                         ]
                                     }, 
                                     "prefab_sub_key": null, 
@@ -5705,11 +5833,15 @@
                                             "event_list": [], 
                                             "image": 904015, 
                                             "name": "bg", 
-                                            "pos": {
+                                            "pos_data": {
                                                 "__tuple__": true, 
                                                 "items": [
                                                     60.0, 
-                                                    60.0
+                                                    60.0, 
+                                                    50.0, 
+                                                    50.0, 
+                                                    1, 
+                                                    1
                                                 ]
                                             }, 
                                             "prefab_sub_key": null, 
@@ -5738,11 +5870,15 @@
                                             "event_list": [], 
                                             "image": 999, 
                                             "name": "avator", 
-                                            "pos": {
+                                            "pos_data": {
                                                 "__tuple__": true, 
                                                 "items": [
                                                     60.0, 
-                                                    60.0
+                                                    60.0, 
+                                                    50.0, 
+                                                    50.0, 
+                                                    1, 
+                                                    1
                                                 ]
                                             }, 
                                             "prefab_sub_key": null, 
@@ -5762,11 +5898,15 @@
                                             "event_list": [], 
                                             "name": "frame", 
                                             "normal_picture": 107172, 
-                                            "pos": {
+                                            "pos_data": {
                                                 "__tuple__": true, 
                                                 "items": [
                                                     60.0, 
-                                                    60.0
+                                                    60.0, 
+                                                    50.0, 
+                                                    50.0, 
+                                                    1, 
+                                                    1
                                                 ]
                                             }, 
                                             "prefab_sub_key": null, 
@@ -5795,11 +5935,15 @@
                                             "event_list": [], 
                                             "image": 133827, 
                                             "name": "locked", 
-                                            "pos": {
+                                            "pos_data": {
                                                 "__tuple__": true, 
                                                 "items": [
                                                     60.0, 
-                                                    60.0
+                                                    60.0, 
+                                                    50.0, 
+                                                    50.0, 
+                                                    1, 
+                                                    1
                                                 ]
                                             }, 
                                             "prefab_sub_key": null, 
@@ -5817,11 +5961,15 @@
                                     ], 
                                     "event_list": [], 
                                     "name": "skill2", 
-                                    "pos": {
+                                    "pos_data": {
                                         "__tuple__": true, 
                                         "items": [
                                             200.0, 
-                                            60.0
+                                            60.0, 
+                                            50.0, 
+                                            50.0, 
+                                            1, 
+                                            1
                                         ]
                                     }, 
                                     "prefab_sub_key": null, 
@@ -5852,11 +6000,15 @@
                                             "event_list": [], 
                                             "image": 904015, 
                                             "name": "bg", 
-                                            "pos": {
+                                            "pos_data": {
                                                 "__tuple__": true, 
                                                 "items": [
                                                     60.0, 
-                                                    60.0
+                                                    60.0, 
+                                                    50.0, 
+                                                    50.0, 
+                                                    1, 
+                                                    1
                                                 ]
                                             }, 
                                             "prefab_sub_key": null, 
@@ -5885,11 +6037,15 @@
                                             "event_list": [], 
                                             "image": 999, 
                                             "name": "avator", 
-                                            "pos": {
+                                            "pos_data": {
                                                 "__tuple__": true, 
                                                 "items": [
                                                     60.0, 
-                                                    60.0
+                                                    60.0, 
+                                                    50.0, 
+                                                    50.0, 
+                                                    1, 
+                                                    1
                                                 ]
                                             }, 
                                             "prefab_sub_key": null, 
@@ -5909,11 +6065,15 @@
                                             "event_list": [], 
                                             "name": "frame", 
                                             "normal_picture": 107172, 
-                                            "pos": {
+                                            "pos_data": {
                                                 "__tuple__": true, 
                                                 "items": [
                                                     60.0, 
-                                                    60.0
+                                                    60.0, 
+                                                    50.0, 
+                                                    50.0, 
+                                                    1, 
+                                                    1
                                                 ]
                                             }, 
                                             "prefab_sub_key": null, 
@@ -5942,11 +6102,15 @@
                                             "event_list": [], 
                                             "image": 133827, 
                                             "name": "locked", 
-                                            "pos": {
+                                            "pos_data": {
                                                 "__tuple__": true, 
                                                 "items": [
                                                     60.0, 
-                                                    60.0
+                                                    60.0, 
+                                                    50.0, 
+                                                    50.0, 
+                                                    1, 
+                                                    1
                                                 ]
                                             }, 
                                             "prefab_sub_key": null, 
@@ -5964,18 +6128,15 @@
                                     ], 
                                     "event_list": [], 
                                     "name": "skill3", 
-                                    "pos": {
+                                    "pos_data": {
                                         "__tuple__": true, 
                                         "items": [
                                             340.0, 
-                                            60.0
-                                        ]
-                                    }, 
-                                    "pos_percent": {
-                                        "__tuple__": true, 
-                                        "items": [
+                                            60.0, 
                                             85.0, 
-                                            50.0
+                                            50.0, 
+                                            1, 
+                                            1
                                         ]
                                     }, 
                                     "prefab_sub_key": null, 
@@ -5993,18 +6154,15 @@
                             ], 
                             "event_list": [], 
                             "name": "skill", 
-                            "pos": {
+                            "pos_data": {
                                 "__tuple__": true, 
                                 "items": [
                                     300.0, 
-                                    290.0
-                                ]
-                            }, 
-                            "pos_percent": {
-                                "__tuple__": true, 
-                                "items": [
+                                    290.0, 
                                     50.0, 
-                                    36.25
+                                    36.25, 
+                                    1, 
+                                    1
                                 ]
                             }, 
                             "prefab_sub_key": null, 
@@ -6035,18 +6193,15 @@
                                     "event_list": [], 
                                     "image": 131358, 
                                     "name": "icon", 
-                                    "pos": {
+                                    "pos_data": {
                                         "__tuple__": true, 
                                         "items": [
                                             25.0, 
-                                            25.0
-                                        ]
-                                    }, 
-                                    "pos_percent": {
-                                        "__tuple__": true, 
-                                        "items": [
+                                            25.0, 
                                             16.6667, 
-                                            50.0
+                                            50.0, 
+                                            1, 
+                                            1
                                         ]
                                     }, 
                                     "prefab_sub_key": null, 
@@ -6081,18 +6236,15 @@
                                         ]
                                     }, 
                                     "name": "value", 
-                                    "pos": {
+                                    "pos_data": {
                                         "__tuple__": true, 
                                         "items": [
                                             150.0, 
-                                            25.0
-                                        ]
-                                    }, 
-                                    "pos_percent": {
-                                        "__tuple__": true, 
-                                        "items": [
+                                            25.0, 
                                             100.0, 
-                                            50.0
+                                            50.0, 
+                                            1, 
+                                            1
                                         ]
                                     }, 
                                     "prefab_sub_key": null, 
@@ -6117,18 +6269,15 @@
                             ], 
                             "event_list": [], 
                             "name": "price", 
-                            "pos": {
+                            "pos_data": {
                                 "__tuple__": true, 
                                 "items": [
                                     300.0, 
-                                    200.0
-                                ]
-                            }, 
-                            "pos_percent": {
-                                "__tuple__": true, 
-                                "items": [
+                                    200.0, 
                                     50.0, 
-                                    25.0
+                                    25.0, 
+                                    1, 
+                                    1
                                 ]
                             }, 
                             "prefab_sub_key": null, 
@@ -6194,18 +6343,15 @@
                                             false
                                         ]
                                     }, 
-                                    "pos": {
+                                    "pos_data": {
                                         "__tuple__": true, 
                                         "items": [
                                             100.0, 
-                                            50.0
-                                        ]
-                                    }, 
-                                    "pos_percent": {
-                                        "__tuple__": true, 
-                                        "items": [
+                                            50.0, 
                                             22.2222, 
-                                            49.505
+                                            49.505, 
+                                            1, 
+                                            1
                                         ]
                                     }, 
                                     "prefab_sub_key": null, 
@@ -6256,18 +6402,15 @@
                                             false
                                         ]
                                     }, 
-                                    "pos": {
+                                    "pos_data": {
                                         "__tuple__": true, 
                                         "items": [
                                             350.0, 
-                                            50.0
-                                        ]
-                                    }, 
-                                    "pos_percent": {
-                                        "__tuple__": true, 
-                                        "items": [
+                                            50.0, 
                                             77.7778, 
-                                            49.505
+                                            49.505, 
+                                            1, 
+                                            1
                                         ]
                                     }, 
                                     "prefab_sub_key": null, 
@@ -6293,18 +6436,15 @@
                             ], 
                             "event_list": [], 
                             "name": "button", 
-                            "pos": {
+                            "pos_data": {
                                 "__tuple__": true, 
                                 "items": [
                                     300.0, 
-                                    120.0
-                                ]
-                            }, 
-                            "pos_percent": {
-                                "__tuple__": true, 
-                                "items": [
+                                    120.0, 
                                     50.0, 
-                                    15.0
+                                    15.0, 
+                                    1, 
+                                    1
                                 ]
                             }, 
                             "prefab_sub_key": null, 
@@ -6322,11 +6462,15 @@
                     ], 
                     "event_list": [], 
                     "name": "confirm_skill", 
-                    "pos": {
+                    "pos_data": {
                         "__tuple__": true, 
                         "items": [
                             960.0, 
-                            540.0
+                            540.0, 
+                            50.0, 
+                            50.0, 
+                            1, 
+                            1
                         ]
                     }, 
                     "prefab_sub_key": null, 
@@ -6358,11 +6502,15 @@
                             "event_list": [], 
                             "image": 105044, 
                             "name": "bg", 
-                            "pos": {
+                            "pos_data": {
                                 "__tuple__": true, 
                                 "items": [
                                     300.0, 
-                                    400.0
+                                    400.0, 
+                                    50.0, 
+                                    50.0, 
+                                    1, 
+                                    1
                                 ]
                             }, 
                             "prefab_sub_key": null, 
@@ -6391,18 +6539,15 @@
                             "event_list": [], 
                             "image": 133964, 
                             "name": "frame", 
-                            "pos": {
+                            "pos_data": {
                                 "__tuple__": true, 
                                 "items": [
                                     300.0, 
-                                    399.9999
-                                ]
-                            }, 
-                            "pos_percent": {
-                                "__tuple__": true, 
-                                "items": [
+                                    399.9999, 
                                     50.0, 
-                                    50.0
+                                    50.0, 
+                                    1, 
+                                    1
                                 ]
                             }, 
                             "prefab_sub_key": null, 
@@ -6435,18 +6580,15 @@
                                 ]
                             }, 
                             "name": "name", 
-                            "pos": {
+                            "pos_data": {
                                 "__tuple__": true, 
                                 "items": [
                                     300.0, 
-                                    700.0
-                                ]
-                            }, 
-                            "pos_percent": {
-                                "__tuple__": true, 
-                                "items": [
+                                    700.0, 
                                     50.0, 
-                                    87.5
+                                    87.5, 
+                                    1, 
+                                    1
                                 ]
                             }, 
                             "prefab_sub_key": null, 
@@ -6488,18 +6630,15 @@
                                         ]
                                     }, 
                                     "name": "icon", 
-                                    "pos": {
+                                    "pos_data": {
                                         "__tuple__": true, 
                                         "items": [
                                             100.0, 
-                                            50.0
-                                        ]
-                                    }, 
-                                    "pos_percent": {
-                                        "__tuple__": true, 
-                                        "items": [
+                                            50.0, 
                                             25.0, 
-                                            50.0
+                                            50.0, 
+                                            1, 
+                                            1
                                         ]
                                     }, 
                                     "prefab_sub_key": null, 
@@ -6532,18 +6671,15 @@
                                         ]
                                     }, 
                                     "name": "num", 
-                                    "pos": {
+                                    "pos_data": {
                                         "__tuple__": true, 
                                         "items": [
                                             300.0, 
-                                            50.0
-                                        ]
-                                    }, 
-                                    "pos_percent": {
-                                        "__tuple__": true, 
-                                        "items": [
+                                            50.0, 
                                             75.0, 
-                                            50.0
+                                            50.0, 
+                                            1, 
+                                            1
                                         ]
                                     }, 
                                     "prefab_sub_key": null, 
@@ -6568,11 +6704,15 @@
                             ], 
                             "event_list": [], 
                             "name": "num", 
-                            "pos": {
+                            "pos_data": {
                                 "__tuple__": true, 
                                 "items": [
                                     300.0, 
-                                    400.0
+                                    400.0, 
+                                    50.0, 
+                                    50.0, 
+                                    1, 
+                                    1
                                 ]
                             }, 
                             "prefab_sub_key": null, 
@@ -6603,11 +6743,15 @@
                                     "event_list": [], 
                                     "image": 904015, 
                                     "name": "bg", 
-                                    "pos": {
+                                    "pos_data": {
                                         "__tuple__": true, 
                                         "items": [
                                             75.0, 
-                                            75.0
+                                            75.0, 
+                                            50.0, 
+                                            50.0, 
+                                            1, 
+                                            1
                                         ]
                                     }, 
                                     "prefab_sub_key": null, 
@@ -6626,11 +6770,15 @@
                                     "children": [], 
                                     "event_list": [], 
                                     "name": "avator", 
-                                    "pos": {
+                                    "pos_data": {
                                         "__tuple__": true, 
                                         "items": [
                                             75.0, 
-                                            75.0
+                                            75.0, 
+                                            50.0, 
+                                            50.0, 
+                                            1, 
+                                            1
                                         ]
                                     }, 
                                     "prefab_sub_key": null, 
@@ -6650,11 +6798,15 @@
                                     "event_list": [], 
                                     "name": "frame", 
                                     "normal_picture": 107172, 
-                                    "pos": {
+                                    "pos_data": {
                                         "__tuple__": true, 
                                         "items": [
                                             75.0, 
-                                            75.0
+                                            75.0, 
+                                            50.0, 
+                                            50.0, 
+                                            1, 
+                                            1
                                         ]
                                     }, 
                                     "prefab_sub_key": null, 
@@ -6672,18 +6824,15 @@
                             ], 
                             "event_list": [], 
                             "name": "avator", 
-                            "pos": {
+                            "pos_data": {
                                 "__tuple__": true, 
                                 "items": [
                                     300.0, 
-                                    550.0
-                                ]
-                            }, 
-                            "pos_percent": {
-                                "__tuple__": true, 
-                                "items": [
+                                    550.0, 
                                     50.0, 
-                                    68.75
+                                    68.75, 
+                                    1, 
+                                    1
                                 ]
                             }, 
                             "prefab_sub_key": null, 
@@ -6716,18 +6865,15 @@
                                 ]
                             }, 
                             "name": "desc", 
-                            "pos": {
+                            "pos_data": {
                                 "__tuple__": true, 
                                 "items": [
                                     300.0, 
-                                    310.0
-                                ]
-                            }, 
-                            "pos_percent": {
-                                "__tuple__": true, 
-                                "items": [
+                                    310.0, 
                                     50.0, 
-                                    38.75
+                                    38.75, 
+                                    1, 
+                                    1
                                 ]
                             }, 
                             "prefab_sub_key": null, 
@@ -6758,18 +6904,15 @@
                                     "event_list": [], 
                                     "image": 131358, 
                                     "name": "icon", 
-                                    "pos": {
+                                    "pos_data": {
                                         "__tuple__": true, 
                                         "items": [
                                             25.0, 
-                                            25.0
-                                        ]
-                                    }, 
-                                    "pos_percent": {
-                                        "__tuple__": true, 
-                                        "items": [
+                                            25.0, 
                                             16.6667, 
-                                            50.0
+                                            50.0, 
+                                            1, 
+                                            1
                                         ]
                                     }, 
                                     "prefab_sub_key": null, 
@@ -6804,18 +6947,15 @@
                                         ]
                                     }, 
                                     "name": "value", 
-                                    "pos": {
+                                    "pos_data": {
                                         "__tuple__": true, 
                                         "items": [
                                             150.0, 
-                                            25.0
-                                        ]
-                                    }, 
-                                    "pos_percent": {
-                                        "__tuple__": true, 
-                                        "items": [
+                                            25.0, 
                                             100.0, 
-                                            50.0
+                                            50.0, 
+                                            1, 
+                                            1
                                         ]
                                     }, 
                                     "prefab_sub_key": null, 
@@ -6840,18 +6980,15 @@
                             ], 
                             "event_list": [], 
                             "name": "price", 
-                            "pos": {
+                            "pos_data": {
                                 "__tuple__": true, 
                                 "items": [
                                     300.0, 
-                                    220.0
-                                ]
-                            }, 
-                            "pos_percent": {
-                                "__tuple__": true, 
-                                "items": [
+                                    220.0, 
                                     50.0, 
-                                    27.5
+                                    27.5, 
+                                    1, 
+                                    1
                                 ]
                             }, 
                             "prefab_sub_key": null, 
@@ -6917,18 +7054,15 @@
                                             false
                                         ]
                                     }, 
-                                    "pos": {
+                                    "pos_data": {
                                         "__tuple__": true, 
                                         "items": [
                                             100.0, 
-                                            50.0
-                                        ]
-                                    }, 
-                                    "pos_percent": {
-                                        "__tuple__": true, 
-                                        "items": [
+                                            50.0, 
                                             22.2222, 
-                                            49.505
+                                            49.505, 
+                                            1, 
+                                            1
                                         ]
                                     }, 
                                     "prefab_sub_key": null, 
@@ -6979,18 +7113,15 @@
                                             false
                                         ]
                                     }, 
-                                    "pos": {
+                                    "pos_data": {
                                         "__tuple__": true, 
                                         "items": [
                                             350.0, 
-                                            50.0
-                                        ]
-                                    }, 
-                                    "pos_percent": {
-                                        "__tuple__": true, 
-                                        "items": [
+                                            50.0, 
                                             77.7778, 
-                                            49.505
+                                            49.505, 
+                                            1, 
+                                            1
                                         ]
                                     }, 
                                     "prefab_sub_key": null, 
@@ -7016,18 +7147,15 @@
                             ], 
                             "event_list": [], 
                             "name": "button", 
-                            "pos": {
+                            "pos_data": {
                                 "__tuple__": true, 
                                 "items": [
                                     300.0, 
-                                    120.0
-                                ]
-                            }, 
-                            "pos_percent": {
-                                "__tuple__": true, 
-                                "items": [
+                                    120.0, 
                                     50.0, 
-                                    15.0
+                                    15.0, 
+                                    1, 
+                                    1
                                 ]
                             }, 
                             "prefab_sub_key": null, 
@@ -7045,11 +7173,15 @@
                     ], 
                     "event_list": [], 
                     "name": "confirm_material", 
-                    "pos": {
+                    "pos_data": {
                         "__tuple__": true, 
                         "items": [
                             960.0, 
-                            540.0
+                            540.0, 
+                            50.0, 
+                            50.0, 
+                            1, 
+                            1
                         ]
                     }, 
                     "prefab_sub_key": null, 
@@ -7081,11 +7213,15 @@
                             "event_list": [], 
                             "image": 105044, 
                             "name": "bg", 
-                            "pos": {
+                            "pos_data": {
                                 "__tuple__": true, 
                                 "items": [
                                     300.0, 
-                                    400.0
+                                    400.0, 
+                                    50.0, 
+                                    50.0, 
+                                    1, 
+                                    1
                                 ]
                             }, 
                             "prefab_sub_key": null, 
@@ -7114,11 +7250,15 @@
                             "event_list": [], 
                             "image": 133964, 
                             "name": "frame", 
-                            "pos": {
+                            "pos_data": {
                                 "__tuple__": true, 
                                 "items": [
                                     300.0, 
-                                    400.0
+                                    400.0, 
+                                    50.0, 
+                                    50.0, 
+                                    1, 
+                                    1
                                 ]
                             }, 
                             "prefab_sub_key": null, 
@@ -7151,18 +7291,15 @@
                                 ]
                             }, 
                             "name": "desc", 
-                            "pos": {
+                            "pos_data": {
                                 "__tuple__": true, 
                                 "items": [
                                     300.0, 
-                                    450.0
-                                ]
-                            }, 
-                            "pos_percent": {
-                                "__tuple__": true, 
-                                "items": [
+                                    450.0, 
                                     50.0, 
-                                    56.25
+                                    56.25, 
+                                    1, 
+                                    1
                                 ]
                             }, 
                             "prefab_sub_key": null, 
@@ -7223,18 +7360,15 @@
                                     false
                                 ]
                             }, 
-                            "pos": {
+                            "pos_data": {
                                 "__tuple__": true, 
                                 "items": [
                                     300.0, 
-                                    330.0
-                                ]
-                            }, 
-                            "pos_percent": {
-                                "__tuple__": true, 
-                                "items": [
+                                    330.0, 
                                     50.0, 
-                                    41.25
+                                    41.25, 
+                                    1, 
+                                    1
                                 ]
                             }, 
                             "prefab_sub_key": null, 
@@ -7260,11 +7394,15 @@
                     ], 
                     "event_list": [], 
                     "name": "lack_tip", 
-                    "pos": {
+                    "pos_data": {
                         "__tuple__": true, 
                         "items": [
                             960.0, 
-                            540.0
+                            540.0, 
+                            50.0, 
+                            50.0, 
+                            1, 
+                            1
                         ]
                     }, 
                     "prefab_sub_key": null, 
@@ -7284,11 +7422,15 @@
             ], 
             "event_list": [], 
             "name": "confirm_popup", 
-            "pos": {
+            "pos_data": {
                 "__tuple__": true, 
                 "items": [
                     960.0, 
-                    540.0
+                    540.0, 
+                    50.0, 
+                    50.0, 
+                    1, 
+                    1
                 ]
             }, 
             "prefab_sub_key": null, 

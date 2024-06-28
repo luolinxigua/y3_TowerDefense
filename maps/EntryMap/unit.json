@@ -69,7 +69,7 @@
             "custom_material_data": {}, 
             "editor_component": {
                 "placed_lock": false, 
-                "placed_visibility": true, 
+                "placed_visibility": false, 
                 "use_obj_attrs": true
             }, 
             "entity_id": 999999, 
@@ -123,7 +123,7 @@
                                 0
                             ], 
                             [
-                                2, 
+                                0, 
                                 0
                             ], 
                             [
@@ -151,7 +151,7 @@
             "custom_material_data": {}, 
             "editor_component": {
                 "placed_lock": false, 
-                "placed_visibility": true, 
+                "placed_visibility": false, 
                 "use_obj_attrs": true
             }, 
             "entity_id": 134258931, 

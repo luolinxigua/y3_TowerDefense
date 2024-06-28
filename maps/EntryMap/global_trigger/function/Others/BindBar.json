@@ -540,7 +540,12 @@
             "p_trigger_id": 2113310801, 
             "trigger_id": 368771155, 
             "trigger_name": "on_enemybase_damage", 
-            "valid": true
+            "valid": true, 
+            "var_data": [
+                {}, 
+                {}, 
+                []
+            ]
         }, 
         "670715986": {
             "action": [
@@ -625,7 +630,12 @@
             "p_trigger_id": 2113310801, 
             "trigger_id": 670715986, 
             "trigger_name": "on_mybase_damage", 
-            "valid": true
+            "valid": true, 
+            "var_data": [
+                {}, 
+                {}, 
+                []
+            ]
         }, 
         "992993362": {
             "action": [
@@ -764,7 +774,12 @@
             "p_trigger_id": 2113310801, 
             "trigger_id": 992993362, 
             "trigger_name": "on_hero_energy_change", 
-            "valid": true
+            "valid": true, 
+            "var_data": [
+                {}, 
+                {}, 
+                []
+            ]
         }, 
         "1577341039": {
             "action": [
@@ -854,10 +869,40 @@
             "p_trigger_id": 2113310801, 
             "trigger_id": 1577341039, 
             "trigger_name": "on_hero_life_change", 
-            "valid": true
+            "valid": true, 
+            "var_data": [
+                {}, 
+                {}, 
+                []
+            ]
         }
     }, 
     "trigger_id": 2113310801, 
     "trigger_name": "BindBar", 
-    "valid": true
+    "valid": true, 
+    "var_data": [
+        {
+            "UNIT_ENTITY": {
+                "enemyBase": 0, 
+                "enemybase": 0, 
+                "hero": 0, 
+                "myBase": 0, 
+                "mybase": 0
+            }
+        }, 
+        {
+            "enemyBase": 0, 
+            "enemybase": 0, 
+            "hero": 0, 
+            "myBase": 0, 
+            "mybase": 0
+        }, 
+        [
+            "enemyBase", 
+            "enemybase", 
+            "hero", 
+            "myBase", 
+            "mybase"
+        ]
+    ]
 }

@@ -2321,7 +2321,12 @@
             "p_trigger_id": 77869159, 
             "trigger_id": 263991400, 
             "trigger_name": "on_use_skill", 
-            "valid": true
+            "valid": true, 
+            "var_data": [
+                {}, 
+                {}, 
+                []
+            ]
         }, 
         "434843753": {
             "action": [
@@ -3559,10 +3564,20 @@
             "p_trigger_id": 77869159, 
             "trigger_id": 434843753, 
             "trigger_name": "on_change_choose", 
-            "valid": true
+            "valid": true, 
+            "var_data": [
+                {}, 
+                {}, 
+                []
+            ]
         }
     }, 
     "trigger_id": 77869159, 
     "trigger_name": "play_panel_skill_ui", 
-    "valid": true
+    "valid": true, 
+    "var_data": [
+        {}, 
+        {}, 
+        []
+    ]
 }

@@ -7,18 +7,15 @@
             "event_list": [], 
             "image": 106331, 
             "name": "bg", 
-            "pos": {
+            "pos_data": {
                 "__tuple__": true, 
                 "items": [
                     960.0, 
-                    600.0
-                ]
-            }, 
-            "pos_percent": {
-                "__tuple__": true, 
-                "items": [
+                    600.0, 
                     50.0, 
-                    55.5556
+                    55.5556, 
+                    1, 
+                    1
                 ]
             }, 
             "prefab_sub_key": null, 
@@ -61,18 +58,15 @@
                     false
                 ]
             }, 
-            "pos": {
+            "pos_data": {
                 "__tuple__": true, 
                 "items": [
                     960.0, 
-                    400.0
-                ]
-            }, 
-            "pos_percent": {
-                "__tuple__": true, 
-                "items": [
+                    400.0, 
                     50.0, 
-                    37.037
+                    37.037, 
+                    1, 
+                    1
                 ]
             }, 
             "prefab_sub_key": null, 

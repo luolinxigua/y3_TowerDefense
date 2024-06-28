@@ -1418,5 +1418,34 @@
     "p_trigger_id": null, 
     "trigger_id": 1352249482, 
     "trigger_name": "UpgradeMaterial", 
-    "valid": true
+    "valid": true, 
+    "var_data": [
+        {
+            "INTEGER": {
+                "i": 0, 
+                "rsrcInfo_length": 0, 
+                "value": 0
+            }, 
+            "ITEM_NAME": {
+                "type": 0
+            }, 
+            "TABLE": {
+                "rsrcInfo": null
+            }
+        }, 
+        {
+            "i": 0, 
+            "rsrcInfo": 0, 
+            "rsrcInfo_length": 0, 
+            "type": 0, 
+            "value": 0
+        }, 
+        [
+            "i", 
+            "rsrcInfo", 
+            "rsrcInfo_length", 
+            "type", 
+            "value"
+        ]
+    ]
 }

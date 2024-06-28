@@ -419,5 +419,28 @@
     "p_trigger_id": null, 
     "trigger_id": 534593552, 
     "trigger_name": "Bind Unit's Inventory", 
-    "valid": true
+    "valid": true, 
+    "var_data": [
+        {
+            "INTEGER": {
+                "index": 0
+            }, 
+            "PLAYER": {
+                "player": 0
+            }, 
+            "UNIT_ENTITY": {
+                "unit": 0
+            }
+        }, 
+        {
+            "index": 0, 
+            "player": 0, 
+            "unit": 0
+        }, 
+        [
+            "index", 
+            "player", 
+            "unit"
+        ]
+    ]
 }

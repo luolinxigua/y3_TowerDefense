@@ -312,7 +312,12 @@
             "p_trigger_id": 1754353758, 
             "trigger_id": 793391276, 
             "trigger_name": "on_complete_stage07", 
-            "valid": true
+            "valid": true, 
+            "var_data": [
+                {}, 
+                {}, 
+                []
+            ]
         }, 
         "1028272301": {
             "action": [
@@ -603,7 +608,12 @@
             "p_trigger_id": 1754353758, 
             "trigger_id": 1028272301, 
             "trigger_name": "on_complete_stage06", 
-            "valid": true
+            "valid": true, 
+            "var_data": [
+                {}, 
+                {}, 
+                []
+            ]
         }, 
         "1146192049": {
             "action": [
@@ -894,7 +904,12 @@
             "p_trigger_id": 1754353758, 
             "trigger_id": 1146192049, 
             "trigger_name": "on_complete_stage08", 
-            "valid": true
+            "valid": true, 
+            "var_data": [
+                {}, 
+                {}, 
+                []
+            ]
         }, 
         "1209139307": {
             "action": [
@@ -1185,7 +1200,12 @@
             "p_trigger_id": 1754353758, 
             "trigger_id": 1209139307, 
             "trigger_name": "on_complete_stage02", 
-            "valid": true
+            "valid": true, 
+            "var_data": [
+                {}, 
+                {}, 
+                []
+            ]
         }, 
         "1447706799": {
             "action": [
@@ -1476,7 +1496,12 @@
             "p_trigger_id": 1754353758, 
             "trigger_id": 1447706799, 
             "trigger_name": "on_complete_stage04", 
-            "valid": true
+            "valid": true, 
+            "var_data": [
+                {}, 
+                {}, 
+                []
+            ]
         }, 
         "1788215391": {
             "action": [
@@ -1767,7 +1792,12 @@
             "p_trigger_id": 1754353758, 
             "trigger_id": 1788215391, 
             "trigger_name": "on_complete_stage01", 
-            "valid": true
+            "valid": true, 
+            "var_data": [
+                {}, 
+                {}, 
+                []
+            ]
         }, 
         "1865015456": {
             "action": [
@@ -2058,7 +2088,12 @@
             "p_trigger_id": 1754353758, 
             "trigger_id": 1865015456, 
             "trigger_name": "on_complete_stage03", 
-            "valid": true
+            "valid": true, 
+            "var_data": [
+                {}, 
+                {}, 
+                []
+            ]
         }, 
         "1951019182": {
             "action": [
@@ -2349,10 +2384,36 @@
             "p_trigger_id": 1754353758, 
             "trigger_id": 1951019182, 
             "trigger_name": "on_complete_stage05", 
-            "valid": true
+            "valid": true, 
+            "var_data": [
+                {}, 
+                {}, 
+                []
+            ]
         }
     }, 
     "trigger_id": 1754353758, 
     "trigger_name": "stage_func", 
-    "valid": true
+    "valid": true, 
+    "var_data": [
+        {
+            "BOOLEAN": {
+                "isCompleted": false, 
+                "isLocked": false
+            }, 
+            "TABLE": {
+                "stageInfo": null
+            }
+        }, 
+        {
+            "isCompleted": 0, 
+            "isLocked": 0, 
+            "stageInfo": 0
+        }, 
+        [
+            "isCompleted", 
+            "isLocked", 
+            "stageInfo"
+        ]
+    ]
 }

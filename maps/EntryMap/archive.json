@@ -6,63 +6,84 @@
             "billboard_sort_type": 0, 
             "encrypt": true, 
             "key": 1, 
+            "max_value_limit_type": 0, 
             "name": "stage", 
+            "time_interval_limit": [], 
             "type": 4, 
-            "value": "StageInfo"
+            "value": "StageInfo", 
+            "week_date_limit": []
         }, 
         "2": {
             "billboard_max_item_num": 0, 
             "billboard_sort_type": 0, 
             "encrypt": true, 
             "key": 2, 
+            "max_value_limit_type": 0, 
             "name": "skill", 
+            "time_interval_limit": [], 
             "type": 4, 
-            "value": "SkillInfo"
+            "value": "SkillInfo", 
+            "week_date_limit": []
         }, 
         "3": {
             "billboard_max_item_num": 0, 
             "billboard_sort_type": 0, 
             "encrypt": true, 
             "key": 3, 
+            "max_value_limit_type": 0, 
             "name": "group", 
+            "time_interval_limit": [], 
             "type": 4, 
-            "value": "GroupInfo"
+            "value": "GroupInfo", 
+            "week_date_limit": []
         }, 
         "4": {
             "billboard_max_item_num": 0, 
             "billboard_sort_type": 0, 
             "encrypt": false, 
             "key": 4, 
+            "max_value_limit_type": 0, 
             "name": "default_hero", 
+            "time_interval_limit": [], 
             "type": 2, 
-            "value": 1001
+            "value": 1001, 
+            "week_date_limit": []
         }, 
         "5": {
             "billboard_max_item_num": 0, 
             "billboard_sort_type": 0, 
             "encrypt": true, 
             "key": 5, 
+            "max_value_limit_type": 0, 
             "name": "tip", 
+            "time_interval_limit": [], 
             "type": 4, 
-            "value": "TipInfo"
+            "value": "TipInfo", 
+            "week_date_limit": []
         }, 
         "6": {
             "billboard_max_item_num": 0, 
             "billboard_sort_type": 0, 
             "encrypt": false, 
             "key": 6, 
+            "max_value_limit_type": 0, 
             "name": "unit", 
+            "time_interval_limit": [], 
             "type": 4, 
-            "value": "UnitInfo"
+            "value": "UnitInfo", 
+            "week_date_limit": []
         }, 
         "7": {
             "billboard_max_item_num": 0, 
             "billboard_sort_type": 0, 
             "encrypt": false, 
             "key": 7, 
+            "max_value_limit_type": 0, 
             "name": "resource", 
+            "time_interval_limit": [], 
             "type": 4, 
-            "value": "ResourceInfo"
+            "value": "ResourceInfo", 
+            "week_date_limit": []
         }
     }
 }

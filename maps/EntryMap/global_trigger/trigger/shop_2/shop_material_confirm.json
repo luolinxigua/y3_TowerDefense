@@ -2157,5 +2157,60 @@
     "p_trigger_id": null, 
     "trigger_id": 758689929, 
     "trigger_name": "shop_material_confirm", 
-    "valid": true
+    "valid": true, 
+    "var_data": [
+        {
+            "INTEGER": {
+                "current_gold": 0, 
+                "current_num": 0, 
+                "i": 0, 
+                "index": 0, 
+                "index_diamond": 0, 
+                "index_gold": 0, 
+                "j": 0, 
+                "length_rsrcInfo": 0, 
+                "origin_gold": 0, 
+                "origin_num": 0
+            }, 
+            "ITEM_NAME": {
+                "material": 0, 
+                "type": 0
+            }, 
+            "NEW_TIMER": {}, 
+            "TABLE": {
+                "rsrcInfo": null
+            }, 
+            "UNIT_NAME": {}
+        }, 
+        {
+            "current_gold": 0, 
+            "current_num": 0, 
+            "i": 0, 
+            "index": 0, 
+            "index_diamond": 0, 
+            "index_gold": 0, 
+            "j": 0, 
+            "length_rsrcInfo": 0, 
+            "material": 0, 
+            "origin_gold": 0, 
+            "origin_num": 0, 
+            "rsrcInfo": 0, 
+            "type": 0
+        }, 
+        [
+            "current_gold", 
+            "current_num", 
+            "i", 
+            "index", 
+            "index_diamond", 
+            "index_gold", 
+            "j", 
+            "length_rsrcInfo", 
+            "material", 
+            "origin_gold", 
+            "origin_num", 
+            "rsrcInfo", 
+            "type"
+        ]
+    ]
 }

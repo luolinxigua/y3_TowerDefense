@@ -1158,5 +1158,28 @@
     "p_trigger_id": null, 
     "trigger_id": 1325858865, 
     "trigger_name": "Refresh Titles of Shop Tabs", 
-    "valid": true
+    "valid": true, 
+    "var_data": [
+        {
+            "INTEGER": {
+                "i": 0
+            }, 
+            "PLAYER": {
+                "player": 0
+            }, 
+            "UNIT_ENTITY": {
+                "store_unit": 0
+            }
+        }, 
+        {
+            "i": 0, 
+            "player": 0, 
+            "store_unit": 0
+        }, 
+        [
+            "i", 
+            "player", 
+            "store_unit"
+        ]
+    ]
 }

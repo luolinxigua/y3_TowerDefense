@@ -192,5 +192,18 @@
     "p_trigger_id": null, 
     "trigger_id": 2099978444, 
     "trigger_name": "gain_energy", 
-    "valid": true
+    "valid": true, 
+    "var_data": [
+        {
+            "INTEGER": {
+                "tech_point": 0
+            }
+        }, 
+        {
+            "tech_point": 0
+        }, 
+        [
+            "tech_point"
+        ]
+    ]
 }

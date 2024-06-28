@@ -3204,7 +3204,12 @@
             "p_trigger_id": 1938395200, 
             "trigger_id": 747106371, 
             "trigger_name": "on_choose_skill", 
-            "valid": true
+            "valid": true, 
+            "var_data": [
+                {}, 
+                {}, 
+                []
+            ]
         }, 
         "997703746": {
             "action": [
@@ -3318,7 +3323,12 @@
             "p_trigger_id": 1938395200, 
             "trigger_id": 997703746, 
             "trigger_name": "on_out_skill", 
-            "valid": true
+            "valid": true, 
+            "var_data": [
+                {}, 
+                {}, 
+                []
+            ]
         }, 
         "2119000129": {
             "action": [
@@ -3523,10 +3533,87 @@
             "p_trigger_id": 1938395200, 
             "trigger_id": 2119000129, 
             "trigger_name": "on_in_skill", 
-            "valid": true
+            "valid": true, 
+            "var_data": [
+                {}, 
+                {}, 
+                []
+            ]
         }
     }, 
     "trigger_id": 1938395200, 
     "trigger_name": "SelectSkill", 
-    "valid": true
+    "valid": true, 
+    "var_data": [
+        {
+            "ABILITY_NAME": {
+                "skill": 0
+            }, 
+            "BOOLEAN": {
+                "isEquipSkill": false, 
+                "isHaveSkill": false
+            }, 
+            "INTEGER": {
+                "i": 0, 
+                "j": 0, 
+                "n": 0, 
+                "x": 0
+            }, 
+            "NEW_TIMER": {}, 
+            "STRING": {
+                "click": "", 
+                "in": "", 
+                "out": ""
+            }, 
+            "TABLE": {
+                "groupInfo": null, 
+                "newList": null, 
+                "skillInfo": null
+            }, 
+            "UI_COMP": {
+                "desc": "", 
+                "isLocked": "", 
+                "isLockedDesc": "", 
+                "name": ""
+            }
+        }, 
+        {
+            "click": 0, 
+            "desc": 0, 
+            "groupInfo": 0, 
+            "i": 0, 
+            "in": 0, 
+            "isEquipSkill": 0, 
+            "isHaveSkill": 0, 
+            "isLocked": 0, 
+            "isLockedDesc": 0, 
+            "j": 0, 
+            "n": 0, 
+            "name": 0, 
+            "newList": 0, 
+            "out": 0, 
+            "skill": 0, 
+            "skillInfo": 0, 
+            "x": 0
+        }, 
+        [
+            "click", 
+            "desc", 
+            "groupInfo", 
+            "i", 
+            "in", 
+            "isEquipSkill", 
+            "isHaveSkill", 
+            "isLocked", 
+            "isLockedDesc", 
+            "j", 
+            "n", 
+            "name", 
+            "newList", 
+            "out", 
+            "skill", 
+            "skillInfo", 
+            "x"
+        ]
+    ]
 }

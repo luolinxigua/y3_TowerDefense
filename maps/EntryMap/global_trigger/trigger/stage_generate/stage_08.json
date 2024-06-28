@@ -760,5 +760,21 @@
     "p_trigger_id": null, 
     "trigger_id": 1711562940, 
     "trigger_name": "stage_08", 
-    "valid": true
+    "valid": true, 
+    "var_data": [
+        {
+            "UNIT_ENTITY": {
+                "enemyTower_1": 0, 
+                "enemyTower_2": 0
+            }
+        }, 
+        {
+            "enemyTower_1": 0, 
+            "enemyTower_2": 0
+        }, 
+        [
+            "enemyTower_1", 
+            "enemyTower_2"
+        ]
+    ]
 }

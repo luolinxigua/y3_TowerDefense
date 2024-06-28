@@ -118,7 +118,12 @@
             "p_trigger_id": 799051862, 
             "trigger_id": 232800348, 
             "trigger_name": "on_time_over", 
-            "valid": true
+            "valid": true, 
+            "var_data": [
+                {}, 
+                {}, 
+                []
+            ]
         }, 
         "430129239": {
             "action": [
@@ -203,7 +208,12 @@
             "p_trigger_id": 799051862, 
             "trigger_id": 430129239, 
             "trigger_name": "on_game_victory", 
-            "valid": true
+            "valid": true, 
+            "var_data": [
+                {}, 
+                {}, 
+                []
+            ]
         }, 
         "1319379032": {
             "action": [
@@ -288,7 +298,12 @@
             "p_trigger_id": 799051862, 
             "trigger_id": 1319379032, 
             "trigger_name": "on_game_defeat", 
-            "valid": true
+            "valid": true, 
+            "var_data": [
+                {}, 
+                {}, 
+                []
+            ]
         }, 
         "1338552409": {
             "action": [
@@ -361,7 +376,12 @@
             "p_trigger_id": 799051862, 
             "trigger_id": 1338552409, 
             "trigger_name": "on_defeat_continue", 
-            "valid": true
+            "valid": true, 
+            "var_data": [
+                {}, 
+                {}, 
+                []
+            ]
         }, 
         "1639202903": {
             "action": [
@@ -434,10 +454,20 @@
             "p_trigger_id": 799051862, 
             "trigger_id": 1639202903, 
             "trigger_name": "on_victory_continue", 
-            "valid": true
+            "valid": true, 
+            "var_data": [
+                {}, 
+                {}, 
+                []
+            ]
         }
     }, 
     "trigger_id": 799051862, 
     "trigger_name": "victory_defeat", 
-    "valid": true
+    "valid": true, 
+    "var_data": [
+        {}, 
+        {}, 
+        []
+    ]
 }

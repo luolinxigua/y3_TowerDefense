@@ -546,10 +546,54 @@
             }, 
             "trigger_id": 503767069, 
             "trigger_name": "t1_2", 
-            "valid": true
+            "valid": true, 
+            "var_data": [
+                {
+                    "ITEM_ENTITY": {}, 
+                    "PLAYER": {}
+                }, 
+                {}, 
+                []
+            ]
         }
     }, 
     "trigger_id": 1393229841, 
     "trigger_name": "Select Destructible", 
-    "valid": true
+    "valid": true, 
+    "var_data": [
+        {
+            "DESTRUCTIBLE_ENTITY": {
+                "destructible": 0
+            }, 
+            "DYNAMIC_TRIGGER_INSTANCE": {
+                "t1": 0, 
+                "t2": 0
+            }, 
+            "ITEM_ENTITY": {
+                "item": 0
+            }, 
+            "PLAYER": {
+                "player": 0
+            }, 
+            "UNIT_ENTITY": {
+                "unit": 0
+            }
+        }, 
+        {
+            "destructible": 0, 
+            "item": 0, 
+            "player": 0, 
+            "t1": 0, 
+            "t2": 0, 
+            "unit": 0
+        }, 
+        [
+            "destructible", 
+            "item", 
+            "player", 
+            "t1", 
+            "t2", 
+            "unit"
+        ]
+    ]
 }

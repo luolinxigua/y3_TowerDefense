@@ -1426,5 +1426,65 @@
     "p_trigger_id": null, 
     "trigger_id": 1264095367, 
     "trigger_name": "shop_skill_confirm", 
-    "valid": true
+    "valid": true, 
+    "var_data": [
+        {
+            "ABILITY_NAME": {
+                "skill": 0
+            }, 
+            "INTEGER": {
+                "count": 0, 
+                "current_gold": 0, 
+                "i": 0, 
+                "index": 0, 
+                "j": 0, 
+                "length_rsrcInfo": 0, 
+                "length_unitInfo": 0, 
+                "origin_gold": 0
+            }, 
+            "ITEM_NAME": {
+                "type": 0
+            }, 
+            "STRING": {
+                "j_str": "", 
+                "skillj": ""
+            }, 
+            "TABLE": {
+                "rsrcInfo": null, 
+                "unitInfo": null
+            }
+        }, 
+        {
+            "count": 0, 
+            "current_gold": 0, 
+            "i": 0, 
+            "index": 0, 
+            "j": 0, 
+            "j_str": 0, 
+            "length_rsrcInfo": 0, 
+            "length_unitInfo": 0, 
+            "origin_gold": 0, 
+            "rsrcInfo": 0, 
+            "skill": 0, 
+            "skillj": 0, 
+            "type": 0, 
+            "unitInfo": 0
+        }, 
+        [
+            "count", 
+            "current_gold", 
+            "i", 
+            "index", 
+            "j", 
+            "j_str", 
+            "length_rsrcInfo", 
+            "length_unitInfo", 
+            "origin_gold", 
+            "rsrcInfo", 
+            "skill", 
+            "skillj", 
+            "type", 
+            "unitInfo"
+        ]
+    ]
 }

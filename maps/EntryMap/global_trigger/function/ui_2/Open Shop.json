@@ -3438,5 +3438,48 @@
     "p_trigger_id": null, 
     "trigger_id": 1585119271, 
     "trigger_name": "Open Shop", 
-    "valid": true
+    "valid": true, 
+    "var_data": [
+        {
+            "INTEGER": {
+                "goods_index": 0, 
+                "i": 0, 
+                "n": 0, 
+                "slot": 0
+            }, 
+            "NEW_TIMER": {
+                "t": -1
+            }, 
+            "PLAYER": {
+                "buyer player": 0, 
+                "player": 0
+            }, 
+            "UNIT_ENTITY": {
+                "store unit": 0, 
+                "unit": 0
+            }
+        }, 
+        {
+            "buyer player": 0, 
+            "goods_index": 0, 
+            "i": 0, 
+            "n": 0, 
+            "player": 0, 
+            "slot": 0, 
+            "store unit": 0, 
+            "t": 0, 
+            "unit": 0
+        }, 
+        [
+            "buyer player", 
+            "goods_index", 
+            "i", 
+            "n", 
+            "player", 
+            "slot", 
+            "store unit", 
+            "t", 
+            "unit"
+        ]
+    ]
 }

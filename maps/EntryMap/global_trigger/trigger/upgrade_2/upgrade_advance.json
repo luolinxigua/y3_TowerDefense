@@ -1991,5 +1991,70 @@
     "p_trigger_id": null, 
     "trigger_id": 2078765201, 
     "trigger_name": "upgrade_advance", 
-    "valid": true
+    "valid": true, 
+    "var_data": [
+        {
+            "INTEGER": {
+                "baseLevel": 0, 
+                "count": 0, 
+                "current_quality": 0, 
+                "current_stoneCount": 0, 
+                "current_unitCount": 0, 
+                "i": 0, 
+                "j": 0, 
+                "realLevel": 0, 
+                "rsrcInfo_length": 0, 
+                "stoneCount": 0, 
+                "unitCount": 0, 
+                "unitInfo_length": 0, 
+                "unitQuality": 0, 
+                "upgradeCount": 0
+            }, 
+            "ITEM_NAME": {
+                "upgradeStone": 0
+            }, 
+            "TABLE": {
+                "rsrcInfo": null, 
+                "unitInfo": null
+            }
+        }, 
+        {
+            "baseLevel": 0, 
+            "count": 0, 
+            "current_quality": 0, 
+            "current_stoneCount": 0, 
+            "current_unitCount": 0, 
+            "i": 0, 
+            "j": 0, 
+            "realLevel": 0, 
+            "rsrcInfo": 0, 
+            "rsrcInfo_length": 0, 
+            "stoneCount": 0, 
+            "unitCount": 0, 
+            "unitInfo": 0, 
+            "unitInfo_length": 0, 
+            "unitQuality": 0, 
+            "upgradeCount": 0, 
+            "upgradeStone": 0
+        }, 
+        [
+            "baseLevel", 
+            "count", 
+            "current_quality", 
+            "current_stoneCount", 
+            "current_unitCount", 
+            "i", 
+            "j", 
+            "realLevel", 
+            "rsrcInfo", 
+            "rsrcInfo_length", 
+            "stoneCount", 
+            "unitCount", 
+            "unitInfo", 
+            "unitInfo_length", 
+            "unitQuality", 
+            "upgradeCount", 
+            "upgradeStone"
+        ]
+    ]
 }

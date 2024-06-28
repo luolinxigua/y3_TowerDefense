@@ -2301,5 +2301,45 @@
     "p_trigger_id": null, 
     "trigger_id": 2079805465, 
     "trigger_name": "Set Primary Unit", 
-    "valid": true
+    "valid": true, 
+    "var_data": [
+        {
+            "INTEGER": {
+                "Ci": 0, 
+                "Ri": 0, 
+                "cindex": 0, 
+                "i": 0, 
+                "rindex": 0
+            }, 
+            "NEW_TIMER": {
+                "t": -1
+            }, 
+            "PLAYER": {
+                "player": 0
+            }, 
+            "UNIT_ENTITY": {
+                "unit": 0
+            }
+        }, 
+        {
+            "Ci": 0, 
+            "Ri": 0, 
+            "cindex": 0, 
+            "i": 0, 
+            "player": 0, 
+            "rindex": 0, 
+            "t": 0, 
+            "unit": 0
+        }, 
+        [
+            "Ci", 
+            "Ri", 
+            "cindex", 
+            "i", 
+            "player", 
+            "rindex", 
+            "t", 
+            "unit"
+        ]
+    ]
 }

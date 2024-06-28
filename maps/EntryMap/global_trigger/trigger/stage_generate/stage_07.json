@@ -1058,7 +1058,19 @@
                                             ], 
                                             "bp": false, 
                                             "element_id": 669462711000345, 
-                                            "enable": true
+                                            "enable": true, 
+                                            "op_arg": [
+                                                {
+                                                    "arg_type": 100001, 
+                                                    "args_list": [
+                                                        true
+                                                    ], 
+                                                    "sub_type": 1
+                                                }
+                                            ], 
+                                            "op_arg_enable": [
+                                                false
+                                            ]
                                         }
                                     ], 
                                     "sub_type": 1
@@ -1283,7 +1295,19 @@
                                             ], 
                                             "bp": false, 
                                             "element_id": 669462711000369, 
-                                            "enable": true
+                                            "enable": true, 
+                                            "op_arg": [
+                                                {
+                                                    "arg_type": 100001, 
+                                                    "args_list": [
+                                                        true
+                                                    ], 
+                                                    "sub_type": 1
+                                                }
+                                            ], 
+                                            "op_arg_enable": [
+                                                false
+                                            ]
                                         }
                                     ], 
                                     "sub_type": 1
@@ -1662,7 +1686,19 @@
                                                             ], 
                                                             "bp": false, 
                                                             "element_id": 669462711000992, 
-                                                            "enable": true
+                                                            "enable": true, 
+                                                            "op_arg": [
+                                                                {
+                                                                    "arg_type": 100001, 
+                                                                    "args_list": [
+                                                                        true
+                                                                    ], 
+                                                                    "sub_type": 1
+                                                                }
+                                                            ], 
+                                                            "op_arg_enable": [
+                                                                false
+                                                            ]
                                                         }, 
                                                         {
                                                             "action_type": "RUN_ONCE_TIMER", 
@@ -1859,7 +1895,19 @@
                                                                             ], 
                                                                             "bp": false, 
                                                                             "element_id": 669462711000994, 
-                                                                            "enable": true
+                                                                            "enable": true, 
+                                                                            "op_arg": [
+                                                                                {
+                                                                                    "arg_type": 100001, 
+                                                                                    "args_list": [
+                                                                                        true
+                                                                                    ], 
+                                                                                    "sub_type": 1
+                                                                                }
+                                                                            ], 
+                                                                            "op_arg_enable": [
+                                                                                false
+                                                                            ]
                                                                         }
                                                                     ], 
                                                                     "sub_type": 1
@@ -2092,7 +2140,19 @@
                                                             ], 
                                                             "bp": false, 
                                                             "element_id": 669462711001013, 
-                                                            "enable": true
+                                                            "enable": true, 
+                                                            "op_arg": [
+                                                                {
+                                                                    "arg_type": 100001, 
+                                                                    "args_list": [
+                                                                        true
+                                                                    ], 
+                                                                    "sub_type": 1
+                                                                }
+                                                            ], 
+                                                            "op_arg_enable": [
+                                                                false
+                                                            ]
                                                         }, 
                                                         {
                                                             "action_type": "RUN_ONCE_TIMER", 
@@ -2289,7 +2349,19 @@
                                                                             ], 
                                                                             "bp": false, 
                                                                             "element_id": 669462711001015, 
-                                                                            "enable": true
+                                                                            "enable": true, 
+                                                                            "op_arg": [
+                                                                                {
+                                                                                    "arg_type": 100001, 
+                                                                                    "args_list": [
+                                                                                        true
+                                                                                    ], 
+                                                                                    "sub_type": 1
+                                                                                }
+                                                                            ], 
+                                                                            "op_arg_enable": [
+                                                                                false
+                                                                            ]
                                                                         }
                                                                     ], 
                                                                     "sub_type": 1
@@ -2560,7 +2632,19 @@
                                                             ], 
                                                             "bp": false, 
                                                             "element_id": 669462711000643, 
-                                                            "enable": true
+                                                            "enable": true, 
+                                                            "op_arg": [
+                                                                {
+                                                                    "arg_type": 100001, 
+                                                                    "args_list": [
+                                                                        true
+                                                                    ], 
+                                                                    "sub_type": 1
+                                                                }
+                                                            ], 
+                                                            "op_arg_enable": [
+                                                                false
+                                                            ]
                                                         }, 
                                                         {
                                                             "action_type": "RUN_ONCE_TIMER", 
@@ -2757,7 +2841,19 @@
                                                                             ], 
                                                                             "bp": false, 
                                                                             "element_id": 669462711001036, 
-                                                                            "enable": true
+                                                                            "enable": true, 
+                                                                            "op_arg": [
+                                                                                {
+                                                                                    "arg_type": 100001, 
+                                                                                    "args_list": [
+                                                                                        true
+                                                                                    ], 
+                                                                                    "sub_type": 1
+                                                                                }
+                                                                            ], 
+                                                                            "op_arg_enable": [
+                                                                                false
+                                                                            ]
                                                                         }
                                                                     ], 
                                                                     "sub_type": 1
@@ -2990,7 +3086,19 @@
                                                             ], 
                                                             "bp": false, 
                                                             "element_id": 669462711000679, 
-                                                            "enable": true
+                                                            "enable": true, 
+                                                            "op_arg": [
+                                                                {
+                                                                    "arg_type": 100001, 
+                                                                    "args_list": [
+                                                                        true
+                                                                    ], 
+                                                                    "sub_type": 1
+                                                                }
+                                                            ], 
+                                                            "op_arg_enable": [
+                                                                false
+                                                            ]
                                                         }, 
                                                         {
                                                             "action_type": "RUN_ONCE_TIMER", 
@@ -3187,7 +3295,19 @@
                                                                             ], 
                                                                             "bp": false, 
                                                                             "element_id": 669462711001053, 
-                                                                            "enable": true
+                                                                            "enable": true, 
+                                                                            "op_arg": [
+                                                                                {
+                                                                                    "arg_type": 100001, 
+                                                                                    "args_list": [
+                                                                                        true
+                                                                                    ], 
+                                                                                    "sub_type": 1
+                                                                                }
+                                                                            ], 
+                                                                            "op_arg_enable": [
+                                                                                false
+                                                                            ]
                                                                         }
                                                                     ], 
                                                                     "sub_type": 1
@@ -3269,5 +3389,41 @@
     "p_trigger_id": null, 
     "trigger_id": 669462711, 
     "trigger_name": "stage_07", 
-    "valid": true
+    "valid": true, 
+    "var_data": [
+        {
+            "INTEGER": {
+                "route_random": 0
+            }, 
+            "UNIT_ENTITY": {
+                "enemyTower_1": 0, 
+                "enemyTower_2": 0, 
+                "mob1": 0, 
+                "mob2": 0, 
+                "mob3": 0, 
+                "target_01": 0, 
+                "target_02": 0
+            }
+        }, 
+        {
+            "enemyTower_1": 0, 
+            "enemyTower_2": 0, 
+            "mob1": 0, 
+            "mob2": 0, 
+            "mob3": 0, 
+            "route_random": 0, 
+            "target_01": 0, 
+            "target_02": 0
+        }, 
+        [
+            "enemyTower_1", 
+            "enemyTower_2", 
+            "mob1", 
+            "mob2", 
+            "mob3", 
+            "route_random", 
+            "target_01", 
+            "target_02"
+        ]
+    ]
 }

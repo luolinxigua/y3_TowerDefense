@@ -991,5 +991,30 @@
     "p_trigger_id": null, 
     "trigger_id": 534671435, 
     "trigger_name": "death_building", 
-    "valid": true
+    "valid": true, 
+    "var_data": [
+        {
+            "POINT": {
+                "pot": {
+                    "__tuple__": true, 
+                    "items": [
+                        0, 
+                        0, 
+                        0
+                    ]
+                }
+            }, 
+            "UNIT_ENTITY": {
+                "building": 0
+            }
+        }, 
+        {
+            "building": 0, 
+            "pot": 0
+        }, 
+        [
+            "building", 
+            "pot"
+        ]
+    ]
 }

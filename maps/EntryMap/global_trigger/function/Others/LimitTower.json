@@ -54,9 +54,11 @@
                             "sub_type": 1
                         }, 
                         null, 
+                        null, 
                         null
                     ], 
                     "op_arg_enable": [
+                        false, 
                         false, 
                         false, 
                         false, 
@@ -291,5 +293,33 @@
     "p_trigger_id": null, 
     "trigger_id": 1816961171, 
     "trigger_name": "LimitTower", 
-    "valid": true
+    "valid": true, 
+    "var_data": [
+        {
+            "POINT": {
+                "dot": {
+                    "__tuple__": true, 
+                    "items": [
+                        0, 
+                        0, 
+                        0
+                    ]
+                }
+            }, 
+            "UNIT_ENTITY": {
+                "target": 0, 
+                "unit": 0
+            }
+        }, 
+        {
+            "dot": 0, 
+            "target": 0, 
+            "unit": 0
+        }, 
+        [
+            "dot", 
+            "target", 
+            "unit"
+        ]
+    ]
 }

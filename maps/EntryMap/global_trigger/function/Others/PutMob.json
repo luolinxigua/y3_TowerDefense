@@ -1352,5 +1352,110 @@
     "p_trigger_id": null, 
     "trigger_id": 1603895445, 
     "trigger_name": "PutMob", 
-    "valid": true
+    "valid": true, 
+    "var_data": [
+        {
+            "ABILITY_NAME": {
+                "skill1": 0, 
+                "skill2": 0, 
+                "skill3": 0
+            }, 
+            "FLOAT": {
+                "direction": 0.0
+            }, 
+            "INTEGER": {
+                "count": 0, 
+                "i": 0, 
+                "index": 0, 
+                "j": 0, 
+                "key": 0, 
+                "level": 0, 
+                "m": 0, 
+                "unitid": 0, 
+                "物理攻击": 0, 
+                "物理防御": 0, 
+                "生命值": 0, 
+                "魔法攻击": 0, 
+                "魔法防御": 0
+            }, 
+            "PLAYER": {
+                "player": 0
+            }, 
+            "POINT": {
+                "dot": {
+                    "__tuple__": true, 
+                    "items": [
+                        0, 
+                        0, 
+                        0
+                    ]
+                }
+            }, 
+            "STRING": {
+                "isLockedj": "", 
+                "skillj": ""
+            }, 
+            "TABLE": {
+                "unitInfo": null
+            }, 
+            "UNIT_ENTITY": {
+                "entityUnit": 0
+            }, 
+            "UNIT_NAME": {
+                "unit": 0
+            }
+        }, 
+        {
+            "count": 0, 
+            "direction": 0, 
+            "dot": 0, 
+            "entityUnit": 0, 
+            "i": 0, 
+            "index": 0, 
+            "isLockedj": 0, 
+            "j": 0, 
+            "key": 0, 
+            "level": 0, 
+            "m": 0, 
+            "player": 0, 
+            "skill1": 0, 
+            "skill2": 0, 
+            "skill3": 0, 
+            "skillj": 0, 
+            "unit": 0, 
+            "unitInfo": 0, 
+            "unitid": 0, 
+            "物理攻击": 0, 
+            "物理防御": 0, 
+            "生命值": 0, 
+            "魔法攻击": 0, 
+            "魔法防御": 0
+        }, 
+        [
+            "count", 
+            "direction", 
+            "dot", 
+            "entityUnit", 
+            "i", 
+            "index", 
+            "isLockedj", 
+            "j", 
+            "key", 
+            "level", 
+            "m", 
+            "player", 
+            "skill1", 
+            "skill2", 
+            "skill3", 
+            "skillj", 
+            "unit", 
+            "unitInfo", 
+            "unitid", 
+            "物理攻击", 
+            "物理防御", 
+            "生命值", 
+            "魔法攻击", 
+            "魔法防御"
+        ]
+    ]
 }

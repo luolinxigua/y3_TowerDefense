@@ -110,5 +110,10 @@
     "p_trigger_id": null, 
     "trigger_id": 1786937551, 
     "trigger_name": "create_player_unit", 
-    "valid": false
+    "valid": false, 
+    "var_data": [
+        {}, 
+        {}, 
+        []
+    ]
 }

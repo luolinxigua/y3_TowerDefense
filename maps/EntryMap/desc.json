@@ -4,6 +4,7 @@
         "table_data"
     ], 
     "group_name": "", 
+    "is_neox_map": false, 
     "name": "main", 
     "publish_name": "", 
     "theme": 1

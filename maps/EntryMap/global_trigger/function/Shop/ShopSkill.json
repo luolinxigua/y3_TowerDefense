@@ -3684,10 +3684,126 @@
             "p_trigger_id": 631222404, 
             "trigger_id": 1110708358, 
             "trigger_name": "on_click_shopskill", 
-            "valid": true
+            "valid": true, 
+            "var_data": [
+                {}, 
+                {}, 
+                []
+            ]
         }
     }, 
     "trigger_id": 631222404, 
     "trigger_name": "ShopSkill", 
-    "valid": true
+    "valid": true, 
+    "var_data": [
+        {
+            "ABILITY_NAME": {
+                "skill": 0, 
+                "skill_shop": 0, 
+                "skill_unit": 0, 
+                "unitSkill": 0, 
+                "unit_archive": 0, 
+                "unit_choose": 0
+            }, 
+            "INTEGER": {
+                "i": 0, 
+                "index": 0, 
+                "j": 0, 
+                "k": 0, 
+                "length_shopSkill": 0, 
+                "length_unitInfo": 0, 
+                "m": 0, 
+                "n": 0, 
+                "random": 0, 
+                "skillList": 0, 
+                "temp": 0, 
+                "y": 0
+            }, 
+            "STRING": {
+                "click": "", 
+                "isLockedy": "", 
+                "j_str": "", 
+                "skill_desc": "", 
+                "skill_name": "", 
+                "skillj": "", 
+                "skilly": "", 
+                "unit_name": ""
+            }, 
+            "TABLE": {
+                "randomShopSkill": null, 
+                "shopSkill": null, 
+                "unitInfo": null
+            }, 
+            "TEXTURE": {
+                "avator": 0, 
+                "skillAvator": 0
+            }
+        }, 
+        {
+            "avator": 0, 
+            "click": 0, 
+            "i": 0, 
+            "index": 0, 
+            "isLockedy": 0, 
+            "j": 0, 
+            "j_str": 0, 
+            "k": 0, 
+            "length_shopSkill": 0, 
+            "length_unitInfo": 0, 
+            "m": 0, 
+            "n": 0, 
+            "random": 0, 
+            "randomShopSkill": 0, 
+            "shopSkill": 0, 
+            "skill": 0, 
+            "skillAvator": 0, 
+            "skillList": 10, 
+            "skill_desc": 0, 
+            "skill_name": 0, 
+            "skill_shop": 0, 
+            "skill_unit": 0, 
+            "skillj": 0, 
+            "skilly": 0, 
+            "temp": 0, 
+            "unitInfo": 0, 
+            "unitSkill": 0, 
+            "unit_archive": 0, 
+            "unit_choose": 0, 
+            "unit_name": 0, 
+            "y": 0
+        }, 
+        [
+            "avator", 
+            "click", 
+            "i", 
+            "index", 
+            "isLockedy", 
+            "j", 
+            "j_str", 
+            "k", 
+            "length_shopSkill", 
+            "length_unitInfo", 
+            "m", 
+            "n", 
+            "random", 
+            "randomShopSkill", 
+            "shopSkill", 
+            "skill", 
+            "skillAvator", 
+            "skillList", 
+            "skill_desc", 
+            "skill_name", 
+            "skill_shop", 
+            "skill_unit", 
+            "skillj", 
+            "skilly", 
+            "temp", 
+            "unitInfo", 
+            "unitSkill", 
+            "unit_archive", 
+            "unit_choose", 
+            "unit_name", 
+            "y"
+        ]
+    ]
 }

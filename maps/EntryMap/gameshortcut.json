@@ -71,6 +71,15 @@
             ]
         ]
     }, 
+    "command_queue_key": {
+        "__tuple__": true, 
+        "items": [
+            false, 
+            [
+                "Shift"
+            ]
+        ]
+    }, 
     "dest_common_atk_cmd": {
         "__tuple__": true, 
         "items": [

@@ -6881,5 +6881,28 @@
     "p_trigger_id": null, 
     "trigger_id": 1270726670, 
     "trigger_name": "Refresh Unit Attribute", 
-    "valid": true
+    "valid": true, 
+    "var_data": [
+        {
+            "NEW_TIMER": {
+                "t": -1
+            }, 
+            "PLAYER": {
+                "player": 0
+            }, 
+            "UNIT_ENTITY": {
+                "unit": 0
+            }
+        }, 
+        {
+            "player": 0, 
+            "t": 0, 
+            "unit": 0
+        }, 
+        [
+            "player", 
+            "t", 
+            "unit"
+        ]
+    ]
 }

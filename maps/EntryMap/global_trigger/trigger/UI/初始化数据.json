@@ -2513,5 +2513,35 @@
     "p_trigger_id": null, 
     "trigger_id": 734306311, 
     "trigger_name": "初始化数据", 
-    "valid": true
+    "valid": true, 
+    "var_data": [
+        {
+            "INTEGER": {
+                "Ci": 0, 
+                "Ri": 0, 
+                "bag_slot": 0, 
+                "now_column": 0, 
+                "now_row": 0
+            }, 
+            "UI_PREFAB_INSTANCE": {
+                "slot": ""
+            }
+        }, 
+        {
+            "Ci": 0, 
+            "Ri": 0, 
+            "bag_slot": 0, 
+            "now_column": 0, 
+            "now_row": 0, 
+            "slot": 0
+        }, 
+        [
+            "Ci", 
+            "Ri", 
+            "bag_slot", 
+            "now_column", 
+            "now_row", 
+            "slot"
+        ]
+    ]
 }

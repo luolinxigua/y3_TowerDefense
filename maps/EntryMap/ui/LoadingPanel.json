@@ -18,11 +18,15 @@
             "image": 110020, 
             "name": "loading_background", 
             "open_adapter": true, 
-            "pos": {
+            "pos_data": {
                 "__tuple__": true, 
                 "items": [
                     960.0, 
-                    540.0
+                    540.0, 
+                    50.0, 
+                    50.0, 
+                    1, 
+                    1
                 ]
             }, 
             "prefab_sub_key": null, 
@@ -54,18 +58,15 @@
             "image": 106408, 
             "name": "loading_bar_percent", 
             "open_adapter": true, 
-            "pos": {
+            "pos_data": {
                 "__tuple__": true, 
                 "items": [
                     960.0, 
-                    36.0
-                ]
-            }, 
-            "pos_percent": {
-                "__tuple__": true, 
-                "items": [
+                    36.0, 
                     50.0, 
-                    3.3333
+                    3.3333, 
+                    1, 
+                    1
                 ]
             }, 
             "prefab_sub_key": null, 
@@ -99,18 +100,15 @@
             }, 
             "name": "label_percent", 
             "open_adapter": true, 
-            "pos": {
+            "pos_data": {
                 "__tuple__": true, 
                 "items": [
                     284.0001, 
-                    67.0
-                ]
-            }, 
-            "pos_percent": {
-                "__tuple__": true, 
-                "items": [
+                    67.0, 
                     14.7917, 
-                    6.2037
+                    6.2037, 
+                    1, 
+                    1
                 ]
             }, 
             "prefab_sub_key": null, 
@@ -151,18 +149,15 @@
             }, 
             "name": "loading...", 
             "open_adapter": true, 
-            "pos": {
+            "pos_data": {
                 "__tuple__": true, 
                 "items": [
                     114.0, 
-                    66.0
-                ]
-            }, 
-            "pos_percent": {
-                "__tuple__": true, 
-                "items": [
+                    66.0, 
                     5.9375, 
-                    6.1111
+                    6.1111, 
+                    1, 
+                    1
                 ]
             }, 
             "prefab_sub_key": null, 

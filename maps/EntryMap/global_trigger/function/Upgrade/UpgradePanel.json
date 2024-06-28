@@ -48,5 +48,10 @@
     "p_trigger_id": null, 
     "trigger_id": 1458651274, 
     "trigger_name": "UpgradePanel", 
-    "valid": true
+    "valid": true, 
+    "var_data": [
+        {}, 
+        {}, 
+        []
+    ]
 }

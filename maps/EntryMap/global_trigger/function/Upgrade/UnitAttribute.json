@@ -1216,5 +1216,58 @@
     "p_trigger_id": null, 
     "trigger_id": 1615876240, 
     "trigger_name": "UnitAttribute", 
-    "valid": true
+    "valid": true, 
+    "var_data": [
+        {
+            "INTEGER": {
+                "level": 0, 
+                "unitid": 0, 
+                "攻击距离": 0, 
+                "攻击速度": 0, 
+                "物理攻击": 0, 
+                "物理防御": 0, 
+                "生命值": 0, 
+                "移动速度": 0, 
+                "魔法攻击": 0, 
+                "魔法防御": 0
+            }, 
+            "STRING": {
+                "level_str": "", 
+                "unit_str": ""
+            }, 
+            "UNIT_NAME": {
+                "unit": 0
+            }
+        }, 
+        {
+            "level": 0, 
+            "level_str": 0, 
+            "unit": 0, 
+            "unit_str": 0, 
+            "unitid": 0, 
+            "攻击距离": 0, 
+            "攻击速度": 0, 
+            "物理攻击": 0, 
+            "物理防御": 0, 
+            "生命值": 0, 
+            "移动速度": 0, 
+            "魔法攻击": 0, 
+            "魔法防御": 0
+        }, 
+        [
+            "level", 
+            "level_str", 
+            "unit", 
+            "unit_str", 
+            "unitid", 
+            "攻击距离", 
+            "攻击速度", 
+            "物理攻击", 
+            "物理防御", 
+            "生命值", 
+            "移动速度", 
+            "魔法攻击", 
+            "魔法防御"
+        ]
+    ]
 }

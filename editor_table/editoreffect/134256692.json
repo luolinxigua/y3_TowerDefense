@@ -1,4 +1,46 @@
 {
+    "deps_info": {
+        "deps": [
+            {
+                "__tuple__": true, 
+                "items": [
+                    "editor_icon", 
+                    901774
+                ]
+            }, 
+            {
+                "__tuple__": true, 
+                "items": [
+                    "editor_icon", 
+                    902497
+                ]
+            }, 
+            {
+                "__tuple__": true, 
+                "items": [
+                    "editor_icon", 
+                    900853
+                ]
+            }, 
+            {
+                "__tuple__": true, 
+                "items": [
+                    "editor_icon", 
+                    902517
+                ]
+            }, 
+            {
+                "__tuple__": true, 
+                "items": [
+                    "editor_icon", 
+                    902398
+                ]
+            }
+        ], 
+        "sound_id_list": [
+            124839
+        ]
+    }, 
     "describe": 134256692, 
     "key": 134256692, 
     "md5": "de5f79e24cb48a31ab03a9a33d9e8321", 

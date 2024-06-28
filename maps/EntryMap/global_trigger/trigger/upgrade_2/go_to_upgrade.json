@@ -40,5 +40,10 @@
     "p_trigger_id": null, 
     "trigger_id": 636104837, 
     "trigger_name": "go_to_upgrade", 
-    "valid": true
+    "valid": true, 
+    "var_data": [
+        {}, 
+        {}, 
+        []
+    ]
 }

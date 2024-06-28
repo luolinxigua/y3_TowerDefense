@@ -607,5 +607,40 @@
     "p_trigger_id": null, 
     "trigger_id": 889610370, 
     "trigger_name": "ShopMoney", 
-    "valid": true
+    "valid": true, 
+    "var_data": [
+        {
+            "INTEGER": {
+                "diamond": 0, 
+                "gold": 0, 
+                "i": 0, 
+                "rsrcInfo_length": 0
+            }, 
+            "STRING": {
+                "diamond_str": "", 
+                "gold_str": ""
+            }, 
+            "TABLE": {
+                "rsrcInfo": null
+            }
+        }, 
+        {
+            "diamond": 0, 
+            "diamond_str": 0, 
+            "gold": 0, 
+            "gold_str": 0, 
+            "i": 0, 
+            "rsrcInfo": 0, 
+            "rsrcInfo_length": 0
+        }, 
+        [
+            "diamond", 
+            "diamond_str", 
+            "gold", 
+            "gold_str", 
+            "i", 
+            "rsrcInfo", 
+            "rsrcInfo_length"
+        ]
+    ]
 }

@@ -1518,7 +1518,12 @@
             "p_trigger_id": 1948090492, 
             "trigger_id": 655622284, 
             "trigger_name": "hide_skill_desc", 
-            "valid": true
+            "valid": true, 
+            "var_data": [
+                {}, 
+                {}, 
+                []
+            ]
         }, 
         "1948090492": {
             "action": [
@@ -3745,7 +3750,12 @@
             "p_trigger_id": 1118982265, 
             "trigger_id": 1948090492, 
             "trigger_name": "on_choose_unit", 
-            "valid": true
+            "valid": true, 
+            "var_data": [
+                {}, 
+                {}, 
+                []
+            ]
         }, 
         "2115109003": {
             "action": [
@@ -3906,10 +3916,158 @@
             "p_trigger_id": 1948090492, 
             "trigger_id": 2115109003, 
             "trigger_name": "show_skill_desc", 
-            "valid": true
+            "valid": true, 
+            "var_data": [
+                {}, 
+                {}, 
+                []
+            ]
         }
     }, 
     "trigger_id": 1118982265, 
     "trigger_name": "UpgradeSelect", 
-    "valid": true
+    "valid": true, 
+    "var_data": [
+        {
+            "ABILITY_NAME": {
+                "skill": 0
+            }, 
+            "BOOLEAN": {
+                "isHaveSkill": false
+            }, 
+            "INTEGER": {
+                "baseLevel": 0, 
+                "expUpgrade": 0, 
+                "expValue": 0, 
+                "i": 0, 
+                "j": 0, 
+                "n": 0, 
+                "quailtyUpgrade": 0, 
+                "quality": 0, 
+                "qualityValue": 0, 
+                "realLevel": 0, 
+                "temp_unitid": 0, 
+                "unitid": 0, 
+                "攻击距离": 0, 
+                "攻击速度": 0, 
+                "物理攻击": 0, 
+                "物理防御": 0, 
+                "生命值": 0, 
+                "移动速度": 0, 
+                "魔法攻击": 0, 
+                "魔法防御": 0
+            }, 
+            "MODEL": {
+                "unitModel": 0
+            }, 
+            "STRING": {
+                "click": "", 
+                "cost_str": "", 
+                "in": "", 
+                "isLockedj": "", 
+                "out": "", 
+                "skillj": "", 
+                "temp_str_realLevel": "", 
+                "temp_str_unitid": "", 
+                "unitSkillDesc": ""
+            }, 
+            "TABLE": {
+                "groupInfo": null, 
+                "skillInfo": null, 
+                "unitInfo": null
+            }, 
+            "TEXTURE": {
+                "unitAvator": 0
+            }, 
+            "UI_COMP": {
+                "desc": "", 
+                "name": ""
+            }, 
+            "UNIT_NAME": {
+                "unit": 0
+            }
+        }, 
+        {
+            "baseLevel": 0, 
+            "click": 0, 
+            "cost_str": 0, 
+            "desc": 0, 
+            "expUpgrade": 0, 
+            "expValue": 0, 
+            "groupInfo": 0, 
+            "i": 0, 
+            "in": 0, 
+            "isHaveSkill": 0, 
+            "isLockedj": 0, 
+            "j": 0, 
+            "n": 0, 
+            "name": 0, 
+            "out": 0, 
+            "quailtyUpgrade": 0, 
+            "quality": 0, 
+            "qualityValue": 0, 
+            "realLevel": 0, 
+            "skill": 0, 
+            "skillInfo": 0, 
+            "skillj": 0, 
+            "temp_str_realLevel": 0, 
+            "temp_str_unitid": 0, 
+            "temp_unitid": 0, 
+            "unit": 0, 
+            "unitAvator": 0, 
+            "unitInfo": 0, 
+            "unitModel": 0, 
+            "unitSkillDesc": 0, 
+            "unitid": 0, 
+            "攻击距离": 0, 
+            "攻击速度": 0, 
+            "物理攻击": 0, 
+            "物理防御": 0, 
+            "生命值": 0, 
+            "移动速度": 0, 
+            "魔法攻击": 0, 
+            "魔法防御": 0
+        }, 
+        [
+            "baseLevel", 
+            "click", 
+            "cost_str", 
+            "desc", 
+            "expUpgrade", 
+            "expValue", 
+            "groupInfo", 
+            "i", 
+            "in", 
+            "isHaveSkill", 
+            "isLockedj", 
+            "j", 
+            "n", 
+            "name", 
+            "out", 
+            "quailtyUpgrade", 
+            "quality", 
+            "qualityValue", 
+            "realLevel", 
+            "skill", 
+            "skillInfo", 
+            "skillj", 
+            "temp_str_realLevel", 
+            "temp_str_unitid", 
+            "temp_unitid", 
+            "unit", 
+            "unitAvator", 
+            "unitInfo", 
+            "unitModel", 
+            "unitSkillDesc", 
+            "unitid", 
+            "攻击距离", 
+            "攻击速度", 
+            "物理攻击", 
+            "物理防御", 
+            "生命值", 
+            "移动速度", 
+            "魔法攻击", 
+            "魔法防御"
+        ]
+    ]
 }
