@@ -1,10 +1,10 @@
 {
-    "ui/134248440": {
-        "default_editor_id": 134248440, 
+    "ui/134280254": {
+        "default_editor_id": 134280254, 
         "describe": "", 
-        "key": "ui/134248440", 
-        "name": "\u53cd\u5f39\u653b\u51fb", 
-        "path": "ui/134248440", 
-        "uid": "res_icon_ui/134248440"
+        "key": "ui/134280254", 
+        "name": "\u96f7\u7535\u80fd\u91cf", 
+        "path": "ui/134280254", 
+        "uid": "res_icon_ui/134280254"
     }
 }

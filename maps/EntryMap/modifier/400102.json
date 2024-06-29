@@ -10,6 +10,10 @@
             "variable_length_dict": {
                 "\u751f\u547d\u6062\u590d": 0
             }
+        }, 
+        "1741975553": {
+            "variable_dict": {}, 
+            "variable_length_dict": {}
         }
     }, 
     "trigger_dict": {

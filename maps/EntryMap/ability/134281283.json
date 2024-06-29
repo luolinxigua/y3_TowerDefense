@@ -1,0 +1,74 @@
+{
+    "local_variable": {
+        "763162625": {
+            "variable_dict": {
+                "FLOAT": {
+                    "\u52a0\u6210": 0.0
+                }
+            }, 
+            "variable_length_dict": {
+                "\u52a0\u6210": 0
+            }
+        }
+    }, 
+    "trigger_dict": {
+        "763162625": {
+            "action": [], 
+            "call_enabled": true, 
+            "condition": [], 
+            "enabled": true, 
+            "event": [
+                {
+                    "args_list": [], 
+                    "element_id": 763162625000001, 
+                    "enable": true, 
+                    "event_type": "ABILITY_OBTAIN"
+                }, 
+                {
+                    "args_list": [], 
+                    "element_id": 763162625000002, 
+                    "enable": true, 
+                    "event_type": "ABILITY_LEVEL_CHANGED"
+                }
+            ], 
+            "group_id": 134281283, 
+            "p_trigger_id": null, 
+            "trigger_id": 763162625, 
+            "trigger_name": "\u65b0\u5efa\u89e6\u53d1\u5668", 
+            "valid": true, 
+            "var_data": [
+                {
+                    "FLOAT": {
+                        "\u52a0\u6210": 0.0
+                    }
+                }, 
+                {
+                    "\u52a0\u6210": 0
+                }, 
+                [
+                    "\u52a0\u6210"
+                ]
+            ]
+        }
+    }, 
+    "trigger_group_info": [
+        {
+            "_trigger_group_": true, 
+            "group": [
+                {
+                    "__tuple__": true, 
+                    "items": [
+                        763162625, 
+                        "\u65b0\u5efa\u89e6\u53d1\u5668"
+                    ]
+                }
+            ], 
+            "key": 134281283, 
+            "name": "134281283"
+        }
+    ], 
+    "trigger_version": "1.2", 
+    "variable_dict": {}, 
+    "variable_group_info": [], 
+    "variable_length_dict": {}
+}

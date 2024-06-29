@@ -2,11 +2,104 @@
  {
   "name": "code_ui_custom_panel_tree", 
   "key": 2147483647, 
-  "group": []
+  "group": [
+   {
+    "__tuple__": true, 
+    "items": [
+     "ab0517e2-7b6f-4d77-bc1c-fdda5f1e77fc", 
+     "defeat"
+    ]
+   }, 
+   {
+    "__tuple__": true, 
+    "items": [
+     "cad3d121-0c01-4188-8809-d1e2dd52c761", 
+     "group"
+    ]
+   }, 
+   {
+    "__tuple__": true, 
+    "items": [
+     "c5c09f12-f3d7-4b57-a18e-ceff75a73d80", 
+     "main"
+    ]
+   }, 
+   {
+    "__tuple__": true, 
+    "items": [
+     "0de03512-7e43-4944-afae-6fb0a0335d73", 
+     "play"
+    ]
+   }, 
+   {
+    "__tuple__": true, 
+    "items": [
+     "f723d0e6-caf7-495a-ab8b-606e78267473", 
+     "shop"
+    ]
+   }, 
+   {
+    "__tuple__": true, 
+    "items": [
+     "df59da22-89bb-434b-8cf4-26378cc53e21", 
+     "stage"
+    ]
+   }, 
+   {
+    "__tuple__": true, 
+    "items": [
+     "8205bc33-a198-461b-8050-29e863a6904f", 
+     "upgrade"
+    ]
+   }, 
+   {
+    "__tuple__": true, 
+    "items": [
+     "6400881b-1906-47ef-9cc7-74fe6b535a37", 
+     "victory"
+    ]
+   }
+  ]
  }, 
  {
   "name": "code_ui_preset_panel_tree", 
   "key": 2147483646, 
-  "group": []
+  "group": [
+   {
+    "__tuple__": true, 
+    "items": [
+     "ba9bec29-6a9d-47f3-a343-e4fe081e58dc", 
+     "GameHUD"
+    ]
+   }, 
+   {
+    "__tuple__": true, 
+    "items": [
+     "aa7ea525-8c73-4585-a6b6-ac706cf0e2f6", 
+     "LoadingPanel"
+    ]
+   }, 
+   {
+    "__tuple__": true, 
+    "items": [
+     "f09f15f5-e2d0-441e-be6f-325a88472a01", 
+     "LogoPanel"
+    ]
+   }, 
+   {
+    "__tuple__": true, 
+    "items": [
+     "f5e50920-7b3d-4076-b6a8-599b70783552", 
+     "loss"
+    ]
+   }, 
+   {
+    "__tuple__": true, 
+    "items": [
+     "d4c01f64-7413-4c8e-b0e5-4297d4a59c7a", 
+     "win"
+    ]
+   }
+  ]
  }
 ]

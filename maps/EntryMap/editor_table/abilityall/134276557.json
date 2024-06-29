@@ -20,13 +20,13 @@
     "ability_cost": {
         "__tuple__": true, 
         "items": [
-            "5"
+            "0.0"
         ]
     }, 
     "ability_damage": {
         "__tuple__": true, 
         "items": [
-            "5"
+            "0.0"
         ]
     }, 
     "ability_damage_range": {
@@ -42,7 +42,7 @@
         ]
     }, 
     "ability_icon": 100508, 
-    "ability_max_level": 1, 
+    "ability_max_level": 10, 
     "ability_max_stack_count": {
         "__tuple__": true, 
         "items": [
@@ -111,7 +111,7 @@
     "cold_down_time": {
         "__tuple__": true, 
         "items": [
-            "5"
+            "0.0"
         ]
     }, 
     "collection_animation": "", 
@@ -133,6 +133,7 @@
         "__tuple__": true, 
         "items": []
     }, 
+    "desc": 1194411960, 
     "description": 1194411960, 
     "end_sfx_list": {
         "__tuple__": true, 
@@ -143,6 +144,7 @@
         "items": []
     }, 
     "filter_condition_camp": 5, 
+    "filter_condition_move_channel_type": 99, 
     "filter_condition_type": 7, 
     "filter_item_tags": {
         "__tuple__": true, 
@@ -193,17 +195,28 @@
     }, 
     "release_immediately_out_of_range": false, 
     "required_level": {
-        "formula": "", 
-        "required_levels": {
+        "formula": {
             "__tuple__": true, 
             "items": [
-                1, 
-                2, 
-                3, 
-                4, 
-                5
+                "lambda unit: Fix32(1)", 
+                [], 
+                "lambda unit: Fix32(1)", 
+                {}, 
+                []
             ]
-        }
+        }, 
+        "required_levels": [
+            1, 
+            1, 
+            1, 
+            1, 
+            1, 
+            1, 
+            1, 
+            1, 
+            1, 
+            1
+        ]
     }, 
     "sector_angle": {
         "__tuple__": true, 

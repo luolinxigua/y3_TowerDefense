@@ -1,6 +1,28 @@
 {
     "action": [
         {
+            "action_type": "PRINT_MESSAGE_ACTION_TO_DIALOG", 
+            "args_list": [
+                {
+                    "arg_type": 100175, 
+                    "args_list": [
+                        3
+                    ], 
+                    "sub_type": 1
+                }, 
+                {
+                    "arg_type": 100003, 
+                    "args_list": [
+                        "单位出生"
+                    ], 
+                    "sub_type": 1
+                }
+            ], 
+            "bp": false, 
+            "element_id": 1786937551000124, 
+            "enable": true
+        }, 
+        {
             "action_type": "SET_VARIABLE", 
             "args_list": [
                 {
@@ -339,32 +361,6 @@
                                                             "condition_type": "FLOAT_COMPARE", 
                                                             "element_id": 1786937551000067, 
                                                             "enable": true
-                                                        }, 
-                                                        {
-                                                            "args_list": [
-                                                                {
-                                                                    "arg_type": 100006, 
-                                                                    "args_list": [], 
-                                                                    "sub_type": "GET_UNIT_FROM_EVENT"
-                                                                }, 
-                                                                {
-                                                                    "arg_type": 100039, 
-                                                                    "args_list": [
-                                                                        {
-                                                                            "__tuple__": true, 
-                                                                            "items": [
-                                                                                "ABILITY_NAME", 
-                                                                                "skill", 
-                                                                                "local"
-                                                                            ]
-                                                                        }
-                                                                    ], 
-                                                                    "sub_type": "VARIABLE"
-                                                                }
-                                                            ], 
-                                                            "condition_type": "CHECK_HAS_ABILITY_TYPE", 
-                                                            "element_id": 1786937551000080, 
-                                                            "enable": true
                                                         }
                                                     ], 
                                                     "sub_type": 1
@@ -436,6 +432,41 @@
                                                 true, 
                                                 false
                                             ]
+                                        }, 
+                                        {
+                                            "action_type": "PRINT_MESSAGE_ACTION_TO_DIALOG", 
+                                            "args_list": [
+                                                {
+                                                    "arg_type": 100175, 
+                                                    "args_list": [
+                                                        3
+                                                    ], 
+                                                    "sub_type": 1
+                                                }, 
+                                                {
+                                                    "arg_type": 100003, 
+                                                    "args_list": [
+                                                        {
+                                                            "arg_type": 100002, 
+                                                            "args_list": [
+                                                                {
+                                                                    "__tuple__": true, 
+                                                                    "items": [
+                                                                        "INTEGER", 
+                                                                        "level", 
+                                                                        "local"
+                                                                    ]
+                                                                }
+                                                            ], 
+                                                            "sub_type": 6
+                                                        }
+                                                    ], 
+                                                    "sub_type": "ANY_VAR_TO_STR"
+                                                }
+                                            ], 
+                                            "bp": false, 
+                                            "element_id": 1786937551000133, 
+                                            "enable": false
                                         }
                                     ], 
                                     "sub_type": 1
