@@ -1,8 +1,9 @@
 {
-    "BindBar.json": 0, 
-    "EnemyTower.json": 2, 
-    "LimitTower.json": 1, 
-    "PutMineral.json": 5, 
-    "PutMob.json": 4, 
-    "PutUnit.json": 3
+    "BindBar.json": 1, 
+    "EnemyTower.json": 3, 
+    "LimitTower.json": 2, 
+    "PutMineral.json": 6, 
+    "PutMob.json": 5, 
+    "PutUnit.json": 4, 
+    "TechList.json": 0
 }

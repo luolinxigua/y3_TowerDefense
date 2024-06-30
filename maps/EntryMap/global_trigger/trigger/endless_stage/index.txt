@@ -1,6 +1,9 @@
 {
-    "create_player_unit.json": 3, 
+    "create_player_unit.json": 5, 
     "gain_energy.json": 1, 
+    "gain_gold_exp.json": 4, 
     "gain_tech.json": 2, 
+    "gain_tech_addition.json": 3, 
+    "show_tech_info.json": 6, 
     "start.json": 0
 }

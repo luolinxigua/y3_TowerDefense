@@ -8,10 +8,10 @@
                     "cap_insets": {
                         "__tuple__": true, 
                         "items": [
-                            340.0, 
-                            204.0, 
-                            340.0, 
-                            204.0
+                            520.0, 
+                            360.0, 
+                            520.0, 
+                            360.0
                         ]
                     }, 
                     "children": [], 
@@ -22,7 +22,7 @@
                         254
                     ], 
                     "event_list": [], 
-                    "image": 131194, 
+                    "image": 134268255, 
                     "name": "pic", 
                     "pos_data": {
                         "__tuple__": true, 
@@ -105,11 +105,18 @@
                             "name": "back_to_main", 
                             "sound_id": null, 
                             "type": 30
+                        }, 
+                        {
+                            "action_list": [], 
+                            "enabled": true, 
+                            "name": "back_to_main_1", 
+                            "sound_id": 110475, 
+                            "type": 24
                         }
                     ], 
                     "hover_status_added": true, 
                     "name": "back_to_main", 
-                    "normal_picture": 108469, 
+                    "normal_picture": 134274170, 
                     "pos_data": {
                         "__tuple__": true, 
                         "items": [
@@ -126,11 +133,11 @@
                     "size": {
                         "__tuple__": true, 
                         "items": [
-                            100.0, 
-                            100.0
+                            150.0, 
+                            150.0
                         ]
                     }, 
-                    "suspend_picture": 108470, 
+                    "suspend_picture": 134262359, 
                     "type": 1, 
                     "uid": "88cd94d6-8792-43ac-9f08-b4d3e757b91f"
                 }, 
@@ -164,6 +171,13 @@
                             "name": "go_to_group", 
                             "sound_id": null, 
                             "type": 30
+                        }, 
+                        {
+                            "action_list": [], 
+                            "enabled": true, 
+                            "name": "go_to_group_1", 
+                            "sound_id": 110475, 
+                            "type": 24
                         }
                     ], 
                     "font": {
@@ -175,27 +189,14 @@
                     }, 
                     "hover_status_added": true, 
                     "name": "go_to_group", 
-                    "normal_font_color": [
-                        151, 
-                        77, 
-                        38, 
-                        255
-                    ], 
-                    "normal_picture": 108494, 
-                    "normal_text": {
-                        "__tuple__": true, 
-                        "items": [
-                            "\u961f\u4f0d\u914d\u7f6e", 
-                            false
-                        ]
-                    }, 
+                    "normal_picture": 134232630, 
                     "pos_data": {
                         "__tuple__": true, 
                         "items": [
-                            225.0, 
-                            75.0, 
-                            11.7188, 
-                            6.9444, 
+                            760.0, 
+                            144.0, 
+                            39.58, 
+                            13.33, 
                             1, 
                             1
                         ]
@@ -205,24 +206,11 @@
                     "size": {
                         "__tuple__": true, 
                         "items": [
-                            450.0, 
+                            150.0, 
                             150.0
                         ]
                     }, 
-                    "suspend_font_color": [
-                        151, 
-                        77, 
-                        38, 
-                        255
-                    ], 
-                    "suspend_picture": 108493, 
-                    "suspend_text": {
-                        "__tuple__": true, 
-                        "items": [
-                            "\u961f\u4f0d\u914d\u7f6e", 
-                            false
-                        ]
-                    }, 
+                    "suspend_picture": 134270276, 
                     "type": 1, 
                     "uid": "a20e5f97-d669-493d-a217-920f67fd9785"
                 }, 
@@ -256,6 +244,13 @@
                             "name": "go_to_upgrade", 
                             "sound_id": null, 
                             "type": 30
+                        }, 
+                        {
+                            "action_list": [], 
+                            "enabled": true, 
+                            "name": "go_to_upgrade_1", 
+                            "sound_id": 110475, 
+                            "type": 24
                         }
                     ], 
                     "font": {
@@ -267,27 +262,14 @@
                     }, 
                     "hover_status_added": true, 
                     "name": "go_to_upgrade", 
-                    "normal_font_color": [
-                        151, 
-                        77, 
-                        38, 
-                        255
-                    ], 
-                    "normal_picture": 108494, 
-                    "normal_text": {
-                        "__tuple__": true, 
-                        "items": [
-                            "\u5355\u4f4d\u517b\u6210", 
-                            false
-                        ]
-                    }, 
+                    "normal_picture": 134249221, 
                     "pos_data": {
                         "__tuple__": true, 
                         "items": [
-                            675.0, 
-                            75.0, 
-                            35.1563, 
-                            6.9444, 
+                            960.0, 
+                            144.0, 
+                            50.0, 
+                            13.33, 
                             1, 
                             1
                         ]
@@ -297,24 +279,11 @@
                     "size": {
                         "__tuple__": true, 
                         "items": [
-                            450.0, 
+                            150.0, 
                             150.0
                         ]
                     }, 
-                    "suspend_font_color": [
-                        151, 
-                        77, 
-                        38, 
-                        255
-                    ], 
-                    "suspend_picture": 108493, 
-                    "suspend_text": {
-                        "__tuple__": true, 
-                        "items": [
-                            "\u5355\u4f4d\u517b\u6210", 
-                            false
-                        ]
-                    }, 
+                    "suspend_picture": 134266164, 
                     "type": 1, 
                     "uid": "64b5dda9-07b8-49f3-ae95-e85b15233b4c"
                 }, 
@@ -348,6 +317,13 @@
                             "name": "go_to_shop", 
                             "sound_id": null, 
                             "type": 30
+                        }, 
+                        {
+                            "action_list": [], 
+                            "enabled": true, 
+                            "name": "go_to_shop_1", 
+                            "sound_id": 110475, 
+                            "type": 24
                         }
                     ], 
                     "font": {
@@ -359,27 +335,14 @@
                     }, 
                     "hover_status_added": true, 
                     "name": "go_to_shop", 
-                    "normal_font_color": [
-                        151, 
-                        77, 
-                        38, 
-                        255
-                    ], 
-                    "normal_picture": 108494, 
-                    "normal_text": {
-                        "__tuple__": true, 
-                        "items": [
-                            "\u5546\u5e97", 
-                            false
-                        ]
-                    }, 
+                    "normal_picture": 134261961, 
                     "pos_data": {
                         "__tuple__": true, 
                         "items": [
-                            1125.0, 
-                            75.0, 
-                            58.5938, 
-                            6.9444, 
+                            1160.0, 
+                            144.0, 
+                            60.42, 
+                            13.33, 
                             1, 
                             1
                         ]
@@ -389,26 +352,764 @@
                     "size": {
                         "__tuple__": true, 
                         "items": [
-                            450.0, 
+                            150.0, 
                             150.0
                         ]
                     }, 
-                    "suspend_font_color": [
-                        151, 
-                        77, 
-                        38, 
-                        255
-                    ], 
-                    "suspend_picture": 108493, 
-                    "suspend_text": {
-                        "__tuple__": true, 
-                        "items": [
-                            "\u5546\u5e97", 
-                            false
-                        ]
-                    }, 
+                    "suspend_picture": 134223395, 
                     "type": 1, 
                     "uid": "ca826be2-39ba-4e24-988a-f87c3675fbfa"
+                }, 
+                {
+                    "children": [
+                        {
+                            "children": [], 
+                            "event_list": [
+                                {
+                                    "action_list": [
+                                        {
+                                            "anim_duration": 1.0, 
+                                            "anim_id": null, 
+                                            "anim_type": 0, 
+                                            "comp": "24d6493c-c23e-46c6-b2f3-384891fe64d9", 
+                                            "ease_type": 0, 
+                                            "name": "Show_28", 
+                                            "open_timeline": true, 
+                                            "type": 2
+                                        }, 
+                                        {
+                                            "anim_duration": 1.0, 
+                                            "anim_id": null, 
+                                            "anim_type": 0, 
+                                            "comp": "565c6a43-17cb-482e-a35f-3785bad315bc", 
+                                            "ease_type": 0, 
+                                            "name": "Show_29", 
+                                            "open_timeline": true, 
+                                            "type": 2
+                                        }, 
+                                        {
+                                            "anim_duration": 1.0, 
+                                            "anim_id": null, 
+                                            "anim_type": 0, 
+                                            "comp": "ac32077f-862c-4f8c-999a-1b80e19e8f0b", 
+                                            "ease_type": 0, 
+                                            "name": "Show_31", 
+                                            "open_timeline": true, 
+                                            "type": 2
+                                        }, 
+                                        {
+                                            "anim_duration": 1.0, 
+                                            "anim_id": null, 
+                                            "anim_type": 0, 
+                                            "comp": "a5d8612b-a5f5-4da4-864d-a91c9f7ce3d0", 
+                                            "ease_type": 0, 
+                                            "name": "Hide_53", 
+                                            "open_timeline": true, 
+                                            "type": 3
+                                        }, 
+                                        {
+                                            "anim_duration": 1.0, 
+                                            "anim_id": null, 
+                                            "anim_type": 0, 
+                                            "comp": "a4bd8232-5d7f-41f3-9459-53bcd35a135f", 
+                                            "ease_type": 0, 
+                                            "name": "Hide_54", 
+                                            "open_timeline": true, 
+                                            "type": 3
+                                        }, 
+                                        {
+                                            "anim_duration": 1.0, 
+                                            "anim_id": null, 
+                                            "anim_type": 0, 
+                                            "comp": "aba36fd8-1a8a-4c97-9b3b-b5ff243467cb", 
+                                            "ease_type": 0, 
+                                            "name": "Hide_55", 
+                                            "open_timeline": true, 
+                                            "type": 3
+                                        }
+                                    ], 
+                                    "enabled": true, 
+                                    "name": "button_1", 
+                                    "sound_id": null, 
+                                    "type": 30
+                                }, 
+                                {
+                                    "action_list": [], 
+                                    "enabled": true, 
+                                    "name": "button_1_1", 
+                                    "sound_id": 110497, 
+                                    "type": 24
+                                }
+                            ], 
+                            "hover_status_added": true, 
+                            "name": "button_1", 
+                            "normal_picture": 134239985, 
+                            "pos_data": {
+                                "__tuple__": true, 
+                                "items": [
+                                    1820.0, 
+                                    540.0, 
+                                    94.7917, 
+                                    50.0, 
+                                    0, 
+                                    0
+                                ]
+                            }, 
+                            "prefab_sub_key": null, 
+                            "scene_ui_name": null, 
+                            "size": {
+                                "__tuple__": true, 
+                                "items": [
+                                    92.0, 
+                                    120.0
+                                ]
+                            }, 
+                            "suspend_picture": 134232665, 
+                            "type": 1, 
+                            "uid": "273c1b77-f9d1-48cd-b6ae-23c8f14db18c"
+                        }
+                    ], 
+                    "event_list": [], 
+                    "name": "stage_panel_01", 
+                    "pos_data": {
+                        "__tuple__": true, 
+                        "items": [
+                            960.0, 
+                            540.0, 
+                            50.0, 
+                            50.0, 
+                            1, 
+                            1
+                        ]
+                    }, 
+                    "prefab_sub_key": null, 
+                    "scene_ui_name": null, 
+                    "size": {
+                        "__tuple__": true, 
+                        "items": [
+                            1920.0, 
+                            1080.0
+                        ]
+                    }, 
+                    "type": 7, 
+                    "uid": "aba36fd8-1a8a-4c97-9b3b-b5ff243467cb"
+                }, 
+                {
+                    "children": [
+                        {
+                            "children": [], 
+                            "event_list": [
+                                {
+                                    "action_list": [
+                                        {
+                                            "anim_duration": 1.0, 
+                                            "anim_id": null, 
+                                            "anim_type": 0, 
+                                            "comp": "a5d8612b-a5f5-4da4-864d-a91c9f7ce3d0", 
+                                            "ease_type": 0, 
+                                            "name": "Show_32", 
+                                            "open_timeline": true, 
+                                            "type": 2
+                                        }, 
+                                        {
+                                            "anim_duration": 1.0, 
+                                            "anim_id": null, 
+                                            "anim_type": 0, 
+                                            "comp": "a4bd8232-5d7f-41f3-9459-53bcd35a135f", 
+                                            "ease_type": 0, 
+                                            "name": "Show_33", 
+                                            "open_timeline": true, 
+                                            "type": 2
+                                        }, 
+                                        {
+                                            "anim_duration": 1.0, 
+                                            "anim_id": null, 
+                                            "anim_type": 0, 
+                                            "comp": "aba36fd8-1a8a-4c97-9b3b-b5ff243467cb", 
+                                            "ease_type": 0, 
+                                            "name": "Show_34", 
+                                            "open_timeline": true, 
+                                            "type": 2
+                                        }, 
+                                        {
+                                            "anim_duration": 1.0, 
+                                            "anim_id": null, 
+                                            "anim_type": 0, 
+                                            "comp": "24d6493c-c23e-46c6-b2f3-384891fe64d9", 
+                                            "ease_type": 0, 
+                                            "name": "Hide_56", 
+                                            "open_timeline": true, 
+                                            "type": 3
+                                        }, 
+                                        {
+                                            "anim_duration": 1.0, 
+                                            "anim_id": null, 
+                                            "anim_type": 0, 
+                                            "comp": "565c6a43-17cb-482e-a35f-3785bad315bc", 
+                                            "ease_type": 0, 
+                                            "name": "Hide_57", 
+                                            "open_timeline": true, 
+                                            "type": 3
+                                        }, 
+                                        {
+                                            "anim_duration": 1.0, 
+                                            "anim_id": null, 
+                                            "anim_type": 0, 
+                                            "comp": "ac32077f-862c-4f8c-999a-1b80e19e8f0b", 
+                                            "ease_type": 0, 
+                                            "name": "Hide_58", 
+                                            "open_timeline": true, 
+                                            "type": 3
+                                        }
+                                    ], 
+                                    "enabled": true, 
+                                    "name": "button_2", 
+                                    "sound_id": null, 
+                                    "type": 30
+                                }, 
+                                {
+                                    "action_list": [], 
+                                    "enabled": true, 
+                                    "name": "button_2_1", 
+                                    "sound_id": 110497, 
+                                    "type": 24
+                                }
+                            ], 
+                            "hover_status_added": true, 
+                            "name": "button_2", 
+                            "normal_picture": 134280224, 
+                            "pos_data": {
+                                "__tuple__": true, 
+                                "items": [
+                                    100.0, 
+                                    540.0, 
+                                    5.2083, 
+                                    50.0, 
+                                    0, 
+                                    0
+                                ]
+                            }, 
+                            "prefab_sub_key": null, 
+                            "scene_ui_name": null, 
+                            "size": {
+                                "__tuple__": true, 
+                                "items": [
+                                    92.0, 
+                                    120.0
+                                ]
+                            }, 
+                            "suspend_picture": 134282290, 
+                            "type": 1, 
+                            "uid": "cb9f1fa7-2ae9-4c91-9a1e-05b6e506b11f"
+                        }, 
+                        {
+                            "children": [], 
+                            "event_list": [
+                                {
+                                    "action_list": [
+                                        {
+                                            "anim_duration": 1.0, 
+                                            "anim_id": null, 
+                                            "anim_type": 0, 
+                                            "comp": "992e0d01-47d0-46b7-9ac0-637933f89442", 
+                                            "ease_type": 0, 
+                                            "name": "Show_35", 
+                                            "open_timeline": true, 
+                                            "type": 2
+                                        }, 
+                                        {
+                                            "anim_duration": 1.0, 
+                                            "anim_id": null, 
+                                            "anim_type": 0, 
+                                            "comp": "c841f159-3693-40f3-850b-89175d8a0b6e", 
+                                            "ease_type": 0, 
+                                            "name": "Show_36", 
+                                            "open_timeline": true, 
+                                            "type": 2
+                                        }, 
+                                        {
+                                            "anim_duration": 1.0, 
+                                            "anim_id": null, 
+                                            "anim_type": 0, 
+                                            "comp": "6f01929b-7914-4f85-b1b3-626605dc3232", 
+                                            "ease_type": 0, 
+                                            "name": "Show_37", 
+                                            "open_timeline": true, 
+                                            "type": 2
+                                        }, 
+                                        {
+                                            "anim_duration": 1.0, 
+                                            "anim_id": null, 
+                                            "anim_type": 0, 
+                                            "comp": "24d6493c-c23e-46c6-b2f3-384891fe64d9", 
+                                            "ease_type": 0, 
+                                            "name": "Hide_59", 
+                                            "open_timeline": true, 
+                                            "type": 3
+                                        }, 
+                                        {
+                                            "anim_duration": 1.0, 
+                                            "anim_id": null, 
+                                            "anim_type": 0, 
+                                            "comp": "565c6a43-17cb-482e-a35f-3785bad315bc", 
+                                            "ease_type": 0, 
+                                            "name": "Hide_60", 
+                                            "open_timeline": true, 
+                                            "type": 3
+                                        }, 
+                                        {
+                                            "anim_duration": 1.0, 
+                                            "anim_id": null, 
+                                            "anim_type": 0, 
+                                            "comp": "ac32077f-862c-4f8c-999a-1b80e19e8f0b", 
+                                            "ease_type": 0, 
+                                            "name": "Hide_61", 
+                                            "open_timeline": true, 
+                                            "type": 3
+                                        }
+                                    ], 
+                                    "enabled": true, 
+                                    "name": "button_3", 
+                                    "sound_id": null, 
+                                    "type": 30
+                                }, 
+                                {
+                                    "action_list": [], 
+                                    "enabled": true, 
+                                    "name": "button_3_1", 
+                                    "sound_id": 110497, 
+                                    "type": 24
+                                }
+                            ], 
+                            "hover_status_added": true, 
+                            "name": "button_3", 
+                            "normal_picture": 134239985, 
+                            "pos_data": {
+                                "__tuple__": true, 
+                                "items": [
+                                    1819.9999, 
+                                    539.9998, 
+                                    94.7917, 
+                                    50.0, 
+                                    0, 
+                                    0
+                                ]
+                            }, 
+                            "prefab_sub_key": null, 
+                            "scene_ui_name": null, 
+                            "size": {
+                                "__tuple__": true, 
+                                "items": [
+                                    92.0, 
+                                    120.0
+                                ]
+                            }, 
+                            "suspend_picture": 134232665, 
+                            "type": 1, 
+                            "uid": "23a4d4b7-fa94-4a2d-b364-f036468a72c3"
+                        }
+                    ], 
+                    "event_list": [], 
+                    "name": "stage_panel_02", 
+                    "pos_data": {
+                        "__tuple__": true, 
+                        "items": [
+                            960.0, 
+                            540.0, 
+                            50.0, 
+                            50.0, 
+                            1, 
+                            1
+                        ]
+                    }, 
+                    "prefab_sub_key": null, 
+                    "scene_ui_name": null, 
+                    "size": {
+                        "__tuple__": true, 
+                        "items": [
+                            1920.0, 
+                            1080.0
+                        ]
+                    }, 
+                    "type": 7, 
+                    "uid": "ac32077f-862c-4f8c-999a-1b80e19e8f0b", 
+                    "visible": false
+                }, 
+                {
+                    "children": [
+                        {
+                            "children": [], 
+                            "event_list": [
+                                {
+                                    "action_list": [
+                                        {
+                                            "anim_duration": 1.0, 
+                                            "anim_id": null, 
+                                            "anim_type": 0, 
+                                            "comp": "24d6493c-c23e-46c6-b2f3-384891fe64d9", 
+                                            "ease_type": 0, 
+                                            "name": "Show_38", 
+                                            "open_timeline": true, 
+                                            "type": 2
+                                        }, 
+                                        {
+                                            "anim_duration": 1.0, 
+                                            "anim_id": null, 
+                                            "anim_type": 0, 
+                                            "comp": "565c6a43-17cb-482e-a35f-3785bad315bc", 
+                                            "ease_type": 0, 
+                                            "name": "Show_39", 
+                                            "open_timeline": true, 
+                                            "type": 2
+                                        }, 
+                                        {
+                                            "anim_duration": 1.0, 
+                                            "anim_id": null, 
+                                            "anim_type": 0, 
+                                            "comp": "ac32077f-862c-4f8c-999a-1b80e19e8f0b", 
+                                            "ease_type": 0, 
+                                            "name": "Show_40", 
+                                            "open_timeline": true, 
+                                            "type": 2
+                                        }, 
+                                        {
+                                            "anim_duration": 1.0, 
+                                            "anim_id": null, 
+                                            "anim_type": 0, 
+                                            "comp": "992e0d01-47d0-46b7-9ac0-637933f89442", 
+                                            "ease_type": 0, 
+                                            "name": "Hide_62", 
+                                            "open_timeline": true, 
+                                            "type": 3
+                                        }, 
+                                        {
+                                            "anim_duration": 1.0, 
+                                            "anim_id": null, 
+                                            "anim_type": 0, 
+                                            "comp": "c841f159-3693-40f3-850b-89175d8a0b6e", 
+                                            "ease_type": 0, 
+                                            "name": "Hide_63", 
+                                            "open_timeline": true, 
+                                            "type": 3
+                                        }, 
+                                        {
+                                            "anim_duration": 1.0, 
+                                            "anim_id": null, 
+                                            "anim_type": 0, 
+                                            "comp": "6f01929b-7914-4f85-b1b3-626605dc3232", 
+                                            "ease_type": 0, 
+                                            "name": "Hide_64", 
+                                            "open_timeline": true, 
+                                            "type": 3
+                                        }
+                                    ], 
+                                    "enabled": true, 
+                                    "name": "button_4", 
+                                    "sound_id": null, 
+                                    "type": 30
+                                }, 
+                                {
+                                    "action_list": [], 
+                                    "enabled": true, 
+                                    "name": "button_4_1", 
+                                    "sound_id": 110497, 
+                                    "type": 24
+                                }
+                            ], 
+                            "hover_status_added": true, 
+                            "name": "button_4", 
+                            "normal_picture": 134280224, 
+                            "pos_data": {
+                                "__tuple__": true, 
+                                "items": [
+                                    100.0, 
+                                    540.0, 
+                                    5.2083, 
+                                    50.0, 
+                                    0, 
+                                    0
+                                ]
+                            }, 
+                            "prefab_sub_key": null, 
+                            "scene_ui_name": null, 
+                            "size": {
+                                "__tuple__": true, 
+                                "items": [
+                                    92.0, 
+                                    120.0
+                                ]
+                            }, 
+                            "suspend_picture": 134282290, 
+                            "type": 1, 
+                            "uid": "db5cc81a-f9d1-4c70-8e81-5902a8df9a6e"
+                        }, 
+                        {
+                            "children": [], 
+                            "event_list": [
+                                {
+                                    "action_list": [
+                                        {
+                                            "anim_duration": 1.0, 
+                                            "anim_id": null, 
+                                            "anim_type": 0, 
+                                            "comp": "e5090eac-b688-4cbd-b0a6-2bfc25142a55", 
+                                            "ease_type": 0, 
+                                            "name": "Show_41", 
+                                            "open_timeline": true, 
+                                            "type": 2
+                                        }, 
+                                        {
+                                            "anim_duration": 1.0, 
+                                            "anim_id": null, 
+                                            "anim_type": 0, 
+                                            "comp": "1fcfcc97-07c4-4fd7-8b4d-949e47028dad", 
+                                            "ease_type": 0, 
+                                            "name": "Show_42", 
+                                            "open_timeline": true, 
+                                            "type": 2
+                                        }, 
+                                        {
+                                            "anim_duration": 1.0, 
+                                            "anim_id": null, 
+                                            "anim_type": 0, 
+                                            "comp": "182aedb1-295f-4941-98e0-98e10b05aea4", 
+                                            "ease_type": 0, 
+                                            "name": "Show_43", 
+                                            "open_timeline": true, 
+                                            "type": 2
+                                        }, 
+                                        {
+                                            "anim_duration": 1.0, 
+                                            "anim_id": null, 
+                                            "anim_type": 0, 
+                                            "comp": "992e0d01-47d0-46b7-9ac0-637933f89442", 
+                                            "ease_type": 0, 
+                                            "name": "Hide_65", 
+                                            "open_timeline": true, 
+                                            "type": 3
+                                        }, 
+                                        {
+                                            "anim_duration": 1.0, 
+                                            "anim_id": null, 
+                                            "anim_type": 0, 
+                                            "comp": "c841f159-3693-40f3-850b-89175d8a0b6e", 
+                                            "ease_type": 0, 
+                                            "name": "Hide_66", 
+                                            "open_timeline": true, 
+                                            "type": 3
+                                        }, 
+                                        {
+                                            "anim_duration": 1.0, 
+                                            "anim_id": null, 
+                                            "anim_type": 0, 
+                                            "comp": "6f01929b-7914-4f85-b1b3-626605dc3232", 
+                                            "ease_type": 0, 
+                                            "name": "Hide_67", 
+                                            "open_timeline": true, 
+                                            "type": 3
+                                        }
+                                    ], 
+                                    "enabled": true, 
+                                    "name": "button_5", 
+                                    "sound_id": null, 
+                                    "type": 30
+                                }, 
+                                {
+                                    "action_list": [], 
+                                    "enabled": true, 
+                                    "name": "button_5_1", 
+                                    "sound_id": 110497, 
+                                    "type": 24
+                                }
+                            ], 
+                            "hover_status_added": true, 
+                            "name": "button_5", 
+                            "normal_picture": 134239985, 
+                            "pos_data": {
+                                "__tuple__": true, 
+                                "items": [
+                                    1820.0, 
+                                    540.0, 
+                                    94.7917, 
+                                    50.0, 
+                                    0, 
+                                    0
+                                ]
+                            }, 
+                            "prefab_sub_key": null, 
+                            "scene_ui_name": null, 
+                            "size": {
+                                "__tuple__": true, 
+                                "items": [
+                                    92.0, 
+                                    120.0
+                                ]
+                            }, 
+                            "suspend_picture": 134232665, 
+                            "type": 1, 
+                            "uid": "50b88345-509c-4cc3-9f70-1493a088c10b"
+                        }
+                    ], 
+                    "event_list": [], 
+                    "name": "stage_panel_03", 
+                    "pos_data": {
+                        "__tuple__": true, 
+                        "items": [
+                            960.0, 
+                            540.0, 
+                            50.0, 
+                            50.0, 
+                            1, 
+                            1
+                        ]
+                    }, 
+                    "prefab_sub_key": null, 
+                    "scene_ui_name": null, 
+                    "size": {
+                        "__tuple__": true, 
+                        "items": [
+                            1920.0, 
+                            1080.0
+                        ]
+                    }, 
+                    "type": 7, 
+                    "uid": "6f01929b-7914-4f85-b1b3-626605dc3232", 
+                    "visible": false
+                }, 
+                {
+                    "children": [
+                        {
+                            "children": [], 
+                            "event_list": [
+                                {
+                                    "action_list": [
+                                        {
+                                            "anim_duration": 1.0, 
+                                            "anim_id": null, 
+                                            "anim_type": 0, 
+                                            "comp": "992e0d01-47d0-46b7-9ac0-637933f89442", 
+                                            "ease_type": 0, 
+                                            "name": "Show_44", 
+                                            "open_timeline": true, 
+                                            "type": 2
+                                        }, 
+                                        {
+                                            "anim_duration": 1.0, 
+                                            "anim_id": null, 
+                                            "anim_type": 0, 
+                                            "comp": "c841f159-3693-40f3-850b-89175d8a0b6e", 
+                                            "ease_type": 0, 
+                                            "name": "Show_45", 
+                                            "open_timeline": true, 
+                                            "type": 2
+                                        }, 
+                                        {
+                                            "anim_duration": 1.0, 
+                                            "anim_id": null, 
+                                            "anim_type": 0, 
+                                            "comp": "6f01929b-7914-4f85-b1b3-626605dc3232", 
+                                            "ease_type": 0, 
+                                            "name": "Show_46", 
+                                            "open_timeline": true, 
+                                            "type": 2
+                                        }, 
+                                        {
+                                            "anim_duration": 1.0, 
+                                            "anim_id": null, 
+                                            "anim_type": 0, 
+                                            "comp": "e5090eac-b688-4cbd-b0a6-2bfc25142a55", 
+                                            "ease_type": 0, 
+                                            "name": "Hide_68", 
+                                            "open_timeline": true, 
+                                            "type": 3
+                                        }, 
+                                        {
+                                            "anim_duration": 1.0, 
+                                            "anim_id": null, 
+                                            "anim_type": 0, 
+                                            "comp": "1fcfcc97-07c4-4fd7-8b4d-949e47028dad", 
+                                            "ease_type": 0, 
+                                            "name": "Hide_69", 
+                                            "open_timeline": true, 
+                                            "type": 3
+                                        }, 
+                                        {
+                                            "anim_duration": 1.0, 
+                                            "anim_id": null, 
+                                            "anim_type": 0, 
+                                            "comp": "182aedb1-295f-4941-98e0-98e10b05aea4", 
+                                            "ease_type": 0, 
+                                            "name": "Hide_70", 
+                                            "open_timeline": true, 
+                                            "type": 3
+                                        }
+                                    ], 
+                                    "enabled": true, 
+                                    "name": "button_6", 
+                                    "sound_id": null, 
+                                    "type": 30
+                                }, 
+                                {
+                                    "action_list": [], 
+                                    "enabled": true, 
+                                    "name": "button_6_1", 
+                                    "sound_id": 110497, 
+                                    "type": 24
+                                }
+                            ], 
+                            "hover_status_added": true, 
+                            "name": "button_6", 
+                            "normal_picture": 134280224, 
+                            "pos_data": {
+                                "__tuple__": true, 
+                                "items": [
+                                    100.0, 
+                                    540.0, 
+                                    5.2083, 
+                                    50.0, 
+                                    0, 
+                                    0
+                                ]
+                            }, 
+                            "prefab_sub_key": null, 
+                            "scene_ui_name": null, 
+                            "size": {
+                                "__tuple__": true, 
+                                "items": [
+                                    92.0, 
+                                    120.0
+                                ]
+                            }, 
+                            "suspend_picture": 134282290, 
+                            "type": 1, 
+                            "uid": "4b5b6746-580a-48bb-8901-d83913706d00"
+                        }
+                    ], 
+                    "event_list": [], 
+                    "name": "stage_panel_04", 
+                    "pos_data": {
+                        "__tuple__": true, 
+                        "items": [
+                            960.0, 
+                            540.0, 
+                            50.0, 
+                            50.0, 
+                            1, 
+                            1
+                        ]
+                    }, 
+                    "prefab_sub_key": null, 
+                    "scene_ui_name": null, 
+                    "size": {
+                        "__tuple__": true, 
+                        "items": [
+                            1920.0, 
+                            1080.0
+                        ]
+                    }, 
+                    "type": 7, 
+                    "uid": "182aedb1-295f-4941-98e0-98e10b05aea4", 
+                    "visible": false
                 }
             ], 
             "event_list": [], 
@@ -442,19 +1143,27 @@
                     "children": [
                         {
                             "children": [], 
-                            "event_list": [], 
+                            "event_list": [
+                                {
+                                    "action_list": [], 
+                                    "enabled": true, 
+                                    "name": "unlocked_1", 
+                                    "sound_id": 110488, 
+                                    "type": 24
+                                }
+                            ], 
                             "hover_status_added": true, 
                             "name": "unlocked", 
-                            "normal_picture": 131931, 
+                            "normal_picture": 134223908, 
                             "pos_data": {
                                 "__tuple__": true, 
                                 "items": [
-                                    100.0, 
-                                    100.0, 
+                                    410.0, 
+                                    247.0, 
                                     50.0, 
                                     50.0, 
-                                    1, 
-                                    1
+                                    0, 
+                                    0
                                 ]
                             }, 
                             "prefab_sub_key": null, 
@@ -462,11 +1171,11 @@
                             "size": {
                                 "__tuple__": true, 
                                 "items": [
-                                    200.0, 
-                                    200.0
+                                    820.0, 
+                                    494.0
                                 ]
                             }, 
-                            "suspend_picture": 131932, 
+                            "suspend_picture": 134237633, 
                             "type": 1, 
                             "uid": "24afe0ed-ed56-4990-92ed-0b4256d7a91c"
                         }, 
@@ -474,62 +1183,25 @@
                             "cap_insets": {
                                 "__tuple__": true, 
                                 "items": [
-                                    89.0, 
-                                    92.0, 
-                                    89.0, 
-                                    92.0
+                                    402.0, 
+                                    246.0, 
+                                    402.0, 
+                                    246.0
                                 ]
                             }, 
                             "children": [], 
                             "event_list": [], 
-                            "image": 131933, 
-                            "name": "locked", 
-                            "pos_data": {
-                                "__tuple__": true, 
-                                "items": [
-                                    100.0, 
-                                    100.0, 
-                                    50.0, 
-                                    50.0, 
-                                    1, 
-                                    1
-                                ]
-                            }, 
-                            "prefab_sub_key": null, 
-                            "scene_ui_name": null, 
-                            "size": {
-                                "__tuple__": true, 
-                                "items": [
-                                    200.0, 
-                                    200.0
-                                ]
-                            }, 
-                            "type": 4, 
-                            "uid": "05e03732-a16e-4329-a053-4d447943e5e4"
-                        }, 
-                        {
-                            "cap_insets": {
-                                "__tuple__": true, 
-                                "items": [
-                                    45.0, 
-                                    41.0, 
-                                    45.0, 
-                                    41.0
-                                ]
-                            }, 
-                            "children": [], 
-                            "event_list": [], 
-                            "image": 131766, 
+                            "image": 134271648, 
                             "name": "completed", 
                             "pos_data": {
                                 "__tuple__": true, 
                                 "items": [
-                                    100.0, 
-                                    100.0, 
+                                    369.0, 
+                                    247.0, 
+                                    45.0, 
                                     50.0, 
-                                    50.0, 
-                                    1, 
-                                    1
+                                    0, 
+                                    0
                                 ]
                             }, 
                             "prefab_sub_key": null, 
@@ -537,12 +1209,12 @@
                             "size": {
                                 "__tuple__": true, 
                                 "items": [
-                                    150.0, 
-                                    150.0
+                                    290.0, 
+                                    160.0
                                 ]
                             }, 
                             "type": 4, 
-                            "uid": "f341517c-e55f-4018-a449-f54f0338d363"
+                            "uid": "8332ce9b-c462-458e-a485-4dc83199e8da"
                         }
                     ], 
                     "event_list": [], 
@@ -559,10 +1231,10 @@
                     "pos_data": {
                         "__tuple__": true, 
                         "items": [
-                            494.0, 
-                            942.0, 
-                            25.7292, 
-                            87.2222, 
+                            697.0, 
+                            571.0, 
+                            36.3541, 
+                            52.8704, 
                             1, 
                             1
                         ]
@@ -572,8 +1244,8 @@
                     "size": {
                         "__tuple__": true, 
                         "items": [
-                            200.0, 
-                            200.0
+                            820.0, 
+                            494.0
                         ]
                     }, 
                     "type": 1, 
@@ -583,15 +1255,23 @@
                     "children": [
                         {
                             "children": [], 
-                            "event_list": [], 
+                            "event_list": [
+                                {
+                                    "action_list": [], 
+                                    "enabled": true, 
+                                    "name": "unlocked_2", 
+                                    "sound_id": 110488, 
+                                    "type": 24
+                                }
+                            ], 
                             "hover_status_added": true, 
                             "name": "unlocked", 
-                            "normal_picture": 131931, 
+                            "normal_picture": 134271385, 
                             "pos_data": {
                                 "__tuple__": true, 
                                 "items": [
-                                    100.0, 
-                                    100.0, 
+                                    342.0, 
+                                    211.0, 
                                     50.0, 
                                     50.0, 
                                     1, 
@@ -603,11 +1283,11 @@
                             "size": {
                                 "__tuple__": true, 
                                 "items": [
-                                    200.0, 
-                                    200.0
+                                    684.0, 
+                                    422.0
                                 ]
                             }, 
-                            "suspend_picture": 131932, 
+                            "suspend_picture": 134235875, 
                             "type": 1, 
                             "uid": "1548ad5f-07dd-4e28-a1d0-3b58aee266a9"
                         }, 
@@ -615,21 +1295,21 @@
                             "cap_insets": {
                                 "__tuple__": true, 
                                 "items": [
-                                    89.0, 
-                                    92.0, 
-                                    89.0, 
-                                    92.0
+                                    333.0, 
+                                    194.0, 
+                                    333.0, 
+                                    194.0
                                 ]
                             }, 
                             "children": [], 
                             "event_list": [], 
-                            "image": 131933, 
+                            "image": 134251277, 
                             "name": "locked", 
                             "pos_data": {
                                 "__tuple__": true, 
                                 "items": [
-                                    100.0, 
-                                    100.0, 
+                                    342.0, 
+                                    211.0, 
                                     50.0, 
                                     50.0, 
                                     1, 
@@ -641,8 +1321,8 @@
                             "size": {
                                 "__tuple__": true, 
                                 "items": [
-                                    200.0, 
-                                    200.0
+                                    684.0, 
+                                    422.0
                                 ]
                             }, 
                             "type": 4, 
@@ -652,25 +1332,25 @@
                             "cap_insets": {
                                 "__tuple__": true, 
                                 "items": [
-                                    45.0, 
-                                    41.0, 
-                                    45.0, 
-                                    41.0
+                                    402.0, 
+                                    246.0, 
+                                    402.0, 
+                                    246.0
                                 ]
                             }, 
                             "children": [], 
                             "event_list": [], 
-                            "image": 131766, 
+                            "image": 134271648, 
                             "name": "completed", 
                             "pos_data": {
                                 "__tuple__": true, 
                                 "items": [
-                                    100.0, 
-                                    100.0, 
-                                    50.0, 
-                                    50.0, 
-                                    1, 
-                                    1
+                                    422.0, 
+                                    133.0, 
+                                    61.6959, 
+                                    31.5166, 
+                                    0, 
+                                    0
                                 ]
                             }, 
                             "prefab_sub_key": null, 
@@ -678,12 +1358,12 @@
                             "size": {
                                 "__tuple__": true, 
                                 "items": [
-                                    150.0, 
-                                    150.0
+                                    290.0, 
+                                    160.0
                                 ]
                             }, 
                             "type": 4, 
-                            "uid": "188f2e4d-a75b-46b7-a19c-2967289c6114"
+                            "uid": "93303572-ff2d-492d-8954-d0926b1a1f47"
                         }
                     ], 
                     "event_list": [], 
@@ -700,10 +1380,10 @@
                     "pos_data": {
                         "__tuple__": true, 
                         "items": [
-                            910.0, 
-                            870.0, 
-                            47.3958, 
-                            80.5556, 
+                            1322.0, 
+                            452.0, 
+                            68.8542, 
+                            41.8519, 
                             1, 
                             1
                         ]
@@ -713,8 +1393,8 @@
                     "size": {
                         "__tuple__": true, 
                         "items": [
-                            200.0, 
-                            200.0
+                            684.0, 
+                            422.0
                         ]
                     }, 
                     "type": 1, 
@@ -724,15 +1404,23 @@
                     "children": [
                         {
                             "children": [], 
-                            "event_list": [], 
+                            "event_list": [
+                                {
+                                    "action_list": [], 
+                                    "enabled": true, 
+                                    "name": "unlocked_3", 
+                                    "sound_id": 110488, 
+                                    "type": 24
+                                }
+                            ], 
                             "hover_status_added": true, 
                             "name": "unlocked", 
-                            "normal_picture": 131931, 
+                            "normal_picture": 134252950, 
                             "pos_data": {
                                 "__tuple__": true, 
                                 "items": [
-                                    100.0, 
-                                    100.0, 
+                                    318.0, 
+                                    297.5, 
                                     50.0, 
                                     50.0, 
                                     1, 
@@ -744,11 +1432,11 @@
                             "size": {
                                 "__tuple__": true, 
                                 "items": [
-                                    200.0, 
-                                    200.0
+                                    636.0, 
+                                    595.0002
                                 ]
                             }, 
-                            "suspend_picture": 131932, 
+                            "suspend_picture": 134264410, 
                             "type": 1, 
                             "uid": "bbd9a981-daaa-42f8-b2e5-5bbc5f6c061f"
                         }, 
@@ -756,23 +1444,23 @@
                             "cap_insets": {
                                 "__tuple__": true, 
                                 "items": [
-                                    89.0, 
-                                    92.0, 
-                                    89.0, 
-                                    92.0
+                                    333.0, 
+                                    305.0, 
+                                    333.0, 
+                                    305.0
                                 ]
                             }, 
                             "children": [], 
                             "event_list": [], 
-                            "image": 131933, 
+                            "image": 134257561, 
                             "name": "locked", 
                             "pos_data": {
                                 "__tuple__": true, 
                                 "items": [
-                                    100.0, 
-                                    100.0, 
+                                    318.0, 
+                                    297.0, 
                                     50.0, 
-                                    50.0, 
+                                    49.916, 
                                     1, 
                                     1
                                 ]
@@ -782,8 +1470,8 @@
                             "size": {
                                 "__tuple__": true, 
                                 "items": [
-                                    200.0, 
-                                    200.0
+                                    636.0, 
+                                    595.0
                                 ]
                             }, 
                             "type": 4, 
@@ -793,25 +1481,25 @@
                             "cap_insets": {
                                 "__tuple__": true, 
                                 "items": [
-                                    45.0, 
-                                    41.0, 
-                                    45.0, 
-                                    41.0
+                                    402.0, 
+                                    246.0, 
+                                    402.0, 
+                                    246.0
                                 ]
                             }, 
                             "children": [], 
                             "event_list": [], 
-                            "image": 131766, 
+                            "image": 134271648, 
                             "name": "completed", 
                             "pos_data": {
                                 "__tuple__": true, 
                                 "items": [
-                                    100.0, 
-                                    100.0, 
-                                    50.0, 
-                                    50.0, 
-                                    1, 
-                                    1
+                                    381.0, 
+                                    298.0, 
+                                    59.9057, 
+                                    50.084, 
+                                    0, 
+                                    0
                                 ]
                             }, 
                             "prefab_sub_key": null, 
@@ -819,12 +1507,12 @@
                             "size": {
                                 "__tuple__": true, 
                                 "items": [
-                                    150.0, 
-                                    150.0
+                                    290.0, 
+                                    160.0
                                 ]
                             }, 
                             "type": 4, 
-                            "uid": "115bba03-8ded-40ca-be5c-e92131d3ab9b"
+                            "uid": "70daf40e-7e76-43f3-8d7d-0f24dfb992dd"
                         }
                     ], 
                     "event_list": [], 
@@ -841,10 +1529,10 @@
                     "pos_data": {
                         "__tuple__": true, 
                         "items": [
-                            1187.0, 
-                            630.0, 
-                            61.8229, 
-                            58.3333, 
+                            626.0, 
+                            556.0, 
+                            32.6042, 
+                            51.4815, 
                             1, 
                             1
                         ]
@@ -854,30 +1542,39 @@
                     "size": {
                         "__tuple__": true, 
                         "items": [
-                            200.0, 
-                            200.0
+                            636.0, 
+                            595.0
                         ]
                     }, 
                     "type": 1, 
-                    "uid": "24d6493c-c23e-46c6-b2f3-384891fe64d9"
+                    "uid": "24d6493c-c23e-46c6-b2f3-384891fe64d9", 
+                    "visible": false
                 }, 
                 {
                     "children": [
                         {
                             "children": [], 
-                            "event_list": [], 
+                            "event_list": [
+                                {
+                                    "action_list": [], 
+                                    "enabled": true, 
+                                    "name": "unlocked_4", 
+                                    "sound_id": 110488, 
+                                    "type": 24
+                                }
+                            ], 
                             "hover_status_added": true, 
                             "name": "unlocked", 
-                            "normal_picture": 131931, 
+                            "normal_picture": 134220427, 
                             "pos_data": {
                                 "__tuple__": true, 
                                 "items": [
-                                    100.0, 
-                                    100.0, 
+                                    317.5, 
+                                    245.0, 
                                     50.0, 
                                     50.0, 
-                                    1, 
-                                    1
+                                    0, 
+                                    0
                                 ]
                             }, 
                             "prefab_sub_key": null, 
@@ -885,11 +1582,11 @@
                             "size": {
                                 "__tuple__": true, 
                                 "items": [
-                                    200.0, 
-                                    200.0
+                                    635.0, 
+                                    490.0
                                 ]
                             }, 
-                            "suspend_picture": 131932, 
+                            "suspend_picture": 134220511, 
                             "type": 1, 
                             "uid": "cd76e6e7-09f2-4f5d-8dbb-231b977fe0e7"
                         }, 
@@ -897,21 +1594,21 @@
                             "cap_insets": {
                                 "__tuple__": true, 
                                 "items": [
-                                    89.0, 
-                                    92.0, 
-                                    89.0, 
-                                    92.0
+                                    333.0, 
+                                    244.0, 
+                                    333.0, 
+                                    244.0
                                 ]
                             }, 
                             "children": [], 
                             "event_list": [], 
-                            "image": 131933, 
+                            "image": 134260917, 
                             "name": "locked", 
                             "pos_data": {
                                 "__tuple__": true, 
                                 "items": [
-                                    100.0, 
-                                    100.0, 
+                                    317.0, 
+                                    245.0, 
                                     50.0, 
                                     50.0, 
                                     1, 
@@ -923,8 +1620,8 @@
                             "size": {
                                 "__tuple__": true, 
                                 "items": [
-                                    200.0, 
-                                    200.0
+                                    635.0, 
+                                    490.0
                                 ]
                             }, 
                             "type": 4, 
@@ -934,25 +1631,25 @@
                             "cap_insets": {
                                 "__tuple__": true, 
                                 "items": [
-                                    45.0, 
-                                    41.0, 
-                                    45.0, 
-                                    41.0
+                                    402.0, 
+                                    246.0, 
+                                    402.0, 
+                                    246.0
                                 ]
                             }, 
                             "children": [], 
                             "event_list": [], 
-                            "image": 131766, 
+                            "image": 134271648, 
                             "name": "completed", 
                             "pos_data": {
                                 "__tuple__": true, 
                                 "items": [
-                                    100.0, 
-                                    100.0, 
+                                    282.0, 
+                                    245.0, 
+                                    44.4094, 
                                     50.0, 
-                                    50.0, 
-                                    1, 
-                                    1
+                                    0, 
+                                    0
                                 ]
                             }, 
                             "prefab_sub_key": null, 
@@ -960,12 +1657,12 @@
                             "size": {
                                 "__tuple__": true, 
                                 "items": [
-                                    150.0, 
-                                    150.0
+                                    290.0, 
+                                    160.0
                                 ]
                             }, 
                             "type": 4, 
-                            "uid": "e2b70cc1-d193-41f3-9940-37455dd039cc"
+                            "uid": "0148d5e2-b02e-4189-866d-7fe15da64366"
                         }
                     ], 
                     "event_list": [], 
@@ -982,10 +1679,10 @@
                     "pos_data": {
                         "__tuple__": true, 
                         "items": [
-                            1479.0, 
-                            556.0, 
-                            77.0313, 
-                            51.4815, 
+                            1261.0, 
+                            503.0, 
+                            65.6771, 
+                            46.5741, 
                             1, 
                             1
                         ]
@@ -995,26 +1692,35 @@
                     "size": {
                         "__tuple__": true, 
                         "items": [
-                            200.0, 
-                            200.0
+                            635.0, 
+                            490.0
                         ]
                     }, 
                     "type": 1, 
-                    "uid": "565c6a43-17cb-482e-a35f-3785bad315bc"
+                    "uid": "565c6a43-17cb-482e-a35f-3785bad315bc", 
+                    "visible": false
                 }, 
                 {
                     "children": [
                         {
                             "children": [], 
-                            "event_list": [], 
+                            "event_list": [
+                                {
+                                    "action_list": [], 
+                                    "enabled": true, 
+                                    "name": "unlocked_5", 
+                                    "sound_id": 110488, 
+                                    "type": 24
+                                }
+                            ], 
                             "hover_status_added": true, 
                             "name": "unlocked", 
-                            "normal_picture": 131931, 
+                            "normal_picture": 134240765, 
                             "pos_data": {
                                 "__tuple__": true, 
                                 "items": [
-                                    100.0, 
-                                    100.0, 
+                                    328.0, 
+                                    262.0, 
                                     50.0, 
                                     50.0, 
                                     1, 
@@ -1026,11 +1732,11 @@
                             "size": {
                                 "__tuple__": true, 
                                 "items": [
-                                    200.0, 
-                                    200.0
+                                    656.0, 
+                                    524.0002
                                 ]
                             }, 
-                            "suspend_picture": 131932, 
+                            "suspend_picture": 134232661, 
                             "type": 1, 
                             "uid": "146445a0-36e0-4b61-a25e-364db6a77355"
                         }, 
@@ -1038,21 +1744,21 @@
                             "cap_insets": {
                                 "__tuple__": true, 
                                 "items": [
-                                    89.0, 
-                                    92.0, 
-                                    89.0, 
-                                    92.0
+                                    333.0, 
+                                    270.0, 
+                                    333.0, 
+                                    270.0
                                 ]
                             }, 
                             "children": [], 
                             "event_list": [], 
-                            "image": 131933, 
+                            "image": 134242397, 
                             "name": "locked", 
                             "pos_data": {
                                 "__tuple__": true, 
                                 "items": [
-                                    100.0, 
-                                    100.0, 
+                                    328.0, 
+                                    262.0, 
                                     50.0, 
                                     50.0, 
                                     1, 
@@ -1064,8 +1770,8 @@
                             "size": {
                                 "__tuple__": true, 
                                 "items": [
-                                    200.0, 
-                                    200.0
+                                    656.0, 
+                                    524.0
                                 ]
                             }, 
                             "type": 4, 
@@ -1075,25 +1781,25 @@
                             "cap_insets": {
                                 "__tuple__": true, 
                                 "items": [
-                                    45.0, 
-                                    41.0, 
-                                    45.0, 
-                                    41.0
+                                    402.0, 
+                                    246.0, 
+                                    402.0, 
+                                    246.0
                                 ]
                             }, 
                             "children": [], 
                             "event_list": [], 
-                            "image": 131766, 
+                            "image": 134271648, 
                             "name": "completed", 
                             "pos_data": {
                                 "__tuple__": true, 
                                 "items": [
-                                    100.0, 
-                                    100.0, 
-                                    50.0, 
-                                    50.0, 
-                                    1, 
-                                    1
+                                    264.0, 
+                                    336.0, 
+                                    40.2439, 
+                                    64.1221, 
+                                    0, 
+                                    0
                                 ]
                             }, 
                             "prefab_sub_key": null, 
@@ -1101,12 +1807,12 @@
                             "size": {
                                 "__tuple__": true, 
                                 "items": [
-                                    150.0, 
-                                    150.0
+                                    290.0, 
+                                    160.0
                                 ]
                             }, 
                             "type": 4, 
-                            "uid": "153f8f5d-9264-4a68-8022-4f341e1a026e"
+                            "uid": "3f631751-7b11-4e4d-aa74-8e52c848e2f4"
                         }
                     ], 
                     "event_list": [], 
@@ -1123,10 +1829,10 @@
                     "pos_data": {
                         "__tuple__": true, 
                         "items": [
-                            1387.0, 
-                            340.0, 
-                            72.2396, 
-                            31.4815, 
+                            644.0, 
+                            540.0, 
+                            33.5417, 
+                            50.0, 
                             1, 
                             1
                         ]
@@ -1136,26 +1842,35 @@
                     "size": {
                         "__tuple__": true, 
                         "items": [
-                            200.0, 
-                            200.0
+                            656.0, 
+                            524.0
                         ]
                     }, 
                     "type": 1, 
-                    "uid": "992e0d01-47d0-46b7-9ac0-637933f89442"
+                    "uid": "992e0d01-47d0-46b7-9ac0-637933f89442", 
+                    "visible": false
                 }, 
                 {
                     "children": [
                         {
                             "children": [], 
-                            "event_list": [], 
+                            "event_list": [
+                                {
+                                    "action_list": [], 
+                                    "enabled": true, 
+                                    "name": "unlocked_6", 
+                                    "sound_id": 110488, 
+                                    "type": 24
+                                }
+                            ], 
                             "hover_status_added": true, 
                             "name": "unlocked", 
-                            "normal_picture": 131931, 
+                            "normal_picture": 134257779, 
                             "pos_data": {
                                 "__tuple__": true, 
                                 "items": [
-                                    100.0, 
-                                    100.0, 
+                                    336.0, 
+                                    279.5, 
                                     50.0, 
                                     50.0, 
                                     1, 
@@ -1167,11 +1882,11 @@
                             "size": {
                                 "__tuple__": true, 
                                 "items": [
-                                    200.0, 
-                                    200.0
+                                    672.0, 
+                                    558.9999
                                 ]
                             }, 
-                            "suspend_picture": 131932, 
+                            "suspend_picture": 134266485, 
                             "type": 1, 
                             "uid": "9ed46940-8fd2-4f17-85fd-ac59ea2acf5b"
                         }, 
@@ -1179,21 +1894,21 @@
                             "cap_insets": {
                                 "__tuple__": true, 
                                 "items": [
-                                    89.0, 
-                                    92.0, 
-                                    89.0, 
-                                    92.0
+                                    333.0, 
+                                    290.0, 
+                                    333.0, 
+                                    290.0
                                 ]
                             }, 
                             "children": [], 
                             "event_list": [], 
-                            "image": 131933, 
+                            "image": 134268464, 
                             "name": "locked", 
                             "pos_data": {
                                 "__tuple__": true, 
                                 "items": [
-                                    100.0, 
-                                    100.0, 
+                                    336.0, 
+                                    279.5, 
                                     50.0, 
                                     50.0, 
                                     1, 
@@ -1205,8 +1920,8 @@
                             "size": {
                                 "__tuple__": true, 
                                 "items": [
-                                    200.0, 
-                                    200.0
+                                    672.0, 
+                                    559.0
                                 ]
                             }, 
                             "type": 4, 
@@ -1216,25 +1931,25 @@
                             "cap_insets": {
                                 "__tuple__": true, 
                                 "items": [
-                                    45.0, 
-                                    41.0, 
-                                    45.0, 
-                                    41.0
+                                    402.0, 
+                                    246.0, 
+                                    402.0, 
+                                    246.0
                                 ]
                             }, 
                             "children": [], 
                             "event_list": [], 
-                            "image": 131766, 
+                            "image": 134271648, 
                             "name": "completed", 
                             "pos_data": {
                                 "__tuple__": true, 
                                 "items": [
-                                    100.0, 
-                                    100.0, 
-                                    50.0, 
-                                    50.0, 
-                                    1, 
-                                    1
+                                    368.0, 
+                                    329.0, 
+                                    54.7619, 
+                                    58.8551, 
+                                    0, 
+                                    0
                                 ]
                             }, 
                             "prefab_sub_key": null, 
@@ -1242,12 +1957,12 @@
                             "size": {
                                 "__tuple__": true, 
                                 "items": [
-                                    150.0, 
-                                    150.0
+                                    290.0, 
+                                    160.0
                                 ]
                             }, 
                             "type": 4, 
-                            "uid": "cbc5aaf0-253e-4600-bd7b-7ba3bda4a707"
+                            "uid": "0bc0f063-25eb-4128-ae5e-610d37201174"
                         }
                     ], 
                     "event_list": [], 
@@ -1264,10 +1979,10 @@
                     "pos_data": {
                         "__tuple__": true, 
                         "items": [
-                            1022.0, 
-                            340.0, 
-                            53.2292, 
-                            31.4815, 
+                            1308.0, 
+                            540.0, 
+                            68.125, 
+                            50.0, 
                             1, 
                             1
                         ]
@@ -1277,26 +1992,35 @@
                     "size": {
                         "__tuple__": true, 
                         "items": [
-                            200.0, 
-                            200.0
+                            672.0, 
+                            559.0
                         ]
                     }, 
                     "type": 1, 
-                    "uid": "c841f159-3693-40f3-850b-89175d8a0b6e"
+                    "uid": "c841f159-3693-40f3-850b-89175d8a0b6e", 
+                    "visible": false
                 }, 
                 {
                     "children": [
                         {
                             "children": [], 
-                            "event_list": [], 
+                            "event_list": [
+                                {
+                                    "action_list": [], 
+                                    "enabled": true, 
+                                    "name": "unlocked_7", 
+                                    "sound_id": 110488, 
+                                    "type": 24
+                                }
+                            ], 
                             "hover_status_added": true, 
                             "name": "unlocked", 
-                            "normal_picture": 131931, 
+                            "normal_picture": 134279287, 
                             "pos_data": {
                                 "__tuple__": true, 
                                 "items": [
-                                    100.0, 
-                                    100.0, 
+                                    375.0, 
+                                    330.0, 
                                     50.0, 
                                     50.0, 
                                     1, 
@@ -1308,11 +2032,11 @@
                             "size": {
                                 "__tuple__": true, 
                                 "items": [
-                                    200.0, 
-                                    200.0
+                                    750.0, 
+                                    660.0
                                 ]
                             }, 
-                            "suspend_picture": 131932, 
+                            "suspend_picture": 134273850, 
                             "type": 1, 
                             "uid": "bc5a835b-5c92-445a-93ce-6de3dd16175c"
                         }, 
@@ -1320,21 +2044,21 @@
                             "cap_insets": {
                                 "__tuple__": true, 
                                 "items": [
-                                    89.0, 
-                                    92.0, 
-                                    89.0, 
-                                    92.0
+                                    333.0, 
+                                    302.0, 
+                                    333.0, 
+                                    302.0
                                 ]
                             }, 
                             "children": [], 
                             "event_list": [], 
-                            "image": 131933, 
+                            "image": 134275220, 
                             "name": "locked", 
                             "pos_data": {
                                 "__tuple__": true, 
                                 "items": [
-                                    100.0, 
-                                    100.0, 
+                                    375.0, 
+                                    330.0, 
                                     50.0, 
                                     50.0, 
                                     1, 
@@ -1346,8 +2070,8 @@
                             "size": {
                                 "__tuple__": true, 
                                 "items": [
-                                    200.0, 
-                                    200.0
+                                    750.0, 
+                                    660.0
                                 ]
                             }, 
                             "type": 4, 
@@ -1357,25 +2081,25 @@
                             "cap_insets": {
                                 "__tuple__": true, 
                                 "items": [
-                                    45.0, 
-                                    41.0, 
-                                    45.0, 
-                                    41.0
+                                    402.0, 
+                                    246.0, 
+                                    402.0, 
+                                    246.0
                                 ]
                             }, 
                             "children": [], 
                             "event_list": [], 
-                            "image": 131766, 
+                            "image": 134271648, 
                             "name": "completed", 
                             "pos_data": {
                                 "__tuple__": true, 
                                 "items": [
-                                    100.0, 
-                                    100.0, 
-                                    50.0, 
-                                    50.0, 
-                                    1, 
-                                    1
+                                    488.0, 
+                                    315.0, 
+                                    65.0667, 
+                                    47.7273, 
+                                    0, 
+                                    0
                                 ]
                             }, 
                             "prefab_sub_key": null, 
@@ -1383,12 +2107,12 @@
                             "size": {
                                 "__tuple__": true, 
                                 "items": [
-                                    150.0, 
-                                    150.0
+                                    290.0, 
+                                    160.0
                                 ]
                             }, 
                             "type": 4, 
-                            "uid": "e3ce635b-b616-4082-b1c4-5fb5cda5a7ac"
+                            "uid": "c2b8fd0b-d0e2-4405-b67b-7735558db5b3"
                         }
                     ], 
                     "event_list": [], 
@@ -1405,10 +2129,10 @@
                     "pos_data": {
                         "__tuple__": true, 
                         "items": [
-                            710.0, 
-                            472.0, 
-                            36.9792, 
-                            43.7037, 
+                            645.0, 
+                            577.0, 
+                            33.6365, 
+                            53.3775, 
                             1, 
                             1
                         ]
@@ -1418,26 +2142,26 @@
                     "size": {
                         "__tuple__": true, 
                         "items": [
-                            200.0, 
-                            200.0
+                            750.0, 
+                            660.0
                         ]
                     }, 
                     "type": 1, 
-                    "uid": "e5090eac-b688-4cbd-b0a6-2bfc25142a55"
+                    "uid": "e5090eac-b688-4cbd-b0a6-2bfc25142a55", 
+                    "visible": false
                 }, 
                 {
                     "children": [
                         {
                             "children": [], 
                             "event_list": [], 
-                            "hover_status_added": true, 
                             "name": "unlocked", 
-                            "normal_picture": 131931, 
+                            "normal_picture": 134261186, 
                             "pos_data": {
                                 "__tuple__": true, 
                                 "items": [
-                                    100.0, 
-                                    100.0, 
+                                    294.0, 
+                                    255.0, 
                                     50.0, 
                                     50.0, 
                                     1, 
@@ -1449,11 +2173,10 @@
                             "size": {
                                 "__tuple__": true, 
                                 "items": [
-                                    200.0, 
-                                    200.0
+                                    588.0, 
+                                    509.9999
                                 ]
                             }, 
-                            "suspend_picture": 131932, 
                             "type": 1, 
                             "uid": "a94b92fd-8fb5-4f44-a3a9-dd3253142659"
                         }, 
@@ -1461,21 +2184,21 @@
                             "cap_insets": {
                                 "__tuple__": true, 
                                 "items": [
-                                    89.0, 
-                                    92.0, 
-                                    89.0, 
-                                    92.0
+                                    333.0, 
+                                    293.0, 
+                                    333.0, 
+                                    293.0
                                 ]
                             }, 
                             "children": [], 
                             "event_list": [], 
-                            "image": 131933, 
+                            "image": 134261186, 
                             "name": "locked", 
                             "pos_data": {
                                 "__tuple__": true, 
                                 "items": [
-                                    100.0, 
-                                    100.0, 
+                                    294.0, 
+                                    255.0, 
                                     50.0, 
                                     50.0, 
                                     1, 
@@ -1487,49 +2210,12 @@
                             "size": {
                                 "__tuple__": true, 
                                 "items": [
-                                    200.0, 
-                                    200.0
+                                    588.0, 
+                                    510.0
                                 ]
                             }, 
                             "type": 4, 
                             "uid": "e99aad0a-e81a-4963-b190-1272d7a59a32"
-                        }, 
-                        {
-                            "cap_insets": {
-                                "__tuple__": true, 
-                                "items": [
-                                    45.0, 
-                                    41.0, 
-                                    45.0, 
-                                    41.0
-                                ]
-                            }, 
-                            "children": [], 
-                            "event_list": [], 
-                            "image": 131766, 
-                            "name": "completed", 
-                            "pos_data": {
-                                "__tuple__": true, 
-                                "items": [
-                                    100.0, 
-                                    100.0, 
-                                    50.0, 
-                                    50.0, 
-                                    1, 
-                                    1
-                                ]
-                            }, 
-                            "prefab_sub_key": null, 
-                            "scene_ui_name": null, 
-                            "size": {
-                                "__tuple__": true, 
-                                "items": [
-                                    150.0, 
-                                    150.0
-                                ]
-                            }, 
-                            "type": 4, 
-                            "uid": "2262e2e7-7877-48a2-a7a0-318a09e775d7"
                         }
                     ], 
                     "event_list": [], 
@@ -1546,10 +2232,10 @@
                     "pos_data": {
                         "__tuple__": true, 
                         "items": [
-                            418.0, 
-                            630.0, 
-                            21.7708, 
-                            58.3333, 
+                            1371.0, 
+                            540.0, 
+                            71.4473, 
+                            50.0, 
                             1, 
                             1
                         ]
@@ -1559,12 +2245,13 @@
                     "size": {
                         "__tuple__": true, 
                         "items": [
-                            200.0, 
-                            200.0
+                            588.0, 
+                            510.0
                         ]
                     }, 
                     "type": 1, 
-                    "uid": "1fcfcc97-07c4-4fd7-8b4d-949e47028dad"
+                    "uid": "1fcfcc97-07c4-4fd7-8b4d-949e47028dad", 
+                    "visible": false
                 }
             ], 
             "event_list": [], 
@@ -1601,16 +2288,25 @@
                     "name": "endless_start", 
                     "sound_id": null, 
                     "type": 30
+                }, 
+                {
+                    "action_list": [], 
+                    "enabled": true, 
+                    "name": "endless_1", 
+                    "sound_id": 110475, 
+                    "type": 24
                 }
             ], 
-            "name": "button_1", 
+            "hover_status_added": true, 
+            "name": "endless", 
+            "normal_picture": 134230218, 
             "pos_data": {
                 "__tuple__": true, 
                 "items": [
-                    960.0, 
-                    613.0, 
-                    50.0, 
-                    56.7593, 
+                    1711.0, 
+                    947.0, 
+                    89.1666, 
+                    87.6852, 
                     1, 
                     1
                 ]
@@ -1620,10 +2316,11 @@
             "size": {
                 "__tuple__": true, 
                 "items": [
-                    154, 
-                    140.0
+                    160.0, 
+                    180.0
                 ]
             }, 
+            "suspend_picture": 134282789, 
             "type": 1, 
             "uid": "baeccbb3-83df-4bf2-87ea-a03cc263c65e"
         }, 

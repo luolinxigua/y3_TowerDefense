@@ -180,7 +180,7 @@
             "show_in_attr": true, 
             "sort": 0, 
             "type": 1, 
-            "value": 0.05
+            "value": 5.0
         }
     }, 
     "magicbook_list": {

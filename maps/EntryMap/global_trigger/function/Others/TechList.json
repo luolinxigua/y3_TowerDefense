@@ -1,0 +1,24 @@
+{
+    "action": [], 
+    "call_enabled": true, 
+    "condition": [], 
+    "enabled": true, 
+    "event": [], 
+    "func_category": "t_function", 
+    "func_comment": "", 
+    "func_des": "函数描述", 
+    "func_id": "1487026e368411efae1ab025aa5232dc", 
+    "func_name": "TechList", 
+    "group_id": "Rf9SXjZ8Ee+p37AlqlIy3H", 
+    "is_func": true, 
+    "is_official_func": false, 
+    "p_trigger_id": null, 
+    "trigger_id": 1044312273, 
+    "trigger_name": "TechList", 
+    "valid": true, 
+    "var_data": [
+        {}, 
+        {}, 
+        []
+    ]
+}

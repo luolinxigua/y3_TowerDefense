@@ -84,6 +84,18 @@
             "type": 4, 
             "value": "ResourceInfo", 
             "week_date_limit": []
+        }, 
+        "8": {
+            "billboard_max_item_num": 0, 
+            "billboard_sort_type": 0, 
+            "encrypt": false, 
+            "key": 8, 
+            "max_value_limit_type": 0, 
+            "name": "letter", 
+            "time_interval_limit": [], 
+            "type": 1, 
+            "value": false, 
+            "week_date_limit": []
         }
     }
 }

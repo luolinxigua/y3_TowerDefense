@@ -169,7 +169,32 @@
     "is_immediate": false, 
     "is_meele": false, 
     "key": 134242774, 
-    "kv": {}, 
+    "kv": {
+        "\u65f6\u95f4": {
+            "annotation": "", 
+            "desc": "", 
+            "etype": 2, 
+            "key": "\u65f6\u95f4", 
+            "prop_cls": "PFloat", 
+            "remark": "", 
+            "show_in_attr": true, 
+            "sort": 1, 
+            "type": 1, 
+            "value": 5.0
+        }, 
+        "\u7cfb\u6570": {
+            "annotation": "", 
+            "desc": "", 
+            "etype": 2, 
+            "key": "\u7cfb\u6570", 
+            "prop_cls": "PFloat", 
+            "remark": "", 
+            "show_in_attr": true, 
+            "sort": 0, 
+            "type": 1, 
+            "value": 20.0
+        }
+    }, 
     "magicbook_list": {
         "__tuple__": true, 
         "items": []

@@ -8,15 +8,15 @@
                     "cap_insets": {
                         "__tuple__": true, 
                         "items": [
-                            640.0, 
+                            576.0, 
                             360.0, 
-                            640.0, 
+                            576.0, 
                             360.0
                         ]
                     }, 
                     "children": [], 
                     "event_list": [], 
-                    "image": 100047, 
+                    "image": 134272231, 
                     "name": "pic", 
                     "pos_data": {
                         "__tuple__": true, 
@@ -99,11 +99,18 @@
                             "name": "back_to_main", 
                             "sound_id": null, 
                             "type": 30
+                        }, 
+                        {
+                            "action_list": [], 
+                            "enabled": true, 
+                            "name": "back_to_main_1", 
+                            "sound_id": 110475, 
+                            "type": 24
                         }
                     ], 
                     "hover_status_added": true, 
                     "name": "back_to_main", 
-                    "normal_picture": 108469, 
+                    "normal_picture": 134274170, 
                     "pos_data": {
                         "__tuple__": true, 
                         "items": [
@@ -120,11 +127,11 @@
                     "size": {
                         "__tuple__": true, 
                         "items": [
-                            100.0, 
-                            100.0
+                            150.0, 
+                            150.0
                         ]
                     }, 
-                    "suspend_picture": 108470, 
+                    "suspend_picture": 134262359, 
                     "type": 1, 
                     "uid": "d892a8f5-2fd2-447b-b691-22c45bbdf381"
                 }
@@ -201,10 +208,16 @@
                             "font": {
                                 "__tuple__": true, 
                                 "items": [
-                                    "HKXinZongYiW9", 
+                                    "134270280", 
                                     40
                                 ]
                             }, 
+                            "font_color": [
+                                124, 
+                                48, 
+                                16, 
+                                255
+                            ], 
                             "name": "value", 
                             "pos_data": {
                                 "__tuple__": true, 
@@ -242,10 +255,10 @@
                     "pos_data": {
                         "__tuple__": true, 
                         "items": [
-                            1380.0, 
-                            70.0, 
-                            71.875, 
+                            150.0, 
+                            150.0, 
                             50.0, 
+                            75.0, 
                             1, 
                             1
                         ]
@@ -307,10 +320,16 @@
                             "font": {
                                 "__tuple__": true, 
                                 "items": [
-                                    "HKXinZongYiW9", 
+                                    "134270280", 
                                     40
                                 ]
                             }, 
+                            "font_color": [
+                                124, 
+                                48, 
+                                16, 
+                                255
+                            ], 
                             "name": "value", 
                             "pos_data": {
                                 "__tuple__": true, 
@@ -348,10 +367,10 @@
                     "pos_data": {
                         "__tuple__": true, 
                         "items": [
-                            1680.0, 
-                            70.0, 
-                            87.5, 
+                            150.0, 
                             50.0, 
+                            50.0, 
+                            25.0, 
                             1, 
                             1
                         ]
@@ -374,10 +393,10 @@
             "pos_data": {
                 "__tuple__": true, 
                 "items": [
-                    960.0, 
-                    1010.0, 
-                    50.0, 
-                    93.5185, 
+                    1361.0, 
+                    704.0, 
+                    70.8984, 
+                    65.2778, 
                     1, 
                     1
                 ]
@@ -387,8 +406,8 @@
             "size": {
                 "__tuple__": true, 
                 "items": [
-                    1920.0, 
-                    140.0
+                    300.0, 
+                    200.0
                 ]
             }, 
             "type": 7, 
@@ -396,91 +415,6 @@
         }, 
         {
             "children": [
-                {
-                    "cap_insets": {
-                        "__tuple__": true, 
-                        "items": [
-                            81.0, 
-                            33.0, 
-                            81.0, 
-                            33.0
-                        ]
-                    }, 
-                    "children": [], 
-                    "event_list": [], 
-                    "image": 110091, 
-                    "name": "bg", 
-                    "pos_data": {
-                        "__tuple__": true, 
-                        "items": [
-                            725.0, 
-                            150.0, 
-                            50.0, 
-                            50.0, 
-                            1, 
-                            1
-                        ]
-                    }, 
-                    "prefab_sub_key": null, 
-                    "scene_ui_name": null, 
-                    "size": {
-                        "__tuple__": true, 
-                        "items": [
-                            1450.0, 
-                            300.0
-                        ]
-                    }, 
-                    "type": 4, 
-                    "uid": "4fb7bc1d-f972-49c2-9acd-da90b5df8abe"
-                }, 
-                {
-                    "alignment": {
-                        "__tuple__": true, 
-                        "items": [
-                            2, 
-                            8
-                        ]
-                    }, 
-                    "children": [], 
-                    "event_list": [], 
-                    "font": {
-                        "__tuple__": true, 
-                        "items": [
-                            "HKXinZongYiW9", 
-                            50
-                        ]
-                    }, 
-                    "name": "title", 
-                    "pos_data": {
-                        "__tuple__": true, 
-                        "items": [
-                            725.0, 
-                            235.0, 
-                            50.0, 
-                            78.3333, 
-                            1, 
-                            1
-                        ]
-                    }, 
-                    "prefab_sub_key": null, 
-                    "scene_ui_name": null, 
-                    "size": {
-                        "__tuple__": true, 
-                        "items": [
-                            300.0, 
-                            80.0
-                        ]
-                    }, 
-                    "text": {
-                        "__tuple__": true, 
-                        "items": [
-                            "\u5355\u4f4d\u8d2d\u4e70", 
-                            false
-                        ]
-                    }, 
-                    "type": 3, 
-                    "uid": "e673117a-309f-4a58-bf9a-e60e08dc3c20"
-                }, 
                 {
                     "children": [
                         {
@@ -502,8 +436,8 @@
                                     "pos_data": {
                                         "__tuple__": true, 
                                         "items": [
-                                            85.0, 
-                                            85.0, 
+                                            60.0, 
+                                            60.0, 
                                             50.0, 
                                             50.0, 
                                             1, 
@@ -512,6 +446,13 @@
                                     }, 
                                     "prefab_sub_key": null, 
                                     "scene_ui_name": null, 
+                                    "size": {
+                                        "__tuple__": true, 
+                                        "items": [
+                                            120.0, 
+                                            120.0
+                                        ]
+                                    }, 
                                     "type": 4, 
                                     "uid": "42fa95ce-0007-4c7d-9b5b-bf4f280692ad"
                                 }, 
@@ -532,8 +473,8 @@
                                     "pos_data": {
                                         "__tuple__": true, 
                                         "items": [
-                                            85.0, 
-                                            85.0, 
+                                            60.0, 
+                                            60.0, 
                                             50.0, 
                                             50.0, 
                                             1, 
@@ -545,8 +486,8 @@
                                     "size": {
                                         "__tuple__": true, 
                                         "items": [
-                                            150.0, 
-                                            150.0
+                                            120.0, 
+                                            120.0
                                         ]
                                     }, 
                                     "type": 4, 
@@ -576,8 +517,8 @@
                                     "pos_data": {
                                         "__tuple__": true, 
                                         "items": [
-                                            85.0, 
-                                            84.9999, 
+                                            60.0, 
+                                            59.0, 
                                             50.0, 
                                             49.9999, 
                                             1, 
@@ -589,8 +530,8 @@
                                     "size": {
                                         "__tuple__": true, 
                                         "items": [
-                                            150.0, 
-                                            150.0
+                                            120.0, 
+                                            120.0
                                         ]
                                     }, 
                                     "type": 6, 
@@ -606,8 +547,8 @@
                                     "pos_data": {
                                         "__tuple__": true, 
                                         "items": [
-                                            85.0, 
-                                            85.0, 
+                                            60.0, 
+                                            60.0, 
                                             50.0, 
                                             50.0, 
                                             1, 
@@ -619,8 +560,8 @@
                                     "size": {
                                         "__tuple__": true, 
                                         "items": [
-                                            160.0, 
-                                            160.0
+                                            120.0, 
+                                            120.0
                                         ]
                                     }, 
                                     "suspend_picture": 107171, 
@@ -633,10 +574,10 @@
                             "pos_data": {
                                 "__tuple__": true, 
                                 "items": [
-                                    85.0, 
-                                    85.0, 
-                                    6.2044, 
-                                    50.0, 
+                                    60.0, 
+                                    110.0, 
+                                    11.1111, 
+                                    64.7059, 
                                     1, 
                                     1
                                 ]
@@ -646,8 +587,8 @@
                             "size": {
                                 "__tuple__": true, 
                                 "items": [
-                                    170.0, 
-                                    170.0
+                                    120.0, 
+                                    120.0
                                 ]
                             }, 
                             "type": 7, 
@@ -672,8 +613,8 @@
                                     "pos_data": {
                                         "__tuple__": true, 
                                         "items": [
-                                            85.0, 
-                                            85.0, 
+                                            60.0, 
+                                            60.0, 
                                             50.0, 
                                             50.0, 
                                             1, 
@@ -682,8 +623,15 @@
                                     }, 
                                     "prefab_sub_key": null, 
                                     "scene_ui_name": null, 
+                                    "size": {
+                                        "__tuple__": true, 
+                                        "items": [
+                                            120.0, 
+                                            120.0
+                                        ]
+                                    }, 
                                     "type": 4, 
-                                    "uid": "8ea4cc92-e986-433a-ba36-c9390bc44e10"
+                                    "uid": "41ff5ff6-861d-4b81-80f2-e0f40c87fbdd"
                                 }, 
                                 {
                                     "cap_insets": {
@@ -702,8 +650,8 @@
                                     "pos_data": {
                                         "__tuple__": true, 
                                         "items": [
-                                            85.0, 
-                                            85.0, 
+                                            60.0, 
+                                            60.0, 
                                             50.0, 
                                             50.0, 
                                             1, 
@@ -715,12 +663,12 @@
                                     "size": {
                                         "__tuple__": true, 
                                         "items": [
-                                            150.0, 
-                                            150.0
+                                            120.0, 
+                                            120.0
                                         ]
                                     }, 
                                     "type": 4, 
-                                    "uid": "fac8080a-b1b3-4e69-8857-d9d8e91da485"
+                                    "uid": "e0f09364-cb3d-47ba-9d1c-2f988bd2cc55"
                                 }, 
                                 {
                                     "camera_mode": 1, 
@@ -746,8 +694,8 @@
                                     "pos_data": {
                                         "__tuple__": true, 
                                         "items": [
-                                            85.0, 
-                                            84.9999, 
+                                            60.0, 
+                                            59.0, 
                                             50.0, 
                                             49.9999, 
                                             1, 
@@ -759,12 +707,12 @@
                                     "size": {
                                         "__tuple__": true, 
                                         "items": [
-                                            150.0, 
-                                            150.0
+                                            120.0, 
+                                            120.0
                                         ]
                                     }, 
                                     "type": 6, 
-                                    "uid": "8eae58e3-707e-491d-add1-d581a3dfe669", 
+                                    "uid": "6bb46760-c8e0-45f1-838b-69da70ccefc6", 
                                     "visible": false
                                 }, 
                                 {
@@ -776,8 +724,8 @@
                                     "pos_data": {
                                         "__tuple__": true, 
                                         "items": [
-                                            85.0, 
-                                            85.0, 
+                                            60.0, 
+                                            60.0, 
                                             50.0, 
                                             50.0, 
                                             1, 
@@ -789,13 +737,13 @@
                                     "size": {
                                         "__tuple__": true, 
                                         "items": [
-                                            160.0, 
-                                            160.0
+                                            120.0, 
+                                            120.0
                                         ]
                                     }, 
                                     "suspend_picture": 107171, 
                                     "type": 1, 
-                                    "uid": "ab056926-6dc4-4a9f-9b0a-e97a002c6339"
+                                    "uid": "ecce1a85-1595-4ea2-bbe9-320168a421dd"
                                 }
                             ], 
                             "event_list": [], 
@@ -803,10 +751,10 @@
                             "pos_data": {
                                 "__tuple__": true, 
                                 "items": [
-                                    285.0, 
-                                    85.0, 
-                                    20.8029, 
-                                    50.0, 
+                                    199.0, 
+                                    110.0, 
+                                    37.0, 
+                                    64.71, 
                                     1, 
                                     1
                                 ]
@@ -816,12 +764,12 @@
                             "size": {
                                 "__tuple__": true, 
                                 "items": [
-                                    170.0, 
-                                    170.0
+                                    120.0, 
+                                    120.0
                                 ]
                             }, 
                             "type": 7, 
-                            "uid": "4285d526-4e43-45ff-95de-7ef41bad608d"
+                            "uid": "9e7df22e-d4f5-410b-81d8-04bc7559874b"
                         }, 
                         {
                             "children": [
@@ -842,8 +790,8 @@
                                     "pos_data": {
                                         "__tuple__": true, 
                                         "items": [
-                                            85.0, 
-                                            85.0, 
+                                            60.0, 
+                                            60.0, 
                                             50.0, 
                                             50.0, 
                                             1, 
@@ -852,8 +800,15 @@
                                     }, 
                                     "prefab_sub_key": null, 
                                     "scene_ui_name": null, 
+                                    "size": {
+                                        "__tuple__": true, 
+                                        "items": [
+                                            120.0, 
+                                            120.0
+                                        ]
+                                    }, 
                                     "type": 4, 
-                                    "uid": "2658a7ce-c553-47bc-90f7-d2ef17896d4d"
+                                    "uid": "434a7d91-71ef-48fb-b3eb-32a98ddcdda5"
                                 }, 
                                 {
                                     "cap_insets": {
@@ -872,8 +827,8 @@
                                     "pos_data": {
                                         "__tuple__": true, 
                                         "items": [
-                                            85.0, 
-                                            85.0, 
+                                            60.0, 
+                                            60.0, 
                                             50.0, 
                                             50.0, 
                                             1, 
@@ -885,12 +840,12 @@
                                     "size": {
                                         "__tuple__": true, 
                                         "items": [
-                                            150.0, 
-                                            150.0
+                                            120.0, 
+                                            120.0
                                         ]
                                     }, 
                                     "type": 4, 
-                                    "uid": "2cc2d650-3391-46e1-9f4b-a0febc3e2491"
+                                    "uid": "8f60963a-a050-47a9-a3bc-2fa25be92e81"
                                 }, 
                                 {
                                     "camera_mode": 1, 
@@ -916,8 +871,8 @@
                                     "pos_data": {
                                         "__tuple__": true, 
                                         "items": [
-                                            85.0, 
-                                            84.9999, 
+                                            60.0, 
+                                            59.0, 
                                             50.0, 
                                             49.9999, 
                                             1, 
@@ -929,12 +884,12 @@
                                     "size": {
                                         "__tuple__": true, 
                                         "items": [
-                                            150.0, 
-                                            150.0
+                                            120.0, 
+                                            120.0
                                         ]
                                     }, 
                                     "type": 6, 
-                                    "uid": "92c1aea3-763a-4cae-b0e0-f478d30ad6dd", 
+                                    "uid": "7bfc5f6a-66bd-470d-a679-3cbe748fa4e9", 
                                     "visible": false
                                 }, 
                                 {
@@ -946,8 +901,8 @@
                                     "pos_data": {
                                         "__tuple__": true, 
                                         "items": [
-                                            85.0, 
-                                            85.0, 
+                                            60.0, 
+                                            60.0, 
                                             50.0, 
                                             50.0, 
                                             1, 
@@ -959,13 +914,13 @@
                                     "size": {
                                         "__tuple__": true, 
                                         "items": [
-                                            160.0, 
-                                            160.0
+                                            120.0, 
+                                            120.0
                                         ]
                                     }, 
                                     "suspend_picture": 107171, 
                                     "type": 1, 
-                                    "uid": "7758a20f-0b6a-4a15-8ab5-3535493d1bd6"
+                                    "uid": "2c0275df-a9b4-4476-a7d6-2f3809be483d"
                                 }
                             ], 
                             "event_list": [], 
@@ -973,10 +928,10 @@
                             "pos_data": {
                                 "__tuple__": true, 
                                 "items": [
-                                    485.0, 
-                                    85.0, 
-                                    35.4015, 
-                                    50.0, 
+                                    340.0, 
+                                    110.0, 
+                                    63.0, 
+                                    64.71, 
                                     1, 
                                     1
                                 ]
@@ -986,12 +941,12 @@
                             "size": {
                                 "__tuple__": true, 
                                 "items": [
-                                    170.0, 
-                                    170.0
+                                    120.0, 
+                                    120.0
                                 ]
                             }, 
                             "type": 7, 
-                            "uid": "c7c1e70e-e3ef-487b-88e8-3bbf419cbd05"
+                            "uid": "c5d48a44-3659-4fbf-95cc-97d14704f18f"
                         }, 
                         {
                             "children": [
@@ -1012,8 +967,8 @@
                                     "pos_data": {
                                         "__tuple__": true, 
                                         "items": [
-                                            85.0, 
-                                            85.0, 
+                                            60.0, 
+                                            60.0, 
                                             50.0, 
                                             50.0, 
                                             1, 
@@ -1022,8 +977,15 @@
                                     }, 
                                     "prefab_sub_key": null, 
                                     "scene_ui_name": null, 
+                                    "size": {
+                                        "__tuple__": true, 
+                                        "items": [
+                                            120.0, 
+                                            120.0
+                                        ]
+                                    }, 
                                     "type": 4, 
-                                    "uid": "0baa484a-546b-409b-bd98-027f2edebfb4"
+                                    "uid": "3b22a371-d5f8-49be-b8f3-f740e560dded"
                                 }, 
                                 {
                                     "cap_insets": {
@@ -1042,8 +1004,8 @@
                                     "pos_data": {
                                         "__tuple__": true, 
                                         "items": [
-                                            85.0, 
-                                            85.0, 
+                                            60.0, 
+                                            60.0, 
                                             50.0, 
                                             50.0, 
                                             1, 
@@ -1055,12 +1017,12 @@
                                     "size": {
                                         "__tuple__": true, 
                                         "items": [
-                                            150.0, 
-                                            150.0
+                                            120.0, 
+                                            120.0
                                         ]
                                     }, 
                                     "type": 4, 
-                                    "uid": "1f1c212f-a30a-4163-a373-5bfdd6b0e900"
+                                    "uid": "871b5b15-0d3b-4870-9a99-1d9662f962e5"
                                 }, 
                                 {
                                     "camera_mode": 1, 
@@ -1086,8 +1048,8 @@
                                     "pos_data": {
                                         "__tuple__": true, 
                                         "items": [
-                                            85.0, 
-                                            84.9999, 
+                                            60.0, 
+                                            59.0, 
                                             50.0, 
                                             49.9999, 
                                             1, 
@@ -1099,12 +1061,12 @@
                                     "size": {
                                         "__tuple__": true, 
                                         "items": [
-                                            150.0, 
-                                            150.0
+                                            120.0, 
+                                            120.0
                                         ]
                                     }, 
                                     "type": 6, 
-                                    "uid": "25399dd5-ddd0-4b31-810a-a4687ce9e225", 
+                                    "uid": "51025bd8-482f-46f1-8f8a-44c60fcd5ac1", 
                                     "visible": false
                                 }, 
                                 {
@@ -1116,8 +1078,8 @@
                                     "pos_data": {
                                         "__tuple__": true, 
                                         "items": [
-                                            85.0, 
-                                            85.0, 
+                                            60.0, 
+                                            60.0, 
                                             50.0, 
                                             50.0, 
                                             1, 
@@ -1129,13 +1091,13 @@
                                     "size": {
                                         "__tuple__": true, 
                                         "items": [
-                                            160.0, 
-                                            160.0
+                                            120.0, 
+                                            120.0
                                         ]
                                     }, 
                                     "suspend_picture": 107171, 
                                     "type": 1, 
-                                    "uid": "1b505975-1c5b-464e-94b9-7fd0f2b45a69"
+                                    "uid": "391d4b2d-34c6-4a2e-a51a-f3611046050c"
                                 }
                             ], 
                             "event_list": [], 
@@ -1143,10 +1105,10 @@
                             "pos_data": {
                                 "__tuple__": true, 
                                 "items": [
-                                    685.0, 
-                                    85.0, 
-                                    50.0, 
-                                    50.0, 
+                                    480.0, 
+                                    110.0, 
+                                    88.8889, 
+                                    64.7059, 
                                     1, 
                                     1
                                 ]
@@ -1156,12 +1118,12 @@
                             "size": {
                                 "__tuple__": true, 
                                 "items": [
-                                    170.0, 
-                                    170.0
+                                    120.0, 
+                                    120.0
                                 ]
                             }, 
                             "type": 7, 
-                            "uid": "a526a0ba-25e9-4ef6-8c36-d71b5dc8cd24"
+                            "uid": "6b01c1e8-d501-4248-a4f1-5204ebfe48f7"
                         }, 
                         {
                             "children": [
@@ -1182,8 +1144,8 @@
                                     "pos_data": {
                                         "__tuple__": true, 
                                         "items": [
-                                            85.0, 
-                                            85.0, 
+                                            60.0, 
+                                            60.0, 
                                             50.0, 
                                             50.0, 
                                             1, 
@@ -1192,8 +1154,15 @@
                                     }, 
                                     "prefab_sub_key": null, 
                                     "scene_ui_name": null, 
+                                    "size": {
+                                        "__tuple__": true, 
+                                        "items": [
+                                            120.0, 
+                                            120.0
+                                        ]
+                                    }, 
                                     "type": 4, 
-                                    "uid": "016872c2-97db-4acf-9cb4-6c2cd2ff174f"
+                                    "uid": "cf7c89af-8c20-4a5a-b17e-f76c4106864b"
                                 }, 
                                 {
                                     "cap_insets": {
@@ -1212,8 +1181,8 @@
                                     "pos_data": {
                                         "__tuple__": true, 
                                         "items": [
-                                            85.0, 
-                                            85.0, 
+                                            60.0, 
+                                            60.0, 
                                             50.0, 
                                             50.0, 
                                             1, 
@@ -1225,12 +1194,12 @@
                                     "size": {
                                         "__tuple__": true, 
                                         "items": [
-                                            150.0, 
-                                            150.0
+                                            120.0, 
+                                            120.0
                                         ]
                                     }, 
                                     "type": 4, 
-                                    "uid": "baa9610b-fafd-4d0d-9bd8-dc3df3e0087a"
+                                    "uid": "5f37b491-ce1f-45fe-a75b-15698f065546"
                                 }, 
                                 {
                                     "camera_mode": 1, 
@@ -1256,8 +1225,8 @@
                                     "pos_data": {
                                         "__tuple__": true, 
                                         "items": [
-                                            85.0, 
-                                            84.9999, 
+                                            60.0, 
+                                            59.0, 
                                             50.0, 
                                             49.9999, 
                                             1, 
@@ -1269,12 +1238,12 @@
                                     "size": {
                                         "__tuple__": true, 
                                         "items": [
-                                            150.0, 
-                                            150.0
+                                            120.0, 
+                                            120.0
                                         ]
                                     }, 
                                     "type": 6, 
-                                    "uid": "3dcd9fbd-45a0-445b-8f02-75e7fe836bd6", 
+                                    "uid": "f1916402-7288-4046-ab1d-b089bfa2cc10", 
                                     "visible": false
                                 }, 
                                 {
@@ -1286,8 +1255,8 @@
                                     "pos_data": {
                                         "__tuple__": true, 
                                         "items": [
-                                            85.0, 
-                                            85.0, 
+                                            60.0, 
+                                            60.0, 
                                             50.0, 
                                             50.0, 
                                             1, 
@@ -1299,13 +1268,13 @@
                                     "size": {
                                         "__tuple__": true, 
                                         "items": [
-                                            160.0, 
-                                            160.0
+                                            120.0, 
+                                            120.0
                                         ]
                                     }, 
                                     "suspend_picture": 107171, 
                                     "type": 1, 
-                                    "uid": "6b23492f-9857-41ad-90fe-43ae934769dc"
+                                    "uid": "e9e56112-35d3-48de-bc59-982d80ad30d6"
                                 }
                             ], 
                             "event_list": [], 
@@ -1313,10 +1282,10 @@
                             "pos_data": {
                                 "__tuple__": true, 
                                 "items": [
-                                    885.0, 
-                                    85.0, 
-                                    64.5985, 
-                                    50.0, 
+                                    60.0, 
+                                    -10.0, 
+                                    11.1111, 
+                                    -5.8824, 
                                     1, 
                                     1
                                 ]
@@ -1326,12 +1295,12 @@
                             "size": {
                                 "__tuple__": true, 
                                 "items": [
-                                    170.0, 
-                                    170.0
+                                    120.0, 
+                                    120.0
                                 ]
                             }, 
                             "type": 7, 
-                            "uid": "125333da-39ce-43e7-b34f-6ef1ab12b1c4"
+                            "uid": "5c3e4d2b-3d59-4071-a8f8-416999d75dad"
                         }, 
                         {
                             "children": [
@@ -1352,8 +1321,8 @@
                                     "pos_data": {
                                         "__tuple__": true, 
                                         "items": [
-                                            85.0, 
-                                            85.0, 
+                                            60.0, 
+                                            60.0, 
                                             50.0, 
                                             50.0, 
                                             1, 
@@ -1362,8 +1331,15 @@
                                     }, 
                                     "prefab_sub_key": null, 
                                     "scene_ui_name": null, 
+                                    "size": {
+                                        "__tuple__": true, 
+                                        "items": [
+                                            120.0, 
+                                            120.0
+                                        ]
+                                    }, 
                                     "type": 4, 
-                                    "uid": "76b22b8f-51fd-4891-9712-1ade1e498bd7"
+                                    "uid": "81c21de7-9658-412b-a246-071d5b619f2d"
                                 }, 
                                 {
                                     "cap_insets": {
@@ -1382,8 +1358,8 @@
                                     "pos_data": {
                                         "__tuple__": true, 
                                         "items": [
-                                            85.0, 
-                                            85.0, 
+                                            60.0, 
+                                            60.0, 
                                             50.0, 
                                             50.0, 
                                             1, 
@@ -1395,12 +1371,12 @@
                                     "size": {
                                         "__tuple__": true, 
                                         "items": [
-                                            150.0, 
-                                            150.0
+                                            120.0, 
+                                            120.0
                                         ]
                                     }, 
                                     "type": 4, 
-                                    "uid": "df20dc97-c74a-4485-a7ad-bd5d7bae01f0"
+                                    "uid": "7faf0b96-b794-4ad9-b3fc-8b3b6d558cfe"
                                 }, 
                                 {
                                     "camera_mode": 1, 
@@ -1426,8 +1402,8 @@
                                     "pos_data": {
                                         "__tuple__": true, 
                                         "items": [
-                                            85.0, 
-                                            84.9999, 
+                                            60.0, 
+                                            59.0, 
                                             50.0, 
                                             49.9999, 
                                             1, 
@@ -1439,12 +1415,12 @@
                                     "size": {
                                         "__tuple__": true, 
                                         "items": [
-                                            150.0, 
-                                            150.0
+                                            120.0, 
+                                            120.0
                                         ]
                                     }, 
                                     "type": 6, 
-                                    "uid": "d14341a7-c2f0-4adf-8c14-abe09dbdc4bd", 
+                                    "uid": "426f1fed-835d-47ec-9b94-70f86a048e6e", 
                                     "visible": false
                                 }, 
                                 {
@@ -1456,8 +1432,8 @@
                                     "pos_data": {
                                         "__tuple__": true, 
                                         "items": [
-                                            85.0, 
-                                            85.0, 
+                                            60.0, 
+                                            60.0, 
                                             50.0, 
                                             50.0, 
                                             1, 
@@ -1469,13 +1445,13 @@
                                     "size": {
                                         "__tuple__": true, 
                                         "items": [
-                                            160.0, 
-                                            160.0
+                                            120.0, 
+                                            120.0
                                         ]
                                     }, 
                                     "suspend_picture": 107171, 
                                     "type": 1, 
-                                    "uid": "41bb8613-eaa7-457d-99a4-8f89e9d070d2"
+                                    "uid": "27c93774-4918-4fb1-a261-7a548c972293"
                                 }
                             ], 
                             "event_list": [], 
@@ -1483,10 +1459,10 @@
                             "pos_data": {
                                 "__tuple__": true, 
                                 "items": [
-                                    1085.0, 
-                                    85.0, 
-                                    79.1971, 
-                                    50.0, 
+                                    198.0, 
+                                    -10.0, 
+                                    37.0, 
+                                    -5.88, 
                                     1, 
                                     1
                                 ]
@@ -1496,12 +1472,12 @@
                             "size": {
                                 "__tuple__": true, 
                                 "items": [
-                                    170.0, 
-                                    170.0
+                                    120.0, 
+                                    120.0
                                 ]
                             }, 
                             "type": 7, 
-                            "uid": "1c952a34-cf06-4cad-a484-345ccbce3356"
+                            "uid": "e1359fc0-596f-4ac7-b572-6c191cf2b59d"
                         }, 
                         {
                             "children": [
@@ -1522,8 +1498,8 @@
                                     "pos_data": {
                                         "__tuple__": true, 
                                         "items": [
-                                            85.0, 
-                                            85.0, 
+                                            60.0, 
+                                            60.0, 
                                             50.0, 
                                             50.0, 
                                             1, 
@@ -1532,8 +1508,15 @@
                                     }, 
                                     "prefab_sub_key": null, 
                                     "scene_ui_name": null, 
+                                    "size": {
+                                        "__tuple__": true, 
+                                        "items": [
+                                            120.0, 
+                                            120.0
+                                        ]
+                                    }, 
                                     "type": 4, 
-                                    "uid": "2cc1c5c2-4f55-4814-aaf6-1671909bd9e1"
+                                    "uid": "482732eb-15d8-4911-a373-7a179c1d7cec"
                                 }, 
                                 {
                                     "cap_insets": {
@@ -1552,8 +1535,8 @@
                                     "pos_data": {
                                         "__tuple__": true, 
                                         "items": [
-                                            85.0, 
-                                            85.0, 
+                                            60.0, 
+                                            60.0, 
                                             50.0, 
                                             50.0, 
                                             1, 
@@ -1565,12 +1548,12 @@
                                     "size": {
                                         "__tuple__": true, 
                                         "items": [
-                                            150.0, 
-                                            150.0
+                                            120.0, 
+                                            120.0
                                         ]
                                     }, 
                                     "type": 4, 
-                                    "uid": "851e3774-8697-4c16-9292-c8523631ac12"
+                                    "uid": "b919b498-5279-4bab-81b0-2af750c9d590"
                                 }, 
                                 {
                                     "camera_mode": 1, 
@@ -1596,8 +1579,8 @@
                                     "pos_data": {
                                         "__tuple__": true, 
                                         "items": [
-                                            85.0, 
-                                            84.9999, 
+                                            60.0, 
+                                            59.0, 
                                             50.0, 
                                             49.9999, 
                                             1, 
@@ -1609,12 +1592,12 @@
                                     "size": {
                                         "__tuple__": true, 
                                         "items": [
-                                            150.0, 
-                                            150.0
+                                            120.0, 
+                                            120.0
                                         ]
                                     }, 
                                     "type": 6, 
-                                    "uid": "eed11517-716a-4429-b849-b7c7c89f8774", 
+                                    "uid": "eb0ea0f4-a98e-41dc-ad77-79f94dea4dd9", 
                                     "visible": false
                                 }, 
                                 {
@@ -1626,8 +1609,8 @@
                                     "pos_data": {
                                         "__tuple__": true, 
                                         "items": [
-                                            85.0, 
-                                            85.0, 
+                                            60.0, 
+                                            60.0, 
                                             50.0, 
                                             50.0, 
                                             1, 
@@ -1639,13 +1622,13 @@
                                     "size": {
                                         "__tuple__": true, 
                                         "items": [
-                                            160.0, 
-                                            160.0
+                                            120.0, 
+                                            120.0
                                         ]
                                     }, 
                                     "suspend_picture": 107171, 
                                     "type": 1, 
-                                    "uid": "4b4e040a-7dd8-4f43-9d16-e836e14183f3"
+                                    "uid": "af53d8be-eaf5-4e03-9ff1-f83cc2ef38a6"
                                 }
                             ], 
                             "event_list": [], 
@@ -1653,10 +1636,10 @@
                             "pos_data": {
                                 "__tuple__": true, 
                                 "items": [
-                                    1285.0, 
-                                    85.0, 
-                                    93.7956, 
-                                    50.0, 
+                                    340.0, 
+                                    -10.0, 
+                                    63.0, 
+                                    -5.88, 
                                     1, 
                                     1
                                 ]
@@ -1666,12 +1649,189 @@
                             "size": {
                                 "__tuple__": true, 
                                 "items": [
-                                    170.0, 
-                                    170.0
+                                    120.0, 
+                                    120.0
                                 ]
                             }, 
                             "type": 7, 
-                            "uid": "634c59f7-23f2-463d-a6c0-a63cebdc0fe9"
+                            "uid": "06035427-1b49-41ec-9a02-c5bc8b1a67a3"
+                        }, 
+                        {
+                            "children": [
+                                {
+                                    "cap_insets": {
+                                        "__tuple__": true, 
+                                        "items": [
+                                            12.0, 
+                                            12.0, 
+                                            12.0, 
+                                            12.0
+                                        ]
+                                    }, 
+                                    "children": [], 
+                                    "event_list": [], 
+                                    "image": 904015, 
+                                    "name": "bg", 
+                                    "pos_data": {
+                                        "__tuple__": true, 
+                                        "items": [
+                                            60.0, 
+                                            60.0, 
+                                            50.0, 
+                                            50.0, 
+                                            1, 
+                                            1
+                                        ]
+                                    }, 
+                                    "prefab_sub_key": null, 
+                                    "scene_ui_name": null, 
+                                    "size": {
+                                        "__tuple__": true, 
+                                        "items": [
+                                            120.0, 
+                                            120.0
+                                        ]
+                                    }, 
+                                    "type": 4, 
+                                    "uid": "417f034c-183c-4eaf-8e10-d90b21646d98"
+                                }, 
+                                {
+                                    "cap_insets": {
+                                        "__tuple__": true, 
+                                        "items": [
+                                            42.0, 
+                                            42.0, 
+                                            42.0, 
+                                            42.0
+                                        ]
+                                    }, 
+                                    "children": [], 
+                                    "event_list": [], 
+                                    "image": 999, 
+                                    "name": "avator", 
+                                    "pos_data": {
+                                        "__tuple__": true, 
+                                        "items": [
+                                            60.0, 
+                                            60.0, 
+                                            50.0, 
+                                            50.0, 
+                                            1, 
+                                            1
+                                        ]
+                                    }, 
+                                    "prefab_sub_key": null, 
+                                    "scene_ui_name": null, 
+                                    "size": {
+                                        "__tuple__": true, 
+                                        "items": [
+                                            120.0, 
+                                            120.0
+                                        ]
+                                    }, 
+                                    "type": 4, 
+                                    "uid": "0ac994a0-4140-4734-8bec-80665548b0fe"
+                                }, 
+                                {
+                                    "camera_mode": 1, 
+                                    "camera_pos": {
+                                        "__tuple__": true, 
+                                        "items": [
+                                            -5.2125, 
+                                            4.2044, 
+                                            5.2407
+                                        ]
+                                    }, 
+                                    "children": [], 
+                                    "event_list": [], 
+                                    "focus_pos": {
+                                        "__tuple__": true, 
+                                        "items": [
+                                            -4.5654, 
+                                            3.8013, 
+                                            4.5936
+                                        ]
+                                    }, 
+                                    "name": "model", 
+                                    "pos_data": {
+                                        "__tuple__": true, 
+                                        "items": [
+                                            60.0, 
+                                            59.0, 
+                                            50.0, 
+                                            49.9999, 
+                                            1, 
+                                            1
+                                        ]
+                                    }, 
+                                    "prefab_sub_key": null, 
+                                    "scene_ui_name": null, 
+                                    "size": {
+                                        "__tuple__": true, 
+                                        "items": [
+                                            120.0, 
+                                            120.0
+                                        ]
+                                    }, 
+                                    "type": 6, 
+                                    "uid": "ffe5eefb-c1ed-4767-a630-275d841f8de5", 
+                                    "visible": false
+                                }, 
+                                {
+                                    "children": [], 
+                                    "event_list": [], 
+                                    "hover_status_added": true, 
+                                    "name": "frame", 
+                                    "normal_picture": 107172, 
+                                    "pos_data": {
+                                        "__tuple__": true, 
+                                        "items": [
+                                            60.0, 
+                                            60.0, 
+                                            50.0, 
+                                            50.0, 
+                                            1, 
+                                            1
+                                        ]
+                                    }, 
+                                    "prefab_sub_key": null, 
+                                    "scene_ui_name": null, 
+                                    "size": {
+                                        "__tuple__": true, 
+                                        "items": [
+                                            120.0, 
+                                            120.0
+                                        ]
+                                    }, 
+                                    "suspend_picture": 107171, 
+                                    "type": 1, 
+                                    "uid": "890e408d-caff-4c90-b8b0-c0de5d5e9f5c"
+                                }
+                            ], 
+                            "event_list": [], 
+                            "name": "unit8", 
+                            "pos_data": {
+                                "__tuple__": true, 
+                                "items": [
+                                    480.0, 
+                                    -10.0, 
+                                    88.8889, 
+                                    -5.8824, 
+                                    1, 
+                                    1
+                                ]
+                            }, 
+                            "prefab_sub_key": null, 
+                            "scene_ui_name": null, 
+                            "size": {
+                                "__tuple__": true, 
+                                "items": [
+                                    120.0, 
+                                    120.0
+                                ]
+                            }, 
+                            "type": 7, 
+                            "uid": "861af560-db43-4714-959b-8c97d9d6a780"
                         }
                     ], 
                     "event_list": [], 
@@ -1679,10 +1839,10 @@
                     "pos_data": {
                         "__tuple__": true, 
                         "items": [
-                            725.0, 
-                            110.0, 
-                            50.0, 
-                            36.6667, 
+                            384.0, 
+                            53.0, 
+                            26.5517, 
+                            18.1482, 
                             1, 
                             1
                         ]
@@ -1692,7 +1852,7 @@
                     "size": {
                         "__tuple__": true, 
                         "items": [
-                            1370.0, 
+                            540.0, 
                             170.0
                         ]
                     }, 
@@ -1728,91 +1888,6 @@
         {
             "children": [
                 {
-                    "cap_insets": {
-                        "__tuple__": true, 
-                        "items": [
-                            81.0, 
-                            33.0, 
-                            81.0, 
-                            33.0
-                        ]
-                    }, 
-                    "children": [], 
-                    "event_list": [], 
-                    "image": 110091, 
-                    "name": "bg", 
-                    "pos_data": {
-                        "__tuple__": true, 
-                        "items": [
-                            725.0, 
-                            150.0, 
-                            50.0, 
-                            50.0, 
-                            1, 
-                            1
-                        ]
-                    }, 
-                    "prefab_sub_key": null, 
-                    "scene_ui_name": null, 
-                    "size": {
-                        "__tuple__": true, 
-                        "items": [
-                            1450.0, 
-                            300.0
-                        ]
-                    }, 
-                    "type": 4, 
-                    "uid": "0ebaa2c8-661a-48c1-9ede-cd4e79c4a70f"
-                }, 
-                {
-                    "alignment": {
-                        "__tuple__": true, 
-                        "items": [
-                            2, 
-                            8
-                        ]
-                    }, 
-                    "children": [], 
-                    "event_list": [], 
-                    "font": {
-                        "__tuple__": true, 
-                        "items": [
-                            "HKXinZongYiW9", 
-                            50
-                        ]
-                    }, 
-                    "name": "title", 
-                    "pos_data": {
-                        "__tuple__": true, 
-                        "items": [
-                            725.0, 
-                            235.0, 
-                            50.0, 
-                            78.3333, 
-                            1, 
-                            1
-                        ]
-                    }, 
-                    "prefab_sub_key": null, 
-                    "scene_ui_name": null, 
-                    "size": {
-                        "__tuple__": true, 
-                        "items": [
-                            300.0, 
-                            80.0
-                        ]
-                    }, 
-                    "text": {
-                        "__tuple__": true, 
-                        "items": [
-                            "\u6280\u80fd\u8d2d\u4e70", 
-                            false
-                        ]
-                    }, 
-                    "type": 3, 
-                    "uid": "fb082e53-456f-4012-afcc-478d15f8d80e"
-                }, 
-                {
                     "children": [
                         {
                             "children": [
@@ -1833,8 +1908,8 @@
                                     "pos_data": {
                                         "__tuple__": true, 
                                         "items": [
-                                            85.0, 
-                                            85.0, 
+                                            60.0, 
+                                            60.0, 
                                             50.0, 
                                             50.0, 
                                             1, 
@@ -1843,6 +1918,13 @@
                                     }, 
                                     "prefab_sub_key": null, 
                                     "scene_ui_name": null, 
+                                    "size": {
+                                        "__tuple__": true, 
+                                        "items": [
+                                            120.0, 
+                                            120.0
+                                        ]
+                                    }, 
                                     "type": 4, 
                                     "uid": "6b5a50b5-4397-4c72-b10d-32c1d932158b"
                                 }, 
@@ -1863,8 +1945,8 @@
                                     "pos_data": {
                                         "__tuple__": true, 
                                         "items": [
-                                            85.0, 
-                                            85.0, 
+                                            60.0, 
+                                            60.0, 
                                             50.0, 
                                             50.0, 
                                             1, 
@@ -1876,8 +1958,8 @@
                                     "size": {
                                         "__tuple__": true, 
                                         "items": [
-                                            150.0, 
-                                            150.0
+                                            120.0, 
+                                            120.0
                                         ]
                                     }, 
                                     "type": 4, 
@@ -1907,8 +1989,8 @@
                                     "pos_data": {
                                         "__tuple__": true, 
                                         "items": [
-                                            85.0, 
-                                            84.9999, 
+                                            60.0, 
+                                            59.0, 
                                             50.0, 
                                             49.9999, 
                                             1, 
@@ -1920,8 +2002,8 @@
                                     "size": {
                                         "__tuple__": true, 
                                         "items": [
-                                            150.0, 
-                                            150.0
+                                            120.0, 
+                                            120.0
                                         ]
                                     }, 
                                     "type": 6, 
@@ -1937,8 +2019,8 @@
                                     "pos_data": {
                                         "__tuple__": true, 
                                         "items": [
-                                            85.0, 
-                                            85.0, 
+                                            60.0, 
+                                            60.0, 
                                             50.0, 
                                             50.0, 
                                             1, 
@@ -1950,8 +2032,8 @@
                                     "size": {
                                         "__tuple__": true, 
                                         "items": [
-                                            160.0, 
-                                            160.0
+                                            120.0, 
+                                            120.0
                                         ]
                                     }, 
                                     "suspend_picture": 107171, 
@@ -1964,10 +2046,10 @@
                             "pos_data": {
                                 "__tuple__": true, 
                                 "items": [
-                                    85.0, 
-                                    85.0, 
-                                    6.2044, 
-                                    50.0, 
+                                    60.0, 
+                                    110.0, 
+                                    11.1111, 
+                                    64.7059, 
                                     1, 
                                     1
                                 ]
@@ -1977,8 +2059,8 @@
                             "size": {
                                 "__tuple__": true, 
                                 "items": [
-                                    170.0, 
-                                    170.0
+                                    120.0, 
+                                    120.0
                                 ]
                             }, 
                             "type": 7, 
@@ -2003,8 +2085,8 @@
                                     "pos_data": {
                                         "__tuple__": true, 
                                         "items": [
-                                            85.0, 
-                                            85.0, 
+                                            60.0, 
+                                            60.0, 
                                             50.0, 
                                             50.0, 
                                             1, 
@@ -2013,8 +2095,15 @@
                                     }, 
                                     "prefab_sub_key": null, 
                                     "scene_ui_name": null, 
+                                    "size": {
+                                        "__tuple__": true, 
+                                        "items": [
+                                            120.0, 
+                                            120.0
+                                        ]
+                                    }, 
                                     "type": 4, 
-                                    "uid": "57879f62-f812-4eab-9431-8efc6158de55"
+                                    "uid": "f4802ebe-55d9-4115-aedf-15e68135e4de"
                                 }, 
                                 {
                                     "cap_insets": {
@@ -2033,8 +2122,8 @@
                                     "pos_data": {
                                         "__tuple__": true, 
                                         "items": [
-                                            85.0, 
-                                            85.0, 
+                                            60.0, 
+                                            60.0, 
                                             50.0, 
                                             50.0, 
                                             1, 
@@ -2046,12 +2135,12 @@
                                     "size": {
                                         "__tuple__": true, 
                                         "items": [
-                                            150.0, 
-                                            150.0
+                                            120.0, 
+                                            120.0
                                         ]
                                     }, 
                                     "type": 4, 
-                                    "uid": "8f938d0d-fc7a-4556-8e17-6a864eed6e46"
+                                    "uid": "07715cd0-af32-4475-add3-2975c2757ab2"
                                 }, 
                                 {
                                     "camera_mode": 1, 
@@ -2077,8 +2166,8 @@
                                     "pos_data": {
                                         "__tuple__": true, 
                                         "items": [
-                                            85.0, 
-                                            84.9999, 
+                                            60.0, 
+                                            59.0, 
                                             50.0, 
                                             49.9999, 
                                             1, 
@@ -2090,12 +2179,12 @@
                                     "size": {
                                         "__tuple__": true, 
                                         "items": [
-                                            150.0, 
-                                            150.0
+                                            120.0, 
+                                            120.0
                                         ]
                                     }, 
                                     "type": 6, 
-                                    "uid": "2cf309c8-9e82-403d-9cc4-c0374c97c2a0", 
+                                    "uid": "16eba1e4-17a6-4da0-b234-6ac00d591f54", 
                                     "visible": false
                                 }, 
                                 {
@@ -2107,8 +2196,8 @@
                                     "pos_data": {
                                         "__tuple__": true, 
                                         "items": [
-                                            85.0, 
-                                            85.0, 
+                                            60.0, 
+                                            60.0, 
                                             50.0, 
                                             50.0, 
                                             1, 
@@ -2120,13 +2209,13 @@
                                     "size": {
                                         "__tuple__": true, 
                                         "items": [
-                                            160.0, 
-                                            160.0
+                                            120.0, 
+                                            120.0
                                         ]
                                     }, 
                                     "suspend_picture": 107171, 
                                     "type": 1, 
-                                    "uid": "138f8d6b-c747-4983-9ed8-90a0f3305579"
+                                    "uid": "56792f14-7cd9-48c9-a482-398e963e3a13"
                                 }
                             ], 
                             "event_list": [], 
@@ -2134,10 +2223,10 @@
                             "pos_data": {
                                 "__tuple__": true, 
                                 "items": [
-                                    285.0, 
-                                    85.0, 
-                                    20.8029, 
-                                    50.0, 
+                                    199.0, 
+                                    110.0, 
+                                    37.0, 
+                                    64.71, 
                                     1, 
                                     1
                                 ]
@@ -2147,12 +2236,12 @@
                             "size": {
                                 "__tuple__": true, 
                                 "items": [
-                                    170.0, 
-                                    170.0
+                                    120.0, 
+                                    120.0
                                 ]
                             }, 
                             "type": 7, 
-                            "uid": "30a20c84-4bc6-4037-83a2-b7db5b0416b8"
+                            "uid": "14bc2b7f-4840-413b-acf3-42f2afa08cf9"
                         }, 
                         {
                             "children": [
@@ -2173,8 +2262,8 @@
                                     "pos_data": {
                                         "__tuple__": true, 
                                         "items": [
-                                            85.0, 
-                                            85.0, 
+                                            60.0, 
+                                            60.0, 
                                             50.0, 
                                             50.0, 
                                             1, 
@@ -2183,8 +2272,15 @@
                                     }, 
                                     "prefab_sub_key": null, 
                                     "scene_ui_name": null, 
+                                    "size": {
+                                        "__tuple__": true, 
+                                        "items": [
+                                            120.0, 
+                                            120.0
+                                        ]
+                                    }, 
                                     "type": 4, 
-                                    "uid": "0e8f4aa2-a4dc-4a77-97a0-d4866f9e832e"
+                                    "uid": "0c8f1981-2617-47ca-bea3-f335e20de646"
                                 }, 
                                 {
                                     "cap_insets": {
@@ -2203,8 +2299,8 @@
                                     "pos_data": {
                                         "__tuple__": true, 
                                         "items": [
-                                            85.0, 
-                                            85.0, 
+                                            60.0, 
+                                            60.0, 
                                             50.0, 
                                             50.0, 
                                             1, 
@@ -2216,12 +2312,12 @@
                                     "size": {
                                         "__tuple__": true, 
                                         "items": [
-                                            150.0, 
-                                            150.0
+                                            120.0, 
+                                            120.0
                                         ]
                                     }, 
                                     "type": 4, 
-                                    "uid": "4aae7136-6612-452e-8d95-6dc0d3ef211b"
+                                    "uid": "f0b4c8a2-2d95-41c1-910b-097caf4b4633"
                                 }, 
                                 {
                                     "camera_mode": 1, 
@@ -2247,8 +2343,8 @@
                                     "pos_data": {
                                         "__tuple__": true, 
                                         "items": [
-                                            85.0, 
-                                            84.9999, 
+                                            60.0, 
+                                            59.0, 
                                             50.0, 
                                             49.9999, 
                                             1, 
@@ -2260,12 +2356,12 @@
                                     "size": {
                                         "__tuple__": true, 
                                         "items": [
-                                            150.0, 
-                                            150.0
+                                            120.0, 
+                                            120.0
                                         ]
                                     }, 
                                     "type": 6, 
-                                    "uid": "57528995-b551-4632-b099-2f9e21a6f3b8", 
+                                    "uid": "03818a24-b16d-4b7a-8f9a-d190560daadc", 
                                     "visible": false
                                 }, 
                                 {
@@ -2277,8 +2373,8 @@
                                     "pos_data": {
                                         "__tuple__": true, 
                                         "items": [
-                                            85.0, 
-                                            85.0, 
+                                            60.0, 
+                                            60.0, 
                                             50.0, 
                                             50.0, 
                                             1, 
@@ -2290,13 +2386,13 @@
                                     "size": {
                                         "__tuple__": true, 
                                         "items": [
-                                            160.0, 
-                                            160.0
+                                            120.0, 
+                                            120.0
                                         ]
                                     }, 
                                     "suspend_picture": 107171, 
                                     "type": 1, 
-                                    "uid": "3ad0df19-3065-440e-8483-bc5fe07b4ab6"
+                                    "uid": "e3eb9b5d-b9b4-44ee-a6ca-d2accaf0216f"
                                 }
                             ], 
                             "event_list": [], 
@@ -2304,10 +2400,10 @@
                             "pos_data": {
                                 "__tuple__": true, 
                                 "items": [
-                                    485.0, 
-                                    85.0, 
-                                    35.4015, 
-                                    50.0, 
+                                    340.0, 
+                                    110.0, 
+                                    63.0, 
+                                    64.71, 
                                     1, 
                                     1
                                 ]
@@ -2317,12 +2413,12 @@
                             "size": {
                                 "__tuple__": true, 
                                 "items": [
-                                    170.0, 
-                                    170.0
+                                    120.0, 
+                                    120.0
                                 ]
                             }, 
                             "type": 7, 
-                            "uid": "04102ec2-2616-4961-ad0d-5ed5f99e455f"
+                            "uid": "3236d08a-5dda-4c9d-9a1d-93d734458cc4"
                         }, 
                         {
                             "children": [
@@ -2343,8 +2439,8 @@
                                     "pos_data": {
                                         "__tuple__": true, 
                                         "items": [
-                                            85.0, 
-                                            85.0, 
+                                            60.0, 
+                                            60.0, 
                                             50.0, 
                                             50.0, 
                                             1, 
@@ -2353,8 +2449,15 @@
                                     }, 
                                     "prefab_sub_key": null, 
                                     "scene_ui_name": null, 
+                                    "size": {
+                                        "__tuple__": true, 
+                                        "items": [
+                                            120.0, 
+                                            120.0
+                                        ]
+                                    }, 
                                     "type": 4, 
-                                    "uid": "539982f6-0be0-4294-b1bd-d977630d2009"
+                                    "uid": "09ea371a-1782-449f-830a-f5257bb3ff44"
                                 }, 
                                 {
                                     "cap_insets": {
@@ -2373,8 +2476,8 @@
                                     "pos_data": {
                                         "__tuple__": true, 
                                         "items": [
-                                            85.0, 
-                                            85.0, 
+                                            60.0, 
+                                            60.0, 
                                             50.0, 
                                             50.0, 
                                             1, 
@@ -2386,12 +2489,12 @@
                                     "size": {
                                         "__tuple__": true, 
                                         "items": [
-                                            150.0, 
-                                            150.0
+                                            120.0, 
+                                            120.0
                                         ]
                                     }, 
                                     "type": 4, 
-                                    "uid": "204be309-3aca-4525-9d09-f57c63a754d3"
+                                    "uid": "e11c3b88-c752-4a12-9c95-e80de1dc561c"
                                 }, 
                                 {
                                     "camera_mode": 1, 
@@ -2417,8 +2520,8 @@
                                     "pos_data": {
                                         "__tuple__": true, 
                                         "items": [
-                                            85.0, 
-                                            84.9999, 
+                                            60.0, 
+                                            59.0, 
                                             50.0, 
                                             49.9999, 
                                             1, 
@@ -2430,12 +2533,12 @@
                                     "size": {
                                         "__tuple__": true, 
                                         "items": [
-                                            150.0, 
-                                            150.0
+                                            120.0, 
+                                            120.0
                                         ]
                                     }, 
                                     "type": 6, 
-                                    "uid": "dec49f83-3357-4785-920b-c787fd72a31e", 
+                                    "uid": "ab4e78a1-5016-4521-b1e7-aa7b94b727ba", 
                                     "visible": false
                                 }, 
                                 {
@@ -2447,8 +2550,8 @@
                                     "pos_data": {
                                         "__tuple__": true, 
                                         "items": [
-                                            85.0, 
-                                            85.0, 
+                                            60.0, 
+                                            60.0, 
                                             50.0, 
                                             50.0, 
                                             1, 
@@ -2460,13 +2563,13 @@
                                     "size": {
                                         "__tuple__": true, 
                                         "items": [
-                                            160.0, 
-                                            160.0
+                                            120.0, 
+                                            120.0
                                         ]
                                     }, 
                                     "suspend_picture": 107171, 
                                     "type": 1, 
-                                    "uid": "938fefe7-4171-45fd-a02c-4895931946fa"
+                                    "uid": "75b9e3bd-1753-4812-81c7-6d728221b6da"
                                 }
                             ], 
                             "event_list": [], 
@@ -2474,10 +2577,10 @@
                             "pos_data": {
                                 "__tuple__": true, 
                                 "items": [
-                                    685.0, 
-                                    85.0, 
-                                    50.0, 
-                                    50.0, 
+                                    480.0, 
+                                    110.0, 
+                                    88.8889, 
+                                    64.7059, 
                                     1, 
                                     1
                                 ]
@@ -2487,12 +2590,12 @@
                             "size": {
                                 "__tuple__": true, 
                                 "items": [
-                                    170.0, 
-                                    170.0
+                                    120.0, 
+                                    120.0
                                 ]
                             }, 
                             "type": 7, 
-                            "uid": "bc0ca94c-92f8-4e86-9214-98a397ab92ee"
+                            "uid": "2bf4b2bd-fc95-43a4-99ad-8b0e0849dccd"
                         }, 
                         {
                             "children": [
@@ -2513,8 +2616,8 @@
                                     "pos_data": {
                                         "__tuple__": true, 
                                         "items": [
-                                            85.0, 
-                                            85.0, 
+                                            60.0, 
+                                            60.0, 
                                             50.0, 
                                             50.0, 
                                             1, 
@@ -2523,8 +2626,15 @@
                                     }, 
                                     "prefab_sub_key": null, 
                                     "scene_ui_name": null, 
+                                    "size": {
+                                        "__tuple__": true, 
+                                        "items": [
+                                            120.0, 
+                                            120.0
+                                        ]
+                                    }, 
                                     "type": 4, 
-                                    "uid": "937e18f2-0669-4da5-9d0b-80818052ae3c"
+                                    "uid": "ce5522e0-f8f5-401e-879e-874121861579"
                                 }, 
                                 {
                                     "cap_insets": {
@@ -2543,8 +2653,8 @@
                                     "pos_data": {
                                         "__tuple__": true, 
                                         "items": [
-                                            85.0, 
-                                            85.0, 
+                                            60.0, 
+                                            60.0, 
                                             50.0, 
                                             50.0, 
                                             1, 
@@ -2556,12 +2666,12 @@
                                     "size": {
                                         "__tuple__": true, 
                                         "items": [
-                                            150.0, 
-                                            150.0
+                                            120.0, 
+                                            120.0
                                         ]
                                     }, 
                                     "type": 4, 
-                                    "uid": "3233707f-3f70-4a12-8643-2ad0e90abb64"
+                                    "uid": "cf097ced-50b3-475e-9081-4923a32197c0"
                                 }, 
                                 {
                                     "camera_mode": 1, 
@@ -2587,8 +2697,8 @@
                                     "pos_data": {
                                         "__tuple__": true, 
                                         "items": [
-                                            85.0, 
-                                            84.9999, 
+                                            60.0, 
+                                            59.0, 
                                             50.0, 
                                             49.9999, 
                                             1, 
@@ -2600,12 +2710,12 @@
                                     "size": {
                                         "__tuple__": true, 
                                         "items": [
-                                            150.0, 
-                                            150.0
+                                            120.0, 
+                                            120.0
                                         ]
                                     }, 
                                     "type": 6, 
-                                    "uid": "de62345b-dcb7-4180-9259-bf3aa73762b5", 
+                                    "uid": "5ae275b5-6487-4dbb-9080-a4aab44990a0", 
                                     "visible": false
                                 }, 
                                 {
@@ -2617,8 +2727,8 @@
                                     "pos_data": {
                                         "__tuple__": true, 
                                         "items": [
-                                            85.0, 
-                                            85.0, 
+                                            60.0, 
+                                            60.0, 
                                             50.0, 
                                             50.0, 
                                             1, 
@@ -2630,13 +2740,13 @@
                                     "size": {
                                         "__tuple__": true, 
                                         "items": [
-                                            160.0, 
-                                            160.0
+                                            120.0, 
+                                            120.0
                                         ]
                                     }, 
                                     "suspend_picture": 107171, 
                                     "type": 1, 
-                                    "uid": "28ea4a5e-23c8-4acc-866f-13ed69109545"
+                                    "uid": "44d071e7-dc65-4571-bd9c-62bf67ddd398"
                                 }
                             ], 
                             "event_list": [], 
@@ -2644,10 +2754,10 @@
                             "pos_data": {
                                 "__tuple__": true, 
                                 "items": [
-                                    885.0, 
-                                    85.0, 
-                                    64.5985, 
-                                    50.0, 
+                                    60.0, 
+                                    -10.0, 
+                                    11.1111, 
+                                    -5.8824, 
                                     1, 
                                     1
                                 ]
@@ -2657,12 +2767,12 @@
                             "size": {
                                 "__tuple__": true, 
                                 "items": [
-                                    170.0, 
-                                    170.0
+                                    120.0, 
+                                    120.0
                                 ]
                             }, 
                             "type": 7, 
-                            "uid": "fae09116-95c4-45da-acbd-bd16b8dcd0ca"
+                            "uid": "a4ee9503-d68a-48f3-bad7-590fa8fec333"
                         }, 
                         {
                             "children": [
@@ -2683,8 +2793,8 @@
                                     "pos_data": {
                                         "__tuple__": true, 
                                         "items": [
-                                            85.0, 
-                                            85.0, 
+                                            60.0, 
+                                            60.0, 
                                             50.0, 
                                             50.0, 
                                             1, 
@@ -2693,8 +2803,15 @@
                                     }, 
                                     "prefab_sub_key": null, 
                                     "scene_ui_name": null, 
+                                    "size": {
+                                        "__tuple__": true, 
+                                        "items": [
+                                            120.0, 
+                                            120.0
+                                        ]
+                                    }, 
                                     "type": 4, 
-                                    "uid": "b4c20b3d-8439-4f7a-a0db-c5cca7f91caf"
+                                    "uid": "53c04d21-230c-4fcd-9948-b18a89ac2b6b"
                                 }, 
                                 {
                                     "cap_insets": {
@@ -2713,8 +2830,8 @@
                                     "pos_data": {
                                         "__tuple__": true, 
                                         "items": [
-                                            85.0, 
-                                            85.0, 
+                                            60.0, 
+                                            60.0, 
                                             50.0, 
                                             50.0, 
                                             1, 
@@ -2726,12 +2843,12 @@
                                     "size": {
                                         "__tuple__": true, 
                                         "items": [
-                                            150.0, 
-                                            150.0
+                                            120.0, 
+                                            120.0
                                         ]
                                     }, 
                                     "type": 4, 
-                                    "uid": "f850a9f3-cceb-4c75-9bf0-419c4825910d"
+                                    "uid": "c6db4b06-f36a-4ca9-b528-3bd9e6132ea6"
                                 }, 
                                 {
                                     "camera_mode": 1, 
@@ -2757,8 +2874,8 @@
                                     "pos_data": {
                                         "__tuple__": true, 
                                         "items": [
-                                            85.0, 
-                                            84.9999, 
+                                            60.0, 
+                                            59.0, 
                                             50.0, 
                                             49.9999, 
                                             1, 
@@ -2770,12 +2887,12 @@
                                     "size": {
                                         "__tuple__": true, 
                                         "items": [
-                                            150.0, 
-                                            150.0
+                                            120.0, 
+                                            120.0
                                         ]
                                     }, 
                                     "type": 6, 
-                                    "uid": "e17a3451-b3fc-407a-bf5d-4e668907dc22", 
+                                    "uid": "08d82664-3ba0-427e-a520-d6ddaa7b76bc", 
                                     "visible": false
                                 }, 
                                 {
@@ -2787,8 +2904,8 @@
                                     "pos_data": {
                                         "__tuple__": true, 
                                         "items": [
-                                            85.0, 
-                                            85.0, 
+                                            60.0, 
+                                            60.0, 
                                             50.0, 
                                             50.0, 
                                             1, 
@@ -2800,13 +2917,13 @@
                                     "size": {
                                         "__tuple__": true, 
                                         "items": [
-                                            160.0, 
-                                            160.0
+                                            120.0, 
+                                            120.0
                                         ]
                                     }, 
                                     "suspend_picture": 107171, 
                                     "type": 1, 
-                                    "uid": "15c33df9-0ee6-4700-85e7-7cfe9780c19a"
+                                    "uid": "079bcba1-60f9-4f0f-91ed-d255bf9910b2"
                                 }
                             ], 
                             "event_list": [], 
@@ -2814,10 +2931,10 @@
                             "pos_data": {
                                 "__tuple__": true, 
                                 "items": [
-                                    1085.0, 
-                                    85.0, 
-                                    79.1971, 
-                                    50.0, 
+                                    199.0, 
+                                    -10.0, 
+                                    36.8519, 
+                                    -5.8824, 
                                     1, 
                                     1
                                 ]
@@ -2827,12 +2944,12 @@
                             "size": {
                                 "__tuple__": true, 
                                 "items": [
-                                    170.0, 
-                                    170.0
+                                    120.0, 
+                                    120.0
                                 ]
                             }, 
                             "type": 7, 
-                            "uid": "650494e4-223e-4abb-80c7-3b936ebb7b8b"
+                            "uid": "5a8ffb02-f1d7-4c3b-b57a-740bcae7bc6d"
                         }, 
                         {
                             "children": [
@@ -2853,8 +2970,8 @@
                                     "pos_data": {
                                         "__tuple__": true, 
                                         "items": [
-                                            85.0, 
-                                            85.0, 
+                                            60.0, 
+                                            60.0, 
                                             50.0, 
                                             50.0, 
                                             1, 
@@ -2863,8 +2980,15 @@
                                     }, 
                                     "prefab_sub_key": null, 
                                     "scene_ui_name": null, 
+                                    "size": {
+                                        "__tuple__": true, 
+                                        "items": [
+                                            120.0, 
+                                            120.0
+                                        ]
+                                    }, 
                                     "type": 4, 
-                                    "uid": "cc963d80-309f-477a-b65f-7649857c0339"
+                                    "uid": "d3d354da-a2d7-4e20-8b0a-6d749af91afd"
                                 }, 
                                 {
                                     "cap_insets": {
@@ -2883,8 +3007,8 @@
                                     "pos_data": {
                                         "__tuple__": true, 
                                         "items": [
-                                            85.0, 
-                                            85.0, 
+                                            60.0, 
+                                            60.0, 
                                             50.0, 
                                             50.0, 
                                             1, 
@@ -2896,12 +3020,12 @@
                                     "size": {
                                         "__tuple__": true, 
                                         "items": [
-                                            150.0, 
-                                            150.0
+                                            120.0, 
+                                            120.0
                                         ]
                                     }, 
                                     "type": 4, 
-                                    "uid": "68bb1816-ecba-426f-b07f-7e5978f7c241"
+                                    "uid": "00a9b8f2-8923-4129-88f2-0d62bc32eb03"
                                 }, 
                                 {
                                     "camera_mode": 1, 
@@ -2927,8 +3051,8 @@
                                     "pos_data": {
                                         "__tuple__": true, 
                                         "items": [
-                                            85.0, 
-                                            84.9999, 
+                                            60.0, 
+                                            59.0, 
                                             50.0, 
                                             49.9999, 
                                             1, 
@@ -2940,12 +3064,12 @@
                                     "size": {
                                         "__tuple__": true, 
                                         "items": [
-                                            150.0, 
-                                            150.0
+                                            120.0, 
+                                            120.0
                                         ]
                                     }, 
                                     "type": 6, 
-                                    "uid": "67a62272-3d87-4a9a-a6ec-fc76deb84727", 
+                                    "uid": "9f1a4d9f-b48c-4745-9990-fd2515549424", 
                                     "visible": false
                                 }, 
                                 {
@@ -2957,8 +3081,8 @@
                                     "pos_data": {
                                         "__tuple__": true, 
                                         "items": [
-                                            85.0, 
-                                            85.0, 
+                                            60.0, 
+                                            60.0, 
                                             50.0, 
                                             50.0, 
                                             1, 
@@ -2970,13 +3094,13 @@
                                     "size": {
                                         "__tuple__": true, 
                                         "items": [
-                                            160.0, 
-                                            160.0
+                                            120.0, 
+                                            120.0
                                         ]
                                     }, 
                                     "suspend_picture": 107171, 
                                     "type": 1, 
-                                    "uid": "8e1bdce8-1408-46a2-bc09-25f7bad51ef8"
+                                    "uid": "9560e9b8-0c0f-491a-be85-3fdc5c214d90"
                                 }
                             ], 
                             "event_list": [], 
@@ -2984,10 +3108,10 @@
                             "pos_data": {
                                 "__tuple__": true, 
                                 "items": [
-                                    1285.0, 
-                                    85.0, 
-                                    93.7956, 
-                                    50.0, 
+                                    340.0, 
+                                    -10.0, 
+                                    62.963, 
+                                    -5.8824, 
                                     1, 
                                     1
                                 ]
@@ -2997,12 +3121,189 @@
                             "size": {
                                 "__tuple__": true, 
                                 "items": [
-                                    170.0, 
-                                    170.0
+                                    120.0, 
+                                    120.0
                                 ]
                             }, 
                             "type": 7, 
-                            "uid": "585202fb-1897-4818-ab82-8954bc1e98a0"
+                            "uid": "3f842cc3-b79c-438d-8eb0-175b288965e9"
+                        }, 
+                        {
+                            "children": [
+                                {
+                                    "cap_insets": {
+                                        "__tuple__": true, 
+                                        "items": [
+                                            12.0, 
+                                            12.0, 
+                                            12.0, 
+                                            12.0
+                                        ]
+                                    }, 
+                                    "children": [], 
+                                    "event_list": [], 
+                                    "image": 904015, 
+                                    "name": "bg", 
+                                    "pos_data": {
+                                        "__tuple__": true, 
+                                        "items": [
+                                            60.0, 
+                                            60.0, 
+                                            50.0, 
+                                            50.0, 
+                                            1, 
+                                            1
+                                        ]
+                                    }, 
+                                    "prefab_sub_key": null, 
+                                    "scene_ui_name": null, 
+                                    "size": {
+                                        "__tuple__": true, 
+                                        "items": [
+                                            120.0, 
+                                            120.0
+                                        ]
+                                    }, 
+                                    "type": 4, 
+                                    "uid": "c5fec172-3205-4c9a-9bf1-10cb11f1be04"
+                                }, 
+                                {
+                                    "cap_insets": {
+                                        "__tuple__": true, 
+                                        "items": [
+                                            42.0, 
+                                            42.0, 
+                                            42.0, 
+                                            42.0
+                                        ]
+                                    }, 
+                                    "children": [], 
+                                    "event_list": [], 
+                                    "image": 999, 
+                                    "name": "avator", 
+                                    "pos_data": {
+                                        "__tuple__": true, 
+                                        "items": [
+                                            60.0, 
+                                            60.0, 
+                                            50.0, 
+                                            50.0, 
+                                            1, 
+                                            1
+                                        ]
+                                    }, 
+                                    "prefab_sub_key": null, 
+                                    "scene_ui_name": null, 
+                                    "size": {
+                                        "__tuple__": true, 
+                                        "items": [
+                                            120.0, 
+                                            120.0
+                                        ]
+                                    }, 
+                                    "type": 4, 
+                                    "uid": "a9c33aea-f390-437c-9266-2cfc57e93651"
+                                }, 
+                                {
+                                    "camera_mode": 1, 
+                                    "camera_pos": {
+                                        "__tuple__": true, 
+                                        "items": [
+                                            -5.2125, 
+                                            4.2044, 
+                                            5.2407
+                                        ]
+                                    }, 
+                                    "children": [], 
+                                    "event_list": [], 
+                                    "focus_pos": {
+                                        "__tuple__": true, 
+                                        "items": [
+                                            -4.5654, 
+                                            3.8013, 
+                                            4.5936
+                                        ]
+                                    }, 
+                                    "name": "model", 
+                                    "pos_data": {
+                                        "__tuple__": true, 
+                                        "items": [
+                                            60.0, 
+                                            59.0, 
+                                            50.0, 
+                                            49.9999, 
+                                            1, 
+                                            1
+                                        ]
+                                    }, 
+                                    "prefab_sub_key": null, 
+                                    "scene_ui_name": null, 
+                                    "size": {
+                                        "__tuple__": true, 
+                                        "items": [
+                                            120.0, 
+                                            120.0
+                                        ]
+                                    }, 
+                                    "type": 6, 
+                                    "uid": "cd0fc0cd-7de3-4373-ac51-da3b00aa55a7", 
+                                    "visible": false
+                                }, 
+                                {
+                                    "children": [], 
+                                    "event_list": [], 
+                                    "hover_status_added": true, 
+                                    "name": "frame", 
+                                    "normal_picture": 107172, 
+                                    "pos_data": {
+                                        "__tuple__": true, 
+                                        "items": [
+                                            60.0, 
+                                            60.0, 
+                                            50.0, 
+                                            50.0, 
+                                            1, 
+                                            1
+                                        ]
+                                    }, 
+                                    "prefab_sub_key": null, 
+                                    "scene_ui_name": null, 
+                                    "size": {
+                                        "__tuple__": true, 
+                                        "items": [
+                                            120.0, 
+                                            120.0
+                                        ]
+                                    }, 
+                                    "suspend_picture": 107171, 
+                                    "type": 1, 
+                                    "uid": "4cdbc0bb-812c-4be0-bd91-95c25f702a84"
+                                }
+                            ], 
+                            "event_list": [], 
+                            "name": "skill8", 
+                            "pos_data": {
+                                "__tuple__": true, 
+                                "items": [
+                                    480.0, 
+                                    -10.0, 
+                                    88.8889, 
+                                    -5.8824, 
+                                    1, 
+                                    1
+                                ]
+                            }, 
+                            "prefab_sub_key": null, 
+                            "scene_ui_name": null, 
+                            "size": {
+                                "__tuple__": true, 
+                                "items": [
+                                    120.0, 
+                                    120.0
+                                ]
+                            }, 
+                            "type": 7, 
+                            "uid": "a8612764-4ff4-454b-a92a-8410fffc18d3"
                         }
                     ], 
                     "event_list": [], 
@@ -3010,10 +3311,10 @@
                     "pos_data": {
                         "__tuple__": true, 
                         "items": [
-                            725.0, 
-                            110.0, 
-                            50.0, 
-                            36.6667, 
+                            384.0, 
+                            9.0, 
+                            26.4828, 
+                            3.0, 
                             1, 
                             1
                         ]
@@ -3023,7 +3324,7 @@
                     "size": {
                         "__tuple__": true, 
                         "items": [
-                            1370.0, 
+                            540.0, 
                             170.0
                         ]
                     }, 
@@ -3059,91 +3360,6 @@
         {
             "children": [
                 {
-                    "cap_insets": {
-                        "__tuple__": true, 
-                        "items": [
-                            81.0, 
-                            33.0, 
-                            81.0, 
-                            33.0
-                        ]
-                    }, 
-                    "children": [], 
-                    "event_list": [], 
-                    "image": 110091, 
-                    "name": "bg", 
-                    "pos_data": {
-                        "__tuple__": true, 
-                        "items": [
-                            725.0, 
-                            150.0, 
-                            50.0, 
-                            50.0, 
-                            1, 
-                            1
-                        ]
-                    }, 
-                    "prefab_sub_key": null, 
-                    "scene_ui_name": null, 
-                    "size": {
-                        "__tuple__": true, 
-                        "items": [
-                            1450.0, 
-                            300.0
-                        ]
-                    }, 
-                    "type": 4, 
-                    "uid": "61b5dba2-f643-490f-bd89-6d78f83f28f1"
-                }, 
-                {
-                    "alignment": {
-                        "__tuple__": true, 
-                        "items": [
-                            2, 
-                            8
-                        ]
-                    }, 
-                    "children": [], 
-                    "event_list": [], 
-                    "font": {
-                        "__tuple__": true, 
-                        "items": [
-                            "HKXinZongYiW9", 
-                            50
-                        ]
-                    }, 
-                    "name": "title", 
-                    "pos_data": {
-                        "__tuple__": true, 
-                        "items": [
-                            725.0, 
-                            235.0, 
-                            50.0, 
-                            78.3333, 
-                            1, 
-                            1
-                        ]
-                    }, 
-                    "prefab_sub_key": null, 
-                    "scene_ui_name": null, 
-                    "size": {
-                        "__tuple__": true, 
-                        "items": [
-                            300.0, 
-                            80.0
-                        ]
-                    }, 
-                    "text": {
-                        "__tuple__": true, 
-                        "items": [
-                            "\u6750\u6599\u8d2d\u4e70", 
-                            false
-                        ]
-                    }, 
-                    "type": 3, 
-                    "uid": "5086907f-491a-4da5-af83-3bb186a57988"
-                }, 
-                {
                     "children": [
                         {
                             "children": [
@@ -3164,8 +3380,8 @@
                                     "pos_data": {
                                         "__tuple__": true, 
                                         "items": [
-                                            85.0, 
-                                            85.0, 
+                                            60.0, 
+                                            60.0, 
                                             50.0, 
                                             50.0, 
                                             1, 
@@ -3174,6 +3390,13 @@
                                     }, 
                                     "prefab_sub_key": null, 
                                     "scene_ui_name": null, 
+                                    "size": {
+                                        "__tuple__": true, 
+                                        "items": [
+                                            120.0, 
+                                            120.0
+                                        ]
+                                    }, 
                                     "type": 4, 
                                     "uid": "36844e35-3b7f-49b0-bb88-d4e65ddfe8d2"
                                 }, 
@@ -3194,8 +3417,8 @@
                                     "pos_data": {
                                         "__tuple__": true, 
                                         "items": [
-                                            85.0, 
-                                            85.0, 
+                                            60.0, 
+                                            60.0, 
                                             50.0, 
                                             50.0, 
                                             1, 
@@ -3207,8 +3430,8 @@
                                     "size": {
                                         "__tuple__": true, 
                                         "items": [
-                                            150.0, 
-                                            150.0
+                                            120.0, 
+                                            120.0
                                         ]
                                     }, 
                                     "type": 4, 
@@ -3238,8 +3461,8 @@
                                     "pos_data": {
                                         "__tuple__": true, 
                                         "items": [
-                                            85.0, 
-                                            84.9999, 
+                                            60.0, 
+                                            59.0, 
                                             50.0, 
                                             49.9999, 
                                             1, 
@@ -3251,8 +3474,8 @@
                                     "size": {
                                         "__tuple__": true, 
                                         "items": [
-                                            150.0, 
-                                            150.0
+                                            120.0, 
+                                            120.0
                                         ]
                                     }, 
                                     "type": 6, 
@@ -3268,8 +3491,8 @@
                                     "pos_data": {
                                         "__tuple__": true, 
                                         "items": [
-                                            85.0, 
-                                            85.0, 
+                                            60.0, 
+                                            60.0, 
                                             50.0, 
                                             50.0, 
                                             1, 
@@ -3281,8 +3504,8 @@
                                     "size": {
                                         "__tuple__": true, 
                                         "items": [
-                                            160.0, 
-                                            160.0
+                                            120.0, 
+                                            120.0
                                         ]
                                     }, 
                                     "suspend_picture": 107171, 
@@ -3295,10 +3518,10 @@
                             "pos_data": {
                                 "__tuple__": true, 
                                 "items": [
-                                    85.0, 
-                                    85.0, 
-                                    6.2044, 
-                                    50.0, 
+                                    60.0, 
+                                    110.0, 
+                                    11.1111, 
+                                    64.7059, 
                                     1, 
                                     1
                                 ]
@@ -3308,8 +3531,8 @@
                             "size": {
                                 "__tuple__": true, 
                                 "items": [
-                                    170.0, 
-                                    170.0
+                                    120.0, 
+                                    120.0
                                 ]
                             }, 
                             "type": 7, 
@@ -3334,8 +3557,8 @@
                                     "pos_data": {
                                         "__tuple__": true, 
                                         "items": [
-                                            85.0, 
-                                            85.0, 
+                                            60.0, 
+                                            60.0, 
                                             50.0, 
                                             50.0, 
                                             1, 
@@ -3344,8 +3567,15 @@
                                     }, 
                                     "prefab_sub_key": null, 
                                     "scene_ui_name": null, 
+                                    "size": {
+                                        "__tuple__": true, 
+                                        "items": [
+                                            120.0, 
+                                            120.0
+                                        ]
+                                    }, 
                                     "type": 4, 
-                                    "uid": "7f1945fd-37ad-4af5-9249-5ee3355f6dd2"
+                                    "uid": "55e78b02-eac8-4972-bd89-14dd30b29739"
                                 }, 
                                 {
                                     "cap_insets": {
@@ -3364,8 +3594,8 @@
                                     "pos_data": {
                                         "__tuple__": true, 
                                         "items": [
-                                            85.0, 
-                                            85.0, 
+                                            60.0, 
+                                            60.0, 
                                             50.0, 
                                             50.0, 
                                             1, 
@@ -3377,12 +3607,12 @@
                                     "size": {
                                         "__tuple__": true, 
                                         "items": [
-                                            150.0, 
-                                            150.0
+                                            120.0, 
+                                            120.0
                                         ]
                                     }, 
                                     "type": 4, 
-                                    "uid": "6ac66d2b-ac79-4bde-9aed-a778ff35cd4b"
+                                    "uid": "03c45fa5-fc88-4594-bd1e-0f2f9b783006"
                                 }, 
                                 {
                                     "camera_mode": 1, 
@@ -3408,8 +3638,8 @@
                                     "pos_data": {
                                         "__tuple__": true, 
                                         "items": [
-                                            85.0, 
-                                            84.9999, 
+                                            60.0, 
+                                            59.0, 
                                             50.0, 
                                             49.9999, 
                                             1, 
@@ -3421,12 +3651,12 @@
                                     "size": {
                                         "__tuple__": true, 
                                         "items": [
-                                            150.0, 
-                                            150.0
+                                            120.0, 
+                                            120.0
                                         ]
                                     }, 
                                     "type": 6, 
-                                    "uid": "36f3263f-9d65-470e-92d1-9a179024f926", 
+                                    "uid": "352366df-53be-46e3-b4a2-2c458556ed80", 
                                     "visible": false
                                 }, 
                                 {
@@ -3438,8 +3668,8 @@
                                     "pos_data": {
                                         "__tuple__": true, 
                                         "items": [
-                                            85.0, 
-                                            85.0, 
+                                            60.0, 
+                                            60.0, 
                                             50.0, 
                                             50.0, 
                                             1, 
@@ -3451,13 +3681,13 @@
                                     "size": {
                                         "__tuple__": true, 
                                         "items": [
-                                            160.0, 
-                                            160.0
+                                            120.0, 
+                                            120.0
                                         ]
                                     }, 
                                     "suspend_picture": 107171, 
                                     "type": 1, 
-                                    "uid": "c44ad7d1-ca10-413e-a647-b06d5fe801ad"
+                                    "uid": "018dc9cc-64fd-4452-b84c-26e29033e761"
                                 }
                             ], 
                             "event_list": [], 
@@ -3465,10 +3695,10 @@
                             "pos_data": {
                                 "__tuple__": true, 
                                 "items": [
-                                    285.0, 
-                                    85.0, 
-                                    20.8029, 
-                                    50.0, 
+                                    199.0, 
+                                    110.0, 
+                                    37.0, 
+                                    64.71, 
                                     1, 
                                     1
                                 ]
@@ -3478,12 +3708,12 @@
                             "size": {
                                 "__tuple__": true, 
                                 "items": [
-                                    170.0, 
-                                    170.0
+                                    120.0, 
+                                    120.0
                                 ]
                             }, 
                             "type": 7, 
-                            "uid": "26a94c6e-be98-44fc-841d-831fce545d12"
+                            "uid": "5fa4560d-63cc-4690-bc35-a8bbabc23754"
                         }, 
                         {
                             "children": [
@@ -3504,8 +3734,8 @@
                                     "pos_data": {
                                         "__tuple__": true, 
                                         "items": [
-                                            85.0, 
-                                            85.0, 
+                                            60.0, 
+                                            60.0, 
                                             50.0, 
                                             50.0, 
                                             1, 
@@ -3514,8 +3744,15 @@
                                     }, 
                                     "prefab_sub_key": null, 
                                     "scene_ui_name": null, 
+                                    "size": {
+                                        "__tuple__": true, 
+                                        "items": [
+                                            120.0, 
+                                            120.0
+                                        ]
+                                    }, 
                                     "type": 4, 
-                                    "uid": "2b1f9db1-ef86-42a1-aaa8-716c579bb963"
+                                    "uid": "7bc065bc-3ba2-4635-8606-d74d4e9a9258"
                                 }, 
                                 {
                                     "cap_insets": {
@@ -3534,8 +3771,8 @@
                                     "pos_data": {
                                         "__tuple__": true, 
                                         "items": [
-                                            85.0, 
-                                            85.0, 
+                                            60.0, 
+                                            60.0, 
                                             50.0, 
                                             50.0, 
                                             1, 
@@ -3547,12 +3784,12 @@
                                     "size": {
                                         "__tuple__": true, 
                                         "items": [
-                                            150.0, 
-                                            150.0
+                                            120.0, 
+                                            120.0
                                         ]
                                     }, 
                                     "type": 4, 
-                                    "uid": "68c3be9f-babc-49cb-b608-5adf1d0fa9ee"
+                                    "uid": "607f08ea-513f-4f23-b3de-5ed1e5aacce2"
                                 }, 
                                 {
                                     "camera_mode": 1, 
@@ -3578,8 +3815,8 @@
                                     "pos_data": {
                                         "__tuple__": true, 
                                         "items": [
-                                            85.0, 
-                                            84.9999, 
+                                            60.0, 
+                                            59.0, 
                                             50.0, 
                                             49.9999, 
                                             1, 
@@ -3591,12 +3828,12 @@
                                     "size": {
                                         "__tuple__": true, 
                                         "items": [
-                                            150.0, 
-                                            150.0
+                                            120.0, 
+                                            120.0
                                         ]
                                     }, 
                                     "type": 6, 
-                                    "uid": "fecc3b4b-70e8-40d9-9b45-eaef360b297f", 
+                                    "uid": "587ec005-12c1-4f5c-9d71-57eaf746370c", 
                                     "visible": false
                                 }, 
                                 {
@@ -3608,8 +3845,8 @@
                                     "pos_data": {
                                         "__tuple__": true, 
                                         "items": [
-                                            85.0, 
-                                            85.0, 
+                                            60.0, 
+                                            60.0, 
                                             50.0, 
                                             50.0, 
                                             1, 
@@ -3621,13 +3858,13 @@
                                     "size": {
                                         "__tuple__": true, 
                                         "items": [
-                                            160.0, 
-                                            160.0
+                                            120.0, 
+                                            120.0
                                         ]
                                     }, 
                                     "suspend_picture": 107171, 
                                     "type": 1, 
-                                    "uid": "ffe7eb17-7ff9-4285-94f1-ef5faae246d1"
+                                    "uid": "6b216651-83ff-44ae-b686-a924dbfd5f8d"
                                 }
                             ], 
                             "event_list": [], 
@@ -3635,10 +3872,10 @@
                             "pos_data": {
                                 "__tuple__": true, 
                                 "items": [
-                                    485.0, 
-                                    85.0, 
-                                    35.4015, 
-                                    50.0, 
+                                    340.0, 
+                                    110.0, 
+                                    63.0, 
+                                    64.71, 
                                     1, 
                                     1
                                 ]
@@ -3648,12 +3885,12 @@
                             "size": {
                                 "__tuple__": true, 
                                 "items": [
-                                    170.0, 
-                                    170.0
+                                    120.0, 
+                                    120.0
                                 ]
                             }, 
                             "type": 7, 
-                            "uid": "8d5741f2-14ae-4d6b-9d20-f4453d991483"
+                            "uid": "e02a9e83-7390-4223-9636-a4d65025a33b"
                         }, 
                         {
                             "children": [
@@ -3674,8 +3911,8 @@
                                     "pos_data": {
                                         "__tuple__": true, 
                                         "items": [
-                                            85.0, 
-                                            85.0, 
+                                            60.0, 
+                                            60.0, 
                                             50.0, 
                                             50.0, 
                                             1, 
@@ -3684,8 +3921,15 @@
                                     }, 
                                     "prefab_sub_key": null, 
                                     "scene_ui_name": null, 
+                                    "size": {
+                                        "__tuple__": true, 
+                                        "items": [
+                                            120.0, 
+                                            120.0
+                                        ]
+                                    }, 
                                     "type": 4, 
-                                    "uid": "745b7e20-7376-4efd-83b5-9f0c88cef356"
+                                    "uid": "ff25abe8-f685-4080-a9c4-82b61e150e73"
                                 }, 
                                 {
                                     "cap_insets": {
@@ -3704,8 +3948,8 @@
                                     "pos_data": {
                                         "__tuple__": true, 
                                         "items": [
-                                            85.0, 
-                                            85.0, 
+                                            60.0, 
+                                            60.0, 
                                             50.0, 
                                             50.0, 
                                             1, 
@@ -3717,12 +3961,12 @@
                                     "size": {
                                         "__tuple__": true, 
                                         "items": [
-                                            150.0, 
-                                            150.0
+                                            120.0, 
+                                            120.0
                                         ]
                                     }, 
                                     "type": 4, 
-                                    "uid": "54e56c14-fb6f-442f-96eb-ee9c6da708eb"
+                                    "uid": "187f3560-ba65-4669-9b27-325f2ff2afbd"
                                 }, 
                                 {
                                     "camera_mode": 1, 
@@ -3748,8 +3992,8 @@
                                     "pos_data": {
                                         "__tuple__": true, 
                                         "items": [
-                                            85.0, 
-                                            84.9999, 
+                                            60.0, 
+                                            59.0, 
                                             50.0, 
                                             49.9999, 
                                             1, 
@@ -3761,12 +4005,12 @@
                                     "size": {
                                         "__tuple__": true, 
                                         "items": [
-                                            150.0, 
-                                            150.0
+                                            120.0, 
+                                            120.0
                                         ]
                                     }, 
                                     "type": 6, 
-                                    "uid": "bb5fc865-fb1e-4100-a628-750e167a84e6", 
+                                    "uid": "0e28c509-4077-4422-9f72-f0d19e8b0653", 
                                     "visible": false
                                 }, 
                                 {
@@ -3778,8 +4022,8 @@
                                     "pos_data": {
                                         "__tuple__": true, 
                                         "items": [
-                                            85.0, 
-                                            85.0, 
+                                            60.0, 
+                                            60.0, 
                                             50.0, 
                                             50.0, 
                                             1, 
@@ -3791,13 +4035,13 @@
                                     "size": {
                                         "__tuple__": true, 
                                         "items": [
-                                            160.0, 
-                                            160.0
+                                            120.0, 
+                                            120.0
                                         ]
                                     }, 
                                     "suspend_picture": 107171, 
                                     "type": 1, 
-                                    "uid": "49b8f2c8-572e-44ad-b2d6-508bd2b91256"
+                                    "uid": "ea064a14-3922-4308-babb-91f43b8a3034"
                                 }
                             ], 
                             "event_list": [], 
@@ -3805,10 +4049,10 @@
                             "pos_data": {
                                 "__tuple__": true, 
                                 "items": [
-                                    685.0, 
-                                    85.0, 
-                                    50.0, 
-                                    50.0, 
+                                    480.0, 
+                                    110.0, 
+                                    88.8889, 
+                                    64.7059, 
                                     1, 
                                     1
                                 ]
@@ -3818,12 +4062,12 @@
                             "size": {
                                 "__tuple__": true, 
                                 "items": [
-                                    170.0, 
-                                    170.0
+                                    120.0, 
+                                    120.0
                                 ]
                             }, 
                             "type": 7, 
-                            "uid": "a1ddea88-442d-472b-b37c-31a94405d7cc"
+                            "uid": "333da7fc-7d1e-4a0d-98f7-de6c382d885d"
                         }, 
                         {
                             "children": [
@@ -3844,8 +4088,8 @@
                                     "pos_data": {
                                         "__tuple__": true, 
                                         "items": [
-                                            85.0, 
-                                            85.0, 
+                                            60.0, 
+                                            60.0, 
                                             50.0, 
                                             50.0, 
                                             1, 
@@ -3854,8 +4098,15 @@
                                     }, 
                                     "prefab_sub_key": null, 
                                     "scene_ui_name": null, 
+                                    "size": {
+                                        "__tuple__": true, 
+                                        "items": [
+                                            120.0, 
+                                            120.0
+                                        ]
+                                    }, 
                                     "type": 4, 
-                                    "uid": "30885f5a-f775-42ac-9166-bc3db558d1f6"
+                                    "uid": "38375137-97f8-4889-82a1-82cb92a4f68f"
                                 }, 
                                 {
                                     "cap_insets": {
@@ -3874,8 +4125,8 @@
                                     "pos_data": {
                                         "__tuple__": true, 
                                         "items": [
-                                            85.0, 
-                                            85.0, 
+                                            60.0, 
+                                            60.0, 
                                             50.0, 
                                             50.0, 
                                             1, 
@@ -3887,12 +4138,12 @@
                                     "size": {
                                         "__tuple__": true, 
                                         "items": [
-                                            150.0, 
-                                            150.0
+                                            120.0, 
+                                            120.0
                                         ]
                                     }, 
                                     "type": 4, 
-                                    "uid": "e31ef56e-1eb7-497f-bee7-004f6bba2409"
+                                    "uid": "8fe3d82f-9e89-4e9a-8d45-cf96067c2fd8"
                                 }, 
                                 {
                                     "camera_mode": 1, 
@@ -3918,8 +4169,8 @@
                                     "pos_data": {
                                         "__tuple__": true, 
                                         "items": [
-                                            85.0, 
-                                            84.9999, 
+                                            60.0, 
+                                            59.0, 
                                             50.0, 
                                             49.9999, 
                                             1, 
@@ -3931,12 +4182,12 @@
                                     "size": {
                                         "__tuple__": true, 
                                         "items": [
-                                            150.0, 
-                                            150.0
+                                            120.0, 
+                                            120.0
                                         ]
                                     }, 
                                     "type": 6, 
-                                    "uid": "97a1f887-04db-4583-83d0-4739f6fc6a7d", 
+                                    "uid": "a2c8a2db-4332-4660-8caf-48a32163f15b", 
                                     "visible": false
                                 }, 
                                 {
@@ -3948,8 +4199,8 @@
                                     "pos_data": {
                                         "__tuple__": true, 
                                         "items": [
-                                            85.0, 
-                                            85.0, 
+                                            60.0, 
+                                            60.0, 
                                             50.0, 
                                             50.0, 
                                             1, 
@@ -3961,13 +4212,13 @@
                                     "size": {
                                         "__tuple__": true, 
                                         "items": [
-                                            160.0, 
-                                            160.0
+                                            120.0, 
+                                            120.0
                                         ]
                                     }, 
                                     "suspend_picture": 107171, 
                                     "type": 1, 
-                                    "uid": "49a44f91-5d65-4d75-ab49-12550e93542a"
+                                    "uid": "ef7ba5bf-b0a7-454b-98ae-66c49cb9b74d"
                                 }
                             ], 
                             "event_list": [], 
@@ -3975,10 +4226,10 @@
                             "pos_data": {
                                 "__tuple__": true, 
                                 "items": [
-                                    885.0, 
-                                    85.0, 
-                                    64.5985, 
-                                    50.0, 
+                                    60.0, 
+                                    -10.0, 
+                                    11.1111, 
+                                    -5.8824, 
                                     1, 
                                     1
                                 ]
@@ -3988,12 +4239,12 @@
                             "size": {
                                 "__tuple__": true, 
                                 "items": [
-                                    170.0, 
-                                    170.0
+                                    120.0, 
+                                    120.0
                                 ]
                             }, 
                             "type": 7, 
-                            "uid": "85e8a7a7-b984-4831-a406-9f909302aab0"
+                            "uid": "4f359a66-aa21-4018-b718-0f7ccf72209e"
                         }, 
                         {
                             "children": [
@@ -4014,8 +4265,8 @@
                                     "pos_data": {
                                         "__tuple__": true, 
                                         "items": [
-                                            85.0, 
-                                            85.0, 
+                                            60.0, 
+                                            60.0, 
                                             50.0, 
                                             50.0, 
                                             1, 
@@ -4024,8 +4275,15 @@
                                     }, 
                                     "prefab_sub_key": null, 
                                     "scene_ui_name": null, 
+                                    "size": {
+                                        "__tuple__": true, 
+                                        "items": [
+                                            120.0, 
+                                            120.0
+                                        ]
+                                    }, 
                                     "type": 4, 
-                                    "uid": "4e8047ce-81b4-40d7-86b2-3636835a7b88"
+                                    "uid": "85432e36-062d-4d8e-8c8f-40edace86be6"
                                 }, 
                                 {
                                     "cap_insets": {
@@ -4044,8 +4302,8 @@
                                     "pos_data": {
                                         "__tuple__": true, 
                                         "items": [
-                                            85.0, 
-                                            85.0, 
+                                            60.0, 
+                                            60.0, 
                                             50.0, 
                                             50.0, 
                                             1, 
@@ -4057,12 +4315,12 @@
                                     "size": {
                                         "__tuple__": true, 
                                         "items": [
-                                            150.0, 
-                                            150.0
+                                            120.0, 
+                                            120.0
                                         ]
                                     }, 
                                     "type": 4, 
-                                    "uid": "67b27b35-7b4e-472b-b1bb-a12c89ec57a6"
+                                    "uid": "1da5fdbb-d1bd-442b-93c3-214d4ed3d4f8"
                                 }, 
                                 {
                                     "camera_mode": 1, 
@@ -4088,8 +4346,8 @@
                                     "pos_data": {
                                         "__tuple__": true, 
                                         "items": [
-                                            85.0, 
-                                            84.9999, 
+                                            60.0, 
+                                            59.0, 
                                             50.0, 
                                             49.9999, 
                                             1, 
@@ -4101,12 +4359,12 @@
                                     "size": {
                                         "__tuple__": true, 
                                         "items": [
-                                            150.0, 
-                                            150.0
+                                            120.0, 
+                                            120.0
                                         ]
                                     }, 
                                     "type": 6, 
-                                    "uid": "0adc0005-557c-46a6-9a6e-f477ba4426ed", 
+                                    "uid": "43586473-bc1e-4da9-bc24-4d468121fb32", 
                                     "visible": false
                                 }, 
                                 {
@@ -4118,8 +4376,8 @@
                                     "pos_data": {
                                         "__tuple__": true, 
                                         "items": [
-                                            85.0, 
-                                            85.0, 
+                                            60.0, 
+                                            60.0, 
                                             50.0, 
                                             50.0, 
                                             1, 
@@ -4131,13 +4389,13 @@
                                     "size": {
                                         "__tuple__": true, 
                                         "items": [
-                                            160.0, 
-                                            160.0
+                                            120.0, 
+                                            120.0
                                         ]
                                     }, 
                                     "suspend_picture": 107171, 
                                     "type": 1, 
-                                    "uid": "8447933b-8a67-4fcd-a5de-df87eee14840"
+                                    "uid": "5e670a58-9c8a-4951-9809-1458857654d5"
                                 }
                             ], 
                             "event_list": [], 
@@ -4145,10 +4403,10 @@
                             "pos_data": {
                                 "__tuple__": true, 
                                 "items": [
-                                    1085.0, 
-                                    85.0, 
-                                    79.1971, 
-                                    50.0, 
+                                    199.0, 
+                                    -10.0, 
+                                    36.8519, 
+                                    -5.8824, 
                                     1, 
                                     1
                                 ]
@@ -4158,12 +4416,12 @@
                             "size": {
                                 "__tuple__": true, 
                                 "items": [
-                                    170.0, 
-                                    170.0
+                                    120.0, 
+                                    120.0
                                 ]
                             }, 
                             "type": 7, 
-                            "uid": "4bf92575-90dd-47ff-b5e4-696b4fef99b5"
+                            "uid": "d6376a98-6bac-478f-9371-b8d31655cdcb"
                         }, 
                         {
                             "children": [
@@ -4184,8 +4442,8 @@
                                     "pos_data": {
                                         "__tuple__": true, 
                                         "items": [
-                                            85.0, 
-                                            85.0, 
+                                            60.0, 
+                                            60.0, 
                                             50.0, 
                                             50.0, 
                                             1, 
@@ -4194,8 +4452,15 @@
                                     }, 
                                     "prefab_sub_key": null, 
                                     "scene_ui_name": null, 
+                                    "size": {
+                                        "__tuple__": true, 
+                                        "items": [
+                                            120.0, 
+                                            120.0
+                                        ]
+                                    }, 
                                     "type": 4, 
-                                    "uid": "eabfca52-270c-45df-be66-c51415636fe7"
+                                    "uid": "5b238147-f432-4095-89cc-94034d5d2dd3"
                                 }, 
                                 {
                                     "cap_insets": {
@@ -4214,8 +4479,8 @@
                                     "pos_data": {
                                         "__tuple__": true, 
                                         "items": [
-                                            85.0, 
-                                            85.0, 
+                                            60.0, 
+                                            60.0, 
                                             50.0, 
                                             50.0, 
                                             1, 
@@ -4227,12 +4492,12 @@
                                     "size": {
                                         "__tuple__": true, 
                                         "items": [
-                                            150.0, 
-                                            150.0
+                                            120.0, 
+                                            120.0
                                         ]
                                     }, 
                                     "type": 4, 
-                                    "uid": "94af4b8a-224f-4bde-91ab-a03af3411e64"
+                                    "uid": "609c573a-273a-4da9-ade0-4756d04051c3"
                                 }, 
                                 {
                                     "camera_mode": 1, 
@@ -4258,8 +4523,8 @@
                                     "pos_data": {
                                         "__tuple__": true, 
                                         "items": [
-                                            85.0, 
-                                            84.9999, 
+                                            60.0, 
+                                            59.0, 
                                             50.0, 
                                             49.9999, 
                                             1, 
@@ -4271,12 +4536,12 @@
                                     "size": {
                                         "__tuple__": true, 
                                         "items": [
-                                            150.0, 
-                                            150.0
+                                            120.0, 
+                                            120.0
                                         ]
                                     }, 
                                     "type": 6, 
-                                    "uid": "539f3175-9129-4012-84eb-0fb8e30356d3", 
+                                    "uid": "4687f833-fbfa-4d89-b13f-f68f66d913ba", 
                                     "visible": false
                                 }, 
                                 {
@@ -4288,8 +4553,8 @@
                                     "pos_data": {
                                         "__tuple__": true, 
                                         "items": [
-                                            85.0, 
-                                            85.0, 
+                                            60.0, 
+                                            60.0, 
                                             50.0, 
                                             50.0, 
                                             1, 
@@ -4301,13 +4566,13 @@
                                     "size": {
                                         "__tuple__": true, 
                                         "items": [
-                                            160.0, 
-                                            160.0
+                                            120.0, 
+                                            120.0
                                         ]
                                     }, 
                                     "suspend_picture": 107171, 
                                     "type": 1, 
-                                    "uid": "b0a8260a-aefb-4c9e-a253-2d232742a14d"
+                                    "uid": "90917ec2-0186-41b5-bf2a-371b49bc1bd5"
                                 }
                             ], 
                             "event_list": [], 
@@ -4315,10 +4580,10 @@
                             "pos_data": {
                                 "__tuple__": true, 
                                 "items": [
-                                    1285.0, 
-                                    85.0, 
-                                    93.7956, 
-                                    50.0, 
+                                    340.0, 
+                                    -10.0, 
+                                    62.963, 
+                                    -5.8824, 
                                     1, 
                                     1
                                 ]
@@ -4328,12 +4593,189 @@
                             "size": {
                                 "__tuple__": true, 
                                 "items": [
-                                    170.0, 
-                                    170.0
+                                    120.0, 
+                                    120.0
                                 ]
                             }, 
                             "type": 7, 
-                            "uid": "96c9faff-4f77-41ea-b568-1b6485c92b4a"
+                            "uid": "5ac01949-3727-4fc1-aa93-676dba3e244e"
+                        }, 
+                        {
+                            "children": [
+                                {
+                                    "cap_insets": {
+                                        "__tuple__": true, 
+                                        "items": [
+                                            12.0, 
+                                            12.0, 
+                                            12.0, 
+                                            12.0
+                                        ]
+                                    }, 
+                                    "children": [], 
+                                    "event_list": [], 
+                                    "image": 904015, 
+                                    "name": "bg", 
+                                    "pos_data": {
+                                        "__tuple__": true, 
+                                        "items": [
+                                            60.0, 
+                                            60.0, 
+                                            50.0, 
+                                            50.0, 
+                                            1, 
+                                            1
+                                        ]
+                                    }, 
+                                    "prefab_sub_key": null, 
+                                    "scene_ui_name": null, 
+                                    "size": {
+                                        "__tuple__": true, 
+                                        "items": [
+                                            120.0, 
+                                            120.0
+                                        ]
+                                    }, 
+                                    "type": 4, 
+                                    "uid": "94ca4c20-c786-4511-b3fc-75f668d854ef"
+                                }, 
+                                {
+                                    "cap_insets": {
+                                        "__tuple__": true, 
+                                        "items": [
+                                            42.0, 
+                                            42.0, 
+                                            42.0, 
+                                            42.0
+                                        ]
+                                    }, 
+                                    "children": [], 
+                                    "event_list": [], 
+                                    "image": 999, 
+                                    "name": "avator", 
+                                    "pos_data": {
+                                        "__tuple__": true, 
+                                        "items": [
+                                            60.0, 
+                                            60.0, 
+                                            50.0, 
+                                            50.0, 
+                                            1, 
+                                            1
+                                        ]
+                                    }, 
+                                    "prefab_sub_key": null, 
+                                    "scene_ui_name": null, 
+                                    "size": {
+                                        "__tuple__": true, 
+                                        "items": [
+                                            120.0, 
+                                            120.0
+                                        ]
+                                    }, 
+                                    "type": 4, 
+                                    "uid": "2f2ffc33-718a-44bc-9276-dc2660b34b34"
+                                }, 
+                                {
+                                    "camera_mode": 1, 
+                                    "camera_pos": {
+                                        "__tuple__": true, 
+                                        "items": [
+                                            -5.2125, 
+                                            4.2044, 
+                                            5.2407
+                                        ]
+                                    }, 
+                                    "children": [], 
+                                    "event_list": [], 
+                                    "focus_pos": {
+                                        "__tuple__": true, 
+                                        "items": [
+                                            -4.5654, 
+                                            3.8013, 
+                                            4.5936
+                                        ]
+                                    }, 
+                                    "name": "model", 
+                                    "pos_data": {
+                                        "__tuple__": true, 
+                                        "items": [
+                                            60.0, 
+                                            59.0, 
+                                            50.0, 
+                                            49.9999, 
+                                            1, 
+                                            1
+                                        ]
+                                    }, 
+                                    "prefab_sub_key": null, 
+                                    "scene_ui_name": null, 
+                                    "size": {
+                                        "__tuple__": true, 
+                                        "items": [
+                                            120.0, 
+                                            120.0
+                                        ]
+                                    }, 
+                                    "type": 6, 
+                                    "uid": "a7e677ac-4bb7-4015-869a-ffadd2787ec8", 
+                                    "visible": false
+                                }, 
+                                {
+                                    "children": [], 
+                                    "event_list": [], 
+                                    "hover_status_added": true, 
+                                    "name": "frame", 
+                                    "normal_picture": 107172, 
+                                    "pos_data": {
+                                        "__tuple__": true, 
+                                        "items": [
+                                            60.0, 
+                                            60.0, 
+                                            50.0, 
+                                            50.0, 
+                                            1, 
+                                            1
+                                        ]
+                                    }, 
+                                    "prefab_sub_key": null, 
+                                    "scene_ui_name": null, 
+                                    "size": {
+                                        "__tuple__": true, 
+                                        "items": [
+                                            120.0, 
+                                            120.0
+                                        ]
+                                    }, 
+                                    "suspend_picture": 107171, 
+                                    "type": 1, 
+                                    "uid": "8225480e-e08a-4716-a5f6-34141dfb52b3"
+                                }
+                            ], 
+                            "event_list": [], 
+                            "name": "material8", 
+                            "pos_data": {
+                                "__tuple__": true, 
+                                "items": [
+                                    480.0, 
+                                    -10.0, 
+                                    88.8889, 
+                                    -5.8824, 
+                                    1, 
+                                    1
+                                ]
+                            }, 
+                            "prefab_sub_key": null, 
+                            "scene_ui_name": null, 
+                            "size": {
+                                "__tuple__": true, 
+                                "items": [
+                                    120.0, 
+                                    120.0
+                                ]
+                            }, 
+                            "type": 7, 
+                            "uid": "653a2b21-db71-4189-a913-184ac7cb4b9f"
                         }
                     ], 
                     "event_list": [], 
@@ -4341,10 +4783,10 @@
                     "pos_data": {
                         "__tuple__": true, 
                         "items": [
-                            725.0, 
-                            110.0, 
-                            50.0, 
-                            36.6667, 
+                            1191.0, 
+                            582.0, 
+                            82.1379, 
+                            194.0, 
                             1, 
                             1
                         ]
@@ -4354,7 +4796,7 @@
                     "size": {
                         "__tuple__": true, 
                         "items": [
-                            1370.0, 
+                            540.0, 
                             170.0
                         ]
                     }, 
@@ -4367,10 +4809,10 @@
             "pos_data": {
                 "__tuple__": true, 
                 "items": [
-                    960.0, 
-                    193.0001, 
-                    50.0, 
-                    17.8704, 
+                    852.0, 
+                    -79.0, 
+                    44.375, 
+                    -7.3148, 
                     1, 
                     1
                 ]

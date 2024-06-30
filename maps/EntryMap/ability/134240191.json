@@ -3,11 +3,13 @@
         "813461505": {
             "variable_dict": {
                 "FLOAT": {
-                    "\u52a0\u6210": 0.0
+                    "\u653b\u51fb\u52a0\u6210": 0.0, 
+                    "\u751f\u547d\u52a0\u6210": 0.0
                 }
             }, 
             "variable_length_dict": {
-                "\u52a0\u6210": 0
+                "\u653b\u51fb\u52a0\u6210": 0, 
+                "\u751f\u547d\u52a0\u6210": 0
             }
         }
     }, 
@@ -20,14 +22,11 @@
                         {
                             "arg_type": 100030, 
                             "args_list": [
-                                {
-                                    "__tuple__": true, 
-                                    "items": [
-                                        "FLOAT", 
-                                        "\u52a0\u6210", 
-                                        "local"
-                                    ]
-                                }
+                                [
+                                    "FLOAT", 
+                                    "\u653b\u51fb\u52a0\u6210", 
+                                    "local"
+                                ]
                             ], 
                             "sub_type": 1
                         }, 
@@ -37,7 +36,7 @@
                                 {
                                     "arg_type": 100000, 
                                     "args_list": [
-                                        10.0
+                                        100.0
                                     ], 
                                     "sub_type": 1
                                 }, 
@@ -51,31 +50,6 @@
                                 {
                                     "arg_type": 100000, 
                                     "args_list": [
-                                        {
-                                            "arg_type": 100000, 
-                                            "args_list": [
-                                                {
-                                                    "arg_type": 100014, 
-                                                    "args_list": [], 
-                                                    "sub_type": "CUR_ABILITY"
-                                                }, 
-                                                {
-                                                    "arg_type": 100003, 
-                                                    "args_list": [
-                                                        "\u7cfb\u6570"
-                                                    ], 
-                                                    "sub_type": 1
-                                                }
-                                            ], 
-                                            "sub_type": "GET_FLOAT_KV"
-                                        }, 
-                                        {
-                                            "arg_type": 100017, 
-                                            "args_list": [
-                                                "*"
-                                            ], 
-                                            "sub_type": 1
-                                        }, 
                                         {
                                             "arg_type": 100002, 
                                             "args_list": [
@@ -93,6 +67,31 @@
                                                 }
                                             ], 
                                             "sub_type": "GET_ABILITY_INT_ATTR"
+                                        }, 
+                                        {
+                                            "arg_type": 100017, 
+                                            "args_list": [
+                                                "*"
+                                            ], 
+                                            "sub_type": 1
+                                        }, 
+                                        {
+                                            "arg_type": 100000, 
+                                            "args_list": [
+                                                {
+                                                    "arg_type": 100014, 
+                                                    "args_list": [], 
+                                                    "sub_type": "CUR_ABILITY"
+                                                }, 
+                                                {
+                                                    "arg_type": 100003, 
+                                                    "args_list": [
+                                                        "\u653b\u51fb\u7cfb\u6570"
+                                                    ], 
+                                                    "sub_type": 1
+                                                }
+                                            ], 
+                                            "sub_type": "GET_FLOAT_KV"
                                         }
                                     ], 
                                     "sub_type": "ARITHMETIC_OPERATION"
@@ -102,7 +101,98 @@
                         }
                     ], 
                     "bp": false, 
-                    "element_id": 813461505000004, 
+                    "element_id": 1144971265000027, 
+                    "enable": true
+                }, 
+                {
+                    "action_type": "SET_VARIABLE", 
+                    "args_list": [
+                        {
+                            "arg_type": 100030, 
+                            "args_list": [
+                                {
+                                    "__tuple__": true, 
+                                    "items": [
+                                        "FLOAT", 
+                                        "\u751f\u547d\u52a0\u6210", 
+                                        "local"
+                                    ]
+                                }
+                            ], 
+                            "sub_type": 1
+                        }, 
+                        {
+                            "arg_type": 100000, 
+                            "args_list": [
+                                {
+                                    "arg_type": 100000, 
+                                    "args_list": [
+                                        100.0
+                                    ], 
+                                    "sub_type": 1
+                                }, 
+                                {
+                                    "arg_type": 100017, 
+                                    "args_list": [
+                                        "-"
+                                    ], 
+                                    "sub_type": 1
+                                }, 
+                                {
+                                    "arg_type": 100000, 
+                                    "args_list": [
+                                        {
+                                            "arg_type": 100002, 
+                                            "args_list": [
+                                                {
+                                                    "arg_type": 100014, 
+                                                    "args_list": [], 
+                                                    "sub_type": "CUR_ABILITY"
+                                                }, 
+                                                {
+                                                    "arg_type": 100079, 
+                                                    "args_list": [
+                                                        "ability_level"
+                                                    ], 
+                                                    "sub_type": 1
+                                                }
+                                            ], 
+                                            "sub_type": "GET_ABILITY_INT_ATTR"
+                                        }, 
+                                        {
+                                            "arg_type": 100017, 
+                                            "args_list": [
+                                                "*"
+                                            ], 
+                                            "sub_type": 1
+                                        }, 
+                                        {
+                                            "arg_type": 100000, 
+                                            "args_list": [
+                                                {
+                                                    "arg_type": 100014, 
+                                                    "args_list": [], 
+                                                    "sub_type": "CUR_ABILITY"
+                                                }, 
+                                                {
+                                                    "arg_type": 100003, 
+                                                    "args_list": [
+                                                        "\u751f\u547d\u7cfb\u6570"
+                                                    ], 
+                                                    "sub_type": 1
+                                                }
+                                            ], 
+                                            "sub_type": "GET_FLOAT_KV"
+                                        }
+                                    ], 
+                                    "sub_type": "ARITHMETIC_OPERATION"
+                                }
+                            ], 
+                            "sub_type": "ARITHMETIC_OPERATION"
+                        }
+                    ], 
+                    "bp": false, 
+                    "element_id": 813461505000035, 
                     "enable": true
                 }, 
                 {
@@ -116,14 +206,90 @@
                         {
                             "arg_type": 100300, 
                             "args_list": [
-                                "ATTR_BASE"
+                                "ATTR_BASE_RATIO"
                             ], 
                             "sub_type": 1
                         }, 
                         {
                             "arg_type": 100042, 
                             "args_list": [
-                                "mp_max"
+                                "hp_max"
+                            ], 
+                            "sub_type": 1
+                        }, 
+                        {
+                            "arg_type": 100000, 
+                            "args_list": [
+                                [
+                                    "FLOAT", 
+                                    "\u653b\u51fb\u52a0\u6210", 
+                                    "local"
+                                ]
+                            ], 
+                            "sub_type": 2
+                        }
+                    ], 
+                    "bp": false, 
+                    "element_id": 813461505000005, 
+                    "enable": true
+                }, 
+                {
+                    "action_type": "SET_ATTR", 
+                    "args_list": [
+                        {
+                            "arg_type": 100006, 
+                            "args_list": [], 
+                            "sub_type": "ABILITY_OWNER"
+                        }, 
+                        {
+                            "arg_type": 100300, 
+                            "args_list": [
+                                "ATTR_BASE_RATIO"
+                            ], 
+                            "sub_type": 1
+                        }, 
+                        {
+                            "arg_type": 100042, 
+                            "args_list": [
+                                "attack_mag"
+                            ], 
+                            "sub_type": 1
+                        }, 
+                        {
+                            "arg_type": 100000, 
+                            "args_list": [
+                                [
+                                    "FLOAT", 
+                                    "\u653b\u51fb\u52a0\u6210", 
+                                    "local"
+                                ]
+                            ], 
+                            "sub_type": 2
+                        }
+                    ], 
+                    "bp": false, 
+                    "element_id": 813461505000070, 
+                    "enable": true
+                }, 
+                {
+                    "action_type": "SET_ATTR", 
+                    "args_list": [
+                        {
+                            "arg_type": 100006, 
+                            "args_list": [], 
+                            "sub_type": "ABILITY_OWNER"
+                        }, 
+                        {
+                            "arg_type": 100300, 
+                            "args_list": [
+                                "ATTR_BASE_RATIO"
+                            ], 
+                            "sub_type": 1
+                        }, 
+                        {
+                            "arg_type": 100042, 
+                            "args_list": [
+                                "hp_max"
                             ], 
                             "sub_type": 1
                         }, 
@@ -134,7 +300,7 @@
                                     "__tuple__": true, 
                                     "items": [
                                         "FLOAT", 
-                                        "\u52a0\u6210", 
+                                        "\u751f\u547d\u52a0\u6210", 
                                         "local"
                                     ]
                                 }
@@ -143,7 +309,7 @@
                         }
                     ], 
                     "bp": false, 
-                    "element_id": 813461505000005, 
+                    "element_id": 813461505000081, 
                     "enable": true
                 }
             ], 
@@ -172,14 +338,17 @@
             "var_data": [
                 {
                     "FLOAT": {
-                        "\u52a0\u6210": 0.0
+                        "\u653b\u51fb\u52a0\u6210": 0.0, 
+                        "\u751f\u547d\u52a0\u6210": 0.0
                     }
                 }, 
                 {
-                    "\u52a0\u6210": 0
+                    "\u653b\u51fb\u52a0\u6210": 0, 
+                    "\u751f\u547d\u52a0\u6210": 0
                 }, 
                 [
-                    "\u52a0\u6210"
+                    "\u653b\u51fb\u52a0\u6210", 
+                    "\u751f\u547d\u52a0\u6210"
                 ]
             ]
         }

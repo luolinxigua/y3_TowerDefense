@@ -8,15 +8,15 @@
                     "cap_insets": {
                         "__tuple__": true, 
                         "items": [
-                            0, 
-                            0, 
-                            1020, 
-                            436
+                            520.0, 
+                            360.0, 
+                            520.0, 
+                            360.0
                         ]
                     }, 
                     "children": [], 
                     "event_list": [], 
-                    "image": 131205, 
+                    "image": 134259271, 
                     "name": "pic", 
                     "pos_data": {
                         "__tuple__": true, 
@@ -40,43 +40,6 @@
                     }, 
                     "type": 4, 
                     "uid": "e27889ef-239d-4b55-a5a7-421394fa1876"
-                }, 
-                {
-                    "cap_insets": {
-                        "__tuple__": true, 
-                        "items": [
-                            250.0, 
-                            84.0, 
-                            250.0, 
-                            84.0
-                        ]
-                    }, 
-                    "children": [], 
-                    "event_list": [], 
-                    "image": 134274587, 
-                    "name": "title", 
-                    "pos_data": {
-                        "__tuple__": true, 
-                        "items": [
-                            960.0, 
-                            754.0, 
-                            50.0, 
-                            69.8148, 
-                            1, 
-                            1
-                        ]
-                    }, 
-                    "prefab_sub_key": null, 
-                    "scene_ui_name": null, 
-                    "size": {
-                        "__tuple__": true, 
-                        "items": [
-                            1500.0, 
-                            500.0
-                        ]
-                    }, 
-                    "type": 4, 
-                    "uid": "d7de8b53-8469-489c-99f6-fc8c45924620"
                 }
             ], 
             "event_list": [], 
@@ -105,204 +68,71 @@
             "uid": "74c487be-5ac8-4906-bbdd-46dab3f218b2"
         }, 
         {
-            "children": [
+            "adapter_option": [
+                false, 
+                false, 
+                false, 
+                false, 
+                0.0, 
+                150.0, 
+                0.0, 
+                0.0
+            ], 
+            "children": [], 
+            "event_list": [
                 {
-                    "adapter_option": [
-                        false, 
-                        false, 
-                        false, 
-                        false, 
-                        0.0, 
-                        150.0, 
-                        0.0, 
-                        0.0
-                    ], 
-                    "children": [], 
-                    "event_list": [
+                    "action_list": [
                         {
-                            "action_list": [
-                                {
-                                    "anim_duration": 1.0, 
-                                    "anim_id": null, 
-                                    "anim_type": 0, 
-                                    "comp": "df59da22-89bb-434b-8cf4-26378cc53e21", 
-                                    "ease_type": 0, 
-                                    "name": "Show_2", 
-                                    "open_timeline": true, 
-                                    "type": 2
-                                }, 
-                                {
-                                    "anim_duration": 1.0, 
-                                    "anim_id": null, 
-                                    "anim_type": 0, 
-                                    "comp": "c5c09f12-f3d7-4b57-a18e-ceff75a73d80", 
-                                    "ease_type": 0, 
-                                    "name": "Hide_2", 
-                                    "open_timeline": true, 
-                                    "type": 3
-                                }
-                            ], 
-                            "enabled": true, 
-                            "name": "start_game", 
-                            "sound_id": null, 
-                            "type": 30
+                            "anim_duration": 1.0, 
+                            "anim_id": null, 
+                            "anim_type": 0, 
+                            "comp": "df59da22-89bb-434b-8cf4-26378cc53e21", 
+                            "ease_type": 0, 
+                            "name": "Show_2", 
+                            "open_timeline": true, 
+                            "type": 2
+                        }, 
+                        {
+                            "anim_duration": 1.0, 
+                            "anim_id": null, 
+                            "anim_type": 0, 
+                            "comp": "c5c09f12-f3d7-4b57-a18e-ceff75a73d80", 
+                            "ease_type": 0, 
+                            "name": "Hide_2", 
+                            "open_timeline": true, 
+                            "type": 3
                         }
                     ], 
-                    "font": {
-                        "__tuple__": true, 
-                        "items": [
-                            "134228746", 
-                            60
-                        ]
-                    }, 
-                    "hover_status_added": true, 
-                    "name": "start", 
-                    "normal_font_color": [
-                        151, 
-                        77, 
-                        38, 
-                        255
-                    ], 
-                    "normal_picture": 108494, 
-                    "normal_text": {
-                        "__tuple__": true, 
-                        "items": [
-                            "\u5f00\u59cb\u6e38\u620f", 
-                            false
-                        ]
-                    }, 
-                    "pos_data": {
-                        "__tuple__": true, 
-                        "items": [
-                            225.0, 
-                            225.0, 
-                            50.0, 
-                            75.0, 
-                            1, 
-                            1
-                        ]
-                    }, 
-                    "prefab_sub_key": null, 
-                    "scene_ui_name": null, 
-                    "size": {
-                        "__tuple__": true, 
-                        "items": [
-                            450.0, 
-                            150.0
-                        ]
-                    }, 
-                    "suspend_font_color": [
-                        151, 
-                        77, 
-                        38, 
-                        255
-                    ], 
-                    "suspend_picture": 108493, 
-                    "suspend_text": {
-                        "__tuple__": true, 
-                        "items": [
-                            "\u5f00\u59cb\u6e38\u620f", 
-                            false
-                        ]
-                    }, 
-                    "type": 1, 
-                    "uid": "2173adcd-8698-434b-a67f-5ea57eb7929e"
+                    "enabled": true, 
+                    "name": "start_game", 
+                    "sound_id": null, 
+                    "type": 30
                 }, 
                 {
-                    "children": [], 
-                    "event_list": [
-                        {
-                            "action_list": [
-                                {
-                                    "anim_duration": 1.0, 
-                                    "anim_id": null, 
-                                    "anim_type": 0, 
-                                    "comp": "965d1134-161d-40c4-bdd4-50452580eed3", 
-                                    "ease_type": 0, 
-                                    "name": "BackToHall_2", 
-                                    "open_timeline": true, 
-                                    "type": 5
-                                }
-                            ], 
-                            "enabled": true, 
-                            "name": "exit_game", 
-                            "sound_id": null, 
-                            "type": 30
-                        }
-                    ], 
-                    "font": {
-                        "__tuple__": true, 
-                        "items": [
-                            "134228746", 
-                            60
-                        ]
-                    }, 
-                    "hover_status_added": true, 
-                    "name": "exit", 
-                    "normal_font_color": [
-                        151, 
-                        77, 
-                        38, 
-                        255
-                    ], 
-                    "normal_picture": 108494, 
-                    "normal_text": {
-                        "__tuple__": true, 
-                        "items": [
-                            "\u9000\u51fa\u6e38\u620f", 
-                            false
-                        ]
-                    }, 
-                    "pos_data": {
-                        "__tuple__": true, 
-                        "items": [
-                            225.0, 
-                            75.0, 
-                            50.0, 
-                            25.0, 
-                            1, 
-                            1
-                        ]
-                    }, 
-                    "prefab_sub_key": null, 
-                    "scene_ui_name": null, 
-                    "size": {
-                        "__tuple__": true, 
-                        "items": [
-                            450.0, 
-                            150.0
-                        ]
-                    }, 
-                    "suspend_font_color": {
-                        "__tuple__": true, 
-                        "items": [
-                            151, 
-                            77, 
-                            38, 
-                            255
-                        ]
-                    }, 
-                    "suspend_picture": 108493, 
-                    "suspend_text": {
-                        "__tuple__": true, 
-                        "items": [
-                            "\u9000\u51fa\u6e38\u620f", 
-                            false
-                        ]
-                    }, 
-                    "type": 1, 
-                    "uid": "965d1134-161d-40c4-bdd4-50452580eed3"
+                    "action_list": [], 
+                    "enabled": true, 
+                    "name": "start_1", 
+                    "sound_id": 110500, 
+                    "type": 24
                 }
             ], 
-            "event_list": [], 
-            "name": "ctrl", 
+            "font": {
+                "__tuple__": true, 
+                "items": [
+                    "134228746", 
+                    60
+                ]
+            }, 
+            "hover_status_added": true, 
+            "name": "start", 
+            "normal_picture": 999, 
             "pos_data": {
                 "__tuple__": true, 
                 "items": [
                     960.0, 
-                    348.0, 
+                    336.0001, 
                     50.0, 
-                    32.2222, 
+                    31.1111, 
                     1, 
                     1
                 ]
@@ -312,12 +142,76 @@
             "size": {
                 "__tuple__": true, 
                 "items": [
-                    450.0, 
-                    300.0
+                    350.0, 
+                    60.0
                 ]
             }, 
-            "type": 7, 
-            "uid": "cfb3ab5e-9646-48bd-94df-59bf4b24e29f"
+            "suspend_picture": 134260174, 
+            "type": 1, 
+            "uid": "2173adcd-8698-434b-a67f-5ea57eb7929e"
+        }, 
+        {
+            "children": [], 
+            "event_list": [
+                {
+                    "action_list": [
+                        {
+                            "anim_duration": 1.0, 
+                            "anim_id": null, 
+                            "anim_type": 0, 
+                            "comp": "965d1134-161d-40c4-bdd4-50452580eed3", 
+                            "ease_type": 0, 
+                            "name": "BackToHall_2", 
+                            "open_timeline": true, 
+                            "type": 5
+                        }
+                    ], 
+                    "enabled": true, 
+                    "name": "exit_game", 
+                    "sound_id": null, 
+                    "type": 30
+                }, 
+                {
+                    "action_list": [], 
+                    "enabled": true, 
+                    "name": "exit_1", 
+                    "sound_id": 110500, 
+                    "type": 24
+                }
+            ], 
+            "font": {
+                "__tuple__": true, 
+                "items": [
+                    "134228746", 
+                    60
+                ]
+            }, 
+            "hover_status_added": true, 
+            "name": "exit", 
+            "normal_picture": 999, 
+            "pos_data": {
+                "__tuple__": true, 
+                "items": [
+                    960.0, 
+                    166.0, 
+                    50.0, 
+                    15.3704, 
+                    1, 
+                    1
+                ]
+            }, 
+            "prefab_sub_key": null, 
+            "scene_ui_name": null, 
+            "size": {
+                "__tuple__": true, 
+                "items": [
+                    350.0, 
+                    60.0
+                ]
+            }, 
+            "suspend_picture": 134260174, 
+            "type": 1, 
+            "uid": "965d1134-161d-40c4-bdd4-50452580eed3"
         }
     ], 
     "name": "main", 

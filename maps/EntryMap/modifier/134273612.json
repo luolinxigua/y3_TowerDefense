@@ -99,7 +99,12 @@
             "p_trigger_id": null, 
             "trigger_id": 1570918402, 
             "trigger_name": "\u65b0\u5efa\u89e6\u53d1\u5668_2", 
-            "valid": true
+            "valid": true, 
+            "var_data": [
+                {}, 
+                {}, 
+                []
+            ]
         }, 
         "1822552065": {
             "action": [
@@ -254,7 +259,12 @@
             "p_trigger_id": null, 
             "trigger_id": 1822552065, 
             "trigger_name": "\u65b0\u5efa\u89e6\u53d1\u5668", 
-            "valid": true
+            "valid": true, 
+            "var_data": [
+                {}, 
+                {}, 
+                []
+            ]
         }
     }, 
     "trigger_group_info": [

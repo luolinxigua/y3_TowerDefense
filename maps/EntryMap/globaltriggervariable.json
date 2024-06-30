@@ -12,6 +12,8 @@
         "INTEGER": {
             "COUNTDOWN": 240, 
             "DEFAULT_HERO": 1001, 
+            "ENDLESS_EXP": 0, 
+            "ENDLESS_GOLD": 0, 
             "ENDLESS_LEVEL": 0, 
             "GLOBAL_BAG_MAX_NUM": 0, 
             "SHOP_NUM": 0, 
@@ -32,12 +34,18 @@
             "TEMP_TIMER_01": -1, 
             "TEMP_TIMER_02": -1, 
             "TEMP_TIMER_03": -1, 
-            "TEMP_TIMER_04": -1
+            "TEMP_TIMER_04": -1, 
+            "TEMP_TIMER_05": -1
         }, 
         "STRING": {}, 
         "TABLE": {
             "PLAYER_TECH": null, 
             "UI_Manager": null
+        }, 
+        "TECH_KEY": {
+            "TECH_01": 0, 
+            "TECH_02": 0, 
+            "TECH_03": 0
         }, 
         "UNIT_ENTITY": {
             "ENEMY_BASE": 0, 
@@ -145,6 +153,13 @@
                     "items": [
                         "TEMP_TIMER_04", 
                         "TEMP_TIMER_04"
+                    ]
+                }, 
+                {
+                    "__tuple__": true, 
+                    "items": [
+                        "TEMP_TIMER_05", 
+                        "TEMP_TIMER_05"
                     ]
                 }
             ], 
@@ -275,6 +290,41 @@
                         "PLAYER_TECH", 
                         "PLAYER_TECH"
                     ]
+                }, 
+                {
+                    "__tuple__": true, 
+                    "items": [
+                        "ENDLESS_GOLD", 
+                        "ENDLESS_GOLD"
+                    ]
+                }, 
+                {
+                    "__tuple__": true, 
+                    "items": [
+                        "ENDLESS_EXP", 
+                        "ENDLESS_EXP"
+                    ]
+                }, 
+                {
+                    "__tuple__": true, 
+                    "items": [
+                        "TECH_01", 
+                        "TECH_01"
+                    ]
+                }, 
+                {
+                    "__tuple__": true, 
+                    "items": [
+                        "TECH_02", 
+                        "TECH_02"
+                    ]
+                }, 
+                {
+                    "__tuple__": true, 
+                    "items": [
+                        "TECH_03", 
+                        "TECH_03"
+                    ]
                 }
             ], 
             "key": "8+9toTFkEe+5R7AlqlIy3I", 
@@ -285,6 +335,8 @@
         "COUNTDOWN": 0, 
         "COUNTDOWN_TIMER": 0, 
         "DEFAULT_HERO": 0, 
+        "ENDLESS_EXP": 0, 
+        "ENDLESS_GOLD": 0, 
         "ENDLESS_LEVEL": 0, 
         "ENEMY_BASE": 0, 
         "GLOBAL_BAG_MAX_NUM": 0, 
@@ -304,11 +356,15 @@
         "SHOP_TYPE": 0, 
         "SHOP_UNIT": 0, 
         "STAGE_LEVEL": 0, 
+        "TECH_01": 0, 
+        "TECH_02": 0, 
+        "TECH_03": 0, 
         "TECH_ENERGY": 0, 
         "TEMP_TIMER_01": 0, 
         "TEMP_TIMER_02": 0, 
         "TEMP_TIMER_03": 0, 
         "TEMP_TIMER_04": 0, 
+        "TEMP_TIMER_05": 0, 
         "UI_Manager": 0, 
         "UPGRADE_UNIT": 0
     }
