@@ -1,5 +1,6 @@
 {
     "create_player_unit.json": 5, 
+    "endless_end.json": 7, 
     "gain_energy.json": 1, 
     "gain_gold_exp.json": 4, 
     "gain_tech.json": 2, 
